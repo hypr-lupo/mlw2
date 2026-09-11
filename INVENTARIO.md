@@ -1,6 +1,6 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 05-09-2026 · **Total:** 83 documentos · **487 MB**
+**Fecha:** 11-09-2026 · **Total:** 93 documentos · **609 MB**
 
 `raw/sources/` es plano y no admite subcarpetas. La única taxonomía del corpus es
 esta tabla: el agrupamiento vive aquí, en metadatos, no en el árbol de archivos.
@@ -14,10 +14,44 @@ Carpeta inmutable: aquí no se edita, no se anota y no se convierte nada. La wik
 se escribe en `wiki/`; las fichas de cada ramo, en `programa/`.
 
 
+## Núcleo ancla S1.1 · 4 doc.
+
+
+Alimenta: S1.1. **Prioridad 0 de ingesta.**
+
+Las cuatro lecturas marcadas como obligatorias en el programa del curso ancla, y las
+únicas marcadas como obligatorias en todo el material de programas recibido. Llegaron
+el 11-09-2026 y se ingieren antes que cualquier otro cúmulo.
+
+| Documento | MB | MD5 |
+|---|---:|---|
+| 2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf | 0.1 | `19868e43b1c3` |
+| 2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf | 1.9 | `5e6657144c64` |
+| 2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf | 0.3 | `17556ae80696` |
+| 2023 - Albarracín - Crimen organizado en América Latina.pdf | 0.2 | `2bc01a9cad32` |
+
+## Bibliografía S1.1, consulta y complementaria · 5 doc.
+
+
+Alimenta: S1.1. Blanco alimenta además S2.4.
+
+Resto de lo integrado el 11-09-2026 desde el programa ancla: tres obras marcadas en rojo
+—consulta— y dos de la bibliografía sin marca.
+
+| Documento | MB | MD5 |
+|---|---:|---|
+| 2002 - Romero Mendoza y Aguilera Guzmán - ¿Por qué delinquen las mujeres, perspectivas teóricas tradicionales, parte I.pdf | 0.4 | `a09e7199c243` |
+| 2003 - García-Pablos de Molina - Tratado de criminología (extracto, pp. 688-1372).pdf | 113.7 | `5b9c9bd35b03` |
+| 2007 - Alda y Beliz (eds.) - ¿Cuál es la salida, la agenda inconclusa de la seguridad ciudadana.pdf | 1.9 | `9f6d3488e0c4` |
+| 2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf | 0.3 | `b5757d527a87` |
+| 2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf | 1.8 | `c2dba1f1eac9` |
+
 ## Explicación del delito · 4 doc.
 
 
-Alimenta: S1.1, S1.3.
+Alimenta: S1.3 —Baratta, Pavarini y, por contenido, Felson y Eckert— y S1.1 —Gottfredson
+y Hirschi—. La atribución anterior daba los cuatro a S1.1; el programa ancla, recibido el
+11-09-2026, sólo confirma uno. Ver `programa/S1.1`.
 
 
 | Documento | MB | MD5 |
@@ -161,7 +195,7 @@ Alimenta: S3.E4.
 | 2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf | 0.7 | `c87e377d5d6e` |
 | 2023 - Minayo, Deslandes y Gomes - Investigación social, teoría, método y creatividad.pdf | 7.8 | `28cc6ea65da8` |
 
-## Programas oficiales y malla · 5 doc.
+## Programas oficiales y malla · 6 doc.
 
 
 | Documento | MB | MD5 |
@@ -170,4 +204,5 @@ Alimenta: S3.E4.
 | 2025 - Universidad Alberto Hurtado - Programa del curso, Metodología para la medición y análisis del delito.pdf | 0.3 | `543db059c1b8` |
 | 2025 - Universidad Alberto Hurtado - Programa del curso, Sistema penal, política criminal y Estado de derecho.pdf | 0.1 | `1c31c6bed0ea` |
 | 2026 - Universidad Alberto Hurtado - Horario, cohorte 2026, segundo semestre.pdf | 0.2 | `d682a5d2d7d9` |
+| 2026 - Universidad Alberto Hurtado - Programa del curso, Introducción a la criminología y aspectos teóricos de la prevención del delito y la violencia.pdf | 0.2 | `ca72cd4eae09` |
 | 2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md | 0.0 | `65150a2e467f` |

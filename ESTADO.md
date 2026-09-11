@@ -1,16 +1,16 @@
 # Estado del despliegue
 
-**Generado:** 2026-09-05 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
+**Generado:** 2026-09-11 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 78 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (5 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 87 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 78 | 100.0 % |
+| `pendiente` | 87 | 100.0 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
 | `completo` | 0 | 0.0 % |
@@ -20,10 +20,12 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Cumulo | Total | pendiente | fase1 | fase2 | completo |
 |---|---:|---:|---:|---:|---:|
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
+| Bibliografía S1.1, consulta y complementaria | 5 | 5 | 0 | 0 | 0 |
 | Explicación del delito | 4 | 4 | 0 | 0 | 0 |
 | Gobernanza criminal y territorio | 6 | 6 | 0 | 0 | 0 |
 | Integrados desde el programa del curso (05-09-2026) | 9 | 9 | 0 | 0 | 0 |
 | Medición e inseguridad | 5 | 5 | 0 | 0 | 0 |
+| Núcleo ancla S1.1 | 4 | 4 | 0 | 0 | 0 |
 | Prevención e intervención | 4 | 4 | 0 | 0 | 0 |
 | Sistema penal y Estado de derecho | 8 | 8 | 0 | 0 | 0 |
 | Vínculo Estado-crimen | 18 | 18 | 0 | 0 | 0 |
@@ -72,6 +74,14 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2023 - Sullivan - La era de la información, crimen organizado transnacional, redes y mercados.pdf
 - `pendiente` — 2023 - Ucko y Marks - El crimen organizado como guerra irregular.pdf
 
+### Bibliografía S1.1, consulta y complementaria
+
+- `pendiente` — 2002 - Romero Mendoza y Aguilera Guzmán - ¿Por qué delinquen las mujeres, perspectivas teóricas tradicionales, parte I.pdf
+- `pendiente` — 2003 - García-Pablos de Molina - Tratado de criminología (extracto, pp. 688-1372).pdf
+- `pendiente` — 2007 - Alda y Beliz (eds.) - ¿Cuál es la salida, la agenda inconclusa de la seguridad ciudadana.pdf
+- `pendiente` — 2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf
+- `pendiente` — 2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf
+
 ### Explicación del delito
 
 - `pendiente` — 1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf
@@ -107,6 +117,13 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2016 - Cámara Arroyo - Principales instrumentos de medición de la peligrosidad criminal.md
 - `pendiente` — 2022 - Luna Pla - El análisis de redes complejas aplicado a grupos de crimen y corrupción.pdf
 - `pendiente` — 2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf
+
+### Núcleo ancla S1.1
+
+- `pendiente` — 2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf
+- `pendiente` — 2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf
+- `pendiente` — 2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf
+- `pendiente` — 2023 - Albarracín - Crimen organizado en América Latina.pdf
 
 ### Prevención e intervención
 
