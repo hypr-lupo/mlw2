@@ -102,9 +102,10 @@ directa el trabajo evaluado del ramo —una política municipal o un proyecto de
 seguridad identificable— y son la misma exigencia de anclaje empírico del trabajo de
 grado, un semestre antes.
 
-*Transversales, prioridad 1.* **Garland (2001/2005)** es el único título que aparece
-en dos programas oficiales —consulta en S1.1, bibliografía en S1.3— y es por eso la
-bisagra del corpus. **García-Pablos de Molina (2003)** cubre como manual el arco
+*Transversales, prioridad 1.* **Garland (2001/2005)** es el único título presente en
+el corpus que aparece en dos programas oficiales —consulta en S1.1, bibliografía en
+S1.3— y es por eso la bisagra. El otro que se repite, Kessler (2004) en S1.1 y S2.4,
+falta. **García-Pablos de Molina (2003)** cubre como manual el arco
 teórico completo que el objetivo específico de S1.1 enuncia, aunque el corpus sólo
 tenga la segunda mitad. La **Guía ONU-Hábitat y Guadalajara (2020)** operacionaliza
 el trabajo evaluado de S1.1. **Blanco (2011)** funda el enfoque de curso de vida, que
