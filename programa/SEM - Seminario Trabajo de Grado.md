@@ -1,0 +1,57 @@
+---
+ramo: SEM
+nombre: Seminario Trabajo de Grado
+semestre: 1 a 3
+horas: 18 por semestre
+linea: 4. Apoyo al trabajo de graduación
+tipo: seminario
+programa_recibido: no
+fecha_recepcion:
+docentes:
+docs_corpus_preliminar: 0
+---
+
+# SEM — Seminario Trabajo de Grado
+
+**Asignatura:** Seminario Trabajo de Grado
+**Semestre:** 1 a 3 · **Horas:** 18 por semestre · **Tipo:** seminario
+**Línea de desarrollo:** 4. Apoyo al trabajo de graduación
+**Documentos del corpus preliminar atribuidos a este ramo:** 0
+
+## Programa oficial
+
+Deja en esta carpeta el programa del curso tal como lo entregue el docente —PDF, Word o texto— sin renombrarlo hasta que se integre. Cuando llegue, cambia `programa_recibido: no` por `sí` y anota la fecha.
+
+_(pendiente)_
+
+## Unidades y contenidos
+
+_(pendiente: copiar del programa oficial)_
+
+## Bibliografía obligatoria
+
+Una entrada por línea, con este formato exacto para permitir el cotejo automático contra el corpus:
+
+`- [ ] Autor (año). Título. || corpus: <nombre de archivo en raw/sources> | falta`
+
+_(pendiente)_
+
+## Bibliografía complementaria
+
+`- [ ] Autor (año). Título. || corpus: <nombre de archivo en raw/sources> | falta`
+
+_(pendiente)_
+
+## Ponderación del corpus preliminar
+
+Se completa al cotejar esta bibliografía oficial contra `INVENTARIO.md`:
+
+- **P1** — está en la bibliografía obligatoria de este ramo.
+- **P2** — está en la complementaria, o sostiene una pregunta rectora de `purpose.md`.
+- **P3** — ni lo uno ni lo otro: queda en el corpus como reserva y no entra en el despliegue.
+
+_(pendiente)_
+
+## Notas
+
+_(pendiente)_

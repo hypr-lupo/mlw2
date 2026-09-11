@@ -1,0 +1,16 @@
+{
+  "attachmentFolderPath": "raw/assets",
+  "userIgnoreFilters": [
+    ".cache",
+    ".llm-wiki",
+    ".superpowers"
+  ],
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": false,
+  "openBehavior": "file:clases/Clases.md",
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}

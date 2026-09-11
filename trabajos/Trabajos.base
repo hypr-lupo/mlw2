@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.hasTag("trabajo")
+formulas:
+  Sin título: ""
+views:
+  - type: table
+    name: Todos
+    order:
+      - file.name
+      - ramo
+      - tipo
+      - ponderacion
+      - entrega
+      - estado
+      - nota
+  - type: table
+    name: Pendientes
+    filters:
+      and:
+        - estado != "entregado"
+        - estado != "calificado"
+    order:
+      - entrega
+      - file.name
+      - ramo
+      - ponderacion
+      - estado

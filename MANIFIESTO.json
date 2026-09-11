@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "fuentes": {
+    "2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md": {
+      "sha256": "86aca19479174e99e33151f996abf664cab3bad2bbfc744c4f7d87ae7c4725d4",
+      "bytes": 14972,
+      "ingerido": "2026-08-29",
+      "ficha": "wiki/sources/programa-magister-uah.md"
+    }
+  }
+}

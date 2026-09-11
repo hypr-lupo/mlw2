@@ -1,0 +1,25 @@
+# ── Fuentes primarias ───────────────────────────────────────────
+# Los PDFs viven solo en disco (488 MB). La trazabilidad se mantiene
+# vía INVENTARIO.md y las notas de wiki/sources/.
+raw/sources/
+!raw/sources/.gitkeep
+
+# ── Obsidian ────────────────────────────────────────────────────
+# Se versiona la config del vault; no el estado de ventanas ni los
+# binarios de plugins.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/cache
+.trash/
+
+# ── Python ──────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ── Sistema ─────────────────────────────────────────────────────
+desktop.ini
+Thumbs.db
+.DS_Store

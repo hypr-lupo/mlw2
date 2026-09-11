@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.hasTag("clase")
+formulas:
+  Sin título: ""
+views:
+  - type: table
+    name: Todas
+    order:
+      - file.name
+      - ramo
+      - creado
+      - file.mtime
+      - formula.Sin título
