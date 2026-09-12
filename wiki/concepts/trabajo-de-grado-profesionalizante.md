@@ -7,7 +7,7 @@ curso: [s4/trabajo-de-grado, sem/seminario]
 procedencia: fuentes
 estado: revisado
 creado: 2026-08-29
-actualizado: 2026-08-29
+actualizado: 2026-09-12
 ---
 
 # Trabajo de grado profesionalizante
@@ -37,6 +37,7 @@ Tampoco establece si las tres modalidades admiten el mismo tipo de marco teóric
 ## Relacionado
 
 - [[magister-prevencion-uah]] — programa que define este trabajo y su calendario
+- [[eficacia-colectiva]] — el trabajo evaluado de S1.1 recae sobre una política municipal o un proyecto de seguridad identificable: la misma exigencia de anclaje, un semestre antes y en grupo. Añadido el 12-09-2026 al ingerir [[sampson-vecindario-y-comunidad]].
 - La confrontación entre esta exigencia y el marco conceptual heredado de la memoria previa es una posición del autor, no de la fuente. Se resuelve en una página `tesis-` y está registrada en [[pendientes]].
 
 ---

@@ -6,6 +6,12 @@
       "bytes": 14972,
       "ingerido": "2026-08-29",
       "ficha": "wiki/sources/programa-magister-uah.md"
+    },
+    "2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf": {
+      "sha256": "12f614dcaab3aa72c8adeff21250a41f5b3d48264f91a9218064bbfb6e17ecf6",
+      "bytes": 99687,
+      "ingerido": "2026-09-12",
+      "ficha": "wiki/sources/sampson-vecindario-y-comunidad.md"
     }
   }
 }

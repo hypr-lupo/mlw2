@@ -1,6 +1,6 @@
 # Estado del despliegue
 
-**Generado:** 2026-09-11 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
+**Generado:** 2026-09-12 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
@@ -10,10 +10,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 87 | 100.0 % |
+| `pendiente` | 86 | 98.9 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 0 | 0.0 % |
+| `completo` | 1 | 1.1 % |
 
 ## Por cumulo
 
@@ -25,7 +25,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Gobernanza criminal y territorio | 6 | 6 | 0 | 0 | 0 |
 | Integrados desde el programa del curso (05-09-2026) | 9 | 9 | 0 | 0 | 0 |
 | Medición e inseguridad | 5 | 5 | 0 | 0 | 0 |
-| Núcleo ancla S1.1 | 4 | 4 | 0 | 0 | 0 |
+| Núcleo ancla S1.1 | 4 | 3 | 0 | 0 | 1 |
 | Prevención e intervención | 4 | 4 | 0 | 0 | 0 |
 | Sistema penal y Estado de derecho | 8 | 8 | 0 | 0 | 0 |
 | Vínculo Estado-crimen | 18 | 18 | 0 | 0 | 0 |
@@ -43,6 +43,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 Estas fichas no se citan hasta cotejarlas contra el documento.
 
 - [[programa-magister-uah]]
+- [[sampson-vecindario-y-comunidad]]
 
 ## Detalle por documento
 
@@ -120,7 +121,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 ### Núcleo ancla S1.1
 
-- `pendiente` — 2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf
+- `completo` — 2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf
 - `pendiente` — 2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf
 - `pendiente` — 2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf
 - `pendiente` — 2023 - Albarracín - Crimen organizado en América Latina.pdf

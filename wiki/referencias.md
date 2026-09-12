@@ -14,6 +14,12 @@ Las fuentes del corpus que aún no se han ingerido no aparecen aquí; están en
 
 ## Ingeridas
 
+Sampson, R. (2006). Vecindario y comunidad: eficacia colectiva y seguridad
+ciudadana (E. Larrauri Pijoan, Trad.). En *Claves del Gobierno Local* (Vol. 6,
+pp. 235-247). Fundación Democracia y Gobierno Local. (Obra original publicada en
+2004 en *New Economy*, pp. 106-113)
+→ [[sampson-vecindario-y-comunidad]] · verificación bibliográfica pendiente
+
 Universidad Alberto Hurtado. (2026). *Magíster en Prevención, Seguridad Urbana y
 Política Criminal* [Folleto del programa]. Facultad de Ciencias Sociales.
 → [[programa-magister-uah]] · verificación bibliográfica pendiente
@@ -30,3 +36,4 @@ el documento, no por inferencia.
 | Baratta, *Criminología crítica* | 1986, Siglo XXI | 2004, reimpresión argentina |
 | Pavarini, *Control y dominación* | 1981, subtítulo «proyecto fascista de orden» | 2002, subtítulo «proyecto hegemónico» |
 | Srur, *¿Qué observan los que observan el delito?* | 2015 | octubre de 2014 |
+| Sampson, *Vecindario y comunidad* | 2006 | traducción sin año declarado de un original de 2004 |
