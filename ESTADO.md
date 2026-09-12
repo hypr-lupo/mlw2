@@ -4,23 +4,23 @@
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 108 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 106 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 104 | 96.3 % |
+| `pendiente` | 101 | 95.3 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 4 | 3.7 % |
+| `completo` | 5 | 4.7 % |
 
 ## Por cumulo
 
 | Cumulo | Total | pendiente | fase1 | fase2 | completo |
 |---|---:|---:|---:|---:|---:|
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
-| Bibliografía S1.1, consulta y complementaria | 13 | 13 | 0 | 0 | 0 |
+| Bibliografía S1.1, consulta y complementaria | 12 | 11 | 0 | 0 | 1 |
 | Explicación del delito | 4 | 4 | 0 | 0 | 0 |
 | Gobernanza criminal y territorio | 6 | 6 | 0 | 0 | 0 |
 | Ingreso sin clasificar | 13 | 13 | 0 | 0 | 0 |
@@ -28,7 +28,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Medición e inseguridad | 5 | 5 | 0 | 0 | 0 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
 | Prevención e intervención | 4 | 4 | 0 | 0 | 0 |
-| Sistema penal y Estado de derecho | 8 | 8 | 0 | 0 | 0 |
+| Sistema penal y Estado de derecho | 7 | 7 | 0 | 0 | 0 |
 | Vínculo Estado-crimen | 18 | 18 | 0 | 0 | 0 |
 
 ## Trabajo a medio camino
@@ -44,6 +44,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 Estas fichas no se citan hasta cotejarlas contra el documento.
 
 - [[adams-violencia-cronica]]
+- [[onu-habitat-guia-barrios]]
 - [[programa-magister-uah]]
 - [[sampson-vecindario-y-comunidad]]
 
@@ -87,8 +88,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2007 - Alda y Beliz (eds.) - ¿Cuál es la salida, la agenda inconclusa de la seguridad ciudadana.pdf
 - `pendiente` — 2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf
 - `pendiente` — 2016 - Bergman - Drogas, narcotráfico y poder en América Latina.pdf
-- `pendiente` — 2017 - Blokland y van der Geest (eds.) - Manual internacional Routledge de criminología del curso de vida.epub
-- `pendiente` — 2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf
+- `completo` — 2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf
 - `pendiente` — 2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf
 - `pendiente` — 2024 - Zeballos - Un virus entre sombras, la expansión del crimen organizado y el narcotráfico en Chile.epub
 - `pendiente` — 2026 - Zeballos - Cuando el crimen reza.epub
@@ -163,7 +163,6 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 - `pendiente` — 1995 - Ferrajoli - Derecho y razón, teoría del garantismo penal.pdf
 - `pendiente` — 1997 - Rose-Ackerman - Corrupción y competencia.pdf
-- `pendiente` — 2001 - Garland - La cultura del control, delito y orden social en la sociedad contemporánea (original en inglés).pdf
 - `pendiente` — 2001 - Silva Sánchez - La expansión del derecho penal, aspectos de la política criminal en las sociedades postindustriales.pdf
 - `pendiente` — 2007 - Gardner - La prohibición de las inmoralidades.pdf
 - `pendiente` — 2013 - Tanguay-Renaud - Criminalizar al Estado.pdf

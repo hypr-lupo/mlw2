@@ -1,7 +1,7 @@
 ---
 title: Violencia crónica
 type: concept
-sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf"]
+sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf"]
 cluster: victimizacion-e-inseguridad
 curso: [s1-1]
 procedencia: fuentes
@@ -63,6 +63,20 @@ El contexto local emerge como escenario clave, probablemente más que el naciona
 
 De ahí su noción de **proto-ciudadanía**: comportamientos de tipo ciudadano en condiciones donde el estado no brinda seguridad ni garantiza derechos fundamentales, y donde su legitimidad se desintegra o ya no existe. El acento se pone en la responsabilidad social, que los enfoques centrados en derechos tienden a relegar [^ext-12].
 
+## De condición a categoría operativa
+
+Añadido el 12-09-2026 al ingerir [[onu-habitat-guia-barrios]]. Es el paso que le faltaba al concepto: dejar de describir una situación y empezar a clasificar territorios.
+
+La guía **adopta la misma definición** —atribuida a Pearce y Adams— con el mismo umbral: territorios dominados por violencia letal persistente, con una tasa de homicidios superior al doble del promedio nacional durante más de cinco años, y actos frecuentes de violencia no letal a lo largo de varios espacios de socialización: hogar, barrio, colegio, comunidades y espacio público [^ext-13].
+
+Y la convierte en **la quinta categoría de su tipología barrial**: «barrios de violencia crónica o alta complejidad», los de niveles críticos de violencia, caracterizados por la presencia y control de **capital social perverso** —crimen organizado y bandas criminales que sustituyen parcialmente los roles del Estado [^ext-14]. Ver [[tipologia-barrial]].
+
+El mecanismo que la guía subraya es el de la normalización que Adams describe: la violencia crónica banaliza la delincuencia y la convierte en forma de integración y movilidad social, asumida por los habitantes como condición de vida normal o como mal menor inevitable para sobrevivir [^ext-15].
+
+**Qué se sigue para la política.** En estos barrios sólo una prevención integral y de largo plazo es efectiva, y requiere enfoque de **seguridad humana**: atender a la vez las dimensiones personal, política, económica, comunitaria, alimentaria, de salud y medioambiental, evidenciar los entrelazamientos entre ellas y fijar prioridades con los propios habitantes [^ext-16]. También que el diagnóstico es aquí más difícil que en cualquier otra categoría. Ver [[diagnostico-barrial]].
+
+Conviene notar el desplazamiento: Adams propone tratar la violencia crónica como norma perversa de largo plazo y advierte contra leerla como etapa de transición; la guía traduce eso en un requisito operativo —intervención integral y sostenida— sin discutir la advertencia. Es coherente, pero es traducción.
+
 ## Cita
 
 > "contribuyendo así a la reproducción de violencia a lo largo del tiempo"
@@ -92,3 +106,7 @@ De ahí su noción de **proto-ciudadanía**: comportamientos de tipo ciudadano e
 [^ext-10]: **Extraído** — [[adams-violencia-cronica]], sección IV.A, punto 4, p. 57.
 [^ext-11]: **Extraído** — [[adams-violencia-cronica]], sección IV.A, punto 5, p. 58.
 [^ext-12]: **Extraído** — [[adams-violencia-cronica]], sección IV.A, punto 6, p. 58.
+[^ext-13]: **Extraído** — [[onu-habitat-guia-barrios]], sección I.3.2.1, p. 25, sobre Pearce y Adams.
+[^ext-14]: **Extraído** — [[onu-habitat-guia-barrios]], sección I.5.3, p. 42.
+[^ext-15]: **Extraído** — [[onu-habitat-guia-barrios]], sección I.5.2, p. 41.
+[^ext-16]: **Extraído** — [[onu-habitat-guia-barrios]], capítulo I.4, p. 37.

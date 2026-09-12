@@ -28,6 +28,13 @@ Friedrich-Ebert-Stiftung.
 · **informe de estado del arte**: sus afirmaciones empíricas son citas de estudios
 ajenos y se cita el estudio original, no a Albarracín
 
+ONU-Hábitat y Gobierno Municipal de Guadalajara. (2020). *Guía en seguridad y
+prevención de barrios: implementando los lineamientos del sistema de Naciones Unidas
+de Ciudades más Seguras*. Programa de las Naciones Unidas para los Asentamientos
+Humanos.
+→ [[onu-habitat-guia-barrios]] · **verificación bibliográfica pendiente**: la portada
+dice «Borrador avanzado» · coescrita por Franz Vanderschueren, docente de S1.1
+
 Sampson, R. (2006). Vecindario y comunidad: eficacia colectiva y seguridad
 ciudadana (E. Larrauri Pijoan, Trad.). En *Claves del Gobierno Local* (Vol. 6,
 pp. 235-247). Fundación Democracia y Gobierno Local. (Obra original publicada en
@@ -58,3 +65,5 @@ el documento, no por inferencia.
 | Srur, *¿Qué observan los que observan el delito?* | 2015 | octubre de 2014 |
 | Sampson, *Vecindario y comunidad* | 2006 | traducción sin año declarado de un original de 2004 |
 | Adams, *La violencia crónica y su reproducción* | 2017 | 2017, pero el documento no declara fecha y no cita nada posterior a 2011 |
+| Garland, *La cultura del control* | 2005, traducción Gedisa | **resuelta el 12-09-2026**: llegó la Gedisa 2005; el archivo de 2001 es el original en inglés |
+| ONU-Hábitat y Guadalajara, *Guía en seguridad y prevención de barrios* | 2020 | 2020, pero la portada declara «Borrador avanzado»: confirmar si hay versión final |

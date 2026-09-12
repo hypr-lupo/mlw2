@@ -1,7 +1,7 @@
 ---
 title: Eficacia colectiva
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
@@ -69,6 +69,21 @@ Adams añade una implicación que Sampson no aborda: Putnam sostiene que el capi
 
 Vale la pena notar que la advertencia de Sampson sobre los usos excluyentes de la comunidad encuentra en Adams su documentación regional: barreras, patrullas vecinales, linchamientos y condominios cerrados son disposición a intervenir puesta al servicio de la exclusión. Ver [[gobernanzas-paralelas]] y [[miedo-social]].
 
+## Uso instrumental en política pública
+
+Añadido el 12-09-2026 al ingerir [[onu-habitat-guia-barrios]], que es la primera fuente de la wiki que no discute el constructo sino que lo **usa** para clasificar territorios.
+
+La guía lo coloca como la tercera variable de la dimensión social de su [[tipologia-barrial]]: la cohesión social, entendida como capacidad de organización y de participación proactiva de los habitantes, «muestra el potencial de eficacia colectiva» que puede tener una comunidad barrial, citando a Sampson y otros (1999) [^ext-20].
+
+Dos consecuencias que la guía extrae y que vale la pena retener porque son directamente operativas [^ext-21]:
+
+- La cohesión social puede aumentar o disminuir los niveles de seguridad de un barrio **con independencia de su composición social**. La ausencia de redes cohesionadas transforma las condiciones de seguridad tanto en sectores pobres como de altos ingresos.
+- Pero la respuesta difiere: en los sectores de altos ingresos la amenaza suele combatirse contratando seguridad privada, «cuya eficacia no está demostrada»; en los barrios pobres, la existencia de redes sociales cohesionadas «aflora como la principal herramienta».
+
+Esa última afirmación es fuerte y la guía no la respalda con estudio alguno, a diferencia del rigor que muestra en otros puntos. Conviene citarla como posición de la guía, no como hallazgo.
+
+**Lo que se pierde en la traducción.** La guía usa «cohesión social» y «capital social» junto a «eficacia colectiva» sin marcar la diferencia entre los tres —la misma imprecisión que separa a [[sampson-vecindario-y-comunidad]] de [[adams-violencia-cronica]], registrada más arriba. Al aplicar su tipología conviene saber qué se está midiendo: densidad de vínculos, o disposición compartida a intervenir.
+
 ## Cita
 
 > "las redes necesitan ser activadas para que en última instancia sean significativas"
@@ -107,3 +122,5 @@ Vale la pena notar que la advertencia de Sampson sobre los usos excluyentes de l
 [^ext-17]: **Extraído** — [[adams-violencia-cronica]], sección II.F, p. 28, sobre Putnam (2000, pp. 287-367).
 [^ext-18]: **Extraído** — [[adams-violencia-cronica]], sección II.F, p. 29, sobre Putnam (2000, pp. 336-414).
 [^ext-19]: **Extraído** — [[adams-violencia-cronica]], sección II.F, pp. 28-29.
+[^ext-20]: **Extraído** — [[onu-habitat-guia-barrios]], sección I.5.2, p. 41, citando a Sampson y otros (1999).
+[^ext-21]: **Extraído** — [[onu-habitat-guia-barrios]], sección I.5.2, pp. 41-42.

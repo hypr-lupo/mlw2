@@ -8,7 +8,7 @@ curso: [transversal]
 procedencia: fuentes
 estado: revisado
 creado: 2026-08-29
-actualizado: 2026-08-29
+actualizado: 2026-09-12
 ---
 
 # Magíster en Prevención, Seguridad Urbana y Política Criminal (UAH)
@@ -79,3 +79,7 @@ Compromete cuatro capacidades: comprender la naturaleza y etiología del conflic
 [^ext-6]: **Extraído** — [[programa-magister-uah]], «Metodología de trabajo y evaluación».
 [^ext-7]: **Extraído** — [[programa-magister-uah]], «Perfil de egreso».
 [^amb-1]: **Ambiguo** — el encabezado del folleto fecha la IX Promoción en 2025; su propia ficha sitúa el programa entre septiembre de 2026 y agosto de 2028.
+
+---
+
+**Añadido el 12-09-2026.** El perfil de egreso compromete «monitorear estrategias de participación orientadas a la coproducción de seguridad» y el folleto usa el término sin definirlo. La primera fuente del corpus que le da contenido es [[onu-habitat-guia-barrios]], coescrita por Franz Vanderschueren, director del programa. Ver [[coproduccion-de-seguridad]].

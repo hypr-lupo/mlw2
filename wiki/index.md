@@ -9,19 +9,21 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 25 páginas · 5 fuentes ingeridas de 106 · **núcleo ancla S1.1 completo** ·
-ver [[pendientes]] y `ESTADO.md`.
+**Estado:** 29 páginas · 6 fuentes ingeridas de 114 · **núcleo ancla S1.1 completo** ·
+siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
 
 ## Conceptos
 
 - [[autocontrol-y-disuasion]] — los dos procesos de control de la TAS, y por qué
   sólo son relevantes bajo condición (1 fuente)
+- [[coproduccion-de-seguridad]] — producir seguridad con la comunidad y no sólo para
+  ella; lo que el perfil de egreso del programa compromete sin definir (1 fuente)
 - [[crimen-organizado]] — el problema de las doscientas definiciones, la salida por el
   objetivo y el comercio ilícito contra el dualismo (2 fuentes)
 - [[debilidad-estatal]] — el paradigma de la suma cero entre Estado y crimen, y la
   política de construir Estado que de él se sigue (1 fuente)
 - [[eficacia-colectiva]] — cohesión más expectativas compartidas de intervenir:
-  el mecanismo que media entre desventaja concentrada y violencia (3 fuentes)
+  el mecanismo que media entre desventaja concentrada y violencia (4 fuentes)
 - [[exposicion-criminogena]] — el lado entorno: contexto moral, oportunidades y
   fricciones; y el efecto de área condicionado a quién lo use (1 fuente)
 - [[filtro-moral]] — la percepción selectiva de alternativas de acción; por qué la
@@ -39,17 +41,19 @@ ver [[pendientes]] y `ESTADO.md`.
 - [[muerte-social]] — ceros sociales, humillación y búsqueda perversa del respeto;
   hoy lo único que el corpus ofrece para S2.4 (1 fuente)
 - [[policia-comunitaria]] — el modelo policial derivado de la eficacia colectiva, y
-  las UPP de Rio como caso de reversión (2 fuentes)
+  las UPP de Rio como caso de reversión (3 fuentes)
 - [[propension-al-delito]] — el lado persona: moral legalmente relevante más
   capacidad de autocontrol, y la aversión al delito (1 fuente)
 - [[teoria-accion-situacional]] — el delito como acción moral y las causas como
   situacionales; los atributos no son causas (1 fuente)
+- [[tipologia-barrial]] — las cinco categorías de barrio con que ONU-Hábitat organiza
+  una política de prevención municipal (1 fuente)
 - [[trabajo-de-grado-profesionalizante]] — criterio de admisibilidad del trabajo
   final: utilidad demostrable sobre un caso real, no aporte al conocimiento (1 fuente)
-- [[ventanas-rotas]] — la estrategia rival, registrada por ahora sólo desde la
-  refutación de Sampson: la relación desorden-delito sería espuria (1 fuente)
+- [[ventanas-rotas]] — refutada por la obligatoria del ramo y a la vez incorporada por
+  la guía que operacionaliza su trabajo evaluado (2 fuentes)
 - [[violencia-cronica]] — condición y no episodio, medible en intensidad, espacio y
-  tiempo; y por qué las tasas nacionales engañan (1 fuente)
+  tiempo; y quinta categoría de la tipología barrial (2 fuentes)
 - [[zona-gris]] — por qué bajo terror crónico casi todos se comportan mal, y por qué
   eso no resulta evidente desde fuera (1 fuente)
 
@@ -60,7 +64,8 @@ ver [[pendientes]] y `ESTADO.md`.
 
 ## Métodos
 
-_(ninguno todavía. PADS+ es el primer candidato: ver [[revision]])_
+- [[diagnostico-barrial]] — muestreo por tipología en vez de censo de barrios, y la
+  exigencia de comparabilidad en el tiempo (1 fuente)
 
 ## Fuentes
 
@@ -68,6 +73,8 @@ _(ninguno todavía. PADS+ es el primer candidato: ver [[revision]])_
   nueve módulos. Reseña de literatura con trabajo de campo propio en Guatemala
 - [[albarracin-crimen-organizado-america-latina]] — Albarracín, 2023. Obligatoria de
   S1.1, módulo 7. Informe de estado del arte, no investigación primaria
+- [[onu-habitat-guia-barrios]] — ONU-Hábitat y Guadalajara, 2020. Consulta de S1.1 y
+  la obra que operacionaliza su trabajo evaluado. Coescrita por el docente del ramo
 - [[programa-magister-uah]] — Universidad Alberto Hurtado, 2026. Folleto
   institucional del programa
 - [[sampson-vecindario-y-comunidad]] — Sampson, 2006. Obligatoria de S1.1,

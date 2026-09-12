@@ -1,7 +1,7 @@
 ---
 title: Policía comunitaria
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -44,6 +44,17 @@ El texto menciona en el mismo lugar otros intentos de reformar y democratizar lo
 
 El patrón que deja es distinto del que describe Sampson. Allí el problema era construir legitimidad; aquí el modelo se implementó, mostró resultados y **se revirtió**. Lo que falta explicar no es por qué no funciona, sino por qué no se sostiene. Ver [[mano-dura-y-militarizacion]], que es la política a la que se volvió.
 
+## Qué le pide una guía operativa
+
+Añadido el 12-09-2026 al ingerir [[onu-habitat-guia-barrios]], que dedica un capítulo a la relación entre policía y barrio y la organiza en cuatro asuntos: criterios de legitimidad policial, enfoque de proximidad y comunitario, prevención situacional y función policial a nivel barrial, y gestión de problemas en barrios [^ext-9].
+
+Lo que la guía añade a lo que ya estaba en esta página es de encuadre, no de evidencia:
+
+- **La policía es una de las tres áreas de contribución municipal** frente al crimen organizado, junto con el fortalecimiento institucional y la prevención en barrios vulnerables y de alta complejidad [^ext-10]. No es un ámbito aparte de la política de prevención: es una de sus patas.
+- **Puede construir o destruir.** La guía justifica dedicarle un capítulo porque «la policía puede contribuir a la prevención y a la cohesión social o destruirlas» [^ext-11]. Es la misma tesis de Sampson, formulada como advertencia de diseño.
+- **La proximidad se plantea en América Latina como reforma pendiente**, orientada a la legitimidad del actuar policial, y como condición para reconstruir tejidos sociales dañados [^ext-12]. Ver [[legitimidad-policial]].
+- **Donde hay coproducción posible, se hace; donde no, se averigua por qué.** La guía trata el trabajo conjunto entre habitantes y policía como indicador diagnóstico: si no es posible, eso mismo informa sobre el barrio [^ext-13]. Ver [[coproduccion-de-seguridad]] y [[diagnostico-barrial]].
+
 ## Condición de fracaso
 
 Donde la policía es recibida con desconfianza —barrios de minorías étnicas, que soportan las mayores tasas de violencia—, los esfuerzos de cooperación fracasan aunque los residentes compartan el deseo de que haya menos delito e incluso estén dispuestos a participar [^ext-7]. Es decir: la voluntad vecinal no basta; la legitimidad es previa. Ver [[legitimidad-policial]].
@@ -72,3 +83,8 @@ El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía d
 [^ext-6]: **Extraído** — [[sampson-vecindario-y-comunidad]], p. 243.
 [^ext-7]: **Extraído** — [[sampson-vecindario-y-comunidad]], pp. 243-244.
 [^ext-8]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 9, nota 4.
+[^ext-9]: **Extraído** — [[onu-habitat-guia-barrios]], sección II.3.3, pp. 78-80.
+[^ext-10]: **Extraído** — [[onu-habitat-guia-barrios]], capítulo I.4, p. 36.
+[^ext-11]: **Extraído** — [[onu-habitat-guia-barrios]], introducción, p. 5.
+[^ext-12]: **Extraído** — [[onu-habitat-guia-barrios]], introducción, pp. 5-6.
+[^ext-13]: **Extraído** — [[onu-habitat-guia-barrios]], sección I.5.3, p. 43.

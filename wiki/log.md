@@ -8,6 +8,38 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-09-12] ingesta | ONU-Hábitat y Guadalajara (2020), Guía en seguridad y prevención de barrios
+
+**Primera fuente fuera del núcleo ancla, y primera fuente operativa de la wiki.**
+
+- Ficha creada: [[onu-habitat-guia-barrios]]
+- Páginas creadas: [[tipologia-barrial]], [[diagnostico-barrial]] —**primera página de
+  `wiki/methodology/`**—, [[coproduccion-de-seguridad]]
+- Páginas actualizadas: [[violencia-cronica]] —pasa de condición a categoría operativa;
+  segunda fuente—, [[eficacia-colectiva]] —uso instrumental; cuarta fuente—,
+  [[ventanas-rotas]] —la tensión con el instrumento del ramo; segunda fuente—,
+  [[policia-comunitaria]] —tercera fuente—, [[magister-prevencion-uah]] —retroenlace a
+  coproducción—, más [[index]], [[referencias]], [[overview]], [[revision]],
+  [[pendientes]]
+- Contradicciones: 1, y es la de mayor rendimiento de todas las registradas hasta ahora.
+  La guía invoca «la conocida teoría de la ventana rota» dentro de su tipología, y
+  [[sampson-vecindario-y-comunidad]] —obligatoria del mismo ramo— sostiene que la
+  relación desorden-delito es espuria. La obra de consulta que da el instrumento del
+  trabajo evaluado descansa, en un punto, sobre una premisa que la lectura obligatoria
+  niega. Queda registrada con su matiz: la guía acota el efecto a la percepción.
+- En revisión: 1 ítem nuevo —el estatus de borrador— más una enmienda al de Franz
+  Vanderschueren, cuyo criterio se cumple: ahora es coautor de una fuente ingerida. La
+  cola queda en 16.
+- Clústeres: se puebla `medicion-y-metodo`. **Sólo queda vacío `caso-de-grado`.**
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-09-12-onu-habitat-guia-barrios.md`.
+- Notas: es la fuente con más conexiones explícitas de las ingeridas —cita por nombre a
+  Sampson, Pearce y Adams—, y su coautor es el docente de S1.1. Sin figuras analíticas:
+  las imágenes son fotografías de apertura de capítulo.
+- `verificacion_bibliografica: pendiente` por una razón nueva otra vez: la portada
+  declara «Borrador avanzado». No hay discrepancia de edición; hay duda sobre si la
+  obra está cerrada.
+
 ## [2026-09-12] ingesta | Adams (2017), La violencia crónica y su reproducción
 
 **Cierra el núcleo ancla S1.1: las cuatro obligatorias quedan ingeridas.**

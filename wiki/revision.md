@@ -87,6 +87,11 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       Acción propuesta: `preguntar` · Origen: inicialización 2026-09-05
       Criterio: si al ingerir sus dos obras resulta que sostienen afirmaciones
       distintas de las del folleto, merece página.
+      **Enmienda 12-09-2026:** el criterio se cumple. Vanderschueren aparece ahora como
+      **coautor** de [[onu-habitat-guia-barrios]], no sólo como director del programa, y
+      esa guía sostiene bastante más que el folleto: la tipología barrial, el ciclo de
+      política y el contenido de la coproducción de seguridad. Falta aún su segunda obra
+      del corpus, Vanderschueren, Díaz y Guajardo (2021), sin ingerir.
 
 - [ ] **[concepto]** «Desorganización social» — el módulo 3 de `programa/S1.1`
       enmarca a Sampson dentro de esta teoría, y Sampson no la nombra en ningún
@@ -228,6 +233,16 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       si sólo se cuentan homicidios—. Queda registrada en [[miedo-social]] y en la
       ficha, sin resolver. El corpus tiene material que podría dirimirlo en el cúmulo
       `Medición e inseguridad`, sin ingerir.
+
+- [ ] **[fuente]** La Guía ONU-Hábitat es un borrador — la portada de
+      [[onu-habitat-guia-barrios]] dice «Borrador avanzado». No es una publicación
+      cerrada y la wiki ya construyó cuatro páginas sobre ella.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-09-12
+      Consulta sugerida: sitio de ONU-Hábitat, programa Ciudades más Seguras — ¿existe
+      versión final de la *Guía en seguridad y prevención de barrios*? Si existe, hay
+      que cotejar la tipología y el ciclo de política, que son lo que la wiki registra.
+      Importa más de lo habitual: es la obra que operacionaliza el trabajo evaluado de
+      S1.1 y su coautor es el docente del ramo.
 
 ## Resueltos
 

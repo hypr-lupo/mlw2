@@ -8,9 +8,9 @@ sources: []
 
 Artefacto operativo para retomar. Se actualiza al cerrar sesión.
 
-**Estado al 12-09-2026.** Núcleo ancla S1.1 **completo**: las cuatro lecturas
-obligatorias del curso ancla están ingeridas. 5 fuentes de 106, 25 páginas, seis de
-ocho clústeres poblados.
+**Estado al 12-09-2026.** Núcleo ancla S1.1 **completo** y primera obra de consulta
+ingerida. 6 fuentes de 114, 29 páginas, **siete de ocho clústeres poblados**: sólo
+queda vacío `caso-de-grado`. Cobertura de S1.1: 17 de 32 títulos oficiales, 53 %.
 
 ## Lo que bloquea
 
@@ -25,14 +25,18 @@ ocho clústeres poblados.
 
 ## Fuentes por ingerir
 
-101 de 106, de las cuales trece están en cuarentena. El orden está fijado en
+108 de 114, de las cuales trece están en cuarentena. El orden está fijado en
 [[purpose]]; el detalle documento por documento lo da `python scripts/estado.py`.
 
 - [x] **Núcleo ancla S1.1 — 4 de 4.** Sampson, Wikström, Albarracín y Adams, todas el
       12-09-2026.
-- [ ] **Bibliografía S1.1, consulta y complementaria — 5. Siguiente.** Contiene P2 de
-      S1.1. Orden interno decidido: Guía ONU-Hábitat, Blanco, Alda y Beliz, Garland
-      completo, García-Pablos por capítulos.
+- [x] **Guía ONU-Hábitat y Guadalajara (2020)** — ingerida el 12-09-2026. Primera obra
+      de consulta y primera fuente operativa de la wiki.
+- [ ] **Bibliografía S1.1, consulta y complementaria — 12 restantes. Siguiente.**
+      Orden interno: Blanco (2011), Alda y Beliz (2007), Garland completo en la
+      traducción Gedisa, y García-Pablos por capítulos atados a un módulo. Se sumaron
+      ocho títulos el 12-09-2026: Kessler, Wacquant, los dos Bergman, los dos Zeballos,
+      Garland Gedisa y el manual de curso de vida de Blokland y van der Geest.
 - [ ] Programas oficiales y malla — 5 restantes. Bajaron de prioridad: los cuatro ramos
       en curso ya tienen su programa fichado, y lo que queda son tres programas de
       ramos futuros y el horario. Se ingieren por excepción cuando su ramo se acerque
@@ -54,7 +58,8 @@ ocho clústeres poblados.
 ## Páginas borrador
 
 Cuatro, todas por la misma razón: registran una sola posición sobre un asunto que
-tiene otra.
+tiene otra. [[ventanas-rotas]] dejó de ser una sola posición pero sigue en borrador:
+las dos que tiene son una refutación y un uso, no una defensa.
 
 - [ ] [[ventanas-rotas]] — se cierra con Clarke (1997) y Weisburd y otros (2016)
 - [ ] [[policia-comunitaria]] — la evidencia que invoca Sampson es débil por
@@ -94,16 +99,20 @@ tiene otra.
 
 ## Ítems de revisión abiertos
 
-- [ ] 15 ítems en [[revision]], más una enmienda. Los dos que bloquean están arriba.
+- [ ] 16 ítems en [[revision]], más tres enmiendas. Los dos que bloquean están arriba.
+      El nuevo: la Guía ONU-Hábitat es un «Borrador avanzado» y la wiki ya construyó
+      cuatro páginas sobre ella.
 
 ## Preguntas abiertas
 
 - [ ] ¿Sobre qué política, programa o proyecto chileno se ancla el trabajo de grado?
       Sexta pregunta rectora de [[purpose]] y la única que no se responde desde el
-      corpus. Con cinco fuentes ingeridas —Chicago, Peterborough y una América Latina
-      donde Chile aparece una vez— el clúster `caso-de-grado` sigue vacío
+      corpus. Seis fuentes ingeridas —Chicago, Peterborough, Guadalajara y una América
+      Latina donde Chile aparece una vez— y `caso-de-grado` sigue vacío. Los dos
+      Zeballos, integrados el 12-09-2026 y sin ingerir, son lo primero del corpus sobre
+      crimen organizado en Chile
 - [ ] ¿Se cursará el taller electivo de crimen organizado? De la respuesta depende que
-      42 de los 106 documentos del corpus sean bibliografía oficial o material de
+      42 de los 114 documentos del corpus sean bibliografía oficial o material de
       reserva
 
 ## Vacíos de corpus conocidos
@@ -114,25 +123,30 @@ Confirmados el 12-09-2026: ninguno de los trece documentos nuevos los cubre.
       nula. Faltan Merton, los dos Sutherland y Lamnek
 - [ ] **Criminología feminista**, objetivo específico declarado de S1.1: falta Renzetti
       (2013)
-- [ ] **S2.4**: ramo en curso, programa recibido, cero documentos de su bibliografía
-      oficial en el corpus. Lo único que la wiki le ofrece hoy es [[muerte-social]], y
-      no lo sustituye
+- [ ] **S2.4**: cero documentos de su bibliografía en el corpus. Pero su programa es de
+      la promoción 2023 y quedó marcado `programa_vigente: no` el 12-09-2026: sus
+      faltantes **no se persiguen** hasta que llegue la versión de esta cohorte. Lo
+      único que la wiki le ofrece hoy es [[muerte-social]], y no lo sustituye
 - [ ] **Desorganización social**: el módulo 3 la exige como marco y ninguna fuente la
       define. Ver [[revision]]
 - [ ] **Breaking Rules** (Wikström y otros, 2012): donde viven el diseño y los análisis
       completos de PADS+. Las cifras de [[propension-al-delito]] y
       [[exposicion-criminogena]] no se verifican contra su fuente primaria
+- [ ] **Gibson y Krahn (2013)**, *Handbook of life course criminology*, pedido por
+      S1.1. Lo que llegó el 12-09-2026 es el manual Routledge de Blokland y van der
+      Geest: otros editores, otra editorial, otro año. Tercera falsa coincidencia del
+      corpus
 - [ ] **Zaffaroni, *En busca de las penas perdidas*** (2006), pedido por S1.3. Lo que
-      llegó el 12-09-2026 es otra obra del mismo autor. Ver [[revision]]
+      llegó el 12-09-2026 es otra obra del mismo autor. No se persigue: S1.3 también
+      quedó `programa_vigente: no`. Ver [[revision]]
 
 ## Estado de los clústeres
 
-Seis de ocho poblados. Quedan vacíos:
+Siete de ocho poblados. `medicion-y-metodo` se pobló el 12-09-2026 con
+[[diagnostico-barrial]], primera página de `wiki/methodology/`. Queda vacío uno:
 
-- [ ] `medicion-y-metodo` — se puebla con el cúmulo `Medición e inseguridad` y con las
-      metodológicas de S1.2. `wiki/methodology/` sigue vacía; PADS+ es el primer
-      candidato, en [[revision]]
-- [ ] `caso-de-grado` — vacío a propósito y a la espera de una decisión del autor
+- [ ] `caso-de-grado` — vacío a propósito y a la espera de una decisión del autor. Es
+      hoy el único hueco estructural de la wiki
 
 ## Programas de curso por solicitar
 

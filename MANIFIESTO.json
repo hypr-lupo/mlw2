@@ -30,6 +30,12 @@
       "bytes": 1942490,
       "ingerido": "2026-09-12",
       "ficha": "wiki/sources/adams-violencia-cronica.md"
+    },
+    "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf": {
+      "sha256": "415926d88a171107470eaa6e6a160d304afebd8126578adb3e49f075862d5c65",
+      "bytes": 1929225,
+      "ingerido": "2026-09-12",
+      "ficha": "wiki/sources/onu-habitat-guia-barrios.md"
     }
   }
 }
