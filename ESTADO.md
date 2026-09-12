@@ -4,23 +4,23 @@
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 100 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 108 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 96 | 96.0 % |
+| `pendiente` | 104 | 96.3 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 4 | 4.0 % |
+| `completo` | 4 | 3.7 % |
 
 ## Por cumulo
 
 | Cumulo | Total | pendiente | fase1 | fase2 | completo |
 |---|---:|---:|---:|---:|---:|
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
-| Bibliografía S1.1, consulta y complementaria | 5 | 5 | 0 | 0 | 0 |
+| Bibliografía S1.1, consulta y complementaria | 13 | 13 | 0 | 0 | 0 |
 | Explicación del delito | 4 | 4 | 0 | 0 | 0 |
 | Gobernanza criminal y territorio | 6 | 6 | 0 | 0 | 0 |
 | Ingreso sin clasificar | 13 | 13 | 0 | 0 | 0 |
@@ -81,9 +81,17 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 - `pendiente` — 2002 - Romero Mendoza y Aguilera Guzmán - ¿Por qué delinquen las mujeres, perspectivas teóricas tradicionales, parte I.pdf
 - `pendiente` — 2003 - García-Pablos de Molina - Tratado de criminología (extracto, pp. 688-1372).pdf
+- `pendiente` — 2004 - Kessler - Sociología del delito amateur.pdf
+- `pendiente` — 2004 - Wacquant - Las cárceles de la miseria.pdf
+- `pendiente` — 2005 - Garland - La cultura del control, crimen y orden social en la sociedad contemporánea (traducción Gedisa de Sozzo).pdf
 - `pendiente` — 2007 - Alda y Beliz (eds.) - ¿Cuál es la salida, la agenda inconclusa de la seguridad ciudadana.pdf
 - `pendiente` — 2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf
+- `pendiente` — 2016 - Bergman - Drogas, narcotráfico y poder en América Latina.pdf
+- `pendiente` — 2017 - Blokland y van der Geest (eds.) - Manual internacional Routledge de criminología del curso de vida.epub
 - `pendiente` — 2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf
+- `pendiente` — 2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf
+- `pendiente` — 2024 - Zeballos - Un virus entre sombras, la expansión del crimen organizado y el narcotráfico en Chile.epub
+- `pendiente` — 2026 - Zeballos - Cuando el crimen reza.epub
 
 ### Explicación del delito
 
@@ -103,19 +111,19 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 ### Ingreso sin clasificar
 
-- `pendiente` — Criminal-mente. La criminología como ciencia.pdf
-- `pendiente` — Criminologia ambiental Bernaola Ponce Nagore.pdf
-- `pendiente` — Criminología Empresarial.pdf
-- `pendiente` — Criminología Preventiva .pdf
-- `pendiente` — Criminología Preventiva II.pdf
-- `pendiente` — Criminología Preventiva. Estrategias-1.pdf
-- `pendiente` — Criminología Psicológica.pdf
-- `pendiente` — Criminología ambiental.pdf
-- `pendiente` — Criminología mediatica.pdf
-- `pendiente` — Criminología y victimología.pdf
-- `pendiente` — DOGMÁTICA PENAL y CRIMINOLOGÍA CAUTELAR.pdf
-- `pendiente` — Delincuencia_Criminologia_y_Sociedad.pdf
-- `pendiente` — Introduccion-al-Estudio-de-la-Criminologia.pdf
+- `pendiente` — 2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf
+- `pendiente` — 2012 - Vélez Salas - Delincuencia, criminología y sociedad.pdf
+- `pendiente` — 2013 - Hikal - Criminología psicológica.pdf
+- `pendiente` — 2013 - Hikal - Introducción al estudio de la criminología (2a edición).pdf
+- `pendiente` — 2015 - Bernaola Ponce - Criminología ambiental orientada a la delincuencia juvenil (trabajo de fin de grado).pdf
+- `pendiente` — 2017 - Zaffaroni, Bailone y Mavila León - Dogmática penal y criminología cautelar.pdf
+- `pendiente` — 2017 - Zapata - Criminología empresarial, manual de intervención criminológica en las empresas.pdf
+- `pendiente` — 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales (duplicado exacto).pdf
+- `pendiente` — 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales (reexportación).pdf
+- `pendiente` — 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales.pdf
+- `pendiente` — s.f. - Gaibor - Criminología mediática y victimología del miedo (duplicado exacto).pdf
+- `pendiente` — s.f. - Gaibor - Criminología mediática y victimología del miedo.pdf
+- `pendiente` — s.f. - Velasco de la Fuente - Criminal-mente, la criminología como ciencia.pdf
 
 ### Integrados desde el programa del curso (05-09-2026)
 
@@ -155,7 +163,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 - `pendiente` — 1995 - Ferrajoli - Derecho y razón, teoría del garantismo penal.pdf
 - `pendiente` — 1997 - Rose-Ackerman - Corrupción y competencia.pdf
-- `pendiente` — 2001 - Garland - La cultura del control, delito y orden social en la sociedad contemporánea.pdf
+- `pendiente` — 2001 - Garland - La cultura del control, delito y orden social en la sociedad contemporánea (original en inglés).pdf
 - `pendiente` — 2001 - Silva Sánchez - La expansión del derecho penal, aspectos de la política criminal en las sociedades postindustriales.pdf
 - `pendiente` — 2007 - Gardner - La prohibición de las inmoralidades.pdf
 - `pendiente` — 2013 - Tanguay-Renaud - Criminalizar al Estado.pdf

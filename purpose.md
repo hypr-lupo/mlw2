@@ -143,6 +143,14 @@ con ellas, y son el puente operativo al trabajo de grado.
 de un ramo en curso —P1 en la ficha de `programa/`— sobre el material de reserva.
 Los ramos en curso son S1.1, S1.2, S1.3 y S2.4.
 
+**Programas vigentes.** Al 12-09-2026 sólo se tienen los programas vigentes de **S1.1
+y S1.2**. Los de S1.3 y S2.4 que están en el corpus son de promociones anteriores
+—octubre de 2025 y promoción 2023— y sus fichas quedaron marcadas
+`programa_vigente: no`. Mientras no lleguen las versiones de esta cohorte, su
+bibliografía no pondera y sus faltantes no se persiguen: conseguir títulos contra un
+programa caduco es trabajo que puede perderse. **La bibliografía faltante que importa
+es la de S1.1 y S1.2**, y sólo ésa.
+
 **Vacíos conocidos.** No se disimulan con lo que hay cerca:
 
 - **Módulo 5 de S1.1** —teoría de la tensión y delitos de cuello blanco— tiene

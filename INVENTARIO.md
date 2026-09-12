@@ -1,7 +1,11 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 12-09-2026 · **Total:** 106 documentos · **662 MB**
+**Fecha:** 12-09-2026 · **Total:** 114 documentos · **719 MB**
 
+> **Nomenclatura normalizada el 12-09-2026.** Los 114 documentos siguen ya el
+> patrón `año - autor - título`; no queda ninguno fuera de convención. Sin año
+> verificable se usa `s.f.`.
+>
 > **13 documentos ingresaron el 12-09-2026 sin clasificar.** Están al final de
 > este archivo, en el cúmulo `Ingreso sin clasificar`, que es una cuarentena y no
 > una categoría temática. Ninguno entra al orden de ingesta hasta que se resuelva
@@ -35,7 +39,7 @@ el 11-09-2026 y se ingieren antes que cualquier otro cúmulo.
 | 2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf | 0.3 | `17556ae80696` |
 | 2023 - Albarracín - Crimen organizado en América Latina.pdf | 0.2 | `2bc01a9cad32` |
 
-## Bibliografía S1.1, consulta y complementaria · 5 doc.
+## Bibliografía S1.1, consulta y complementaria · 13 doc.
 
 
 Alimenta: S1.1. Blanco alimenta además S2.4.
@@ -50,6 +54,40 @@ Resto de lo integrado el 11-09-2026 desde el programa ancla: tres obras marcadas
 | 2007 - Alda y Beliz (eds.) - ¿Cuál es la salida, la agenda inconclusa de la seguridad ciudadana.pdf | 1.9 | `9f6d3488e0c4` |
 | 2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf | 0.3 | `b5757d527a87` |
 | 2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf | 1.8 | `c2dba1f1eac9` |
+
+**Ocho documentos integrados el 12-09-2026.** Todos son bibliografía oficial de S1.1
+que faltaba, salvo el último. Llegaron con nombres opacos y se identificaron por su
+página de imprenta.
+
+| Documento | MB | MD5 |
+|---|---:|---|
+| 2004 - Kessler - Sociología del delito amateur.pdf | 9.6 | `d9e3a1fc5d5c` |
+| 2004 - Wacquant - Las cárceles de la miseria.pdf | 8.3 | `cff7d0ca14e5` |
+| 2005 - Garland - La cultura del control, crimen y orden social en la sociedad contemporánea (traducción Gedisa de Sozzo).pdf | 24.7 | `7bb6c6e443a0` |
+| 2016 - Bergman - Drogas, narcotráfico y poder en América Latina.pdf | 2.0 | `590e0855895a` |
+| 2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf | 2.5 | `f6ac444b1af0` |
+| 2024 - Zeballos - Un virus entre sombras, la expansión del crimen organizado y el narcotráfico en Chile.epub | 1.5 | `3c3c8d82540a` |
+| 2026 - Zeballos - Cuando el crimen reza.epub | 3.0 | `4778ad29b5d4` |
+| 2017 - Blokland y van der Geest (eds.) - Manual internacional Routledge de criminología del curso de vida.epub | 5.1 | `b26e9da7f080` |
+
+Tres advertencias sobre este bloque:
+
+1. **Garland queda por duplicado de edición, y es una buena noticia.** El archivo que
+   ya estaba, fechado en 2001, resultó ser **el original en inglés** —University of
+   Chicago Press y Oxford, ISBN 0-226-28383-6— pese a llevar título en español. El que
+   llegó ahora es la traducción de Máximo Sozzo, Gedisa, primera edición de abril de
+   2005, ISBN 84-9784-040-2: exactamente la edición que pide `programa/S1.1`. Se
+   conservan ambos y el nombre de cada archivo lo dice. Esto resuelve la divergencia de
+   edición que `wiki/referencias.md` tenía abierta.
+2. **Blokland y van der Geest no sustituye a Gibson y Krahn.** S1.1 pide el *Handbook
+   of life course criminology* de Gibson y Krahn (2013, Springer); lo que llegó es el
+   *Routledge International Handbook of Life-Course Criminology* de Blokland y van der
+   Geest (2017, Taylor & Francis). Obra distinta, editores distintos, editorial
+   distinta. Mismo patrón que Romero Mendoza frente a Alvarado y que Zaffaroni.
+3. **Dos divergencias de año.** Wacquant: el programa pide la edición de 2000 y el
+   corpus tiene la primera edición, segunda reimpresión, de Manantial 2004. Zeballos:
+   el programa pide *Cuando el crimen reza* de 2025 y los metadatos del archivo dan
+   2026.
 
 ## Explicación del delito · 4 doc.
 
@@ -145,7 +183,7 @@ Alimenta: S1.3.
 |---|---:|---|
 | 1995 - Ferrajoli - Derecho y razón, teoría del garantismo penal.pdf | 43.7 | `6b5014fd43f7` |
 | 1997 - Rose-Ackerman - Corrupción y competencia.pdf | 0.4 | `b659e8ed96df` |
-| 2001 - Garland - La cultura del control, delito y orden social en la sociedad contemporánea.pdf | 17.1 | `abc66f526b04` |
+| 2001 - Garland - La cultura del control, delito y orden social en la sociedad contemporánea (original en inglés).pdf | 17.1 | `abc66f526b04` |
 | 2001 - Silva Sánchez - La expansión del derecho penal, aspectos de la política criminal en las sociedades postindustriales.pdf | 8.8 | `623cd19b343a` |
 | 2007 - Gardner - La prohibición de las inmoralidades.pdf | 0.1 | `9b15f07d8d21` |
 | 2013 - Tanguay-Renaud - Criminalizar al Estado.pdf | 0.3 | `4f8139e435a3` |
@@ -235,21 +273,24 @@ Tres constataciones de la verificación del 12-09-2026:
    los dos Sutherland y Lamnek para el módulo 5 de S1.1, Renzetti para criminología
    feminista, y toda la bibliografía oficial de S2.4.
 
+Renombrados a la convención del corpus el 12-09-2026. Estar en convención no
+significa estar admitido: siguen en cuarentena.
+
 | Documento | MB | MD5 |
 |---|---:|---|
-| Criminal-mente. La criminología como ciencia.pdf | 2.2 | `35570db4be57` |
-| Criminologia ambiental Bernaola Ponce Nagore.pdf | 2.9 | `2d80f9d89df2` |
-| Criminología Empresarial.pdf | 0.8 | `8208f9d5caa7` |
-| Criminología Preventiva .pdf | 5.6 | `84bb567b9b71` |
-| Criminología Preventiva II.pdf | 5.6 | `ad7a602372ad` |
-| Criminología Preventiva. Estrategias-1.pdf | 5.6 | `84bb567b9b71` |
-| Criminología Psicológica.pdf | 8.3 | `b232e82520a1` |
-| Criminología ambiental.pdf | 2.2 | `83da5982df7d` |
-| Criminología mediatica.pdf | 1.8 | `19a51b9488fa` |
-| Criminología y victimología.pdf | 1.8 | `19a51b9488fa` |
-| DOGMÁTICA PENAL y CRIMINOLOGÍA CAUTELAR.pdf | 0.8 | `57dbd80b8388` |
-| Delincuencia_Criminologia_y_Sociedad.pdf | 7.7 | `3fd71b116699` |
-| Introduccion-al-Estudio-de-la-Criminologia.pdf | 8.7 | `f152edbad675` |
+| 2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf | 2.2 | `83da5982df7d` |
+| 2012 - Vélez Salas - Delincuencia, criminología y sociedad.pdf | 7.7 | `3fd71b116699` |
+| 2013 - Hikal - Criminología psicológica.pdf | 8.3 | `b232e82520a1` |
+| 2013 - Hikal - Introducción al estudio de la criminología (2a edición).pdf | 8.7 | `f152edbad675` |
+| 2015 - Bernaola Ponce - Criminología ambiental orientada a la delincuencia juvenil (trabajo de fin de grado).pdf | 2.9 | `2d80f9d89df2` |
+| 2017 - Zaffaroni, Bailone y Mavila León - Dogmática penal y criminología cautelar.pdf | 0.8 | `57dbd80b8388` |
+| 2017 - Zapata - Criminología empresarial, manual de intervención criminológica en las empresas.pdf | 0.8 | `8208f9d5caa7` |
+| 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales.pdf | 5.6 | `84bb567b9b71` |
+| 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales (duplicado exacto).pdf | 5.6 | `84bb567b9b71` |
+| 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales (reexportación).pdf | 5.6 | `ad7a602372ad` |
+| s.f. - Gaibor - Criminología mediática y victimología del miedo.pdf | 1.8 | `19a51b9488fa` |
+| s.f. - Gaibor - Criminología mediática y victimología del miedo (duplicado exacto).pdf | 1.8 | `19a51b9488fa` |
+| s.f. - Velasco de la Fuente - Criminal-mente, la criminología como ciencia.pdf | 2.2 | `35570db4be57` |
 
 ### Identificación
 
