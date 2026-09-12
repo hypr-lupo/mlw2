@@ -8,6 +8,41 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-09-12] ingesta | Wikström (2017), Por qué se delinque
+
+- Ficha creada: [[wikstrom-por-que-se-delinque]]
+- Páginas creadas: [[teoria-accion-situacional]], [[filtro-moral]],
+  [[propension-al-delito]], [[exposicion-criminogena]], [[autocontrol-y-disuasion]]
+- Páginas actualizadas: [[eficacia-colectiva]] —adopción y crítica desde la TAS, más
+  la tensión sobre el alcance del enfoque territorial; añadida la segunda entrada a
+  su `sources[]`—, [[index]], [[referencias]], [[overview]], [[revision]],
+  [[pendientes]]
+- Contradicciones: 2. La tensión sobre el alcance del enfoque territorial, registrada
+  en [[eficacia-colectiva]] y [[exposicion-criminogena]] como pide el procedimiento;
+  y la tensión con el encuadre del módulo 6, registrada en
+  [[autocontrol-y-disuasion]]. Ninguna de las dos es una disputa entre los autores:
+  las construye esta wiki y quedan marcadas como tales.
+- En revisión: 3 ítems nuevos —PADS+, puntos calientes y el orden de ingesta de la
+  bibliografía de consulta de S1.1— más una enmienda al ítem de control social
+  informal. La cola queda en 9.
+- Figuras: las cinco del artículo extraídas a `raw/assets/` a 300 ppp y descritas de
+  forma factual en la ficha. Primeras imágenes del vault.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-09-12-wikstrom-por-que-se-delinque.md`.
+- Notas: primera fuente que dialoga con otra ya ingerida. El solapamiento documental
+  sigue siendo nulo —ninguna página comparte archivo fuente salvo
+  [[eficacia-colectiva]], que ahora declara dos—, pero la conexión es explícita en el
+  texto: Wikström usa la medida de eficacia colectiva de Sampson, Raudenbush y Earls
+  (1997) como marcador operativo y le señala un límite de construcción. Las seis
+  páginas nuevas pueblan `explicacion-del-delito`, que tras la ingesta anterior tenía
+  una sola página y cohesión 0.000.
+- Primera ficha con `verificacion_bibliografica: verificado`: la cita de
+  `programa/S1.1` coincide exactamente con el corpus.
+- Corregido `scripts/grafo.py`: su expresión de wikilinks contaba los embeds de
+  Obsidian —`![[figura.png]]`— como enlaces a páginas y reportaba diez enlaces rotos
+  que no lo eran. Se añadió un lookbehind que excluye el `!` inicial. Un adjunto de
+  `raw/assets/` no es una página.
+
 ## [2026-09-12] ingesta | Sampson (2006), Vecindario y comunidad
 
 - Ficha creada: [[sampson-vecindario-y-comunidad]]

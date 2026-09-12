@@ -12,6 +12,12 @@
       "bytes": 99687,
       "ingerido": "2026-09-12",
       "ficha": "wiki/sources/sampson-vecindario-y-comunidad.md"
+    },
+    "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf": {
+      "sha256": "c7ca4df9385c1de4610835ff7e12f8bc235726e04bf870b93b4815fb7cbc2fb4",
+      "bytes": 356030,
+      "ingerido": "2026-09-12",
+      "ficha": "wiki/sources/wikstrom-por-que-se-delinque.md"
     }
   }
 }

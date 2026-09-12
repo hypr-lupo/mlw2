@@ -24,6 +24,12 @@ Universidad Alberto Hurtado. (2026). *Magíster en Prevención, Seguridad Urbana
 Política Criminal* [Folleto del programa]. Facultad de Ciencias Sociales.
 → [[programa-magister-uah]] · verificación bibliográfica pendiente
 
+Wikström, P.-O. H. (2017). Por qué se delinque: una teoría de la acción situacional
+(M. Melendo Pardos, Trad.). *Revista de Derecho Penal y Criminología*, 3.ª época,
+(17), 337-367. (Obra original publicada en 2014 como capítulo 3 de G. Manzo (Ed.),
+*Analytical Sociology. Actions and Networks*, Wiley)
+→ [[wikstrom-por-que-se-delinque]] · verificada contra `programa/S1.1`
+
 ## Divergencias de edición conocidas
 
 Casos en que el corpus tiene la obra que un programa de curso pide, pero en otra

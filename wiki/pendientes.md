@@ -10,16 +10,22 @@ Artefacto operativo para retomar. Se actualiza al cerrar sesión.
 
 ## Fuentes por ingerir
 
-91 de 93. El orden está fijado en [[purpose]]: encabezado por el núcleo ancla de
+90 de 93. El orden está fijado en [[purpose]]: encabezado por el núcleo ancla de
 S1.1 y, después, inverso al volumen del cúmulo. El detalle documento por documento
 lo da `python scripts/estado.py`.
 
-- [ ] **Núcleo ancla S1.1 — 3 restantes.** Wikström (módulo 6), Albarracín
-      (módulo 7), Adams (transversal). Prioridad máxima de toda la wiki, por
-      delante de cualquier otro cúmulo. Sampson quedó ingerido el 12-09-2026.
+- [ ] **Núcleo ancla S1.1 — 2 restantes.** Albarracín (módulo 7) y Adams
+      (transversal). Prioridad máxima de toda la wiki, por delante de cualquier otro
+      cúmulo. Son además las dos que traen América Latina: lo ingerido hasta ahora
+      es Chicago y Peterborough. Sampson y Wikström quedaron ingeridos el 12-09-2026.
 - [ ] Programas oficiales y malla — 5 restantes (cuatro programas de curso y el
       horario). Se ingieren por excepción, fuera del orden por volumen
-- [ ] Bibliografía S1.1, consulta y complementaria — 5. Contiene P2 de S1.1
+- [ ] Bibliografía S1.1, consulta y complementaria — 5. Contiene P2 de S1.1.
+      **Decisión de orden abierta:** el autor planteó el 12-09-2026 que estas obras
+      de consulta funcionan como ancla teórica y dudó de ingerirlas por su extensión.
+      Recomendación registrada en [[revision]]: la Guía ONU-Hábitat entra sin
+      reparos, Garland después del núcleo ancla, y García-Pablos por capítulos
+      atados a un módulo, no entero
 - [ ] Explicación del delito — 4. Contiene P1 de S1.3
 - [ ] Prevención e intervención — 4. Contiene P1 de S1.2 (UNODC 2011)
 - [ ] Medición e inseguridad — 5. Contiene P1 de S1.2
@@ -44,6 +50,9 @@ sobre una única fuente que en esos tres puntos es débil o parcial.
       contraparte latinoamericana hasta que entren Adams (2017) o Vanderschueren,
       Díaz y Guajardo (2021).
 
+Las seis páginas de la ingesta de Wikström nacen en `estado: revisado`: la fuente es
+autocontenida en lo teórico y sus cifras vienen con N, coeficientes y probabilidades.
+
 ## Contradicciones sin resolver
 
 - [ ] [[magister-prevencion-uah]] — la fecha de la IX Promoción es ambigua dentro
@@ -61,12 +70,23 @@ sobre una única fuente que en esos tres puntos es débil o parcial.
       seguridad, y Sampson advierte expresamente contra sobreestimarlo. Es el
       material más útil para el trabajo evaluado del ramo y conviene no perderlo.
       Ver [[sampson-vecindario-y-comunidad]] y [[eficacia-colectiva]].
+- [ ] **Alcance del efecto de área.** Sampson deriva de la eficacia colectiva una
+      política territorial; Wikström conserva el efecto de área pero lo condiciona a
+      quién use el territorio, y para las personas aversas al delito lo mide en cero.
+      Compatibles en el dato, divergentes en la consecuencia práctica. Ver
+      [[eficacia-colectiva]] y [[exposicion-criminogena]].
+- [ ] **Estatus del control en la prevención.** El módulo 6 presenta las teorías del
+      control y la prevención situacional como enfoques preventivos; la TAS los acota
+      a las situaciones con deliberación y conflicto de reglas-guía. Sin contraparte
+      hasta que entren Clarke (1997) y Gottfredson y Hirschi (1990). Ver
+      [[autocontrol-y-disuasion]].
 
 ## Ítems de revisión abiertos
 
-- [ ] 6 ítems en [[revision]]. Los cuatro nuevos vienen de la ingesta del
-      12-09-2026: desorganización social, control social informal, año de edición de
-      Sampson y la Coalición de Diez Puntos.
+- [ ] 9 ítems en [[revision]], más una enmienda. De la ingesta de Sampson:
+      desorganización social, control social informal, año de edición y la Coalición
+      de Diez Puntos. De la de Wikström: PADS+, puntos calientes y el orden de
+      ingesta de la bibliografía de consulta de S1.1.
 
 ## Preguntas abiertas
 
@@ -89,6 +109,11 @@ que hay cerca:
 - [ ] **S2.4**: ramo en curso con cero documentos de su bibliografía oficial.
 - [ ] **Desorganización social**: el módulo 3 la exige como marco y ninguna fuente
       del corpus la define. Ver [[revision]].
+- [ ] **Breaking Rules** (Wikström, Oberwittler, Treiber y Hardie, 2012): es donde
+      viven el diseño, las escalas y los análisis completos de PADS+, y el artículo
+      ingerido remite a él en cada detalle. No está en el corpus, de modo que las
+      cifras de [[propension-al-delito]] y [[exposicion-criminogena]] no se
+      verifican contra su fuente primaria.
 
 ## Programas de curso por solicitar
 

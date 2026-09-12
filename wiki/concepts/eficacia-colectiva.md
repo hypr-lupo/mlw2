@@ -1,7 +1,7 @@
 ---
 title: Eficacia colectiva
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
@@ -42,6 +42,21 @@ El autor los formula él mismo, y conviene no perderlos al citarlo en clave prop
 
 Frente a eso el texto propone un criterio de discriminación: el requisito de **no exclusividad del bien social**. Sirven al interés colectivo las estructuras vecinales que producen bienes con externalidades positivas para todos los residentes —seguridad, ambiente limpio, educación, vínculos intergeneracionales, reciprocidad— y no las que se construyen por exclusión [^ext-11].
 
+## Recepción desde la teoría de la acción situacional
+
+Añadido el 12-09-2026 al ingerir [[wikstrom-por-que-se-delinque]]. Es la primera vez que dos fuentes de la wiki se tocan, y la relación no es de adhesión ni de rechazo.
+
+**Adopción.** Wikström usa la medida de Sampson, Raudenbush y Earls (1997) como operacionalización de contexto moral legalmente relevante débil: define área de pobre eficacia colectiva como el 25 % de áreas geográficas con peores resultados [^ext-12]. En su modelo de vías sobre Peterborough, la desventaja social, la diversidad étnica y la inestabilidad residencial predicen pobre eficacia colectiva (.61\*\*\*, .18\*\*\* y .20\*\*\*), y ésta predice el delito juvenil registrado (.26\*\*\*) [^ext-13]. El constructo sobrevive intacto al cambio de teoría.
+
+**Reserva de construcción.** La medida se basa en lo que los residentes observan sobre la cohesión y la disposición a intervenir de otros residentes. Por eso no capta los contextos morales débiles que emergen donde hay muchos visitantes temporales, extraños entre sí, con poca inversión en el área. Wikström añade la ciudad y los centros locales, identificados por uso del suelo, como marcador complementario [^ext-14]. La objeción es específica y atendible: la eficacia colectiva mide barrios como comunidades de residentes, y los lugares que concentran delito no siempre lo son.
+
+> [!warning] Tensión sobre el alcance del enfoque territorial
+> [[sampson-vecindario-y-comunidad]] deriva de esta teoría una política de seguridad territorial. [[wikstrom-por-que-se-delinque]] no niega el efecto de área —lo conserva en su modelo— pero lo condiciona a quién use el territorio: el efecto de la exposición criminógena va de b = 8,3 en el quintil de mayor propensión al delito a 0,5 en el menor, y para la mitad inferior de ese último es efectivamente cero (b = 0,08; p = 0,419) [^ext-15]. En el modelo de vías, el tiempo que los jóvenes aversos al delito pasan en un área no tiene ninguna vía hacia sus cifras delictivas [^ext-16].
+>
+> Las dos posiciones son compatibles en el dato y divergen en la consecuencia práctica: para Sampson, elevar la eficacia colectiva de un barrio es la política; para Wikström, es una de las dos condiciones y no opera sola. Discusión registrada también en [[exposicion-criminogena]].
+
+Ninguno de los dos discute al otro directamente: Sampson escribe antes y Wikström lo cita sólo como fuente de una medida. La tensión la construye esta wiki, y por eso queda marcada como tal y no atribuida a ninguno de los dos autores.
+
 ## Cita
 
 > "las redes necesitan ser activadas para que en última instancia sean significativas"
@@ -54,6 +69,8 @@ Frente a eso el texto propone un criterio de discriminación: el requisito de **
 - [[legitimidad-policial]] — condición sin la cual la cooperación vecino-policía no se produce, por mucha eficacia colectiva que haya
 - [[ventanas-rotas]] — la estrategia rival, que el autor refuta desde esta misma base empírica
 - [[trabajo-de-grado-profesionalizante]] — el trabajo evaluado de S1.1 recae sobre una política municipal o proyecto de seguridad identificable, y ésta es la teoría con que el programa pide leerlo
+- [[exposicion-criminogena]] — dónde vive este constructo dentro de la teoría de la acción situacional
+- [[teoria-accion-situacional]] — el marco que lo adopta como marcador y lo subordina a la interacción con la propensión
 
 **Vacío declarado.** El módulo 3 de `programa/S1.1` enmarca esta obra dentro de la teoría de la desorganización social, que el texto no nombra. Ninguna fuente del corpus la define todavía: ver [[revision]].
 
@@ -70,3 +87,8 @@ Frente a eso el texto propone un criterio de discriminación: el requisito de **
 [^ext-9]: **Extraído** — [[sampson-vecindario-y-comunidad]], p. 245.
 [^ext-10]: **Extraído** — [[sampson-vecindario-y-comunidad]], p. 245, sobre McRoberts (2003).
 [^ext-11]: **Extraído** — [[sampson-vecindario-y-comunidad]], pp. 245-246.
+[^ext-12]: **Extraído** — [[wikstrom-por-que-se-delinque]], p. 356, nota 15.
+[^ext-13]: **Extraído** — [[wikstrom-por-que-se-delinque]], Figura 5, p. 363.
+[^ext-14]: **Extraído** — [[wikstrom-por-que-se-delinque]], p. 356, nota 16.
+[^ext-15]: **Extraído** — [[wikstrom-por-que-se-delinque]], Tabla 2, p. 359, y p. 360.
+[^ext-16]: **Extraído** — [[wikstrom-por-que-se-delinque]], p. 364.

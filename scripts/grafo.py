@@ -36,7 +36,9 @@ COHESION_MINIMA = 0.15
 GRADO_AISLADA = 1
 PUENTE_MINIMO = 3
 
-RE_WIKILINK = re.compile(r"\[\[([^\]|#]+)(?:[#|][^\]]*)?\]\]")
+# El lookbehind excluye los embeds de Obsidian (![[figura.png]]): un adjunto
+# de raw/assets/ no es una pagina y no debe contarse como enlace roto.
+RE_WIKILINK = re.compile(r"(?<!!)\[\[([^\]|#]+)(?:[#|][^\]]*)?\]\]")
 RE_LISTA = re.compile(r"\[(.*?)\]", re.S)
 
 SERVICIO = {"indice", "index", "bitacora", "log", "panorama", "overview",
