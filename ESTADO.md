@@ -4,16 +4,16 @@
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 87 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 100 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 85 | 97.7 % |
+| `pendiente` | 96 | 96.0 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 2 | 2.3 % |
+| `completo` | 4 | 4.0 % |
 
 ## Por cumulo
 
@@ -23,9 +23,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Bibliografía S1.1, consulta y complementaria | 5 | 5 | 0 | 0 | 0 |
 | Explicación del delito | 4 | 4 | 0 | 0 | 0 |
 | Gobernanza criminal y territorio | 6 | 6 | 0 | 0 | 0 |
+| Ingreso sin clasificar | 13 | 13 | 0 | 0 | 0 |
 | Integrados desde el programa del curso (05-09-2026) | 9 | 9 | 0 | 0 | 0 |
 | Medición e inseguridad | 5 | 5 | 0 | 0 | 0 |
-| Núcleo ancla S1.1 | 4 | 2 | 0 | 0 | 2 |
+| Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
 | Prevención e intervención | 4 | 4 | 0 | 0 | 0 |
 | Sistema penal y Estado de derecho | 8 | 8 | 0 | 0 | 0 |
 | Vínculo Estado-crimen | 18 | 18 | 0 | 0 | 0 |
@@ -42,6 +43,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 Estas fichas no se citan hasta cotejarlas contra el documento.
 
+- [[adams-violencia-cronica]]
 - [[programa-magister-uah]]
 - [[sampson-vecindario-y-comunidad]]
 
@@ -99,6 +101,22 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf
 - `pendiente` — 2024 - Campana y Meneghini - El desplazamiento del crimen organizado en comunidades locales.pdf
 
+### Ingreso sin clasificar
+
+- `pendiente` — Criminal-mente. La criminología como ciencia.pdf
+- `pendiente` — Criminologia ambiental Bernaola Ponce Nagore.pdf
+- `pendiente` — Criminología Empresarial.pdf
+- `pendiente` — Criminología Preventiva .pdf
+- `pendiente` — Criminología Preventiva II.pdf
+- `pendiente` — Criminología Preventiva. Estrategias-1.pdf
+- `pendiente` — Criminología Psicológica.pdf
+- `pendiente` — Criminología ambiental.pdf
+- `pendiente` — Criminología mediatica.pdf
+- `pendiente` — Criminología y victimología.pdf
+- `pendiente` — DOGMÁTICA PENAL y CRIMINOLOGÍA CAUTELAR.pdf
+- `pendiente` — Delincuencia_Criminologia_y_Sociedad.pdf
+- `pendiente` — Introduccion-al-Estudio-de-la-Criminologia.pdf
+
 ### Integrados desde el programa del curso (05-09-2026)
 
 - `pendiente` — 2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf
@@ -122,9 +140,9 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 ### Núcleo ancla S1.1
 
 - `completo` — 2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf
-- `pendiente` — 2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf
+- `completo` — 2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf
 - `completo` — 2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf
-- `pendiente` — 2023 - Albarracín - Crimen organizado en América Latina.pdf
+- `completo` — 2023 - Albarracín - Crimen organizado en América Latina.pdf
 
 ### Prevención e intervención
 

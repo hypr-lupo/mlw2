@@ -1,6 +1,11 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 11-09-2026 · **Total:** 93 documentos · **609 MB**
+**Fecha:** 12-09-2026 · **Total:** 106 documentos · **662 MB**
+
+> **13 documentos ingresaron el 12-09-2026 sin clasificar.** Están al final de
+> este archivo, en el cúmulo `Ingreso sin clasificar`, que es una cuarentena y no
+> una categoría temática. Ninguno entra al orden de ingesta hasta que se resuelva
+> el ítem correspondiente de `wiki/revision.md`.
 
 `raw/sources/` es plano y no admite subcarpetas. La única taxonomía del corpus es
 esta tabla: el agrupamiento vive aquí, en metadatos, no en el árbol de archivos.
@@ -206,3 +211,72 @@ Alimenta: S3.E4.
 | 2026 - Universidad Alberto Hurtado - Horario, cohorte 2026, segundo semestre.pdf | 0.2 | `d682a5d2d7d9` |
 | 2026 - Universidad Alberto Hurtado - Programa del curso, Introducción a la criminología y aspectos teóricos de la prevención del delito y la violencia.pdf | 0.2 | `ca72cd4eae09` |
 | 2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md | 0.0 | `65150a2e467f` |
+
+## Ingreso sin clasificar · 13 doc.
+
+
+**Cuarentena, no cúmulo temático.** Trece archivos aparecieron en `raw/sources/` el
+12-09-2026, sin nomenclatura del corpus y sin pasar por decisión de alcance. Se listan
+aquí para que `scripts/estado.py` deje de reportarlos como anomalía y para que la
+situación quede visible, **no** para incorporarlos al orden de ingesta.
+
+Tres constataciones de la verificación del 12-09-2026:
+
+1. **Trece archivos, diez obras.** Hay duplicados exactos por MD5: `Criminología
+   Preventiva .pdf` y `Criminología Preventiva. Estrategias-1.pdf` son el mismo
+   archivo, y `Criminología mediatica.pdf` y `Criminología y victimología.pdf` también.
+   `Criminología Preventiva II.pdf` tiene otro hash pero las mismas 161 páginas y la
+   misma portada que las dos primeras: es una reexportación, no un segundo volumen.
+2. **Ninguna está en la bibliografía oficial** de los cuatro programas de curso
+   recibidos. Zaffaroni aparece en S1.3, pero por *En busca de las penas perdidas*
+   (2006), que **no** es la obra que llegó. Es el mismo patrón de sustitución falsa
+   que `programa/S1.1` ya registró con Romero Mendoza frente a Alvarado.
+3. **Ninguna cubre los vacíos declarados** en `purpose.md`: siguen faltando Merton,
+   los dos Sutherland y Lamnek para el módulo 5 de S1.1, Renzetti para criminología
+   feminista, y toda la bibliografía oficial de S2.4.
+
+| Documento | MB | MD5 |
+|---|---:|---|
+| Criminal-mente. La criminología como ciencia.pdf | 2.2 | `35570db4be57` |
+| Criminologia ambiental Bernaola Ponce Nagore.pdf | 2.9 | `2d80f9d89df2` |
+| Criminología Empresarial.pdf | 0.8 | `8208f9d5caa7` |
+| Criminología Preventiva .pdf | 5.6 | `84bb567b9b71` |
+| Criminología Preventiva II.pdf | 5.6 | `ad7a602372ad` |
+| Criminología Preventiva. Estrategias-1.pdf | 5.6 | `84bb567b9b71` |
+| Criminología Psicológica.pdf | 8.3 | `b232e82520a1` |
+| Criminología ambiental.pdf | 2.2 | `83da5982df7d` |
+| Criminología mediatica.pdf | 1.8 | `19a51b9488fa` |
+| Criminología y victimología.pdf | 1.8 | `19a51b9488fa` |
+| DOGMÁTICA PENAL y CRIMINOLOGÍA CAUTELAR.pdf | 0.8 | `57dbd80b8388` |
+| Delincuencia_Criminologia_y_Sociedad.pdf | 7.7 | `3fd71b116699` |
+| Introduccion-al-Estudio-de-la-Criminologia.pdf | 8.7 | `f152edbad675` |
+
+### Identificación
+
+Datos tomados de las páginas de imprenta de cada archivo, no de la portada. Se
+registran para que, si alguna se admite, pueda renombrarse a la nomenclatura del
+corpus sin volver a abrirla.
+
+| Archivo | Obra identificada | Imprenta | Tipo |
+|---|---|---|---|
+| Criminología ambiental.pdf | Vozmediano Sanz, L. y San Juan Guillén, C. *Criminología ambiental: ecología del delito y de la seguridad* | Editorial UOC, 1.ª ed. castellana mayo 2010 · ISBN 978-84-9788-847-5 | Manual académico |
+| Criminología mediatica.pdf · Criminología y victimología.pdf | Gaibor, P. C. *Criminología mediática y victimología del miedo* | Universidad Andina Simón Bolívar, Quito · Serie Magíster 285 · ISBN 978-9942-837-08-0 · **año por confirmar** | Tesis de magíster publicada |
+| DOGMÁTICA PENAL y CRIMINOLOGÍA CAUTELAR.pdf | Zaffaroni, E. R., Bailone, M. y Mavila León, R. *Dogmática penal y criminología cautelar* | Lima, 1.ª ed. octubre 2017 · Depósito Legal BNP 2017-13237 | Ensayo académico |
+| Criminología Preventiva (3 archivos) | Ríos Patio, G. y Hikal, W. (dirs.); Riega Cayetano, R. y Pérez Arroyo, M. (coords.). *Criminología preventiva*. Colección de criminologías específicas, libro 12 | Universidad de San Martín de Porres, Fondo Editorial · 1.ª ed. electrónica mayo 2022, 161 pp. · ISBN 978-612-4460-43-2 | Obra colectiva |
+| Criminología Psicológica.pdf | Hikal Carreón, W. S. *Criminología psicológica* | México, 1.ª ed. 2011 · © 2013 · ISBN 978-607-09-1403-4 | Manual |
+| Introduccion-al-Estudio-de-la-Criminologia.pdf | Hikal Carreón, W. S. *Introducción al estudio de la criminología* | México, 2.ª ed. · 1.ª ed. 2009 · © 2013 · ISBN 978-607-09-1475-1 | Manual |
+| Delincuencia_Criminologia_y_Sociedad.pdf | Vélez Salas, A. *Delincuencia, criminología y sociedad* | FUOC, © 2012 | Módulo docente |
+| Criminología Empresarial.pdf | Zapata, A. *Criminología empresarial: manual de intervención criminológica en las empresas* | 2017 | Manual profesional |
+| Criminologia ambiental Bernaola Ponce Nagore.pdf | Bernaola Ponce, N. *Criminología ambiental orientada a la delincuencia juvenil* (dir. L. Vozmediano Sanz y E. Ocáriz Passevant) | Universidad del País Vasco, curso 2014-2015 | **Trabajo de fin de grado** |
+| Criminal-mente. La criminología como ciencia.pdf | Velasco de la Fuente, P. *Criminal-mente: la criminología como ciencia* | Grupo Planeta · **año por confirmar**, no anterior a 2016 | Divulgación de gran público |
+
+Dos obras quedan con año por confirmar y ninguna con autor sin identificar.
+
+**Sin duplicados con el corpus preexistente.** Se cruzaron los MD5 de los 106 archivos
+de `raw/sources/`: hay 104 contenidos distintos, y los dos únicos grupos de duplicados
+son los dos pares internos de este ingreso. Ninguno de los trece repite un documento
+que ya estuviera en el corpus.
+
+La decisión de alcance y la recomendación están en `wiki/revision.md`. Si se admite
+alguna, se renombra a la nomenclatura del corpus, se traslada al cúmulo que
+corresponda y se elimina esta sección de cuarentena.

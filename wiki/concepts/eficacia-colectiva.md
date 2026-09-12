@@ -1,7 +1,7 @@
 ---
 title: Eficacia colectiva
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
@@ -57,6 +57,18 @@ Añadido el 12-09-2026 al ingerir [[wikstrom-por-que-se-delinque]]. Es la primer
 
 Ninguno de los dos discute al otro directamente: Sampson escribe antes y Wikström lo cita sólo como fuente de una medida. La tensión la construye esta wiki, y por eso queda marcada como tal y no atribuida a ninguno de los dos autores.
 
+## El constructo rival: capital social
+
+Añadido el 12-09-2026 al ingerir [[adams-violencia-cronica]]. Es una tensión distinta de la anterior, y más de fondo, porque no es sobre el alcance del efecto sino sobre qué se está midiendo.
+
+Sampson construye la eficacia colectiva **contra** la idea de vínculos densos, íntimos y emocionales, y su argumento central es que las redes sociales no bastan: necesitan activarse [^ext-2]. Adams, en cambio, organiza su tratamiento de la cohesión alrededor del **capital social** de Putnam —los sistemas y relaciones de apoyo que permiten confianza, obligaciones mutuas y respeto—, y trabaja con los hallazgos de Putnam sobre Estados Unidos: desde 1960, la caída sistemática del capital social y del compromiso cívico se correlaciona con más criminalidad, más inseguridad barrial y más violencia interpersonal, además de peores resultados en bienestar infantil, salud y participación democrática [^ext-17].
+
+Adams añade una implicación que Sampson no aborda: Putnam sostiene que el capital social es infraestructura de la democracia y que el estado de derecho requiere altos niveles de capital social para funcionar; y los esfuerzos por construir democracia y estado de derecho en América Latina se despliegan en sociedades donde ese capital es bajo. Fortalecer el estado de derecho resulta entonces mucho más caro —económica, política y socialmente— cuando faltan las condiciones que fomentan la obediencia social [^ext-18]. Sostiene además que los bajos niveles de capital social son a la vez causa y efecto de la violencia crónica [^ext-19].
+
+**Qué hacer con esto.** Las dos autoras concluyen lo mismo en la dirección del efecto —menos cohesión va con más violencia— y no discuten entre sí. Pero son constructos distintos, con mediciones distintas, y uno se formuló explícitamente para corregir al otro. Usarlos como sinónimos en un trabajo evaluado sería un error: la eficacia colectiva mide expectativas compartidas de intervenir ante una tarea; el capital social mide densidad de vínculos y compromiso cívico. Ver [[violencia-cronica]].
+
+Vale la pena notar que la advertencia de Sampson sobre los usos excluyentes de la comunidad encuentra en Adams su documentación regional: barreras, patrullas vecinales, linchamientos y condominios cerrados son disposición a intervenir puesta al servicio de la exclusión. Ver [[gobernanzas-paralelas]] y [[miedo-social]].
+
 ## Cita
 
 > "las redes necesitan ser activadas para que en última instancia sean significativas"
@@ -92,3 +104,6 @@ Ninguno de los dos discute al otro directamente: Sampson escribe antes y Wikstr�
 [^ext-14]: **Extraído** — [[wikstrom-por-que-se-delinque]], p. 356, nota 16.
 [^ext-15]: **Extraído** — [[wikstrom-por-que-se-delinque]], Tabla 2, p. 359, y p. 360.
 [^ext-16]: **Extraído** — [[wikstrom-por-que-se-delinque]], p. 364.
+[^ext-17]: **Extraído** — [[adams-violencia-cronica]], sección II.F, p. 28, sobre Putnam (2000, pp. 287-367).
+[^ext-18]: **Extraído** — [[adams-violencia-cronica]], sección II.F, p. 29, sobre Putnam (2000, pp. 336-414).
+[^ext-19]: **Extraído** — [[adams-violencia-cronica]], sección II.F, pp. 28-29.

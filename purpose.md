@@ -70,16 +70,16 @@ lecturas obligatorias de obras de consulta, y el único que recorre el arco teó
 completo que los demás presuponen. Su ficha, `programa/S1.1`, fija qué es P1 y por
 qué; este archivo sólo traduce eso a orden de ingesta.
 
-**Orden de ingesta.** El corpus está desbalanceado: 42 de 93 documentos vienen de
+**Orden de ingesta.** El corpus está desbalanceado: 42 de 106 documentos vienen de
 un taller electivo de doce horas, y las diez asignaturas obligatorias —216 de las
 240 horas lectivas— suman muchos menos. Ingerir primero ese bloque fijaría un
 encuadre de crimen organizado transnacional que distorsionaría la clasificación de
 todo lo posterior. **Se ingiere en orden inverso al volumen**, y encabezado por el
 núcleo ancla, según los cúmulos de `INVENTARIO.md`:
 
-1. Núcleo ancla S1.1 (4)
-2. Programas oficiales y malla (6)
-3. Bibliografía S1.1, consulta y complementaria (5)
+1. ~~Núcleo ancla S1.1 (4)~~ — **completo el 12-09-2026**
+2. Bibliografía S1.1, consulta y complementaria (5)
+3. Programas oficiales y malla (5 restantes)
 4. Explicación del delito (4)
 5. Prevención e intervención (4)
 6. Medición e inseguridad (5)
@@ -88,6 +88,27 @@ núcleo ancla, según los cúmulos de `INVENTARIO.md`:
 9. Integrados desde el programa del curso (9)
 10. Vínculo Estado-crimen (18)
 11. Amenaza y securitización (24)
+
+Dos ajustes al orden original, decididos el 12-09-2026 al cerrar el núcleo ancla:
+
+- **La bibliografía de consulta de S1.1 sube al segundo lugar**, por delante de los
+  programas oficiales restantes. Razón: los cuatro programas de los ramos en curso ya
+  están recibidos y fichados, de modo que los cinco documentos que quedan en ese
+  cúmulo —tres programas de ramos futuros y el horario— no desbloquean nada hoy. Se
+  ingieren por excepción cuando su ramo se acerque.
+- **Dentro del cúmulo de consulta, García-Pablos de Molina no se ingiere entero.** Son
+  113,7 MB de un tratado que recorre el arco teórico completo, y hacerlo en una pasada
+  sería el mayor evento de encuadre de toda la wiki: exactamente el riesgo que este
+  mismo apartado declara al ordenar por volumen inverso. Se trata como obra de
+  referencia y se ingiere por capítulos atados a un módulo concreto. El orden interno
+  del cúmulo queda: Guía ONU-Hábitat (opera el trabajo evaluado), Blanco, Alda y Beliz,
+  Garland completo, y García-Pablos por capítulos.
+
+**Corpus sin clasificar.** Trece archivos ingresaron a `raw/sources/` el 12-09-2026 sin
+nomenclatura y sin decisión de alcance. Están en cuarentena en `INVENTARIO.md` y **no
+entran a este orden** hasta que se resuelva el ítem de alcance de [[revision]]. Son
+diez obras —hay duplicados exactos—, ninguna figura en la bibliografía oficial de los
+programas recibidos y ninguna cubre los vacíos declarados más abajo.
 
 **Obras fundacionales.** Son las que fundan un marco que otro ramo presupone, o que
 sostienen sin sustituto un contenido evaluado. Se ingieren completas y primero; el

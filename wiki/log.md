@@ -8,6 +8,78 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-09-12] ingesta | Adams (2017), La violencia crónica y su reproducción
+
+**Cierra el núcleo ancla S1.1: las cuatro obligatorias quedan ingeridas.**
+
+- Ficha creada: [[adams-violencia-cronica]]
+- Páginas creadas: [[violencia-cronica]], [[miedo-social]], [[zona-gris]],
+  [[muerte-social]], [[gobernanzas-paralelas]]
+- Páginas actualizadas: [[eficacia-colectiva]] —la tensión con el capital social de
+  Putnam; tercera fuente—, [[crimen-organizado]] —el comercio ilícito de Naím; segunda
+  fuente—, [[gobernanza-criminal]] —el puente con las gobernanzas paralelas—, más
+  [[index]], [[referencias]], [[overview]], [[revision]], [[pendientes]]
+- Contradicciones: 2. Una **interna a la fuente**, registrada en [[miedo-social]] y en
+  la ficha: la autora sostiene que la traumatización política extrema explica
+  respuestas desproporcionadas al riesgo y acto seguido cita al Banco Mundial
+  negando que el legado del conflicto armado explique la violencia centroamericana.
+  Y una **de constructo** entre dos obligatorias del mismo ramo: Adams trabaja con el
+  capital social de Putnam, que es el concepto contra el que Sampson definió la
+  eficacia colectiva. Ninguna de las dos autoras discute a la otra.
+- En revisión: 2 ítems nuevos —fecha de publicación y el legado del conflicto—. La
+  cola queda en 14.
+- Sin figuras sustantivas: imágenes sólo en portada y contraportada. El único
+  elemento gráfico del cuerpo es un mapa de tasas de homicidio cuya leyenda quedó
+  legible en la extracción y se describe en la ficha.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-09-12-adams-violencia-cronica.md`.
+- Notas: la fuente con más superficie de contacto de las cuatro. Puebla
+  `victimizacion-e-inseguridad`, que estaba declarado y vacío; tras esta ingesta sólo
+  quedan vacíos `medicion-y-metodo` y `caso-de-grado`. [[muerte-social]] es además lo
+  único que el corpus ofrece hoy para S2.4, ramo en curso sin ningún documento de su
+  bibliografía oficial.
+- **Verificación bibliográfica pendiente, por una razón nueva:** no hay discrepancia
+  entre corpus y programa —ambos dicen 2017— sino dentro del documento, que no declara
+  fecha y no cita nada posterior a 2011.
+- Corregido `scripts/grafo.py` por segunda vez: `purpose` y `schema` viven en la raíz
+  del vault y no en `wiki/`, de modo que enlazarlos se contaba como enlace roto. Se
+  añadieron al conjunto `SERVICIO`, que existe justamente para eso. Sólo salió a la
+  luz ahora porque las páginas de contenido no habían enlazado a `purpose` antes; las
+  de servicio, que sí lo hacían, no entran al grafo.
+- Anomalía detectada por `scripts/estado.py` durante esta ingesta: `raw/sources/`
+  pasó de 93 a 106 documentos. Trece archivos nuevos, sin registrar en
+  `INVENTARIO.md`. Se tratan en la revisión de corpus que sigue a esta entrada.
+
+## [2026-09-12] ingesta | Albarracín (2023), Crimen organizado en América Latina
+
+- Ficha creada: [[albarracin-crimen-organizado-america-latina]]
+- Páginas creadas: [[gobernanza-criminal]], [[crimen-organizado]],
+  [[debilidad-estatal]], [[mano-dura-y-militarizacion]]
+- Páginas actualizadas: [[policia-comunitaria]] —el caso UPP de Rio, su primer caso
+  latinoamericano—, [[legitimidad-policial]] —evidencia de Cali y México—,
+  [[ventanas-rotas]] —una nota de convergencia, sin añadir fuente—, más [[index]],
+  [[referencias]], [[overview]], [[revision]], [[pendientes]]
+- Contradicciones: ninguna frontal. Se registran una convergencia entre corpus
+  independientes —Sampson sobre tolerancia cero y Albarracín sobre mano dura llegan a
+  la misma conclusión política— y un desplazamiento de supuesto: el aparato estatal,
+  que en las dos fuentes anteriores era solución o contexto, aparece aquí como pieza
+  constitutiva del crimen organizado.
+- En revisión: 3 ítems nuevos —el hueco de esquema para grupos criminales, las
+  milícias de Rio y la CICIG—. La cola queda en 12.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-09-12-albarracin-crimen-organizado-america-latina.md`.
+- Notas: primera fuente latinoamericana y primera del clúster `gobernanza-criminal`,
+  que estaba declarado y vacío; estrena además `sistema-penal`. Sin imágenes
+  incrustadas: nada que extraer a `raw/assets/`.
+- **Advertencia de género registrada en la ficha:** es un informe de estado del arte
+  de un centro de pensamiento político, no investigación primaria. Casi todas sus
+  afirmaciones son citas de estudios ajenos, y las páginas derivadas nombran en cada
+  caso el estudio original. Citarlo como respaldo empírico sería citar una fuente
+  secundaria.
+- Vacío que la fuente hace visible: ningún caso chileno. Chile aparece una vez, de
+  pasada. Tres fuentes ingeridas —Chicago, Peterborough y América Latina sin Chile— y
+  el clúster `caso-de-grado` sigue vacío.
+
 ## [2026-09-12] ingesta | Wikström (2017), Por qué se delinque
 
 - Ficha creada: [[wikstrom-por-que-se-delinque]]

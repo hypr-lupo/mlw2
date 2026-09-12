@@ -1,7 +1,7 @@
 ---
 title: Policía comunitaria
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -34,6 +34,16 @@ Débil, y el propio autor lo declara: la evidencia de que los esfuerzos de polic
 
 El contraste con el resto del artículo es deliberado y conviene conservarlo: el autor es firme sobre eficacia colectiva, donde tiene datos propios, y explícitamente cauto aquí. Citarlo como respaldo fuerte del modelo sería atribuirle una confianza que no tiene.
 
+## El caso latinoamericano: las UPP de Rio
+
+Añadido el 12-09-2026 al ingerir [[albarracin-crimen-organizado-america-latina]]. Es el primer caso de la región que entra a esta página, y no es un caso de éxito.
+
+Las Unidades de Policía Pacificadora de Rio de Janeiro intentaron transformar la estrategia del Estado frente a territorios controlados por grupos criminales territoriales, implementando un proyecto de policía de proximidad con mejor provisión de bienes públicos —la llamada UPP social—. Pese a resultados positivos iniciales, la estrategia fue abandonada progresivamente y el Estado volvió a su política de ocupación temporal mediante operaciones policiales militarizadas [^ext-8].
+
+El texto menciona en el mismo lugar otros intentos de reformar y democratizar los aparatos de seguridad en la región, y las «zonas futuro» del gobierno de Iván Duque en Colombia, que preveían presencia integral del Estado y consulta a las poblaciones locales pero cuyos aspectos no coercitivos no llegaron a concretarse [^ext-8].
+
+El patrón que deja es distinto del que describe Sampson. Allí el problema era construir legitimidad; aquí el modelo se implementó, mostró resultados y **se revirtió**. Lo que falta explicar no es por qué no funciona, sino por qué no se sostiene. Ver [[mano-dura-y-militarizacion]], que es la política a la que se volvió.
+
 ## Condición de fracaso
 
 Donde la policía es recibida con desconfianza —barrios de minorías étnicas, que soportan las mayores tasas de violencia—, los esfuerzos de cooperación fracasan aunque los residentes compartan el deseo de que haya menos delito e incluso estén dispuestos a participar [^ext-7]. Es decir: la voluntad vecinal no basta; la legitimidad es previa. Ver [[legitimidad-policial]].
@@ -61,3 +71,4 @@ El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía d
 [^ext-5]: **Extraído** — [[sampson-vecindario-y-comunidad]], p. 242.
 [^ext-6]: **Extraído** — [[sampson-vecindario-y-comunidad]], p. 243.
 [^ext-7]: **Extraído** — [[sampson-vecindario-y-comunidad]], pp. 243-244.
+[^ext-8]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 9, nota 4.

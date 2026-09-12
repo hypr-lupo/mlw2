@@ -41,8 +41,10 @@ PUENTE_MINIMO = 3
 RE_WIKILINK = re.compile(r"(?<!!)\[\[([^\]|#]+)(?:[#|][^\]]*)?\]\]")
 RE_LISTA = re.compile(r"\[(.*?)\]", re.S)
 
+# "purpose" y "schema" viven en la raiz del vault, no en wiki/, pero son
+# documentos de servicio igual que los demas: enlazarlos no es un enlace roto.
 SERVICIO = {"indice", "index", "bitacora", "log", "panorama", "overview",
-            "pendientes", "revision", "referencias"}
+            "pendientes", "revision", "referencias", "purpose", "schema"}
 
 
 # --------------------------------------------------------------------------- #

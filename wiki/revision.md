@@ -12,6 +12,68 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 
 ## Abiertos
 
+- [ ] **[alcance]** Trece documentos ingresaron sin clasificar el 12-09-2026 — es la
+      decisión más urgente de la cola, porque hasta resolverla el corpus declara 106
+      documentos de los que trece no tienen estatus. Están en cuarentena en
+      `INVENTARIO.md`, cúmulo `Ingreso sin clasificar`, con su identificación completa.
+      Acción propuesta: `preguntar` · Origen: verificación de corpus 2026-09-12
+
+      **Lo verificado.** Trece archivos son diez obras: `Criminología Preventiva .pdf`
+      y `Criminología Preventiva. Estrategias-1.pdf` comparten MD5; `Criminología
+      mediatica.pdf` y `Criminología y victimología.pdf` también; y `Criminología
+      Preventiva II.pdf`, pese a otro hash, tiene las mismas 161 páginas y la misma
+      portada. Ninguna de las diez está en la bibliografía oficial de los cuatro
+      programas recibidos, y ninguna cubre los vacíos declarados en [[purpose]].
+
+      **Zaffaroni es una falsa coincidencia.** S1.3 pide *En busca de las penas
+      perdidas* (2006) y lo que llegó es *Dogmática penal y criminología cautelar*.
+      Mismo patrón que `programa/S1.1` ya registró con Romero Mendoza frente a
+      Alvarado: título y autor cercanos, obra distinta.
+
+      **Recomendación, en tres grupos.**
+      · **Admitir como P3, material de apoyo (2).** *Criminología ambiental* de
+        Vozmediano y San Juan es un manual académico consolidado, y la criminología
+        ambiental es precisamente el marco teórico del enfoque territorial del módulo 3
+        y de la prevención situacional del módulo 6; es además la casa teórica de
+        Clarke (1997) y Weisburd y otros (2016), ambos en el corpus. *Criminología
+        mediática y victimología del miedo* de Gaibor ancla a [[miedo-social]] y al
+        cúmulo `Medición e inseguridad`. Ninguna es bibliografía obligatoria: entrarían
+        detrás de todo lo oficial, nunca por delante.
+      · **Decidir con criterio propio (1).** Zaffaroni es autor central de S1.3 y esta
+        obra no es la pedida. Admitirla es defendible como lectura de apoyo; usarla
+        como sustituto de *En busca de las penas perdidas* no lo es.
+      · **Dejar fuera (7).** El resto —la colección de criminologías específicas, el
+        manual introductorio, el módulo docente de la UOC, *Criminología empresarial*,
+        el libro de divulgación de Planeta y el trabajo de fin de grado de la
+        Universidad del País Vasco— cae en lo que [[purpose]] declara expresamente
+        fuera: ampliación temática que no se ancla a un ramo de la malla ni al trabajo
+        de grado. Dos de ellos no son citables en un trabajo evaluado bajo ningún
+        criterio: un TFG de pregrado y un libro de gran público.
+
+      **Higiene, independientemente de lo anterior.** Las tres copias de *Criminología
+      preventiva* y las dos de Gaibor deberían quedar en una sola cada una. Mientras no
+      se resuelva, el corpus cuenta cinco documentos donde hay dos, y `ESTADO.md`
+      reportará avances sobre archivos duplicados. El cruce de MD5 sobre los 106
+      archivos confirma que no hay ningún otro duplicado en el corpus y que ninguno de
+      los trece repite un documento preexistente.
+
+      **Lo que añade la identificación por página de imprenta** (12-09-2026, segunda
+      pasada). Refuerza el primer grupo y matiza el tercero:
+      · *Criminología ambiental* queda plenamente identificada —Editorial UOC, primera
+        edición castellana de mayo de 2010, ISBN 978-84-9788-847-5—. Es manual de
+        editorial universitaria, no material suelto, y eso sostiene la recomendación de
+        admitirla.
+      · *Criminología preventiva* resultó más institucional de lo que parecía:
+        Universidad de San Martín de Porres, Fondo Editorial, 2022, ISBN peruano. Sigue
+        sin estar en ningún programa, pero la razón para dejarla fuera es de alcance, no
+        de calidad editorial.
+      · **Tres de las diez obras salen de la misma órbita de autor:** Hikal firma
+        *Criminología psicológica* e *Introducción al estudio de la criminología*, y
+        codirige la colección donde aparece *Criminología preventiva*. Con el libro de
+        divulgación y el trabajo de fin de grado, el conjunto se parece más a una
+        adquisición en bloque que a una bibliografía curada, que es justamente lo que
+        [[purpose]] describe como ampliación temática por interés propio.
+
 - [ ] **[tesis]** «Anclaje empírico frente a marco conceptual heredado» — el
       programa exige que el trabajo de grado se ancle en una política, programa o
       proyecto identificable; el marco conceptual del proyecto anterior no lo hace.
@@ -107,6 +169,65 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
         merece ingesta completa, pero después del núcleo ancla, no antes.
       Criterio: lo anterior es una recomendación de orden, no una decisión. La toma
       el autor.
+
+- [ ] **[esquema]** Los grupos criminales no tienen dónde caber — un grupo como el
+      PCC, las milícias de Rio o un cartel no encaja en ninguno de los cinco
+      `subtipo` admitidos para `entity`: `persona`, `organismo`, `politica`,
+      `programa`, `territorio`. Forzarlos a `organismo` pondría una milicia y una
+      comisión internacional en la misma categoría.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-09-12
+      Criterio: es material de la operación 8, no de una ingesta. `schema.md` ya
+      prevé reevaluar los tipos cuando se elija el caso de anclaje; conviene
+      resolverlo en la misma pasada y no antes, para no declarar un subtipo por cada
+      fuente nueva. Mientras tanto, los grupos viven dentro de
+      [[gobernanza-criminal]] y [[crimen-organizado]].
+
+- [ ] **[entidad]** «Milícias de Rio de Janeiro» — hoy el caso más desarrollado de
+      toda la wiki sobre actores estatales que constituyen crimen organizado: cerca
+      de 1,7 millones de personas bajo su dominio. Vive dentro de
+      [[gobernanza-criminal]].
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-12
+      Criterio: crearla si una segunda fuente las retoma. El cúmulo `Vínculo
+      Estado-crimen` tiene candidatas —Arias, Duncan, Schultze-Kraft—, todas sin
+      ingerir. Depende además de resolver el ítem de esquema anterior.
+
+- [ ] **[entidad]** CICIG, Comisión Internacional Contra la Impunidad en Guatemala —
+      único ejemplo positivo que ofrece [[albarracin-crimen-organizado-america-latina]]
+      para la recomendación de política contra la impunidad estatal, y descansa en un
+      solo estudio (Trejo y Nieto-Matiz, 2022).
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-12
+      Criterio: crearla sólo con una segunda fuente. Una página de caso construida
+      sobre un estudio citado de segunda mano es exactamente el tipo de respaldo
+      aparente que [[purpose]] declara como el error más costoso del proyecto.
+
+- [ ] **[fuente]** Fecha de publicación de Adams — el corpus y `programa/S1.1`
+      coinciden en 2017, de modo que entre ellos no hay discrepancia. Pero el
+      documento no consigna fecha en ninguna parte y su aparato bibliográfico no
+      contiene ninguna obra posterior a 2011: 136 menciones de 2010, 55 de 2011,
+      ninguna de 2012 en adelante. La autora menciona además como reciente el Informe
+      Global sobre Homicidios de la ONU, de 2011.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-09-12
+      Consulta sugerida: wilsoncenter.org/ChronicViolence — año del original en
+      inglés y año de la traducción al español de Megan Thomas.
+      Importa por dos cosas: se citará en un trabajo evaluado, y cambia cómo se lee
+      su vigencia. Un diagnóstico regional redactado hacia 2011 antecede a la
+      escalada centroamericana posterior y a todo lo ocurrido en Chile.
+
+- [ ] **[contradicción]** ¿Pesa el legado del conflicto armado sobre la violencia
+      actual? [[adams-violencia-cronica]] se contradice consigo misma en dos párrafos
+      consecutivos: sostiene que la traumatización política extrema explica respuestas
+      desproporcionadas al riesgo —con su propio trabajo de campo en Guatemala como
+      apoyo— y acto seguido cita al Banco Mundial concluyendo que la evidencia amplia
+      no sugiere que la violencia centroamericana resulte principalmente de ese
+      legado, sin relación significativa entre las localidades más golpeadas por la
+      guerra y la violencia contemporánea.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-09-12
+      Criterio: la resolución depende de qué se acepte como indicador. La autora
+      señala que el estudio del Banco define violencia estrechamente, por tasas de
+      homicidio —y la tesis de ella es justamente que la violencia crónica se mide mal
+      si sólo se cuentan homicidios—. Queda registrada en [[miedo-social]] y en la
+      ficha, sin resolver. El corpus tiene material que podría dirimirlo en el cúmulo
+      `Medición e inseguridad`, sin ingerir.
 
 ## Resueltos
 

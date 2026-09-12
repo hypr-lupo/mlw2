@@ -13,6 +13,12 @@ raw/sources/
 .obsidian/cache
 .trash/
 
+# El vault es la raiz del repositorio. Cualquier .obsidian/ anidado es un vault
+# abierto por error sobre una subcarpeta: estado de editor, no configuracion.
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+wiki/.obsidian/
+
 # ── Python ──────────────────────────────────────────────────────
 __pycache__/
 *.py[cod]

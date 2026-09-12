@@ -18,6 +18,18 @@
       "bytes": 356030,
       "ingerido": "2026-09-12",
       "ficha": "wiki/sources/wikstrom-por-que-se-delinque.md"
+    },
+    "2023 - Albarracín - Crimen organizado en América Latina.pdf": {
+      "sha256": "af03603b8125c70d772efc51b44edacce6033a068d4da590f32abc6a4782f3a1",
+      "bytes": 197598,
+      "ingerido": "2026-09-12",
+      "ficha": "wiki/sources/albarracin-crimen-organizado-america-latina.md"
+    },
+    "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf": {
+      "sha256": "78c7e8169ce136ce0ced8108f2b6c22f8e0c8a2f66181e5a94d5873fbce7bc7f",
+      "bytes": 1942490,
+      "ingerido": "2026-09-12",
+      "ficha": "wiki/sources/adams-violencia-cronica.md"
     }
   }
 }

@@ -1,7 +1,7 @@
 ---
 title: Legitimidad policial
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -25,6 +25,15 @@ De ahí la formulación del autor: lo que la gente pide es policía de otro tipo
 Por uso excesivo de la fuerza y por una mentalidad de estado de sitio en la actuación contra el desorden: detenciones masivas por faltas leves, tácticas agresivas de registro y cacheo sin motivo suficiente y razonable. El resultado es cinismo entre los residentes sobre la posibilidad misma de cooperación público-privada, y evidencia creciente de que estas tácticas comprometen la capacidad de la policía de actuar junto a los habitantes de vecindarios de minorías [^ext-3]. El fenómeno no es sólo estadounidense: el texto registra alienación equivalente entre grupos marginados de ciudades europeas [^ext-3]. Ver [[ventanas-rotas]].
 
 El daño es acumulativo y asimétrico: destruirla es rápido, reconstruirla requiere un tercero.
+
+### Medido en América Latina
+
+Añadido el 12-09-2026 al ingerir [[albarracin-crimen-organizado-america-latina]]. Sampson describe el mecanismo; estos dos estudios lo cuantifican en la región [^ext-5]:
+
+- **Cali, Colombia** (Blair y Weintraub, 2021). El patrullaje con unidades militares no sólo no redujo la actividad criminal: se asoció a su incremento una vez terminadas las operaciones, y a un aumento de los reportes de abusos de derechos humanos por agentes de policía.
+- **México** (Flores-Macías y Zarkin, 2022). El uso de fuerzas armadas en operaciones de seguridad interna está fuertemente vinculado al incremento de quejas por violaciones de derechos humanos contra agencias federales de seguridad.
+
+Y un agravante que Sampson no contempla. Si actores estatales ligados a seguridad e inteligencia son piezas constitutivas de los grupos criminales —el caso de las milícias de Rio, formadas por policías y expolicías—, entonces el problema no es sólo que la policía carezca de legitimidad ante la comunidad: es que en esos territorios la policía *es* el grupo criminal [^ext-6]. Ninguna estrategia de construcción de legitimidad opera sobre eso. Ver [[gobernanza-criminal]].
 
 ## Cómo se construye: el paraguas de legitimidad
 
@@ -56,4 +65,6 @@ El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como
 [^ext-2]: **Extraído** — [[sampson-vecindario-y-comunidad]], p. 242.
 [^ext-3]: **Extraído** — [[sampson-vecindario-y-comunidad]], p. 242.
 [^ext-4]: **Extraído** — [[sampson-vecindario-y-comunidad]], pp. 243-244, sobre Berrien y Winship (2002).
+[^ext-5]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 11.
+[^ext-6]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], Recuadro 1, p. 14.
 [^inf-1]: **Inferido** (confianza 0.6) — el texto describe el caso y nombra la función de institución intermedia, pero no discute su transferibilidad. La distinción entre el actor y la función es lectura propia sobre lo que la fuente dice.

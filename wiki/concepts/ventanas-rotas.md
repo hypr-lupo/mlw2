@@ -40,6 +40,8 @@ El texto responde de forma expresa a la pregunta de si ambas son la misma cosa, 
 
 Pendiente de confrontación. Dos fuentes del corpus discuten este mismo terreno desde supuestos distintos y ninguna está ingerida: Clarke (1997), sobre prevención situacional, y Weisburd y otros (2016), sobre concentración espacial del delito. Hasta entonces, la wiki registra una sola posición y no debe leerse como si registrara el estado del debate.
 
+**Corroboración lateral, no confrontación.** [[mano-dura-y-militarizacion]] reúne evidencia latinoamericana que apunta en la misma dirección que el segundo piso del argumento de Sampson —el político—, desde una literatura y un continente distintos. No es una discusión de ventanas rotas: mano dura y tolerancia cero son familias de política emparentadas pero no la misma, y esa página no toca el primer piso, que es el empírico. Vale como convergencia, no como confirmación.
+
 ## Relacionado
 
 - [[sampson-vecindario-y-comunidad]] — fuente de la crítica

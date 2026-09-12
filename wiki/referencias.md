@@ -14,6 +14,20 @@ Las fuentes del corpus que aún no se han ingerido no aparecen aquí; están en
 
 ## Ingeridas
 
+Adams, T. M. (2017). *La violencia crónica y su reproducción: tendencias perversas en
+las relaciones sociales, la ciudadanía y la democracia en América Latina*
+(M. Thomas, Trad.). Woodrow Wilson International Center for Scholars e Instituto
+Internacional de Aprendizaje para la Reconciliación Social.
+→ [[adams-violencia-cronica]] · **verificación bibliográfica pendiente**: el documento
+no declara fecha y no cita nada posterior a 2011 · reseña de literatura con trabajo de
+campo propio en Guatemala
+
+Albarracín, J. (2023). *Crimen organizado en América Latina* [Análisis].
+Friedrich-Ebert-Stiftung.
+→ [[albarracin-crimen-organizado-america-latina]] · verificada contra `programa/S1.1`
+· **informe de estado del arte**: sus afirmaciones empíricas son citas de estudios
+ajenos y se cita el estudio original, no a Albarracín
+
 Sampson, R. (2006). Vecindario y comunidad: eficacia colectiva y seguridad
 ciudadana (E. Larrauri Pijoan, Trad.). En *Claves del Gobierno Local* (Vol. 6,
 pp. 235-247). Fundación Democracia y Gobierno Local. (Obra original publicada en
@@ -43,3 +57,4 @@ el documento, no por inferencia.
 | Pavarini, *Control y dominación* | 1981, subtítulo «proyecto fascista de orden» | 2002, subtítulo «proyecto hegemónico» |
 | Srur, *¿Qué observan los que observan el delito?* | 2015 | octubre de 2014 |
 | Sampson, *Vecindario y comunidad* | 2006 | traducción sin año declarado de un original de 2004 |
+| Adams, *La violencia crónica y su reproducción* | 2017 | 2017, pero el documento no declara fecha y no cita nada posterior a 2011 |
