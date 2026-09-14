@@ -12,67 +12,36 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 
 ## Abiertos
 
-- [ ] **[alcance]** Trece documentos ingresaron sin clasificar el 12-09-2026 — es la
-      decisión más urgente de la cola, porque hasta resolverla el corpus declara 106
-      documentos de los que trece no tienen estatus. Están en cuarentena en
-      `INVENTARIO.md`, cúmulo `Ingreso sin clasificar`, con su identificación completa.
-      Acción propuesta: `preguntar` · Origen: verificación de corpus 2026-09-12
+- [ ] **[corpus]** Dos documentos registrados en `INVENTARIO.md` no estan en
+      `raw/sources/` — detectado el 13-09-2026 al cotejar el inventario contra el disco,
+      archivo por archivo. Los dos llevan MD5 registrado, de modo que existieron cuando
+      se levanto el inventario y desaparecieron despues.
+      Accion propuesta: `investigar` · Origen: agnosticacion 2026-09-13
 
-      **Lo verificado.** Trece archivos son diez obras: `Criminología Preventiva .pdf`
-      y `Criminología Preventiva. Estrategias-1.pdf` comparten MD5; `Criminología
-      mediatica.pdf` y `Criminología y victimología.pdf` también; y `Criminología
-      Preventiva II.pdf`, pese a otro hash, tiene las mismas 161 páginas y la misma
-      portada. Ninguna de las diez está en la bibliografía oficial de los cuatro
-      programas recibidos, y ninguna cubre los vacíos declarados en [[purpose]].
+      · **`2017 - Blokland y van der Geest (eds.) - Manual internacional Routledge de
+        criminologia del curso de vida.epub`** (5,1 MB, `b26e9da7f080`). Figura entre
+        los ocho titulos integrados el 12-09-2026 y [[pendientes]] lo cuenta como
+        recibido.
+      · **`2001 - Garland - La cultura del control... (original en ingles).pdf`**. El
+        inventario dice «se conservan ambos» al registrar la llegada de la traduccion
+        Gedisa; en disco solo esta la Gedisa.
 
-      **Zaffaroni es una falsa coincidencia.** S1.3 pide *En busca de las penas
-      perdidas* (2006) y lo que llegó es *Dogmática penal y criminología cautelar*.
-      Mismo patrón que `programa/S1.1` ya registró con Romero Mendoza frente a
-      Alvarado: título y autor cercanos, obra distinta.
+      Ninguno de los dos aparece tampoco en `ESTADO.md`, que cuenta sobre el disco y no
+      sobre el inventario: o nunca se copiaron a `raw/sources/`, o se borraron antes del
+      12-09-2026.
 
-      **Recomendación, en tres grupos.**
-      · **Admitir como P3, material de apoyo (2).** *Criminología ambiental* de
-        Vozmediano y San Juan es un manual académico consolidado, y la criminología
-        ambiental es precisamente el marco teórico del enfoque territorial del módulo 3
-        y de la prevención situacional del módulo 6; es además la casa teórica de
-        Clarke (1997) y Weisburd y otros (2016), ambos en el corpus. *Criminología
-        mediática y victimología del miedo* de Gaibor ancla a [[miedo-social]] y al
-        cúmulo `Medición e inseguridad`. Ninguna es bibliografía obligatoria: entrarían
-        detrás de todo lo oficial, nunca por delante.
-      · **Decidir con criterio propio (1).** Zaffaroni es autor central de S1.3 y esta
-        obra no es la pedida. Admitirla es defendible como lectura de apoyo; usarla
-        como sustituto de *En busca de las penas perdidas* no lo es.
-      · **Dejar fuera (7).** El resto —la colección de criminologías específicas, el
-        manual introductorio, el módulo docente de la UOC, *Criminología empresarial*,
-        el libro de divulgación de Planeta y el trabajo de fin de grado de la
-        Universidad del País Vasco— cae en lo que [[purpose]] declara expresamente
-        fuera: ampliación temática que no se ancla a un ramo de la malla ni al trabajo
-        de grado. Dos de ellos no son citables en un trabajo evaluado bajo ningún
-        criterio: un TFG de pregrado y un libro de gran público.
+      **Las cifras, al 13-09-2026.** `raw/sources/` tiene **111 archivos**, de los cuales
+      6 son programas oficiales: el universo que mide `estado.py` son **105 documentos**,
+      no 106. La diferencia es una copia de Gaibor —`s.f. - Gaibor - Criminologia
+      mediatica y victimologia del miedo (duplicado exacto).pdf`— que figura en
+      `ESTADO.md` y ya no esta en disco. Eso es **higiene de duplicados ya hecha**, no
+      una perdida: baja el corpus sin bajar la cobertura. `ESTADO.md` se pone al dia
+      solo, en la proxima corrida de `python scripts/estado.py`.
 
-      **Higiene, independientemente de lo anterior.** Las tres copias de *Criminología
-      preventiva* y las dos de Gaibor deberían quedar en una sola cada una. Mientras no
-      se resuelva, el corpus cuenta cinco documentos donde hay dos, y `ESTADO.md`
-      reportará avances sobre archivos duplicados. El cruce de MD5 sobre los 106
-      archivos confirma que no hay ningún otro duplicado en el corpus y que ninguno de
-      los trece repite un documento preexistente.
-
-      **Lo que añade la identificación por página de imprenta** (12-09-2026, segunda
-      pasada). Refuerza el primer grupo y matiza el tercero:
-      · *Criminología ambiental* queda plenamente identificada —Editorial UOC, primera
-        edición castellana de mayo de 2010, ISBN 978-84-9788-847-5—. Es manual de
-        editorial universitaria, no material suelto, y eso sostiene la recomendación de
-        admitirla.
-      · *Criminología preventiva* resultó más institucional de lo que parecía:
-        Universidad de San Martín de Porres, Fondo Editorial, 2022, ISBN peruano. Sigue
-        sin estar en ningún programa, pero la razón para dejarla fuera es de alcance, no
-        de calidad editorial.
-      · **Tres de las diez obras salen de la misma órbita de autor:** Hikal firma
-        *Criminología psicológica* e *Introducción al estudio de la criminología*, y
-        codirige la colección donde aparece *Criminología preventiva*. Con el libro de
-        divulgación y el trabajo de fin de grado, el conjunto se parece más a una
-        adquisición en bloque que a una bibliografía curada, que es justamente lo que
-        [[purpose]] describe como ampliación temática por interés propio.
+      **Consecuencia inmediata: ninguna.** Ninguno de los tres archivos esta ingerido y
+      ninguno bloquea el orden vigente. Lo que importa resolver es si el Blokland se
+      borro por error: es, junto con Blanco, el unico material de curso de vida del
+      corpus, y Blanco es la siguiente ingesta.
 
 - [ ] **[tesis]** «Anclaje empírico frente a marco conceptual heredado» — el
       programa exige que el trabajo de grado se ancle en una política, programa o
@@ -156,25 +125,6 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       está en el corpus y es la obra dedicada al asunto. Crearla antes sería
       escribirla desde dos notas al margen.
 
-- [ ] **[ingesta]** Bibliografía de consulta de S1.1 como ancla teórica — el autor
-      plantea que las obras de consulta del programa ancla sirven de ancla teórica
-      de todo el corpus, y duda de levantar la ingesta con ellas por su extensión.
-      La duda está bien fundada y son tres casos distintos, no uno.
-      Acción propuesta: `preguntar` · Origen: sesión 2026-09-12
-      Recomendación registrada:
-      · **García-Pablos de Molina (2003)**, 113,7 MB y extracto desde la p. 688, es
-        el caso problemático. No conviene ingerirlo como fuente única: un tratado
-        que recorre el arco teórico completo fijaría el encuadre de todo lo
-        posterior, que es exactamente el riesgo que [[purpose]] declara al ordenar
-        la ingesta en orden inverso al volumen. Tratarlo como obra de referencia y
-        ingerirlo por capítulos atados a un módulo concreto, no entero.
-      · **Guía ONU-Hábitat y Guadalajara (2020)**, 1,8 MB, operacionaliza el trabajo
-        evaluado de S1.1. Barata y de rendimiento inmediato: entra sin reparos.
-      · **Garland (2001)** es la bisagra —única obra en dos programas oficiales— y
-        merece ingesta completa, pero después del núcleo ancla, no antes.
-      Criterio: lo anterior es una recomendación de orden, no una decisión. La toma
-      el autor.
-
 - [ ] **[esquema]** Los grupos criminales no tienen dónde caber — un grupo como el
       PCC, las milícias de Rio o un cartel no encaja en ninguno de los cinco
       `subtipo` admitidos para `entity`: `persona`, `organismo`, `politica`,
@@ -246,4 +196,97 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 
 ## Resueltos
 
-_(ninguno todavía)_
+- [x] **[alcance]** Trece documentos ingresaron sin clasificar el 12-09-2026 — es la
+      decisión más urgente de la cola, porque hasta resolverla el corpus declara 106
+      documentos de los que trece no tienen estatus. Están en cuarentena en
+      `INVENTARIO.md`, cúmulo `Ingreso sin clasificar`, con su identificación completa.
+      Acción propuesta: `preguntar` · Origen: verificación de corpus 2026-09-12
+
+      **Lo verificado.** Trece archivos son diez obras: `Criminología Preventiva .pdf`
+      y `Criminología Preventiva. Estrategias-1.pdf` comparten MD5; `Criminología
+      mediatica.pdf` y `Criminología y victimología.pdf` también; y `Criminología
+      Preventiva II.pdf`, pese a otro hash, tiene las mismas 161 páginas y la misma
+      portada. Ninguna de las diez está en la bibliografía oficial de los cuatro
+      programas recibidos, y ninguna cubre los vacíos declarados en [[purpose]].
+
+      **Zaffaroni es una falsa coincidencia.** S1.3 pide *En busca de las penas
+      perdidas* (2006) y lo que llegó es *Dogmática penal y criminología cautelar*.
+      Mismo patrón que `programa/S1.1` ya registró con Romero Mendoza frente a
+      Alvarado: título y autor cercanos, obra distinta.
+
+      **Recomendación, en tres grupos.**
+      · **Admitir como P3, material de apoyo (2).** *Criminología ambiental* de
+        Vozmediano y San Juan es un manual académico consolidado, y la criminología
+        ambiental es precisamente el marco teórico del enfoque territorial del módulo 3
+        y de la prevención situacional del módulo 6; es además la casa teórica de
+        Clarke (1997) y Weisburd y otros (2016), ambos en el corpus. *Criminología
+        mediática y victimología del miedo* de Gaibor ancla a [[miedo-social]] y al
+        cúmulo `Medición e inseguridad`. Ninguna es bibliografía obligatoria: entrarían
+        detrás de todo lo oficial, nunca por delante.
+      · **Decidir con criterio propio (1).** Zaffaroni es autor central de S1.3 y esta
+        obra no es la pedida. Admitirla es defendible como lectura de apoyo; usarla
+        como sustituto de *En busca de las penas perdidas* no lo es.
+      · **Dejar fuera (7).** El resto —la colección de criminologías específicas, el
+        manual introductorio, el módulo docente de la UOC, *Criminología empresarial*,
+        el libro de divulgación de Planeta y el trabajo de fin de grado de la
+        Universidad del País Vasco— cae en lo que [[purpose]] declara expresamente
+        fuera: ampliación temática que no se ancla a un ramo de la malla ni al trabajo
+        de grado. Dos de ellos no son citables en un trabajo evaluado bajo ningún
+        criterio: un TFG de pregrado y un libro de gran público.
+
+      **Higiene, independientemente de lo anterior.** Las tres copias de *Criminología
+      preventiva* y las dos de Gaibor deberían quedar en una sola cada una. Mientras no
+      se resuelva, el corpus cuenta cinco documentos donde hay dos, y `ESTADO.md`
+      reportará avances sobre archivos duplicados. El cruce de MD5 sobre los 106
+      archivos confirma que no hay ningún otro duplicado en el corpus y que ninguno de
+      los trece repite un documento preexistente.
+
+      **Lo que añade la identificación por página de imprenta** (12-09-2026, segunda
+      pasada). Refuerza el primer grupo y matiza el tercero:
+      · *Criminología ambiental* queda plenamente identificada —Editorial UOC, primera
+        edición castellana de mayo de 2010, ISBN 978-84-9788-847-5—. Es manual de
+        editorial universitaria, no material suelto, y eso sostiene la recomendación de
+        admitirla.
+      · *Criminología preventiva* resultó más institucional de lo que parecía:
+        Universidad de San Martín de Porres, Fondo Editorial, 2022, ISBN peruano. Sigue
+        sin estar en ningún programa, pero la razón para dejarla fuera es de alcance, no
+        de calidad editorial.
+      · **Tres de las diez obras salen de la misma órbita de autor:** Hikal firma
+        *Criminología psicológica* e *Introducción al estudio de la criminología*, y
+        codirige la colección donde aparece *Criminología preventiva*. Con el libro de
+        divulgación y el trabajo de fin de grado, el conjunto se parece más a una
+        adquisición en bloque que a una bibliografía curada, que es justamente lo que
+        [[purpose]] describe como ampliación temática por interés propio.
+      **Resuelto el 13-09-2026 — `preguntar`, respondido.** Decision del autor: la cuarentena se
+      mantiene **sin plazo**. Son en su mayoria manuales genericos y la pertinencia se
+      verifica obra por obra, contra el documento y no contra su ficha. Deja de
+      bloquear: el corpus sigue declarando trece documentos sin estatus y eso es
+      aceptado a sabiendas. La higiene de duplicados sigue pendiente y viaja con este
+      item. La recomendacion en tres grupos queda intacta arriba, para cuando se
+      retome.
+
+- [x] **[ingesta]** Bibliografía de consulta de S1.1 como ancla teórica — el autor
+      plantea que las obras de consulta del programa ancla sirven de ancla teórica
+      de todo el corpus, y duda de levantar la ingesta con ellas por su extensión.
+      La duda está bien fundada y son tres casos distintos, no uno.
+      Acción propuesta: `preguntar` · Origen: sesión 2026-09-12
+      Recomendación registrada:
+      · **García-Pablos de Molina (2003)**, 113,7 MB y extracto desde la p. 688, es
+        el caso problemático. No conviene ingerirlo como fuente única: un tratado
+        que recorre el arco teórico completo fijaría el encuadre de todo lo
+        posterior, que es exactamente el riesgo que [[purpose]] declara al ordenar
+        la ingesta en orden inverso al volumen. Tratarlo como obra de referencia y
+        ingerirlo por capítulos atados a un módulo concreto, no entero.
+      · **Guía ONU-Hábitat y Guadalajara (2020)**, 1,8 MB, operacionaliza el trabajo
+        evaluado de S1.1. Barata y de rendimiento inmediato: entra sin reparos.
+      · **Garland (2001)** es la bisagra —única obra en dos programas oficiales— y
+        merece ingesta completa, pero después del núcleo ancla, no antes.
+      Criterio: lo anterior es una recomendación de orden, no una decisión. La toma
+      el autor.
+      **Resuelto el 13-09-2026 — `omitir` parcialmente.** Decision del autor sobre los
+      tres casos: la Guia ONU-Habitat ya entro (12-09-2026) y la recomendacion se
+      cumplio; Garland completo sigue en el orden; y **Garcia-Pablos cambia de
+      tratamiento**. No se ingiere por capitulos como recomendaba este item, porque el
+      documento esta incompleto —extracto desde la p. 688—: queda en espera hasta que
+      el autor consiga el resto de la bibliografia de consulta, y entonces entra
+      completo y como base fundamental. Registrado en [[purpose]].

@@ -1,19 +1,19 @@
 # Estado del despliegue
 
-**Generado:** 2026-09-12 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
+**Generado:** 2026-09-13 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 106 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 105 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 101 | 95.3 % |
+| `pendiente` | 100 | 95.2 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 5 | 4.7 % |
+| `completo` | 5 | 4.8 % |
 
 ## Por cumulo
 
@@ -23,7 +23,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Bibliografía S1.1, consulta y complementaria | 12 | 11 | 0 | 0 | 1 |
 | Explicación del delito | 4 | 4 | 0 | 0 | 0 |
 | Gobernanza criminal y territorio | 6 | 6 | 0 | 0 | 0 |
-| Ingreso sin clasificar | 13 | 13 | 0 | 0 | 0 |
+| Ingreso sin clasificar | 12 | 12 | 0 | 0 | 0 |
 | Integrados desde el programa del curso (05-09-2026) | 9 | 9 | 0 | 0 | 0 |
 | Medición e inseguridad | 5 | 5 | 0 | 0 | 0 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
@@ -121,7 +121,6 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales (duplicado exacto).pdf
 - `pendiente` — 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales (reexportación).pdf
 - `pendiente` — 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales.pdf
-- `pendiente` — s.f. - Gaibor - Criminología mediática y victimología del miedo (duplicado exacto).pdf
 - `pendiente` — s.f. - Gaibor - Criminología mediática y victimología del miedo.pdf
 - `pendiente` — s.f. - Velasco de la Fuente - Criminal-mente, la criminología como ciencia.pdf
 

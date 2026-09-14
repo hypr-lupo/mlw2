@@ -92,6 +92,16 @@ actualizado: YYYY-MM-DD
 `sources` lleva el **nombre de archivo exacto** tal como está en `raw/sources/`,
 con extensión. Es la llave contra `MANIFIESTO.json` y contra `INVENTARIO.md`.
 
+### `curso` es capa, no columna
+
+Desde el 13-09-2026 `curso` es un campo **derivado y opcional**: se calcula desde las
+fichas de `programa/` y registra a qué ramo alimenta una página. No participa de la
+identidad de la página ni de su contenido, y el validador no lo exige. Regla de
+prueba: si se vaciara el campo en las 29 páginas que hoy lo llevan, no debería cambiar
+ninguna afirmación de ninguna de ellas. Si cambia alguna, esa página está escrita
+contra el programa y hay que reformularla. El eje de clasificación es el clúster, que
+es temático. Ver «Agnosticación de la ingesta» en [[purpose]].
+
 Campos adicionales según tipo:
 
 - `entity`: `subtipo`, `alias`.

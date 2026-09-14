@@ -8,6 +8,56 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-09-13] decisión | Agnosticación de la ingesta
+
+**Sin ingesta. Sesión de doctrina: cambia para qué existe la wiki y cómo se lee una
+fuente, sin tocar una sola afirmación de las ya escritas.**
+
+- Decisión del autor: la wiki pasa a tener por objeto el campo —criminología de la
+  prevención, la seguridad urbana y la política criminal— y no el programa de estudios.
+  El Magíster queda como **capa de prioridad**: decide el orden de ingesta y qué se
+  adelanta; no decide el contenido de las páginas. Razón declarada: el valor a mediano
+  y largo plazo, con publicación como horizonte posible, y la constatación de que hoy
+  la prioridad real sigue siendo el Magíster, con trabajos en curso que se apoyan en
+  estas páginas.
+- Archivos de doctrina actualizados: [[purpose]] —apartado nuevo «Agnosticación de la
+  ingesta», con las cuatro reglas: la fase 1 no ve el programa; el encuadre curricular
+  es capa posterior y reversible; las tensiones se escriben entre posiciones y no entre
+  un módulo y un autor; el programa sí decide el orden y qué cuenta como vacío
+  perseguible— y `schema.md` —`curso` pasa a campo derivado y opcional, con su regla de
+  prueba: vaciarlo no debe cambiar ninguna afirmación—.
+- **No se reescribió ninguna página existente**, por decisión explícita del autor. Las
+  que todavía argumentan desde el módulo —[[autocontrol-y-disuasion]],
+  [[teoria-accion-situacional]], [[eficacia-colectiva]], [[policia-comunitaria]],
+  [[legitimidad-policial]], [[tipologia-barrial]], [[ventanas-rotas]]— se reformulan
+  cuando se las toque por otra razón. Lo escrito es correcto; está formulado contra el
+  interlocutor equivocado.
+- Alcance: la ampliación temática por interés propio deja de estar **fuera** y pasa a
+  estar **diferida**, para entrar como capa nueva con clúster propio cuando no quede
+  bibliografía oficial de un ramo en curso sin procesar.
+- Orden de ingesta: **sin cambios**, salvo uno. **García-Pablos de Molina sale de la
+  fila.** La decisión del 12-09-2026 era ingerirlo por capítulos; la nueva es esperar,
+  porque el documento está incompleto —extracto desde la p. 688, falta la primera mitad
+  del arco teórico, que es la que sostendría varios vacíos declarados—. Entra completo y
+  como base fundamental cuando el autor consiga el resto de la bibliografía de consulta.
+  La siguiente ingesta sigue siendo **Blanco (2011)**.
+- Cuarentena: los trece sin clasificar quedan **postergados sin plazo**. El autor
+  verificará la pertinencia obra por obra. Deja de ser un bloqueante.
+- En revisión: 2 ítems **resueltos** —el de alcance y el de la bibliografía de consulta,
+  ambos movidos a «Resueltos»— y 1 nuevo, `[corpus]`. La cola queda en 15 abiertos y
+  ninguno bloquea.
+- Anomalía detectada al cotejar `INVENTARIO.md` contra el disco archivo por archivo:
+  **dos documentos registrados con MD5 no están en `raw/sources/`** —el manual Routledge
+  de Blokland y van der Geest, y el Garland original en inglés—. Ninguno está ingerido.
+  Además, una de las dos copias de Gaibor ya fue borrada, lo que explica que `ESTADO.md`
+  declare 106 documentos donde el disco tiene 105: higiene ya hecha, no pérdida. El
+  corpus real son **111 archivos**, 6 de ellos programas oficiales.
+- `.gitignore`: se ignoran los respaldos `MagisterLeo-*.zip`. El historial de git ya es
+  el respaldo con procedencia.
+- Notas: ninguna fuente ingerida, ningún cambio en `MANIFIESTO.json`, ninguna página de
+  contenido creada ni modificada. `ESTADO.md` no se regeneró: se pondrá al día en la
+  próxima corrida de `scripts/estado.py`.
+
 ## [2026-09-12] ingesta | ONU-Hábitat y Guadalajara (2020), Guía en seguridad y prevención de barrios
 
 **Primera fuente fuera del núcleo ancla, y primera fuente operativa de la wiki.**

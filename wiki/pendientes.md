@@ -8,35 +8,54 @@ sources: []
 
 Artefacto operativo para retomar. Se actualiza al cerrar sesión.
 
-**Estado al 12-09-2026.** Núcleo ancla S1.1 **completo** y primera obra de consulta
-ingerida. 6 fuentes de 114, 29 páginas, **siete de ocho clústeres poblados**: sólo
-queda vacío `caso-de-grado`. Cobertura de S1.1: 17 de 32 títulos oficiales, 53 %.
+**Estado al 13-09-2026.** Núcleo ancla S1.1 **completo** y primera obra de consulta
+ingerida. 6 fuentes de 111 documentos, 29 páginas, **siete de ocho clústeres
+poblados**: sólo queda vacío `caso-de-grado`. Cobertura de S1.1: 17 de 32 títulos
+oficiales, 53 %.
+
+**Sesión del 13-09-2026: agnosticación de la ingesta, sin ingerir nada.** La wiki pasa
+a tener por objeto el campo y no el programa; el Magíster queda como **capa de
+prioridad** —decide el orden de ingesta, no el contenido de las páginas—. Reglas
+nuevas en [[purpose]] y en `schema.md`. Las páginas existentes no se tocaron: se
+reformulan cuando se las toque por otra razón, no en una pasada de limpieza.
 
 ## Lo que bloquea
 
-- [ ] **Decisión de alcance sobre trece documentos sin clasificar.** Es lo más urgente
-      de la cola. Ingresaron el 12-09-2026, están en cuarentena en `INVENTARIO.md` y no
-      entran al orden de ingesta hasta resolverse. Identificación, duplicados y
-      recomendación en [[revision]].
-- [ ] **Decisión de orden sobre la bibliografía de consulta de S1.1.** Planteada por el
-      autor el 12-09-2026. Recomendación registrada en [[revision]] y ya reflejada en
-      el orden de [[purpose]]: Guía ONU-Hábitat primero, García-Pablos por capítulos y
-      nunca entero.
+*Nada. Las dos decisiones que bloqueaban el 12-09-2026 se resolvieron el 13-09-2026 y
+viven en [[revision]], sección «Resueltos».*
+
+- [x] **Alcance de los trece sin clasificar** — cuarentena mantenida **sin plazo**. Son
+      en su mayoría manuales genéricos y el autor verifica la pertinencia obra por
+      obra. No vuelven a la cola hasta entonces.
+- [x] **Orden de la bibliografía de consulta de S1.1** — la Guía ONU-Hábitat ya entró y
+      **García-Pablos sale de la fila**: el documento está incompleto —extracto desde la
+      p. 688— y vuelve completo, como base fundamental, cuando llegue el resto de la
+      bibliografía de consulta.
+
+Queda esto en manos del autor, y **no bloquea la ingesta**:
+
+- [ ] **Conseguir el resto de la bibliografía de consulta de S1.1**, García-Pablos
+      completo incluido. Es lo que habilita la base fundamental. Mientras tanto el
+      orden vigente corre solo y no espera a nadie.
+- [ ] **Dos documentos del inventario no están en disco** —el manual Routledge de
+      Blokland y van der Geest, y el Garland original en inglés—. Ítem `[corpus]` en
+      [[revision]]. Importa el Blokland: es material de curso de vida.
 
 ## Fuentes por ingerir
 
-108 de 114, de las cuales trece están en cuarentena. El orden está fijado en
+105 de 111, de los cuales trece están en cuarentena sin plazo. El orden está fijado en
 [[purpose]]; el detalle documento por documento lo da `python scripts/estado.py`.
 
 - [x] **Núcleo ancla S1.1 — 4 de 4.** Sampson, Wikström, Albarracín y Adams, todas el
       12-09-2026.
 - [x] **Guía ONU-Hábitat y Guadalajara (2020)** — ingerida el 12-09-2026. Primera obra
       de consulta y primera fuente operativa de la wiki.
-- [ ] **Bibliografía S1.1, consulta y complementaria — 12 restantes. Siguiente.**
-      Orden interno: Blanco (2011), Alda y Beliz (2007), Garland completo en la
-      traducción Gedisa, y García-Pablos por capítulos atados a un módulo. Se sumaron
+- [ ] **Bibliografía S1.1, consulta y complementaria — 11 restantes. Siguiente.**
+      Orden interno: **Blanco (2011)**, Alda y Beliz (2007) y Garland completo en la
+      traducción Gedisa. García-Pablos sale de este orden y espera completo. Se sumaron
       ocho títulos el 12-09-2026: Kessler, Wacquant, los dos Bergman, los dos Zeballos,
-      Garland Gedisa y el manual de curso de vida de Blokland y van der Geest.
+      Garland Gedisa y el manual de curso de vida de Blokland y van der Geest —este
+      último no está en `raw/sources/`: ítem `[corpus]` en [[revision]]—.
 - [ ] Programas oficiales y malla — 5 restantes. Bajaron de prioridad: los cuatro ramos
       en curso ya tienen su programa fichado, y lo que queda son tres programas de
       ramos futuros y el horario. Se ingieren por excepción cuando su ramo se acerque
@@ -53,7 +72,7 @@ queda vacío `caso-de-grado`. Cobertura de S1.1: 17 de 32 títulos oficiales, 53
 - [ ] Vínculo Estado-crimen — 18. Material de reserva del electivo S3.E4, y donde vive
       la discusión clásica que hoy le falta a [[debilidad-estatal]]
 - [ ] Amenaza y securitización — 24. Material de reserva del electivo S3.E4
-- [ ] Ingreso sin clasificar — 13, en cuarentena. Ver arriba
+- [ ] Ingreso sin clasificar — 13, en cuarentena sin plazo. Ver arriba
 
 ## Páginas borrador
 
@@ -99,9 +118,11 @@ las dos que tiene son una refutación y un uso, no una defensa.
 
 ## Ítems de revisión abiertos
 
-- [ ] 16 ítems en [[revision]], más tres enmiendas. Los dos que bloquean están arriba.
-      El nuevo: la Guía ONU-Hábitat es un «Borrador avanzado» y la wiki ya construyó
-      cuatro páginas sobre ella.
+- [ ] 15 abiertos en [[revision]] y 2 resueltos el 13-09-2026, más tres enmiendas.
+      **Ninguno bloquea.** El nuevo es `[corpus]`, sobre los dos documentos del
+      inventario que no están en disco. Siguen abiertos, entre otros, que la Guía
+      ONU-Hábitat es un «Borrador avanzado» y que la wiki ya construyó cuatro páginas
+      sobre ella.
 
 ## Preguntas abiertas
 

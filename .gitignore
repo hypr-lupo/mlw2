@@ -29,3 +29,8 @@ venv/
 desktop.ini
 Thumbs.db
 .DS_Store
+
+# ── Respaldos ───────────────────────────────────────────────────
+# Instantaneas comprimidas del vault. Se generan a mano y no se versionan:
+# el historial de git ya es el respaldo con procedencia.
+MagisterLeo-*.zip
