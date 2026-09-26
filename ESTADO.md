@@ -1,19 +1,19 @@
 # Estado del despliegue
 
-**Generado:** 2026-09-13 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
+**Generado:** 2026-09-26 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 105 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 109 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 100 | 95.2 % |
+| `pendiente` | 104 | 95.4 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 5 | 4.8 % |
+| `completo` | 5 | 4.6 % |
 
 ## Por cumulo
 
@@ -23,9 +23,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Bibliografía S1.1, consulta y complementaria | 12 | 11 | 0 | 0 | 1 |
 | Explicación del delito | 4 | 4 | 0 | 0 | 0 |
 | Gobernanza criminal y territorio | 6 | 6 | 0 | 0 | 0 |
-| Ingreso sin clasificar | 12 | 12 | 0 | 0 | 0 |
+| Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
+| Institucionalidad y política de prevención en Chile | 5 | 5 | 0 | 0 | 0 |
 | Integrados desde el programa del curso (05-09-2026) | 9 | 9 | 0 | 0 | 0 |
-| Medición e inseguridad | 5 | 5 | 0 | 0 | 0 |
+| Medición e inseguridad | 6 | 6 | 0 | 0 | 0 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
 | Prevención e intervención | 4 | 4 | 0 | 0 | 0 |
 | Sistema penal y Estado de derecho | 7 | 7 | 0 | 0 | 0 |
@@ -118,11 +119,17 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2015 - Bernaola Ponce - Criminología ambiental orientada a la delincuencia juvenil (trabajo de fin de grado).pdf
 - `pendiente` — 2017 - Zaffaroni, Bailone y Mavila León - Dogmática penal y criminología cautelar.pdf
 - `pendiente` — 2017 - Zapata - Criminología empresarial, manual de intervención criminológica en las empresas.pdf
-- `pendiente` — 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales (duplicado exacto).pdf
-- `pendiente` — 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales (reexportación).pdf
 - `pendiente` — 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales.pdf
 - `pendiente` — s.f. - Gaibor - Criminología mediática y victimología del miedo.pdf
 - `pendiente` — s.f. - Velasco de la Fuente - Criminal-mente, la criminología como ciencia.pdf
+
+### Institucionalidad y política de prevención en Chile
+
+- `pendiente` — 2023 - Luneke y Trebilcock - Prevención del delito, la construcción de la seguridad ciudadana y los cambios en la política criminal en Chile, 1990-2017.pdf
+- `pendiente` — 2025 - Ministerio del Interior y Seguridad Pública - Ley 21.730, crea el Ministerio de Seguridad Pública.pdf
+- `pendiente` — 2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf
+- `pendiente` — 2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf
+- `pendiente` — 2026 - Presidencia de la República - Presidente Kast anuncia la Agenda contra el Crimen Organizado y el Terrorismo (ACOT) en cadena nacional.md
 
 ### Integrados desde el programa del curso (05-09-2026)
 
@@ -142,6 +149,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf
 - `pendiente` — 2016 - Cámara Arroyo - Principales instrumentos de medición de la peligrosidad criminal.md
 - `pendiente` — 2022 - Luna Pla - El análisis de redes complejas aplicado a grupos de crimen y corrupción.pdf
+- `pendiente` — 2023 - González-Guarda y Salazar-Tobar - Una panorámica de la criminología en Chile, una comunidad científica transitando hacia la profesionalización.pdf
 - `pendiente` — 2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf
 
 ### Núcleo ancla S1.1

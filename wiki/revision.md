@@ -12,37 +12,6 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 
 ## Abiertos
 
-- [ ] **[corpus]** Dos documentos registrados en `INVENTARIO.md` no estan en
-      `raw/sources/` — detectado el 13-09-2026 al cotejar el inventario contra el disco,
-      archivo por archivo. Los dos llevan MD5 registrado, de modo que existieron cuando
-      se levanto el inventario y desaparecieron despues.
-      Accion propuesta: `investigar` · Origen: agnosticacion 2026-09-13
-
-      · **`2017 - Blokland y van der Geest (eds.) - Manual internacional Routledge de
-        criminologia del curso de vida.epub`** (5,1 MB, `b26e9da7f080`). Figura entre
-        los ocho titulos integrados el 12-09-2026 y [[pendientes]] lo cuenta como
-        recibido.
-      · **`2001 - Garland - La cultura del control... (original en ingles).pdf`**. El
-        inventario dice «se conservan ambos» al registrar la llegada de la traduccion
-        Gedisa; en disco solo esta la Gedisa.
-
-      Ninguno de los dos aparece tampoco en `ESTADO.md`, que cuenta sobre el disco y no
-      sobre el inventario: o nunca se copiaron a `raw/sources/`, o se borraron antes del
-      12-09-2026.
-
-      **Las cifras, al 13-09-2026.** `raw/sources/` tiene **111 archivos**, de los cuales
-      6 son programas oficiales: el universo que mide `estado.py` son **105 documentos**,
-      no 106. La diferencia es una copia de Gaibor —`s.f. - Gaibor - Criminologia
-      mediatica y victimologia del miedo (duplicado exacto).pdf`— que figura en
-      `ESTADO.md` y ya no esta en disco. Eso es **higiene de duplicados ya hecha**, no
-      una perdida: baja el corpus sin bajar la cobertura. `ESTADO.md` se pone al dia
-      solo, en la proxima corrida de `python scripts/estado.py`.
-
-      **Consecuencia inmediata: ninguna.** Ninguno de los tres archivos esta ingerido y
-      ninguno bloquea el orden vigente. Lo que importa resolver es si el Blokland se
-      borro por error: es, junto con Blanco, el unico material de curso de vida del
-      corpus, y Blanco es la siguiente ingesta.
-
 - [ ] **[tesis]** «Anclaje empírico frente a marco conceptual heredado» — el
       programa exige que el trabajo de grado se ancle en una política, programa o
       proyecto identificable; el marco conceptual del proyecto anterior no lo hace.
@@ -195,6 +164,45 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       S1.1 y su coautor es el docente del ramo.
 
 ## Resueltos
+
+- [x] **[corpus]** Dos documentos registrados en `INVENTARIO.md` no estan en
+      `raw/sources/` — detectado el 13-09-2026 al cotejar el inventario contra el disco,
+      archivo por archivo. Los dos llevan MD5 registrado, de modo que existieron cuando
+      se levanto el inventario y desaparecieron despues.
+      Accion propuesta: `investigar` · Origen: agnosticacion 2026-09-13
+
+      · **`2017 - Blokland y van der Geest (eds.) - Manual internacional Routledge de
+        criminologia del curso de vida.epub`** (5,1 MB, `b26e9da7f080`). Figura entre
+        los ocho titulos integrados el 12-09-2026 y [[pendientes]] lo cuenta como
+        recibido.
+      · **`2001 - Garland - La cultura del control... (original en ingles).pdf`**. El
+        inventario dice «se conservan ambos» al registrar la llegada de la traduccion
+        Gedisa; en disco solo esta la Gedisa.
+
+      Ninguno de los dos aparece tampoco en `ESTADO.md`, que cuenta sobre el disco y no
+      sobre el inventario: o nunca se copiaron a `raw/sources/`, o se borraron antes del
+      12-09-2026.
+
+      **Las cifras, al 13-09-2026.** `raw/sources/` tiene **111 archivos**, de los cuales
+      6 son programas oficiales: el universo que mide `estado.py` son **105 documentos**,
+      no 106. La diferencia es una copia de Gaibor —`s.f. - Gaibor - Criminologia
+      mediatica y victimologia del miedo (duplicado exacto).pdf`— que figura en
+      `ESTADO.md` y ya no esta en disco. Eso es **higiene de duplicados ya hecha**, no
+      una perdida: baja el corpus sin bajar la cobertura. `ESTADO.md` se pone al dia
+      solo, en la proxima corrida de `python scripts/estado.py`.
+
+      **Consecuencia inmediata: ninguna.** Ninguno de los tres archivos esta ingerido y
+      ninguno bloquea el orden vigente. Lo que importa resolver es si el Blokland se
+      borro por error: es, junto con Blanco, el unico material de curso de vida del
+      corpus, y Blanco es la siguiente ingesta.
+
+      **Resuelto el 26-09-2026 — `omitir`.** Decisión del autor: los dos archivos
+      fueron errores de integración y no se reponen. El manual de Blokland y van der
+      Geest no corresponde al curso, y del Garland basta la traducción Gedisa (2005),
+      que está en el corpus. Se borraron sus dos filas de `INVENTARIO.md`, y las fichas
+      de S1.1 y S1.3 lo registran. Con esto el inventario coincide con el disco: 115
+      filas para 115 archivos. El único material de curso de vida que queda en el
+      corpus es Blanco (2011); Gibson y Krahn (2013), que pide S1.1, sigue faltando.
 
 - [x] **[alcance]** Trece documentos ingresaron sin clasificar el 12-09-2026 — es la
       decisión más urgente de la cola, porque hasta resolverla el corpus declara 106

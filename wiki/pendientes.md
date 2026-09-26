@@ -37,9 +37,10 @@ Queda esto en manos del autor, y **no bloquea la ingesta**:
 - [ ] **Conseguir el resto de la bibliografía de consulta de S1.1**, García-Pablos
       completo incluido. Es lo que habilita la base fundamental. Mientras tanto el
       orden vigente corre solo y no espera a nadie.
-- [ ] **Dos documentos del inventario no están en disco** —el manual Routledge de
-      Blokland y van der Geest, y el Garland original en inglés—. Ítem `[corpus]` en
-      [[revision]]. Importa el Blokland: es material de curso de vida.
+- [x] **Dos documentos del inventario no están en disco** —el manual Routledge de
+      Blokland y van der Geest, y el Garland original en inglés—. Resuelto el
+      26-09-2026: el autor los declaró errores de integración y se borraron sus filas
+      del inventario. Ver el ítem `[corpus]` en [[revision]].
 
 ## Fuentes por ingerir
 
@@ -54,8 +55,8 @@ Queda esto en manos del autor, y **no bloquea la ingesta**:
       Orden interno: **Blanco (2011)**, Alda y Beliz (2007) y Garland completo en la
       traducción Gedisa. García-Pablos sale de este orden y espera completo. Se sumaron
       ocho títulos el 12-09-2026: Kessler, Wacquant, los dos Bergman, los dos Zeballos,
-      Garland Gedisa y el manual de curso de vida de Blokland y van der Geest —este
-      último no está en `raw/sources/`: ítem `[corpus]` en [[revision]]—.
+      Garland Gedisa y el manual de curso de vida de Blokland y van der Geest. Este
+      último se retiró del corpus el 26-09-2026 por no corresponder al curso.
 - [ ] Programas oficiales y malla — 5 restantes. Bajaron de prioridad: los cuatro ramos
       en curso ya tienen su programa fichado, y lo que queda son tres programas de
       ramos futuros y el horario. Se ingieren por excepción cuando su ramo se acerque
@@ -154,9 +155,9 @@ Confirmados el 12-09-2026: ninguno de los trece documentos nuevos los cubre.
       completos de PADS+. Las cifras de [[propension-al-delito]] y
       [[exposicion-criminogena]] no se verifican contra su fuente primaria
 - [ ] **Gibson y Krahn (2013)**, *Handbook of life course criminology*, pedido por
-      S1.1. Lo que llegó el 12-09-2026 es el manual Routledge de Blokland y van der
+      S1.1. Lo que llegó el 12-09-2026 fue el manual Routledge de Blokland y van der
       Geest: otros editores, otra editorial, otro año. Tercera falsa coincidencia del
-      corpus
+      corpus; se retiró el 26-09-2026
 - [ ] **Zaffaroni, *En busca de las penas perdidas*** (2006), pedido por S1.3. Lo que
       llegó el 12-09-2026 es otra obra del mismo autor. No se persigue: S1.3 también
       quedó `programa_vigente: no`. Ver [[revision]]

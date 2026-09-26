@@ -8,6 +8,26 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-09-26] corpus | Depuración del inventario, normativa chilena y síntesis de clases
+
+**Sin ingesta. Cambios en el corpus y en `clases/`; ninguna página de la wiki cambia de
+contenido.**
+
+- Se resuelve el ítem `[corpus]` de [[revision]]: el manual de Blokland y van der Geest y
+  el Garland original en inglés fueron errores de integración y se borraron sus filas
+  del inventario. También se retiraron los duplicados de *Criminología preventiva* y de
+  Gaibor. `INVENTARIO.md` coincide con el disco: **115 documentos**.
+- Entran siete documentos:
+  · González-Guarda y Salazar-Tobar (2023), en `Medición e inseguridad`;
+  · Luneke y Trebilcock (2023), la Ley 21.730, el Decreto 96 (Política Nacional de
+    Seguridad Pública 2025-2031), la Ley 21.802 y el comunicado presidencial de la ACOT
+    (05-08-2026), en el cúmulo nuevo `Institucionalidad y política de prevención en
+    Chile`;
+  · la síntesis del programa de S1.1, que reemplaza al PDF.
+  Ninguno está ingerido.
+- `clases/` recibe las síntesis de las presentaciones: S1.2, clases 1 a 3, y S1.1,
+  clases 0 y 1. Las presentaciones originales quedan fuera del repositorio.
+
 ## [2026-09-13] decisión | Agnosticación de la ingesta
 
 **Sin ingesta. Sesión de doctrina: cambia para qué existe la wiki y cómo se lee una

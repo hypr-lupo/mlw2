@@ -1,6 +1,6 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 26-09-2026 · **Total:** 110 documentos · **685 MB**
+**Fecha:** 26-09-2026 · **Total:** 115 documentos · **686 MB**
 
 > **Nomenclatura normalizada el 12-09-2026.** Los 114 documentos siguen ya el
 > patrón `año - autor - título`; no queda ninguno fuera de convención. Sin año
@@ -39,7 +39,7 @@ el 11-09-2026 y se ingieren antes que cualquier otro cúmulo.
 | 2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf | 0.3 | `17556ae80696` |
 | 2023 - Albarracín - Crimen organizado en América Latina.pdf | 0.2 | `2bc01a9cad32` |
 
-## Bibliografía S1.1, consulta y complementaria · 13 doc.
+## Bibliografía S1.1, consulta y complementaria · 12 doc.
 
 
 Alimenta: S1.1. Blanco alimenta además S2.4.
@@ -55,9 +55,10 @@ Resto de lo integrado el 11-09-2026 desde el programa ancla: tres obras marcadas
 | 2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf | 0.3 | `b5757d527a87` |
 | 2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf | 1.8 | `c2dba1f1eac9` |
 
-**Ocho documentos integrados el 12-09-2026.** Todos son bibliografía oficial de S1.1
-que faltaba, salvo el último. Llegaron con nombres opacos y se identificaron por su
-página de imprenta.
+**Ocho documentos integrados el 12-09-2026, siete en el corpus.** Todos son
+bibliografía oficial de S1.1 que faltaba. El octavo, el manual de Blokland y van der
+Geest, se retiró el 26-09-2026 (ver la advertencia 2). Llegaron con nombres opacos y
+se identificaron por su página de imprenta.
 
 | Documento | MB | MD5 |
 |---|---:|---|
@@ -68,22 +69,24 @@ página de imprenta.
 | 2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf | 2.5 | `f6ac444b1af0` |
 | 2024 - Zeballos - Un virus entre sombras, la expansión del crimen organizado y el narcotráfico en Chile.epub | 1.5 | `3c3c8d82540a` |
 | 2026 - Zeballos - Cuando el crimen reza.epub | 3.0 | `4778ad29b5d4` |
-| 2017 - Blokland y van der Geest (eds.) - Manual internacional Routledge de criminología del curso de vida.epub | 5.1 | `b26e9da7f080` |
 
 Tres advertencias sobre este bloque:
 
-1. **Garland queda por duplicado de edición, y es una buena noticia.** El archivo que
-   ya estaba, fechado en 2001, resultó ser **el original en inglés** —University of
-   Chicago Press y Oxford, ISBN 0-226-28383-6— pese a llevar título en español. El que
-   llegó ahora es la traducción de Máximo Sozzo, Gedisa, primera edición de abril de
-   2005, ISBN 84-9784-040-2: exactamente la edición que pide `programa/S1.1`. Se
-   conservan ambos y el nombre de cada archivo lo dice. Esto resuelve la divergencia de
-   edición que `wiki/referencias.md` tenía abierta.
-2. **Blokland y van der Geest no sustituye a Gibson y Krahn.** S1.1 pide el *Handbook
-   of life course criminology* de Gibson y Krahn (2013, Springer); lo que llegó es el
-   *Routledge International Handbook of Life-Course Criminology* de Blokland y van der
-   Geest (2017, Taylor & Francis). Obra distinta, editores distintos, editorial
-   distinta. Mismo patrón que Romero Mendoza frente a Alvarado y que Zaffaroni.
+1. **Garland: queda solo la traducción.** El archivo fechado en 2001 resultó ser **el
+   original en inglés** (University of Chicago Press y Oxford, ISBN 0-226-28383-6),
+   aunque tenía título en español. El que llegó el 12-09-2026 es la traducción de
+   Máximo Sozzo, Gedisa, primera edición de abril de 2005, ISBN 84-9784-040-2: la
+   edición que pide `programa/S1.1`. **El 26-09-2026 se retiró el original en inglés.**
+   El autor lo declaró un error de integración, porque ya tiene la traducción. Se
+   borró su fila del cúmulo `Sistema penal y Estado de derecho`, que era donde estaba
+   registrado.
+2. **Blokland y van der Geest no sustituía a Gibson y Krahn, y se retiró.** S1.1 pide
+   el *Handbook of life course criminology* de Gibson y Krahn (2013, Springer). Lo que
+   llegó fue el *Routledge International Handbook of Life-Course Criminology* de
+   Blokland y van der Geest (2017, Taylor & Francis): otra obra, otros editores y otra
+   editorial. Es el mismo patrón que Romero Mendoza frente a Alvarado y que Zaffaroni.
+   **El 26-09-2026 se retiró del corpus:** el autor lo declaró un error de integración
+   que no corresponde al curso. Gibson y Krahn sigue faltando.
 3. **Dos divergencias de año.** Wacquant: el programa pide la edición de 2000 y el
    corpus tiene la primera edición, segunda reimpresión, de Manantial 2004. Zeballos:
    el programa pide *Cuando el crimen reza* de 2025 y los metadatos del archivo dan
@@ -159,6 +162,35 @@ Alimenta: S1.1, S2.3, S3.1.
 | 2015 - Vanderschueren - Guía para la prevención en barrios.pdf | 2.8 | `06b1d0fa4eea` |
 | 2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf | 11.9 | `5c580cd0b7ff` |
 
+## Institucionalidad y política de prevención en Chile · 5 doc.
+
+
+Alimenta: S1.1 (clase 0, Leitao) y S2.3. Ingresaron el 26-09-2026 como la bibliografía
+de la presentación de Carolina Leitao, «Prevención en Chile: de la teoría a la práctica,
+desde lo nacional a lo local». Tres son normas descargadas de LeyChile (BCN). El autor
+que figura en el nombre es el ministerio de origen que registra la BCN, y el año es el
+de publicación en el Diario Oficial.
+
+- **Ley 21.730**: promulgada el 27-01-2025 y publicada el 05-02-2025. Es la versión única, vigente desde el 01-04-2025.
+- **Decreto 96**: promulgado el 22-10-2025 y publicado el 30-01-2026. Aprueba la Política Nacional de Seguridad Pública 2025-2031. La BCN lo rotula «(2025)» por el año de promulgación.
+- **Ley 21.802**: promulgada el 03-02-2026 y publicada el 11-02-2026. La versión descargada rige desde el 12-08-2026.
+- **Comunicado de la ACOT**: se sumó el 26-09-2026. Es el comunicado oficial de
+  prensa.presidencia.cl del 05-08-2026, guardado como recorte web en Markdown. En él, el
+  presidente Kast anuncia en cadena nacional la Agenda contra el Crimen Organizado y el
+  Terrorismo (ACOT), sigla que la presentación de Leitao usa sin explicar (diap. 35). Es
+  una fuente de gobierno, no académica: registra el anuncio, no sus resultados. La fecha
+  de publicación figura en el cuerpo del texto; el campo `published` del recorte quedó
+  vacío.
+
+
+| Documento | MB | MD5 |
+|---|---:|---|
+| 2023 - Luneke y Trebilcock - Prevención del delito, la construcción de la seguridad ciudadana y los cambios en la política criminal en Chile, 1990-2017.pdf | 0.3 | `fc0823159263` |
+| 2025 - Ministerio del Interior y Seguridad Pública - Ley 21.730, crea el Ministerio de Seguridad Pública.pdf | 0.1 | `2c2c9d2625e7` |
+| 2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf | 0.3 | `2037255cc177` |
+| 2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf | 0.1 | `5c546f131941` |
+| 2026 - Presidencia de la República - Presidente Kast anuncia la Agenda contra el Crimen Organizado y el Terrorismo (ACOT) en cadena nacional.md | 0.0 | `dfa27aa6cb6e` |
+
 ## Medición e inseguridad · 6 doc.
 
 
@@ -174,17 +206,18 @@ Alimenta: S1.2.
 | 2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf | 1.4 | `bc447d5662f3` |
 | 2023 - González-Guarda y Salazar-Tobar - Una panorámica de la criminología en Chile, una comunidad científica transitando hacia la profesionalización.pdf | 0.5 | `0d1906a5b2bd` |
 
-## Sistema penal y Estado de derecho · 8 doc.
+## Sistema penal y Estado de derecho · 7 doc.
 
 
-Alimenta: S1.3.
+Alimenta: S1.3. El Garland original en inglés (2001), que S1.3 pide en esa edición, se
+retiró el 26-09-2026. La obra queda cubierta por la traducción Gedisa (2005), que está en
+el cúmulo `Bibliografía S1.1, consulta y complementaria`.
 
 
 | Documento | MB | MD5 |
 |---|---:|---|
 | 1995 - Ferrajoli - Derecho y razón, teoría del garantismo penal.pdf | 43.7 | `6b5014fd43f7` |
 | 1997 - Rose-Ackerman - Corrupción y competencia.pdf | 0.4 | `b659e8ed96df` |
-| 2001 - Garland - La cultura del control, delito y orden social en la sociedad contemporánea (original en inglés).pdf | 17.1 | `abc66f526b04` |
 | 2001 - Silva Sánchez - La expansión del derecho penal, aspectos de la política criminal en las sociedades postindustriales.pdf | 8.8 | `623cd19b343a` |
 | 2007 - Gardner - La prohibición de las inmoralidades.pdf | 0.1 | `9b15f07d8d21` |
 | 2013 - Tanguay-Renaud - Criminalizar al Estado.pdf | 0.3 | `4f8139e435a3` |
