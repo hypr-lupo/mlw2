@@ -15,7 +15,7 @@ procedencia: fuentes
 estado: revisado
 truncado: false
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Por qué se delinque (Wikström)
@@ -107,7 +107,7 @@ El propio autor cierra proponiendo que la teoría podría aplicarse a la acción
 - [[exposicion-criminogena]] — el lado entorno
 - [[autocontrol-y-disuasion]] — los controles y su relevancia condicional
 - Causas de las causas, emergencia, selección social y autoselección, principio de correspondencia moral, agencia, hábito moral — desarrollados dentro de [[teoria-accion-situacional]]
-- Puntos calientes — el texto los explica como convergencia espacio-temporal, y cita a Weisburd, Morris y Groff (2009). La página nacerá con Weisburd y otros (2016), que está en el corpus sin ingerir. Ver [[revision]]
+- Puntos calientes — el texto los explica como convergencia espacio-temporal, y cita a Weisburd, Morris y Groff (2009). Desde el 26-09-2026 tienen página propia, con la explicación rival de [[weisburd-el-lugar-importa]]. Ver [[puntos-calientes]]
 
 ## Conexiones con otras fuentes
 

@@ -1,13 +1,13 @@
 ---
 title: Teoría de la acción situacional (TAS)
 type: concept
-sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf"]
+sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Teoría de la acción situacional (TAS)
@@ -75,6 +75,11 @@ La figura integrada tiene un detalle que vale más que el resto del diagrama: la
 
 Los puntos calientes no son propiedades de los lugares sino resultado de procesos de selección que reúnen, en tiempo y espacio, a personas propensas al delito con entornos criminógenos [^ext-18]. El modelo de vías lo sostiene: las cifras delictivas juveniles son más altas donde jóvenes propensos pasan tiempo no estructurado con pares en áreas de pobre eficacia colectiva o de alto uso no residencial del suelo, y la presencia de jóvenes aversos al delito no tiene efecto alguno [^ext-19]. Ver [[exposicion-criminogena]].
 
+> [!warning] Tensión con la criminología del lugar
+> Añadido el 26-09-2026 al ingerir [[weisburd-el-lugar-importa]]. Ese libro explica la concentración por el **acoplamiento** del delito al lugar: características del lugar y de su gestión que no existen en la cuadra de al lado [^ext-20]. Y recoge los argumentos de quienes sostienen que la concentración puede explicarse sin atender a la motivación del infractor, porque el acoplamiento del delito al lugar toma muy poco de ella [^ext-21]. La TAS dice lo contrario: sin personas propensas, el lugar no produce delito.
+>
+> La relación no es de pura oposición. Weisburd y otros presentan la TAS como una teoría que pone la situación y la motivación del infractor en el mismo plano, y citan estudios con el método de presupuesto espacio-temporal de Wikström según los cuales las características de los segmentos de calle influyen en el delito, dada la propensión del infractor [^ext-22]. También admiten que sus propios autores no se ponen de acuerdo sobre el papel de la motivación, y concluyen que vincular ambas perspectivas puede enriquecer el estudio del lugar [^ext-23]. La tensión la formula esta wiki. Ver [[puntos-calientes]].
+
 ## Cita
 
 > "Los delitos son acciones morales"
@@ -88,6 +93,7 @@ Los puntos calientes no son propiedades de los lugares sino resultado de proceso
 - [[exposicion-criminogena]] — el lado entorno, y cómo se mide
 - [[autocontrol-y-disuasion]] — por qué el control ocupa un lugar menor del que suele dársele
 - [[eficacia-colectiva]] — la teoría la incorpora como marcador de contexto moral débil y le señala un límite
+- [[puntos-calientes]] — la explicación rival de la concentración del delito
 
 El módulo 6 de `programa/S1.1` agrupa esta obra con las teorías del control social, la prevención situacional y el ciclo vital, «como explicaciones de la criminalidad y como enfoques preventivos». La TAS acota las tres: el control sólo es relevante bajo condición, y la mayoría de las abstenciones no son actos de contención. Ver [[autocontrol-y-disuasion]].
 
@@ -112,3 +118,7 @@ El módulo 6 de `programa/S1.1` agrupa esta obra con las teorías del control so
 [^ext-17]: **Extraído** — [[wikstrom-por-que-se-delinque]], Figura 4, p. 353.
 [^ext-18]: **Extraído** — [[wikstrom-por-que-se-delinque]], pp. 361-362, sección 8.
 [^ext-19]: **Extraído** — [[wikstrom-por-que-se-delinque]], p. 364.
+[^ext-20]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 30 y 137-138.
+[^ext-21]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 148-150.
+[^ext-22]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 70-71, sobre Wikström (2010) y Bernasco y otros (2013).
+[^ext-23]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 148 y 150.

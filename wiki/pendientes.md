@@ -8,16 +8,16 @@ sources: []
 
 Artefacto operativo para retomar. Se actualiza al cerrar sesión.
 
-**Estado al 13-09-2026.** Núcleo ancla S1.1 **completo** y primera obra de consulta
-ingerida. 6 fuentes de 111 documentos, 29 páginas, **siete de ocho clústeres
-poblados**: sólo queda vacío `caso-de-grado`. Cobertura de S1.1: 17 de 32 títulos
-oficiales, 53 %.
+**Estado al 26-09-2026.** Núcleo ancla S1.1 **completo** y tanda 1 del orden por
+calendario en curso. 7 fuentes de 115 documentos, 36 páginas, **siete de ocho
+clústeres poblados**: sólo queda vacío `caso-de-grado`. Cobertura de S1.1: 17 de 32
+títulos oficiales, 53 %; Weisburd y otros no es bibliografía oficial y no la mueve.
 
-**Sesión del 13-09-2026: agnosticación de la ingesta, sin ingerir nada.** La wiki pasa
-a tener por objeto el campo y no el programa; el Magíster queda como **capa de
-prioridad** —decide el orden de ingesta, no el contenido de las páginas—. Reglas
-nuevas en [[purpose]] y en `schema.md`. Las páginas existentes no se tocaron: se
-reformulan cuando se las toque por otra razón, no en una pasada de limpieza.
+**Sesión del 26-09-2026: primera ingesta de la tanda 1.** Entró Weisburd y otros
+(2016), *El lugar importa*: seis páginas nuevas, una ficha y ocho páginas
+actualizadas. Es la primera fuente que discute de frente con dos de las obligatorias
+—Sampson y Wikström— y con la guía del trabajo evaluado. Lo que sigue en la tanda es
+Vanderschueren (2015).
 
 ## Lo que bloquea
 
@@ -44,16 +44,37 @@ Queda esto en manos del autor, y **no bloquea la ingesta**:
 
 ## Fuentes por ingerir
 
-105 de 111, de los cuales trece están en cuarentena sin plazo. El orden está fijado en
-[[purpose]]; el detalle documento por documento lo da `python scripts/estado.py`.
+Al 26-09-2026 quedan 103 pendientes de un universo de 109: los 115 archivos del
+corpus menos los 6 programas oficiales. Diez de ellos están en cuarentena sin plazo. El
+orden está fijado en [[purpose]]; el detalle documento por documento lo da `python
+scripts/estado.py`.
+
+**Hasta el 27-11-2026 manda el orden por calendario** (ajuste del 26-09-2026 en
+[[purpose]]). Cada tanda se cierra antes de la clase que la usa:
+
+- [ ] **Tanda 1, antes del 02-10:** ~~Weisburd y otros (2016)~~, ingerida el 26-09 ·
+      Vanderschueren (2015),
+      guía de barrios · Vanderschueren, Díaz y Guajardo (2021) · Valdivia y otros
+      (2019) · *si alcanza:* Tudela (2015)
+- [ ] **Tanda 2, antes del 10-10:** Batthyány y Cabrera · Vives Varela y Hamui Sutton ·
+      INE (2023) · Srur, pp. 26-45 · Tudela (ed.) (2010), capítulo de Boba · CIPC (2015)
+- [ ] **Tanda 3, antes del 16-10:** Baratta (2004), caps. I-II, IV, VII y VIII ·
+      Kessler (2004) · Blanco (2011)
+- [ ] **Tanda 4, antes del 23-10:** Gottfredson y Hirschi · Clarke · Felson y Eckert
+- [ ] **Tanda 5, antes del 06-11:** Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya ·
+      SPD (2022) · Campana y Meneghini · Bergman (2023)
+- [ ] **Tanda 6, antes del 27-11:** Garland (Gedisa) · Wacquant · Luneke y Trebilcock ·
+      Alda y Beliz · Zeballos (2024) · Bergman (2016) · Silva Sánchez · Ferrajoli
+
+Después de la tanda 6 vuelve el orden por cúmulos:
 
 - [x] **Núcleo ancla S1.1 — 4 de 4.** Sampson, Wikström, Albarracín y Adams, todas el
       12-09-2026.
 - [x] **Guía ONU-Hábitat y Guadalajara (2020)** — ingerida el 12-09-2026. Primera obra
       de consulta y primera fuente operativa de la wiki.
-- [ ] **Bibliografía S1.1, consulta y complementaria — 11 restantes. Siguiente.**
-      Orden interno: **Blanco (2011)**, Alda y Beliz (2007) y Garland completo en la
-      traducción Gedisa. García-Pablos sale de este orden y espera completo. Se sumaron
+- [ ] **Bibliografía S1.1, consulta y complementaria — 11 restantes.** El orden
+      interno que ponía primero a Blanco quedó sustituido por el orden por calendario.
+      García-Pablos sigue en espera hasta estar completo. Se sumaron
       ocho títulos el 12-09-2026: Kessler, Wacquant, los dos Bergman, los dos Zeballos,
       Garland Gedisa y el manual de curso de vida de Blokland y van der Geest. Este
       último se retiró del corpus el 26-09-2026 por no corresponder al curso.
@@ -66,8 +87,8 @@ Queda esto en manos del autor, y **no bloquea la ingesta**:
       el contrapeso que le falta a [[ventanas-rotas]]
 - [ ] Medición e inseguridad — 5. Contiene P1 de S1.2. Es además donde vive lo que
       podría dirimir la contradicción de Adams sobre el legado del conflicto armado
-- [ ] Gobernanza criminal y territorio — 6. Contiene Weisburd y otros (2016), de donde
-      debe nacer la página de puntos calientes
+- [ ] Gobernanza criminal y territorio — 5 restantes. Weisburd y otros (2016) entró el
+      26-09-2026 y de ahí nació [[puntos-calientes]]
 - [ ] Sistema penal y Estado de derecho — 8. Contiene P1 de S1.3
 - [ ] Integrados desde el programa del curso — 9. Contiene P1 de S1.2
 - [ ] Vínculo Estado-crimen — 18. Material de reserva del electivo S3.E4, y donde vive
@@ -77,23 +98,30 @@ Queda esto en manos del autor, y **no bloquea la ingesta**:
 
 ## Páginas borrador
 
-Cuatro, todas por la misma razón: registran una sola posición sobre un asunto que
-tiene otra. [[ventanas-rotas]] dejó de ser una sola posición pero sigue en borrador:
-las dos que tiene son una refutación y un uso, no una defensa.
+Seis. Cuatro por la misma razón: registran una sola posición sobre un asunto que
+tiene otra. [[ventanas-rotas]] ya tiene tres, pero sigue en borrador: son una
+refutación, un uso y un balance de evidencia; ninguna es la defensa de sus autores.
 
-- [ ] [[ventanas-rotas]] — se cierra con Clarke (1997) y Weisburd y otros (2016)
+- [ ] [[ventanas-rotas]] — Weisburd y otros la llevaron de espuria a mixta. Falta
+      Clarke (1997), tanda 4, y sigue faltando la voz de Wilson y Kelling
 - [ ] [[policia-comunitaria]] — la evidencia que invoca Sampson es débil por
       declaración del propio autor, y el caso latinoamericano que aporta Albarracín es
       de reversión
 - [ ] [[legitimidad-policial]] — su único caso positivo es Boston en los noventa
 - [ ] [[debilidad-estatal]] — construida desde quien la critica. Se completa con el
       cúmulo `Vínculo Estado-crimen`
+- [ ] [[desorganizacion-social]] — exposición de segunda mano, hecha por autores que
+      la usan para su propio argumento. Se contrasta con García-Pablos completo
+- [ ] [[policia-de-puntos-calientes]] — toda su evidencia la reportan los proponentes
+      de la estrategia. Falta una fuente crítica o una evaluación independiente, y el
+      corpus no tiene ninguna identificada
 
 ## Contradicciones sin resolver
 
 - [ ] [[magister-prevencion-uah]] — la fecha de la IX Promoción es ambigua dentro de la
       propia fuente. Se resuelve preguntando a la secretaría del programa
-- [ ] [[ventanas-rotas]] — la relación desorden-delito como espuria, sin contraparte
+- [ ] [[ventanas-rotas]] — la relación desorden-delito: espuria para Sampson, mixta
+      para Weisburd y otros. Ya tiene contraparte; falta quien la defienda
 - [ ] [[miedo-social]] y [[adams-violencia-cronica]] — **contradicción interna a la
       fuente**: Adams sostiene que la traumatización política extrema explica las
       respuestas desproporcionadas al riesgo y acto seguido cita al Banco Mundial
@@ -116,21 +144,35 @@ las dos que tiene son una refutación y un uso, no una defensa.
       [[eficacia-colectiva]]
 - [ ] **Quién es el Estado.** Sampson y Wikström lo tratan como solución o contexto;
       Albarracín lo sitúa dentro del problema. En [[gobernanza-criminal]]
+- [ ] **Qué es un punto caliente.** Para la TAS, el resultado de reunir personas
+      propensas con entornos criminógenos; para Weisburd y otros, un acoplamiento del
+      delito al lugar. En [[puntos-calientes]] y [[teoria-accion-situacional]]
+- [ ] **Barrio o calle.** Sampson funda la política territorial en el barrio; Weisburd
+      y otros muestran que el barrio «malo» es en su mayoría calles sin delito. En
+      [[eficacia-colectiva]] y [[desorganizacion-social]]
+- [ ] **El promedio del barrio.** El diagnóstico de la guía ONU-Hábitat proyecta por
+      tipo de barrio; agregar por barrio puede ocultar los puntos calientes. En
+      [[diagnostico-barrial]] y [[analisis-espacial-del-delito]]
+- [ ] **Focalización y legitimidad.** El daño de las tácticas agresivas, frente a la
+      escasa evidencia de que la presencia focalizada lo cause. En
+      [[legitimidad-policial]] y [[policia-de-puntos-calientes]]
 
 ## Ítems de revisión abiertos
 
-- [ ] 15 abiertos en [[revision]] y 2 resueltos el 13-09-2026, más tres enmiendas.
-      **Ninguno bloquea.** El nuevo es `[corpus]`, sobre los dos documentos del
-      inventario que no están en disco. Siguen abiertos, entre otros, que la Guía
-      ONU-Hábitat es un «Borrador avanzado» y que la wiki ya construyó cuatro páginas
-      sobre ella.
+- [ ] 14 abiertos en [[revision]]. **Ninguno bloquea.** La ingesta de Weisburd
+      resolvió dos —puntos calientes y desorganización social—, enmendó el de control
+      social informal y abrió dos: la página de teorías de la oportunidad, que espera a
+      la tanda 4, y si la ley de concentración vale en una comuna chilena. Siguen
+      abiertos, entre otros, que la Guía ONU-Hábitat es un «Borrador avanzado» y que la
+      wiki ya construyó cuatro páginas sobre ella.
 
 ## Preguntas abiertas
 
 - [ ] ¿Sobre qué política, programa o proyecto chileno se ancla el trabajo de grado?
       Sexta pregunta rectora de [[purpose]] y la única que no se responde desde el
-      corpus. Seis fuentes ingeridas —Chicago, Peterborough, Guadalajara y una América
-      Latina donde Chile aparece una vez— y `caso-de-grado` sigue vacío. Los dos
+      corpus. Siete fuentes ingeridas —Chicago, Peterborough, Guadalajara, una América
+      Latina donde Chile aparece una vez y calles de ciudades estadounidenses y
+      europeas— y `caso-de-grado` sigue vacío. Los dos
       Zeballos, integrados el 12-09-2026 y sin ingerir, son lo primero del corpus sobre
       crimen organizado en Chile
 - [ ] ¿Se cursará el taller electivo de crimen organizado? De la respuesta depende que
@@ -141,16 +183,19 @@ las dos que tiene son una refutación y un uso, no una defensa.
 
 Confirmados el 12-09-2026: ninguno de los trece documentos nuevos los cubre.
 
-- [ ] **Módulo 5 de S1.1** —teoría de la tensión y delitos de cuello blanco—: cobertura
-      nula. Faltan Merton, los dos Sutherland y Lamnek
+- [ ] **Módulo 5 de S1.1** —teoría de la tensión y delitos de cuello blanco—: ninguna
+      fuente primaria. Faltan Merton, los dos Sutherland y Lamnek. Baratta (2004), caps.
+      IV y VIII, lo cubre de segunda mano y entra en la tanda 3
 - [ ] **Criminología feminista**, objetivo específico declarado de S1.1: falta Renzetti
       (2013)
-- [ ] **S2.4**: cero documentos de su bibliografía en el corpus. Pero su programa es de
-      la promoción 2023 y quedó marcado `programa_vigente: no` el 12-09-2026: sus
+- [ ] **S2.4**: un documento de su bibliografía en el corpus, Kessler (2004), que
+      también pide S1.1. Pero su programa es de la promoción 2023 y quedó marcado `programa_vigente: no` el 12-09-2026: sus
       faltantes **no se persiguen** hasta que llegue la versión de esta cohorte. Lo
       único que la wiki le ofrece hoy es [[muerte-social]], y no lo sustituye
-- [ ] **Desorganización social**: el módulo 3 la exige como marco y ninguna fuente la
-      define. Ver [[revision]]
+- [x] **Desorganización social**: el módulo 3 la exige como marco y ninguna fuente la
+      definía. Cubierto el 26-09-2026 por Weisburd y otros, de segunda mano: nace
+      [[desorganizacion-social]] en borrador. Falta una fuente primaria de la tradición
+      de Chicago
 - [ ] **Breaking Rules** (Wikström y otros, 2012): donde viven el diseño y los análisis
       completos de PADS+. Las cifras de [[propension-al-delito]] y
       [[exposicion-criminogena]] no se verifican contra su fuente primaria

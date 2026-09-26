@@ -36,6 +36,12 @@
       "bytes": 1929225,
       "ingerido": "2026-09-12",
       "ficha": "wiki/sources/onu-habitat-guia-barrios.md"
+    },
+    "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf": {
+      "sha256": "99e2aa65794bf16da5b976d7348e859518ad9074aff1ee0c18e7a09256ac2810",
+      "bytes": 7384565,
+      "ingerido": "2026-09-26",
+      "ficha": "wiki/sources/weisburd-el-lugar-importa.md"
     }
   }
 }

@@ -1,13 +1,13 @@
 ---
 title: Ventanas rotas y tolerancia cero
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Ventanas rotas y tolerancia cero
@@ -38,7 +38,23 @@ El texto responde de forma expresa a la pregunta de si ambas son la misma cosa, 
 
 ## Estado de la discusión en esta wiki
 
-Pendiente de confrontación. Dos fuentes del corpus discuten este mismo terreno desde supuestos distintos y ninguna está ingerida: Clarke (1997), sobre prevención situacional, y Weisburd y otros (2016), sobre concentración espacial del delito. Hasta entonces, la wiki registra una sola posición y no debe leerse como si registrara el estado del debate.
+Actualizado el 26-09-2026. Hasta ahora la wiki registraba una sola posición. Con [[weisburd-el-lugar-importa]] registra dos cosas más: una descripción de la teoría que no es la de su adversario, y un balance de la evidencia.
+
+**La formulación.** Wilson y Kelling (1982) llevaron la teoría de la [[desorganizacion-social]] en otra dirección. La disposición de los vecinos a ejercer control informal depende de las señales que reciben de su entorno: si el espacio está limpio y la gente se comporta con orden, están dispuestos a intervenir, y los infractores perciben el lugar como poco atractivo. Si el desorden menor queda sin respuesta, el control informal se debilita, llega más desorden y el delito grave entra en espiral. Para romperla, la policía debe controlar el desorden y permitir que el control informal se recupere [^ext-6].
+
+**La evidencia a escala de barrio es mixta** [^ext-7]:
+
+- Skogan (1990) encontró que el desorden se correlacionaba con la percepción de problemas de delito aun controlando por pobreza, estabilidad y composición racial, y que los factores sociales afectaban el asalto a través del desorden.
+- Harcourt (2001) reanalizó esos datos, sacó algunos barrios de Newark con relaciones muy fuertes y la relación desapareció. Eck y Maguire (2000) respondieron que eso no refuta a Skogan: sólo muestra que los datos son sensibles a casos extremos.
+- Taylor (2001), en Baltimore, encontró algún apoyo, variable según el tipo de desorden y de delito.
+- Sampson y Raudenbush (1999), con observación sistemática en Chicago, encontraron que el desorden no se relacionaba con la mayoría de los delitos graves, salvo el asalto, al controlar por pobreza, estabilidad, raza y eficacia colectiva.
+
+**A escala de punto caliente, el mecanismo importa más que la etiqueta.** En Lowell, una intervención orientada a problemas sobre el desorden redujo 20 % las llamadas por delito y desorden. El análisis de mediación mostró que lo que más explicaba la baja eran las medidas situacionales —cerrar sitios eriazos, demoler edificios abandonados, limpiar grafitis—, mientras las detenciones por faltas aportaban menos [^ext-8]. Los autores concluyen que el mantenimiento agresivo del orden por vía de detenciones puede no ser la mejor forma de abordar los lugares con desorden [^ext-8]. Ver [[policia-de-puntos-calientes]].
+
+> [!warning] De «espuria» a «mixta»
+> [[sampson-vecindario-y-comunidad]] declara la relación desorden-delito «fundamentalmente espuria» [^ext-1]. [[weisburd-el-lugar-importa]] cita a Sampson y Raudenbush como uno de cuatro estudios con resultados distintos y declara mixta la evidencia. No es una contradicción frontal: Sampson reporta su propio programa de investigación, y Weisburd y otros lo cuentan como un resultado entre varios. Pero cambia el grado de certeza con que se puede citar la refutación. En un trabajo evaluado, lo defendible es «la evidencia sobre el efecto del desorden en el delito grave es mixta», no «está refutada».
+
+Sigue en borrador por una razón: ninguna de las tres fuentes defiende la teoría. Weisburd y otros la describen y evalúan su evidencia sin sostenerla. Clarke (1997), sobre prevención situacional, está en el corpus sin ingerir.
 
 > [!warning] El instrumento del trabajo evaluado se apoya en ellas
 > Añadido el 12-09-2026. [[onu-habitat-guia-barrios]] —obra de consulta de S1.1, coescrita por el docente del ramo, y la que [[purpose]] señala como operacionalizadora del trabajo evaluado— invoca «la conocida teoría de la ventana rota» dentro de su [[tipologia-barrial]]: el espacio urbano deteriorado influiría «al menos, en la percepción de inseguridad, pudiendo favorecer, incluso, la ocurrencia de delito». De ahí deriva un inventario de elementos que aumentan la inseguridad: pasajes sin salida, espacios sin iluminación, muros ciegos, casas o sitios abandonados, vertederos o basureros informales [^ext-5].
@@ -55,6 +71,9 @@ Pendiente de confrontación. Dos fuentes del corpus discuten este mismo terreno 
 - [[eficacia-colectiva]] — la alternativa que el autor propone en su lugar
 - [[policia-comunitaria]] — con la que el texto insiste en no confundirla
 - [[legitimidad-policial]] — el costo que la tolerancia cero impone
+- [[desorganizacion-social]] — la tradición de la que la teoría se deriva
+- [[policia-de-puntos-calientes]] — el patrullaje focalizado, con el que no debe confundirse
+- [[weisburd-el-lugar-importa]] — fuente de la formulación y del balance de evidencia
 
 ---
 
@@ -63,3 +82,6 @@ Pendiente de confrontación. Dos fuentes del corpus discuten este mismo terreno 
 [^ext-3]: **Extraído** — [[sampson-vecindario-y-comunidad]], p. 242.
 [^ext-4]: **Extraído** — [[sampson-vecindario-y-comunidad]], pp. 242-243.
 [^ext-5]: **Extraído** — [[onu-habitat-guia-barrios]], sección I.5.1.1, pp. 39-40.
+[^ext-6]: **Extraído** — [[weisburd-el-lugar-importa]], p. 52, sobre Wilson y Kelling (1982).
+[^ext-7]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 59-60.
+[^ext-8]: **Extraído** — [[weisburd-el-lugar-importa]], p. 118, sobre Braga y Bond (2008).

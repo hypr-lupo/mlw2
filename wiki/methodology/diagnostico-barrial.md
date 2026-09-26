@@ -1,13 +1,13 @@
 ---
 title: Diagnóstico barrial
 type: method
-sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf"]
+sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Diagnóstico barrial
@@ -33,6 +33,13 @@ Dentro de cada barrio elegido como representativo, muestra aleatoria de entrevis
 Conviene ver el costo del atajo, porque la guía lo asume sin discutirlo: proyectar los resultados de un barrio a toda su categoría supone que la tipología captura lo que importa. Si dos barrios de la misma categoría difieren en algo relevante que la tipología no mide, la proyección lo borra [^inf-1].
 
 La propia guía deja el contrapeso a mano al advertir que las categorías son tipos ideales y que ningún barrio se ajusta perfectamente [^ext-5]. Quien aplique el método debería declarar qué se pierde en la proyección, no sólo qué se gana en costo.
+
+> [!warning] Tensión con la criminología del lugar
+> Añadido el 26-09-2026 al ingerir [[weisburd-el-lugar-importa]]. El libro documenta que la variación del delito ocurre sobre todo **calle a calle**. Aun en las zonas consideradas más desventajadas, la mayoría de las calles tiene poco o ningún delito, y los puntos calientes están repartidos por toda la ciudad [^ext-9]. Agregar a unidades grandes produce un efecto de **promedio**: un área con unos pocos lugares muy activos parece peligrosa entera, y un área con muchos lugares tranquilos puede ocultar sus puntos calientes [^ext-10].
+>
+> Eso afecta las dos renuncias del método de la guía. Muestrear barrios por tipología y proyectar sus resultados supone que dentro de cada barrio, y entre barrios de la misma categoría, el problema es lo bastante homogéneo. La evidencia de Weisburd y otros dice que no lo es a escala de calle. Un diagnóstico barrial puede describir bien la percepción, la cohesión o los recursos de un barrio, y aun así no ver dónde está el delito [^inf-3].
+>
+> No es una contradicción entre autores: la guía no discute a Weisburd ni él a la guía. La tensión la construye esta wiki. Ver [[puntos-calientes]] y [[analisis-espacial-del-delito]].
 
 ## Objetivos según tipo de barrio
 
@@ -60,8 +67,10 @@ Lo que la guía **no** ofrece es la validación: no hay comparación con un diag
 - [[coproduccion-de-seguridad]] — uno de los fines declarados del diagnóstico
 - [[miedo-social]] — por qué un diagnóstico apoyado sólo en tasas de delito describe mal el problema: la percepción de inseguridad puede ir muy por delante de la violencia registrada
 - [[violencia-cronica]] — la categoría donde el diagnóstico es más difícil
+- [[analisis-espacial-del-delito]] — el otro método de la wiki, que trabaja a escala de calle
+- [[puntos-calientes]] — lo que la escala barrial puede ocultar
 
-**Pendiente de contraste.** Es el único método que la wiki registra, y viene de una guía operativa, no de un texto metodológico. El cúmulo `Medición e inseguridad` y las nueve metodológicas de S1.2 están en el corpus sin ingerir: Tudela sobre análisis delictual, el informe metodológico del INE sobre victimización y percepción, Batthyány y Cabrera, Minayo. Hasta entonces esta página no tiene con qué compararse. Ver [[pendientes]].
+**Pendiente de contraste.** Hasta el 26-09-2026 era el único método que la wiki registraba, y viene de una guía operativa, no de un texto metodológico. Ahora la acompaña [[analisis-espacial-del-delito]]. El cúmulo `Medición e inseguridad` y las nueve metodológicas de S1.2 están en el corpus sin ingerir: Tudela sobre análisis delictual, el informe metodológico del INE sobre victimización y percepción, Batthyány y Cabrera, Minayo. Hasta entonces no tiene con qué compararse en su propio terreno, que es el diagnóstico de un territorio. Ver [[pendientes]].
 
 ---
 
@@ -73,5 +82,8 @@ Lo que la guía **no** ofrece es la validación: no hay comparación con un diag
 [^ext-6]: **Extraído** — [[onu-habitat-guia-barrios]], parte II, capítulo 2, p. 57.
 [^ext-7]: **Extraído** — [[onu-habitat-guia-barrios]], introducción, p. 6, y sección II.2.5.
 [^ext-8]: **Extraído** — [[onu-habitat-guia-barrios]], introducción, p. 6.
+[^ext-9]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 30-34.
+[^ext-10]: **Extraído** — [[weisburd-el-lugar-importa]], p. 13.
 [^inf-1]: **Inferido** (confianza 0.8) — consecuencia lógica del diseño de muestreo que la guía describe. El texto declara la proyección por categoría pero no discute sus supuestos ni sus límites.
 [^inf-2]: **Inferido** (confianza 0.8) — la guía afirma haber «verificado la utilidad del enfoque y la factibilidad de su implementación», y no presenta ninguna medida de validez. La distinción entre ambas cosas es lectura propia.
+[^inf-3]: **Inferido** (confianza 0.7) — combina el diseño de muestreo de [[onu-habitat-guia-barrios]] con la evidencia de variación calle a calle de [[weisburd-el-lugar-importa]]. Ninguna de las dos fuentes plantea la consecuencia.

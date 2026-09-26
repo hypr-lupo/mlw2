@@ -10,10 +10,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 104 | 95.4 % |
+| `pendiente` | 103 | 94.5 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 5 | 4.6 % |
+| `completo` | 6 | 5.5 % |
 
 ## Por cumulo
 
@@ -22,7 +22,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
 | Bibliografía S1.1, consulta y complementaria | 12 | 11 | 0 | 0 | 1 |
 | Explicación del delito | 4 | 4 | 0 | 0 | 0 |
-| Gobernanza criminal y territorio | 6 | 6 | 0 | 0 | 0 |
+| Gobernanza criminal y territorio | 6 | 5 | 0 | 0 | 1 |
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
 | Institucionalidad y política de prevención en Chile | 5 | 5 | 0 | 0 | 0 |
 | Integrados desde el programa del curso (05-09-2026) | 9 | 9 | 0 | 0 | 0 |
@@ -106,7 +106,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2006 - Arias - Las dinámicas de la gobernanza criminal.pdf
 - `pendiente` — 2012 - Garzón Vergara - La rebelión de las redes criminales, el crimen organizado en América Latina.pdf
 - `pendiente` — 2015 - Salinero - El crimen organizado en Chile, aproximación criminológica al perfil del delincuente.pdf
-- `pendiente` — 2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf
+- `completo` — 2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf
 - `pendiente` — 2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf
 - `pendiente` — 2024 - Campana y Meneghini - El desplazamiento del crimen organizado en comunidades locales.pdf
 

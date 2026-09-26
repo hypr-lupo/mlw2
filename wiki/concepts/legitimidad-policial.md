@@ -1,13 +1,13 @@
 ---
 title: Legitimidad policial
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Legitimidad policial
@@ -35,6 +35,18 @@ Añadido el 12-09-2026 al ingerir [[albarracin-crimen-organizado-america-latina]
 
 Y un agravante que Sampson no contempla. Si actores estatales ligados a seguridad e inteligencia son piezas constitutivas de los grupos criminales —el caso de las milícias de Rio, formadas por policías y expolicías—, entonces el problema no es sólo que la policía carezca de legitimidad ante la comunidad: es que en esos territorios la policía *es* el grupo criminal [^ext-6]. Ninguna estrategia de construcción de legitimidad opera sobre eso. Ver [[gobernanza-criminal]].
 
+### ¿La focalización en puntos calientes la erosiona?
+
+Añadido el 26-09-2026 al ingerir [[weisburd-el-lugar-importa]]. El libro recoge la objeción de Rosenbaum (2006) y Kochel (2011): la intervención policial intensiva en lugares de alto delito puede convertir a las comunidades en blancos y no en socias, sobre todo donde la percepción de la policía ya es negativa [^ext-7].
+
+Su respuesta es que casi no hay evidencia empírica del daño [^ext-8]. En Kansas City los residentes apoyaron el patrullaje intensivo. En San Bernardino, una intervención al estilo de ventanas rotas no cambió la legitimidad percibida. En St. Louis, el patrullaje dirigido la redujo justo después de aplicarse, y el efecto desapareció a los seis meses. La orientación a problemas no la afectó.
+
+A la vez, el libro reconoce la controversia por el *stop, question and frisk* en Nueva York, con fuertes disparidades raciales [^ext-9].
+
+**Cómo se concilian.** Sampson y Albarracín describen el daño de las **tácticas** agresivas: detenciones masivas, registros sin motivo, militarización. Weisburd y otros evalúan la **focalización**: estar presente donde se concentra el delito. Las dos cosas pueden ser ciertas a la vez [^inf-2]. Lo que ninguna fuente de la wiki ha medido todavía es la focalización ejecutada con tácticas agresivas, que es probablemente el caso más común. Los propios autores piden experimentos con policía de puntos calientes que incorpore justicia procedimental [^ext-10]. Ver [[policia-de-puntos-calientes]].
+
+**Sesgo de fuente.** La respuesta a la objeción la dan los autores de los experimentos cuestionados.
+
 ## Cómo se construye: el paraguas de legitimidad
 
 El caso que el texto ofrece es la Coalición de Diez Puntos de Boston, formada a inicios de los noventa por un grupo de sacerdotes ante el aumento de la violencia juvenil [^ext-4]. El conflicto de partida es reconocible: los residentes querían calles más seguras para sus hijos y no estaban dispuestos a que sus hijos fueran detenidos en masa; las tácticas agresivas contra jóvenes negros sólo empeoraron las cosas, y no había consenso sobre qué contaba como actividad policial legítima [^ext-4].
@@ -56,6 +68,7 @@ Los autores de la evaluación —aún en curso cuando se escribe el artículo—
 - [[policia-comunitaria]] — el modelo que esta condición habilita, y que fracasa sin ella
 - [[ventanas-rotas]] — la estrategia que la erosiona
 - [[eficacia-colectiva]] — la disposición vecinal a intervenir que la desconfianza en la policía deja sin canal
+- [[policia-de-puntos-calientes]] — la estrategia cuyo efecto sobre la legitimidad se discute
 
 El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como contenido propio, y su bibliografía específica no está en el corpus.
 
@@ -67,4 +80,9 @@ El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como
 [^ext-4]: **Extraído** — [[sampson-vecindario-y-comunidad]], pp. 243-244, sobre Berrien y Winship (2002).
 [^ext-5]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 11.
 [^ext-6]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], Recuadro 1, p. 14.
+[^ext-7]: **Extraído** — [[weisburd-el-lugar-importa]], p. 126, sobre Rosenbaum (2006), Kochel (2011) y Tyler (1990).
+[^ext-8]: **Extraído** — [[weisburd-el-lugar-importa]], p. 126, sobre Shaw (1995), Weisburd y otros (2011) y Kochel (2013).
+[^ext-9]: **Extraído** — [[weisburd-el-lugar-importa]], p. 157.
+[^ext-10]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 126-127.
 [^inf-1]: **Inferido** (confianza 0.6) — el texto describe el caso y nombra la función de institución intermedia, pero no discute su transferibilidad. La distinción entre el actor y la función es lectura propia sobre lo que la fuente dice.
+[^inf-2]: **Inferido** (confianza 0.7) — la distinción entre focalización y tácticas es lectura propia al comparar lo que evalúa cada fuente. [[weisburd-el-lugar-importa]] la sugiere al separar las estrategias de aplicación de la ley de las orientadas a problemas (pp. 123-125), pero no la formula así.

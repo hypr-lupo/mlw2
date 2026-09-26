@@ -8,20 +8,26 @@ sources: []
 
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
-**Al 12-09-2026: núcleo ancla completo y primera fuente operativa dentro.** Seis
-fuentes de 114, veintinueve páginas, **siete de ocho clústeres poblados**. Las cuatro
-obligatorias de S1.1 explican; la Guía ONU-Hábitat prescribe. Con ella la wiki tiene
-por primera vez un instrumento aplicable a una comuna, y no sólo teoría con la que
-juzgarla.
+**Al 26-09-2026: núcleo ancla completo y primera fuente de la tanda 1 dentro.** Siete
+fuentes de 115, treinta y seis páginas, **siete de ocho clústeres poblados**. Las
+cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
+otros (2016) cambia la escala: del barrio a la calle. Es la primera fuente que discute
+de frente con otras dos de la wiki, y no sólo la wiki con ellas.
 
-## Cuatro respuestas a la misma pregunta
+## Cinco respuestas a la misma pregunta
 
-Las cuatro obligatorias explican por qué la violencia se concentra donde se concentra,
-y cada una pone el mecanismo en un lugar distinto. Ése es el arco que el ramo pide
-recorrer.
+Las cinco fuentes teóricas explican por qué la violencia se concentra donde se
+concentra, y cada una pone el mecanismo en un lugar distinto.
 
 **En el barrio.** [[sampson-vecindario-y-comunidad]]: la [[eficacia-colectiva]] media
 entre desventaja concentrada y violencia. De ahí, una política territorial.
+
+**En la calle.** [[weisburd-el-lugar-importa]]: el delito se concentra en muy pocos
+[[puntos-calientes]], esa concentración es estable y los puntos están repartidos por
+toda la ciudad, no agrupados en barrios «malos». Lo explican dos familias de teorías:
+la [[desorganizacion-social]] llevada a escala de calle y las teorías de la
+oportunidad, con la [[gestion-de-lugares]] como la más general. Y el método tiene que
+seguir a la escala: ver [[analisis-espacial-del-delito]].
 
 **En la situación.** [[wikstrom-por-que-se-delinque]]: las causas emergen del encuentro
 entre una [[propension-al-delito]] y una [[exposicion-criminogena]]. El barrio es causa
@@ -36,32 +42,54 @@ existe también por la cooperación deliberada de actores estatales. Ver
 y no episodio, y sus efectos —[[miedo-social]], [[zona-gris]], [[muerte-social]]— la
 reproducen hasta volverse norma. Ver [[gobernanzas-paralelas]].
 
-## Las cinco tensiones registradas
+## Las tensiones registradas
 
-Ninguna la plantea un autor contra otro: todas las construye esta wiki, y todas están
+Hasta el 12-09-2026 ninguna la planteaba un autor contra otro: las construía esta
+wiki. Con Weisburd y otros cambia eso en parte. El libro cita a Sampson y a Wikström y
+toma posición frente a ellos, aunque las tensiones siguen formuladas por la wiki y
 marcadas como tales en las páginas afectadas.
 
-1. **Enfoque territorial y determinismo local.** La obra que el módulo 3 usa para
-   fundar el enfoque territorial es la misma que advierte contra sobreestimarlo.
+**Las cinco anteriores**
+
+1. **Enfoque territorial y determinismo local.** La obra que funda el enfoque
+   territorial es la misma que advierte contra sobreestimarlo.
 2. **Alcance del efecto de área.** Wikström conserva el efecto del barrio pero lo
    condiciona a quién lo use: para las personas aversas al delito es cero.
-3. **Estatus del control en la prevención.** El módulo 6 presenta el control y la
-   prevención situacional como enfoques preventivos; la TAS los acota a las situaciones
-   con deliberación y conflicto de reglas-guía.
+3. **Estatus del control en la prevención.** El control y la prevención situacional
+   suelen presentarse como enfoques preventivos generales; la TAS los acota a las
+   situaciones con deliberación y conflicto de reglas-guía.
 4. **Capital social frente a eficacia colectiva.** Adams trabaja con el constructo de
-   Putnam; Sampson formuló el suyo para corregirlo. Dos obligatorias del mismo ramo,
-   constructos rivales, ninguna discute a la otra.
+   Putnam; Sampson formuló el suyo para corregirlo.
 5. **Quién es el Estado.** Solución o contexto en Sampson y Wikström; parte del
    problema en Albarracín; y en Adams, aquello cuya ausencia legitima a los poderes
    paralelos.
 
-**Y una sexta, la que más va a pesar en el trabajo evaluado.**
+**Las cuatro que abre Weisburd y otros**
+
+6. **Qué es un punto caliente.** Para la TAS, el resultado de reunir personas
+   propensas con entornos criminógenos. Para Weisburd y otros, el delito está acoplado
+   al lugar por características que no existen en la cuadra de al lado. No es pura
+   oposición: el libro lee la TAS como integración de persona y lugar, y admite que
+   sus propios autores discrepan sobre la motivación. Ver [[puntos-calientes]] y
+   [[teoria-accion-situacional]].
+7. **Barrio o calle.** Sampson funda la política en el barrio; Weisburd y otros
+   muestran que dentro de un barrio de alto delito la mayoría de las calles tiene poco.
+   Ver [[eficacia-colectiva]] y [[desorganizacion-social]].
+8. **El promedio del barrio.** El diagnóstico de la Guía proyecta por tipo de barrio;
+   agregar por barrio puede ocultar los puntos calientes o hacer peligroso un barrio
+   entero por unas pocas calles. Ver [[diagnostico-barrial]].
+9. **Focalización y legitimidad.** Sampson y Albarracín documentan el daño de las
+   tácticas agresivas; Weisburd y otros sostienen que casi no hay evidencia de que la
+   presencia focalizada lo cause. Pueden ser ciertas las dos si se separa la presencia
+   de las tácticas. Ver [[legitimidad-policial]] y [[policia-de-puntos-calientes]].
+
+**Y la que más va a pesar en el trabajo evaluado de S1.1, ahora con tres voces.**
 [[onu-habitat-guia-barrios]] —obra de consulta del ramo, coescrita por su docente—
 incorpora la teoría de las ventanas rotas dentro de su [[tipologia-barrial]], y
-[[sampson-vecindario-y-comunidad]] —obligatoria del mismo ramo— la refuta. El
-instrumento y la teoría que debería validarlo van en direcciones distintas en ese
-punto. Con un matiz que salva parte del conflicto: la guía acota el efecto a la
-percepción de inseguridad, terreno que Sampson no discute. Ver [[ventanas-rotas]].
+[[sampson-vecindario-y-comunidad]] la declara espuria. Weisburd y otros no desempatan:
+declaran la evidencia **mixta** a escala de barrio y citan a Sampson como uno de los
+estudios, no como el cierre del asunto. El conflicto baja de grado, pero no se
+resuelve. Ver [[ventanas-rotas]].
 
 **Y una convergencia, que vale tanto como las tensiones.** Sampson desde Chicago y la
 tolerancia cero, y Albarracín desde América Latina y la mano dura, llegan a lo mismo
@@ -72,59 +100,66 @@ es popular: el debido proceso se vive como protección a los delincuentes. Ver
 
 ## Lo que ya puede hacer, y antes no
 
-Con la Guía dentro, la wiki dejó de ser sólo un aparato de lectura crítica:
-
 - **Clasificar un territorio.** [[tipologia-barrial]] da cinco categorías con
   indicadores comunes, aplicables a una comuna.
-- **Diseñar un levantamiento.** [[diagnostico-barrial]] —primera página de
-  `wiki/methodology/`— fija las decisiones de muestreo y la exigencia de comparabilidad
-  en el tiempo.
+- **Diseñar un levantamiento.** [[diagnostico-barrial]] fija las decisiones de muestreo
+  y la exigencia de comparabilidad en el tiempo.
 - **Nombrar el modo de trabajo que el programa exige.** [[coproduccion-de-seguridad]]
-  da contenido a lo que el perfil de egreso compromete sin definir. Ver
-  [[magister-prevencion-uah]].
+  da contenido a lo que el perfil de egreso compromete sin definir.
+- **Discutir la escala.** [[analisis-espacial-del-delito]] da los cuatro problemas que
+  hay que resolver antes de mapear —autocorrelación, falacia ecológica, unidad
+  modificable y efecto de borde— y las técnicas para identificar puntos calientes.
+- **Evaluar una intervención focalizada.** [[policia-de-puntos-calientes]] y
+  [[desplazamiento-y-difusion]] dan la evidencia sobre si funciona y sobre si sólo
+  mueve el delito.
+- **Mirar a quien gestiona el lugar.** [[gestion-de-lugares]] pone en el centro a
+  dueños, administradores y a la regulación local —patentes, ordenanzas,
+  fiscalización—, sin pasar por la justicia penal.
 
-Las tres vienen de una sola fuente, y esa fuente es un borrador coescrito por el
-docente del ramo. Conviene usarlas sabiendo eso.
+Las tres primeras vienen de un borrador coescrito por el docente del ramo; las tres
+últimas, de los proponentes de la criminología del lugar. Conviene usarlas sabiendo
+las dos cosas.
 
 ## Lo que esto deja para el trabajo evaluado de S1.1
 
 El trabajo recae sobre una política municipal o un proyecto de seguridad identificable
 —la misma exigencia de anclaje del [[trabajo-de-grado-profesionalizante]] un semestre
-antes. Las cinco fuentes bibliográficas dan, juntas, cinco preguntas que un diagnóstico
-serio debería poder responder sobre cualquier intervención:
+antes. Las fuentes dan, juntas, siete preguntas que un diagnóstico serio debería poder
+responder sobre cualquier intervención. Las formula esta wiki:
 
 - ¿Funciona por el territorio o por quién usa el territorio?
+- ¿A qué escala actúa, el barrio o la calle, y a qué escala se midió?
 - ¿Opera antes o después de la percepción de alternativas de acción?
 - ¿Los actores estatales del territorio son parte de la solución o parte del arreglo?
+- ¿Quién gestiona los lugares donde se concentra el problema, y con qué instrumentos
+  legales se le puede exigir?
 - ¿La percepción de inseguridad que la motiva sigue a la violencia registrada, o va por
   delante?
 - ¿Lo que mejora es el delito o la percepción, y se está diciendo cuál de los dos?
 
 ## Lo que la wiki todavía no puede hacer
 
-- **Decir nada de Chile.** Chicago, Peterborough, Guadalajara y una América Latina donde
-  Chile aparece una sola vez. `caso-de-grado` sigue vacío y es el vacío más caro del
-  proyecto. Los dos Zeballos, integrados el 12-09-2026 y sin ingerir, son lo primero
-  del corpus que habla de crimen organizado en Chile.
-- **Registrar el otro lado.** Cuatro páginas en borrador porque recogen una sola
-  posición: [[ventanas-rotas]], [[policia-comunitaria]], [[legitimidad-policial]] y
-  [[debilidad-estatal]]. Los contrapesos están todos en el corpus sin ingerir.
-- **Contrastar métodos.** `wiki/methodology/` tiene una sola página y viene de una guía
-  operativa, no de un texto metodológico. Las nueve de S1.2 y el cúmulo `Medición e
-  inseguridad` siguen sin ingerir.
-- **Nombrar su propio marco.** El módulo 3 enmarca a Sampson en la desorganización
-  social, que ninguna fuente del corpus define —la Guía la menciona de paso y no la
-  desarrolla. Ver [[revision]].
+- **Decir nada de Chile.** Chicago, Peterborough, Guadalajara, calles de ciudades
+  estadounidenses y europeas, y una América Latina donde Chile aparece una sola vez.
+  Ni siquiera sabe si la ley de concentración vale aquí: el propio libro advierte que
+  no se ha probado en países de ingresos bajos ni en ciudades en crisis. Ver
+  [[revision]]. `caso-de-grado` sigue vacío.
+- **Registrar el otro lado.** Seis páginas en borrador: [[ventanas-rotas]],
+  [[policia-comunitaria]], [[legitimidad-policial]], [[debilidad-estatal]],
+  [[desorganizacion-social]] y [[policia-de-puntos-calientes]]. Las dos últimas nacen
+  de una sola fuente escrita por quienes defienden la posición.
+- **Hablar de las teorías de la oportunidad desde sus autores.** Cinco páginas las
+  mencionan y no tienen adónde enlazar. Clarke (1997) y Felson y Eckert (2016) entran
+  en la tanda 4.
+- **Contrastar métodos.** `wiki/methodology/` tiene dos páginas; las metodológicas de
+  S1.2 siguen sin ingerir.
 - **Clasificar grupos criminales.** No hay `subtipo` de `entity` donde quepan el PCC o
   las milícias. Material de la operación 8.
 
 ## Orden de ingesta
 
-Fijado en [[purpose]]. Dentro del cúmulo de consulta de S1.1, la Guía ONU-Hábitat ya
-está. Siguen **Blanco (2011)** sobre curso de vida, **Alda y Beliz (2007)** y
-**Garland** completo, en la traducción Gedisa que llegó el 12-09-2026; García-Pablos por
-capítulos atados a un módulo y nunca entero.
-
-Ocho títulos de S1.1 se integraron ese mismo día y suben su cobertura de 34 % a 53 %.
-Trece documentos siguen en cuarentena, fuera del orden, hasta que se resuelva el ítem
-de alcance de [[revision]].
+Hasta el 27-11-2026 manda el **orden por calendario** fijado en [[purpose]]: seis
+tandas, cada una cerrada antes de la clase que la usa. La tanda 1 sigue con
+**Vanderschueren (2015)**, **Vanderschueren, Díaz y Guajardo (2021)** y **Valdivia y
+otros (2019)**, y Tudela (2015) si alcanza. Después vuelve el orden por cúmulos.
+García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.

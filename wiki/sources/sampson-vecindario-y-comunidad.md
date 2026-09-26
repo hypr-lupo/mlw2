@@ -15,7 +15,7 @@ procedencia: fuentes
 estado: revisado
 truncado: false
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Vecindario y comunidad (Sampson)
@@ -87,7 +87,8 @@ El propio autor advierte que su experiencia proviene de investigación estadouni
 
 - Ninguna fuente ingerida comparte sustrato documental con ésta: es la primera del núcleo ancla y la señal de solapamiento es nula en toda la wiki.
 - El trabajo evaluado de S1.1 —una política municipal o un proyecto de seguridad identificable— es la misma exigencia de anclaje empírico que [[trabajo-de-grado-profesionalizante]], un semestre antes.
-- Por confrontar cuando entren al corpus: Clarke (1997) y Weisburd y otros (2016), sobre prevención situacional y concentración espacial del delito, que discuten el mismo terreno desde otro supuesto.
+- [[weisburd-el-lugar-importa]] — ingerido el 26-09-2026. Ubica la eficacia colectiva dentro de la [[desorganizacion-social]], la lleva a escala de calle y declara mixta la evidencia sobre desorden y delito que este texto llama espuria. Tensiones registradas en [[eficacia-colectiva]] y [[ventanas-rotas]].
+- Por confrontar cuando entre al corpus: Clarke (1997), sobre prevención situacional.
 
 ---
 

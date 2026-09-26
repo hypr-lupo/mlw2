@@ -7,7 +7,7 @@ curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Exposición criminógena
@@ -100,7 +100,7 @@ Traducido: la presencia de jóvenes aversos al delito en un área no tiene ning�
 - [[eficacia-colectiva]] — la medida que esta construcción adopta y critica
 - [[filtro-moral]] — por dónde el contexto moral del entorno entra en la acción
 
-**Puntos calientes.** El texto los explica como convergencia espacio-temporal de personas propensas y entornos criminógenos, y cita a Weisburd, Morris y Groff (2009). La página propia nacerá al ingerir Weisburd y otros (2016), que está en el corpus. Ver [[revision]].
+**Puntos calientes.** El texto los explica como convergencia espacio-temporal de personas propensas y entornos criminógenos, y cita a Weisburd, Morris y Groff (2009). Desde el 26-09-2026 tienen página propia, que registra la explicación rival de Weisburd y otros (2016). Ver [[puntos-calientes]].
 
 ---
 

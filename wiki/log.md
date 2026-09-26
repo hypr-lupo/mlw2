@@ -8,6 +8,53 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-09-26] ingesta | Weisburd y otros (2016), El lugar importa
+
+**Primera fuente de la tanda 1 del orden por calendario, y primera que discute de
+frente con otras fuentes de la wiki.**
+
+- Ficha creada: [[weisburd-el-lugar-importa]]
+- Páginas creadas: [[puntos-calientes]], [[desorganizacion-social]],
+  [[policia-de-puntos-calientes]], [[desplazamiento-y-difusion]],
+  [[gestion-de-lugares]] y [[analisis-espacial-del-delito]] —segunda página de
+  `wiki/methodology/`, y la primera que viene de un texto metodológico—
+- Páginas actualizadas: [[ventanas-rotas]] —de espuria a mixta; tercera fuente—,
+  [[eficacia-colectiva]] —llevada a la calle, y la objeción a su medida; quinta
+  fuente—, [[legitimidad-policial]] —si la focalización la erosiona; tercera fuente—,
+  [[diagnostico-barrial]] —el riesgo de promediar por barrio; segunda fuente—,
+  [[teoria-accion-situacional]] —la explicación rival de la concentración; segunda
+  fuente—, y los punteros que ya anunciaban esta obra en [[exposicion-criminogena]],
+  [[wikstrom-por-que-se-delinque]] y [[sampson-vecindario-y-comunidad]]. Más
+  [[index]], [[referencias]], [[overview]], [[revision]], [[pendientes]]
+- Contradicciones y tensiones: 5 entre fuentes, más 1 sobre la propia fuente.
+  · **Qué es un punto caliente**: selección de personas para la TAS, acoplamiento del
+    delito al lugar para Weisburd y otros. La de más fondo, y la única que el propio
+    libro reconoce como desacuerdo entre sus autores.
+  · **Barrio o calle**, frente a Sampson.
+  · **El promedio del barrio**, frente al diagnóstico de la Guía ONU-Hábitat.
+  · **Ventanas rotas**: Sampson la declara espuria, Weisburd y otros mixta. Cambio de
+    grado, no contradicción frontal.
+  · **Focalización y legitimidad**, frente a Sampson y Albarracín: compatibles si se
+    separa la presencia focalizada de las tácticas agresivas.
+  · **Sesgo de la fuente**: toda la evidencia la reportan sus proponentes. Registrado
+    en la ficha, y es la razón de que dos de las páginas nuevas queden en borrador.
+- En revisión: 2 ítems **resueltos** —puntos calientes y desorganización social—, 1
+  enmienda —control social informal ya tiene definición en el corpus— y 2 nuevos:
+  `crear-pagina` teorías de la oportunidad, que espera a Clarke y a Felson y Eckert en
+  la tanda 4, e `investigar` si la ley de concentración vale en una comuna chilena. La
+  cola queda en 14 abiertos.
+- Vacío cerrado: **desorganización social** tiene página, de segunda mano y en
+  borrador, escrita desde una fuente que sí ubica ahí a Sampson y no desde Sampson.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-09-26-weisburd-el-lugar-importa.md`.
+- Notas: la obra está en inglés y sin traducción; las citas textuales van en el
+  original con traducción entre corchetes. Tiene 158 páginas de cuerpo; la página
+  impresa es la del PDF menos 24. `verificacion_bibliografica: verificado` contra la
+  página de créditos. No es bibliografía oficial de ningún programa recibido, de modo
+  que no mueve la cobertura de S1.1. Toca 15 páginas de contenido, en el borde
+  superior de lo esperable: es un libro de síntesis de un campo entero, no un
+  artículo.
+
 ## [2026-09-26] corpus | Depuración del inventario, normativa chilena y síntesis de clases
 
 **Sin ingesta. Cambios en el corpus y en `clases/`; ninguna página de la wiki cambia de

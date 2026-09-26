@@ -1,13 +1,13 @@
 ---
 title: Eficacia colectiva
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Eficacia colectiva
@@ -84,6 +84,21 @@ Esa última afirmación es fuerte y la guía no la respalda con estudio alguno, 
 
 **Lo que se pierde en la traducción.** La guía usa «cohesión social» y «capital social» junto a «eficacia colectiva» sin marcar la diferencia entre los tres —la misma imprecisión que separa a [[sampson-vecindario-y-comunidad]] de [[adams-violencia-cronica]], registrada más arriba. Al aplicar su tipología conviene saber qué se está midiendo: densidad de vínculos, o disposición compartida a intervenir.
 
+## Llevada a la calle
+
+Añadido el 26-09-2026 al ingerir [[weisburd-el-lugar-importa]], que hace dos cosas con el constructo.
+
+**Lo ubica en una tradición.** Presenta la eficacia colectiva como extensión de la teoría sistémica, una de las versiones de la [[desorganizacion-social]]: Sampson y otros (1997) la definen como la cohesión entre vecinos unida a su disposición a intervenir por el bien común [^ext-22]. Es la fuente que respalda el encuadre del módulo 3 de `programa/S1.1`, que Sampson no hace.
+
+**Lo baja de escala.** Weisburd y otros sostienen que la teoría se aplica igual o mejor a segmentos de calle que a barrios. Un barrio con poca eficacia colectiva no puede explicar por qué una calle concentra delito y la de al lado no [^ext-23]. En Seattle midieron la eficacia colectiva calle a calle con un indicador propio: el porcentaje de votantes activos, es decir, los que votaron de forma sostenida durante dos años. Sólo el 25 % de las calles vecinas a los puntos altos de votación compartía ese nivel [^ext-24]. En el modelo de puntos calientes crónicos, la eficacia colectiva contribuyó, aunque con efectos menores que la oportunidad [^ext-25].
+
+**La objeción a la medida.** Braga y Clarke (2014) cuestionan que el voto mida eficacia colectiva, citando a Sampson (2012), que encontró poca correlación entre ambos a nivel de barrio. Weisburd y otros responden que su indicador es distinto: no si alguien votó en la última elección, sino si vota de forma sostenida, lo que indicaría compromiso cívico [^ext-26]. La respuesta la dan los mismos autores cuestionados, y la medida no es la de Sampson, Raudenbush y Earls: al citar resultados de Seattle hay que decir qué se midió [^inf-1].
+
+**Como base de intervención, sin evidencia todavía.** Los mismos autores admiten que hay poca evidencia sobre la efectividad de prácticas específicas derivadas de esta tradición. Los experimentos para subir la eficacia colectiva en puntos calientes estaban en curso [^ext-27].
+
+> [!warning] Tensión sobre la escala
+> [[sampson-vecindario-y-comunidad]] advierte contra el determinismo local: lo que pasa en el barrio lo configuran fuerzas no locales [^ext-8]. [[weisburd-el-lugar-importa]] mueve el mismo constructo en la dirección contraria, hacia dentro del barrio. La primera advierte que el barrio es demasiado chico para explicarse solo; la segunda, que es demasiado grande para ver dónde está el delito. Ninguna discute a la otra. Ver [[desorganizacion-social]] y [[puntos-calientes]].
+
 ## Cita
 
 > "las redes necesitan ser activadas para que en última instancia sean significativas"
@@ -99,7 +114,10 @@ Esa última afirmación es fuerte y la guía no la respalda con estudio alguno, 
 - [[exposicion-criminogena]] — dónde vive este constructo dentro de la teoría de la acción situacional
 - [[teoria-accion-situacional]] — el marco que lo adopta como marcador y lo subordina a la interacción con la propensión
 
-**Vacío declarado.** El módulo 3 de `programa/S1.1` enmarca esta obra dentro de la teoría de la desorganización social, que el texto no nombra. Ninguna fuente del corpus la define todavía: ver [[revision]].
+- [[desorganizacion-social]] — la tradición donde [[weisburd-el-lugar-importa]] ubica el constructo
+- [[puntos-calientes]] — la escala a la que Weisburd y otros lo llevan
+
+**Vacío resuelto el 26-09-2026.** El módulo 3 de `programa/S1.1` enmarca esta obra dentro de la desorganización social, que Sampson no nombra. [[weisburd-el-lugar-importa]] es ahora la fuente que respalda ese encuadre. Ver [[desorganizacion-social]].
 
 ---
 
@@ -124,3 +142,10 @@ Esa última afirmación es fuerte y la guía no la respalda con estudio alguno, 
 [^ext-19]: **Extraído** — [[adams-violencia-cronica]], sección II.F, pp. 28-29.
 [^ext-20]: **Extraído** — [[onu-habitat-guia-barrios]], sección I.5.2, p. 41, citando a Sampson y otros (1999).
 [^ext-21]: **Extraído** — [[onu-habitat-guia-barrios]], sección I.5.2, pp. 41-42.
+[^ext-22]: **Extraído** — [[weisburd-el-lugar-importa]], p. 51, sobre Sampson y otros (1997, p. 918).
+[^ext-23]: **Extraído** — [[weisburd-el-lugar-importa]], p. 54.
+[^ext-24]: **Extraído** — [[weisburd-el-lugar-importa]], p. 60 y figura 3.5, sobre Weisburd, Groff y Yang (2012).
+[^ext-25]: **Extraído** — [[weisburd-el-lugar-importa]], p. 61, sobre Weisburd, Groff y Yang (2014).
+[^ext-26]: **Extraído** — [[weisburd-el-lugar-importa]], nota 3 del cap. 3, p. 160.
+[^ext-27]: **Extraído** — [[weisburd-el-lugar-importa]], p. 114 y nota 2 del cap. 6, p. 161.
+[^inf-1]: **Inferido** (confianza 0.8) — la diferencia entre el indicador de voto y la escala de Sampson, Raudenbush y Earls resulta de comparar esta página con [[sampson-vecindario-y-comunidad]]; el libro no la plantea en estos términos.

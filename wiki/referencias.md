@@ -45,6 +45,16 @@ Universidad Alberto Hurtado. (2026). *Magíster en Prevención, Seguridad Urbana
 Política Criminal* [Folleto del programa]. Facultad de Ciencias Sociales.
 → [[programa-magister-uah]] · verificación bibliográfica pendiente
 
+Weisburd, D., Eck, J. E., Braga, A. A., Telep, C. W., Cave, B., Bowers, K.,
+Bruinsma, G., Gill, C., Groff, E. R., Hibdon, J., Hinkle, J. C., Johnson, S. D.,
+Lawton, B., Lum, C., Ratcliffe, J. H., Rengert, G. F., Taniguchi, T., y Yang, S.-M.
+(2016). *Place matters: Criminology for the twenty-first century*. Cambridge
+University Press.
+→ [[weisburd-el-lugar-importa]] · verificada contra la página de créditos del libro
+(ISBN 978-1-107-02952-1) · obra en inglés sin traducción · **voz de los proponentes
+del campo**: la mayoría de sus cifras vienen de estudios ajenos, y se cita el estudio
+original cuando se usa una cifra
+
 Wikström, P.-O. H. (2017). Por qué se delinque: una teoría de la acción situacional
 (M. Melendo Pardos, Trad.). *Revista de Derecho Penal y Criminología*, 3.ª época,
 (17), 337-367. (Obra original publicada en 2014 como capítulo 3 de G. Manzo (Ed.),

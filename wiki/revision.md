@@ -31,16 +31,6 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       política y el contenido de la coproducción de seguridad. Falta aún su segunda obra
       del corpus, Vanderschueren, Díaz y Guajardo (2021), sin ingerir.
 
-- [ ] **[concepto]** «Desorganización social» — el módulo 3 de `programa/S1.1`
-      enmarca a Sampson dentro de esta teoría, y Sampson no la nombra en ningún
-      momento. Ninguna fuente del corpus la define: García-Pablos de Molina la
-      cubriría, pero el extracto disponible parte en la página 688.
-      Acción propuesta: `preguntar` · Origen: ingesta 2026-09-12
-      Criterio: decidir si se cubre con [[eficacia-colectiva]] como heredera, si se
-      escribe desde García-Pablos cuando se ingiera, o si es un vacío que se declara.
-      No se resuelve escribiéndola desde Sampson: sería atribuirle un marco que no
-      enuncia.
-
 - [ ] **[concepto]** «Control social informal» — Sampson lo usa como el mecanismo
       causal de la eficacia colectiva sin definirlo, y es contenido del módulo 6 de
       S1.1 junto con el control social de Gottfredson y Hirschi, que es otra cosa
@@ -54,6 +44,13 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       deja escrito por qué la disuasión situacional de la TAS y el control social
       informal de Sampson no son el mismo concepto. Lo que sigue faltando es la voz
       de Gottfredson y Hirschi.
+      **Enmienda 26-09-2026** (ingesta de Weisburd y otros): el concepto ya tiene una
+      definición en el corpus. [[weisburd-el-lugar-importa]] lo define como la
+      autorregulación de la conducta de residentes y visitantes por una comunidad
+      local, para lograr un objetivo común (p. 58), y lo distingue de la gestión de
+      lugares, que es intencional como el control formal pero no es función estatal
+      (p. 49). El criterio sigue igual: la página nace con Gottfredson y Hirschi
+      (tanda 4), para que distinga los dos sentidos desde el inicio.
 
 - [ ] **[fuente]** Año de edición de Sampson — el corpus y el programa la fechan en
       2006; el texto declara un original de 2004 en *New Economy* y no consigna el
@@ -84,15 +81,6 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       produciría una ficha de estudio, no una página de método. Nota: el diseño
       completo está en Wikström y otros (2012), *Breaking Rules*, que no está en el
       corpus.
-
-- [ ] **[concepto]** Puntos calientes (concentraciones espacio-temporales del
-      delito) — mencionado por [[sampson-vecindario-y-comunidad]] y explicado por
-      [[wikstrom-por-que-se-delinque]] como convergencia de personas propensas y
-      entornos criminógenos. Dos fuentes lo tocan de paso y ninguna lo desarrolla.
-      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-12
-      Criterio: la página nace con Weisburd y otros (2016), *El lugar importa*, que
-      está en el corpus y es la obra dedicada al asunto. Crearla antes sería
-      escribirla desde dos notas al margen.
 
 - [ ] **[esquema]** Los grupos criminales no tienen dónde caber — un grupo como el
       PCC, las milícias de Rio o un cartel no encaja en ninguno de los cinco
@@ -163,7 +151,66 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       Importa más de lo habitual: es la obra que operacionaliza el trabajo evaluado de
       S1.1 y su coautor es el docente del ramo.
 
+- [ ] **[concepto]** Teorías de la oportunidad —elección racional, patrón
+      delictivo, actividades rutinarias y prevención situacional—.
+      [[weisburd-el-lugar-importa]] las expone como una de las dos familias que
+      explican la concentración del delito, y hoy cinco páginas las mencionan sin
+      tener adónde enlazar: [[puntos-calientes]], [[gestion-de-lugares]],
+      [[desplazamiento-y-difusion]], [[analisis-espacial-del-delito]] y
+      [[desorganizacion-social]].
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
+      Criterio: crearla con Clarke (1997) y Felson y Eckert (2016), que están en el
+      corpus y entran en la tanda 4. Escribirla desde Weisburd sería escribirla
+      desde el resumen de quien las usa, no desde sus autores.
+
+- [ ] **[investigar]** ¿Vale la ley de concentración del delito en una comuna
+      chilena? [[weisburd-el-lugar-importa]] no reporta ningún estudio de
+      concentración en América Latina, y sus autores advierten que la ley no se ha
+      probado en países de ingresos bajos ni en ciudades en crisis social o económica
+      (p. 143). Es el supuesto de cualquier política de focalización territorial, y la
+      wiki lo usa en [[puntos-calientes]], [[policia-de-puntos-calientes]] y
+      [[diagnostico-barrial]].
+      Acción propuesta: `investigar` · Origen: ingesta 2026-09-26
+      Criterio: buscar primero en el corpus —las metodológicas de S1.2 y el cúmulo
+      `Institucionalidad y política de prevención en Chile`, sin ingerir— y sólo
+      después afuera. Una página hecha desde búsqueda web iría a `wiki/synthesis/`
+      con `procedencia: mixta`, y no se citaría en un trabajo evaluado sin sustituirla
+      por los estudios originales.
+
 ## Resueltos
+
+- [x] **[concepto]** Puntos calientes (concentraciones espacio-temporales del
+      delito) — mencionado por [[sampson-vecindario-y-comunidad]] y explicado por
+      [[wikstrom-por-que-se-delinque]] como convergencia de personas propensas y
+      entornos criminógenos. Dos fuentes lo tocan de paso y ninguna lo desarrolla.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-12
+      Criterio: la página nace con Weisburd y otros (2016), *El lugar importa*, que
+      está en el corpus y es la obra dedicada al asunto. Crearla antes sería
+      escribirla desde dos notas al margen.
+      **Resuelto el 26-09-2026 — `crear-pagina`.** Se cumplió el criterio: nace
+      [[puntos-calientes]] con [[weisburd-el-lugar-importa]], la obra dedicada al
+      asunto, y registra desde el primer día la tensión con la explicación de la TAS.
+      De ella salen además [[policia-de-puntos-calientes]] y
+      [[desplazamiento-y-difusion]].
+
+- [x] **[concepto]** «Desorganización social» — el módulo 3 de `programa/S1.1`
+      enmarca a Sampson dentro de esta teoría, y Sampson no la nombra en ningún
+      momento. Ninguna fuente del corpus la define: García-Pablos de Molina la
+      cubriría, pero el extracto disponible parte en la página 688.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-09-12
+      Criterio: decidir si se cubre con [[eficacia-colectiva]] como heredera, si se
+      escribe desde García-Pablos cuando se ingiera, o si es un vacío que se declara.
+      No se resuelve escribiéndola desde Sampson: sería atribuirle un marco que no
+      enuncia.
+      **Resuelto el 26-09-2026 — `crear-pagina`, por la ingesta.** Ninguna de las tres
+      salidas previstas hizo falta: entró al corpus una fuente que sí la define y que
+      sí ubica ahí a Sampson. [[weisburd-el-lugar-importa]] expone la teoría desde Shaw
+      y McKay, sitúa la eficacia colectiva dentro de ella y la lleva a escala de calle.
+      Nace [[desorganizacion-social]], escrita desde esa obra y no desde Sampson, como
+      pedía el criterio. Queda en `borrador`: es una exposición de segunda mano, hecha
+      por autores que la usan para su propio argumento. García-Pablos, cuando llegue
+      completo, sirve de contraste. Si el autor prefería otra de las salidas, se
+      reabre este ítem.
 
 - [x] **[corpus]** Dos documentos registrados en `INVENTARIO.md` no estan en
       `raw/sources/` — detectado el 13-09-2026 al cotejar el inventario contra el disco,

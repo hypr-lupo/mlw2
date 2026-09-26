@@ -126,8 +126,9 @@ núcleo ancla, según los cúmulos de `INVENTARIO.md`:
 10. Vínculo Estado-crimen (18)
 11. Amenaza y securitización (24)
 
-Tres ajustes al orden original: el primero se decidió el 12-09-2026 al cerrar el
-núcleo ancla, y los dos siguientes el 13-09-2026 al agnosticar la ingesta:
+Cuatro ajustes al orden original. El primero se decidió el 12-09-2026 al cerrar el
+núcleo ancla, los dos siguientes el 13-09-2026 al agnosticar la ingesta, y el cuarto el
+26-09-2026 con el calendario de clases a la vista:
 
 - **La bibliografía de consulta de S1.1 sube al segundo lugar**, por delante de los
   programas oficiales restantes. Razón: los cuatro programas de los ramos en curso ya
@@ -147,7 +148,41 @@ núcleo ancla, y los dos siguientes el 13-09-2026 al agnosticar la ingesta:
   módulo. Mientras tanto no bloquea nada.
 - **El orden interno del cúmulo de consulta** queda, en consecuencia: Guía ONU-Hábitat
   (ingerida el 12-09-2026), **Blanco**, Alda y Beliz, y Garland completo en la
-  traducción Gedisa. El resto del cúmulo corre detrás por el orden general.
+  traducción Gedisa. El resto del cúmulo corre detrás por el orden general. *Queda
+  sustituido por el ajuste siguiente.*
+- **Orden por calendario, de septiembre a noviembre de 2026** (26-09-2026). Entre el 26-09
+  y el 27-11, **manda la fecha de la clase que usa cada documento**, no el cúmulo.
+  Razones:
+  · el orden por cúmulos no seguía el calendario. Ponía primero a Blanco, que se usa en
+    el módulo 6, mientras el módulo 3 de S1.1 es la semana siguiente y lo que lo sostiene
+    en el corpus no estaba incorporado;
+  · las evaluaciones de S1.2 están cerca y sus lecturas están casi todas en el corpus;
+  · el trabajo grupal de S1.1 necesita su marco institucional antes de los talleres de
+    noviembre.
+  Las fechas son las de `2026 - Universidad Alberto Hurtado - Horario, cohorte 2026,
+  segundo semestre.pdf`. Cada tanda se cierra antes de su fecha. Lo marcado «si alcanza»
+  puede esperar. Las tandas no cambian las reglas de ingesta: la fase 1 sigue sin ver el
+  programa.
+
+  | Tanda | Cerrar antes de | Documentos | Para qué |
+  |---|---|---|---|
+  | 1 | vie 02-10 | Weisburd y otros (2016) · Vanderschueren (2015), guía de barrios · Vanderschueren, Díaz y Guajardo (2021) · Valdivia y otros (2019) · *si alcanza:* Tudela (2015) | S1.1, módulo 3. Vanderschueren y otros (2021) incluye el capítulo de Tudela que se lee en la clase 1 de S1.2. Valdivia es la única lectura de la clase 4 de S1.2 en el corpus. Tudela (2015) apoya la síntesis de la clase de policía |
+  | 2 | sáb 10-10 | Batthyány y Cabrera (2011) · Vives Varela y Hamui Sutton (2021) · INE (2023) · Srur (2014), pp. 26-45 · Tudela (ed.) (2010), solo el capítulo de Boba · CIPC (2015) | Clase 5 y las dos evaluaciones de S1.2. Srur y Boba entran en parte, porque el programa acota esas lecturas |
+  | 3 | vie 16-10 | Baratta (2004), caps. I-II, IV, VII y VIII · Kessler (2004) · Blanco (2011) | S1.1, módulo 5, y las primeras clases de S2.4 (desde el 17-10) |
+  | 4 | vie 23-10 | Gottfredson y Hirschi (1990) · Clarke (1997) · Felson y Eckert (2016) | S1.1, módulo 6 |
+  | 5 | vie 06-11 | Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya (2024) · SPD (2022), orientaciones técnicas · Campana y Meneghini (2024) · Bergman (2023) | S1.1, módulo 7, y el trabajo grupal, cuyos talleres son el 13 y el 20-11. Si el grupo elige su política antes, las cuatro primeras se adelantan |
+  | 6 | vie 27-11 | Garland (Gedisa) · Wacquant · Luneke y Trebilcock (2023) · Alda y Beliz (2007) · Zeballos (2024) · Bergman (2016) · Silva Sánchez · Ferrajoli | Inicio de S1.3, y lo que queda de la bibliografía de S1.1 |
+
+  Terminada la tanda 6, vuelve el orden por cúmulos para el resto. No cambian tres
+  cosas: García-Pablos sigue en espera; la cuarentena se mantiene; y los cúmulos del
+  electivo, `Vínculo Estado-crimen` y `Amenaza y securitización`, siguen al final. La
+  Ley 21.730, el comunicado de la ACOT y González-Guarda y Salazar-Tobar (2023) quedan
+  como contexto, al fondo; el comunicado pierde vigencia rápido.
+  **Tres cosas quedan abiertas:**
+  · los programas vigentes de S2.4 y S1.3: sin ellos, su bibliografía propia no pondera;
+  · si Vozmediano y San Juan sale de la cuarentena para cubrir el módulo 4, sobre
+    urbanismo (09-10), que no tiene otra obra en el corpus;
+  · conseguir Canales (2006) y Miranda y Gac (2020) para la clase 4 de S1.2 (03-10).
 
 **Corpus sin clasificar.** Trece archivos ingresaron a `raw/sources/` el 12-09-2026 sin
 nomenclatura y sin decisión de alcance. Están en cuarentena en `INVENTARIO.md` y **no
@@ -203,13 +238,18 @@ es la de S1.1 y S1.2**, y sólo ésa.
 
 **Vacíos conocidos.** No se disimulan con lo que hay cerca:
 
-- **Módulo 5 de S1.1** —teoría de la tensión y delitos de cuello blanco— tiene
-  cobertura nula: faltan Merton, los dos Sutherland y Lamnek. Ninguna obra del corpus
-  lo sustituye, y no debe cubrirse con material de crimen organizado.
+- **Módulo 5 de S1.1** —teoría de la tensión y delitos de cuello blanco— no tiene
+  **ninguna fuente primaria**: faltan Merton, los dos Sutherland y Lamnek. Baratta
+  (2004) lo trata **de segunda mano**, con Merton en el cap. IV y la criminalidad de
+  cuello blanco y la cifra negra en el cap. VIII. No reemplaza a esos autores, pero es lo
+  único que hay en el corpus y por eso entra en la tanda 3. El módulo no debe cubrirse
+  con material de crimen organizado.
 - **Criminología feminista**, objetivo específico declarado de S1.1: falta Renzetti
   (2013), el único título que la cubre.
-- **S2.4** es un ramo en curso con **cero** documentos de su bibliografía oficial en
-  el corpus. Su ficha pondera sobre nada.
+- **S2.4** es un ramo en curso con **un solo** documento de su bibliografía oficial en
+  el corpus: Kessler (2004), que también pide S1.1. Blanco (2011) cubre el enfoque de
+  curso de vida de su sesión III, aunque no está en su bibliografía. Empieza el 17-10 y
+  su programa vigente todavía no llega.
 
 **Contaminación de citación.** Es el error más costoso de este proyecto y el que
 motivó la purga del 05-09-2026. Ninguna afirmación del autor puede reaparecer con
