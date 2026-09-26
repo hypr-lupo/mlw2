@@ -9,7 +9,7 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 36 páginas · 7 fuentes ingeridas de 115 · **núcleo ancla S1.1 completo** ·
+**Estado:** 37 páginas · 8 fuentes ingeridas de 116 · **núcleo ancla S1.1 completo** ·
 tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados · ver
 [[pendientes]] y `ESTADO.md`.
 
@@ -20,9 +20,9 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
 - [[coproduccion-de-seguridad]] — producir seguridad con la comunidad y no sólo para
   ella; lo que el perfil de egreso del programa compromete sin definir (1 fuente)
 - [[crimen-organizado]] — el problema de las doscientas definiciones, la salida por el
-  objetivo y el comercio ilícito contra el dualismo (2 fuentes)
+  objetivo, el comercio ilícito contra el dualismo y la frontera jurídica (3 fuentes)
 - [[debilidad-estatal]] — el paradigma de la suma cero entre Estado y crimen, y la
-  política de construir Estado que de él se sigue (1 fuente)
+  política de construir Estado que de él se sigue; dos críticas (2 fuentes)
 - [[desorganizacion-social]] — la tradición de Chicago llevada del barrio a la calle;
   el marco en que el curso ubica a Sampson y que Sampson no nombra (2 fuentes)
 - [[desplazamiento-y-difusion]] — si la prevención focalizada sólo mueve el delito;
@@ -41,7 +41,7 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
   cerrados: lo que se construye cuando el estado no provee (1 fuente)
 - [[legitimidad-policial]] — condición de posibilidad de la cooperación entre
   vecinos y policía, con evidencia de Boston, Cali y México; y si la focalización la
-  erosiona (3 fuentes)
+  erosiona (4 fuentes)
 - [[mano-dura-y-militarizacion]] — la política dominante de la región, su
   popularidad transversal y la evidencia sobre sus efectos (1 fuente)
 - [[miedo-social]] — el miedo como fenómeno social, y por qué la percepción de
@@ -98,6 +98,8 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
   sostiene el módulo 3 de S1.1 por contenido. Primera de la tanda 1
 - [[wikstrom-por-que-se-delinque]] — Wikström, 2017. Obligatoria de S1.1,
   módulo 6. Segunda del núcleo ancla
+- [[zuniga-civilizacion-y-derechos-humanos]] — Zúñiga Núñez, 2013. Proyecto de tesis
+  de Derecho inédito, fuera del orden por calendario. Literatura gris: no citar
 
 ## Análisis
 

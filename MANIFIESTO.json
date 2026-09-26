@@ -42,6 +42,12 @@
       "bytes": 7384565,
       "ingerido": "2026-09-26",
       "ficha": "wiki/sources/weisburd-el-lugar-importa.md"
+    },
+    "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf": {
+      "sha256": "8c8f6d4af9168c1e747b740a7f2745ad3eec044b0963b68a234f80f19bf9cbcd",
+      "bytes": 1564191,
+      "ingerido": "2026-09-26",
+      "ficha": "wiki/sources/zuniga-civilizacion-y-derechos-humanos.md"
     }
   }
 }

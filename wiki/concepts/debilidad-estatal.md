@@ -1,13 +1,13 @@
 ---
 title: Debilidad estatal y relación de suma cero
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf"]
 cluster: gobernanza-criminal
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Debilidad estatal y relación de suma cero
@@ -52,6 +52,14 @@ Si algunos actores estatales no son víctimas del crimen organizado sino piezas 
 
 Ver [[gobernanza-criminal]].
 
+## Otra crítica, desde la teoría del Estado
+
+Añadido el 26-09-2026 al ingerir [[zuniga-civilizacion-y-derechos-humanos]]. Es un segundo crítico, que ataca el paradigma por otro lado.
+
+Albarracín rechaza la suma cero porque algunos actores estatales forman parte del crimen organizado. Zúñiga Núñez la rechaza porque niega que el monopolio estatal de la violencia haya existido alguna vez en la mayor parte del mundo. Sus ejemplos son las policías municipales, estatales, federales y privadas superpuestas en Estados Unidos, las mafias, los cacicazgos rurales y la violencia doméstica autorizada [^ext-11]. De ahí llama error a la tesis de que la retirada del Estado aumentó la inseguridad: si el Estado es el ejercicio del poder, hoy rige más que nunca [^ext-12]. Y considera un artefacto teórico la distinción entre guardia privado, guardia público, delincuente, mafioso o terrorista [^ext-12].
+
+**Coinciden en la conclusión, no en la razón.** Para Albarracín, reforzar la coerción estatal puede reforzar a quienes sostienen el crimen. Para Zúñiga, Estado y crimen no se distinguen por lo que hacen sino por quién logra legitimar su violencia. Ver [[crimen-organizado]]. La crítica de Zúñiga es teórica: no trae datos y viene de un proyecto de tesis inédito. Por eso la página sigue en borrador, y la voz que falta sigue siendo la de los defensores del paradigma.
+
 ## Cita
 
 > "estos dos «mundos» viven en una relación de suma cero"
@@ -63,8 +71,9 @@ Ver [[gobernanza-criminal]].
 - [[gobernanza-criminal]] — la agenda que desplaza este paradigma sin descartarlo
 - [[crimen-organizado]] — el fenómeno que este paradigma explica
 - [[mano-dura-y-militarizacion]] — la política que se sigue de él
+- [[zuniga-civilizacion-y-derechos-humanos]] — segunda fuente: el monopolio de la violencia que el paradigma supone nunca existió
 
-**Pendiente de completar.** El cúmulo `Vínculo Estado-crimen` del corpus contiene la discusión clásica sobre Estado y crimen organizado —Tilly (1985, 1990), Chambliss, Gambetta, Williams, Chabat, Schultze-Kraft, Caballero— y ninguno está ingerido. Hasta entonces esta página registra el paradigma sólo a través de quien lo critica.
+**Pendiente de completar.** El cúmulo `Vínculo Estado-crimen` del corpus contiene la discusión clásica sobre Estado y crimen organizado —Tilly (1985, 1990), Chambliss, Gambetta, Williams, Chabat, Schultze-Kraft, Caballero— y ninguno está ingerido. Hasta entonces esta página registra el paradigma sólo a través de quienes lo critican.
 
 ---
 
@@ -78,3 +87,5 @@ Ver [[gobernanza-criminal]].
 [^ext-8]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 17.
 [^ext-9]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 15.
 [^ext-10]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 13.
+[^ext-11]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 136.
+[^ext-12]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 137.

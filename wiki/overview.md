@@ -8,11 +8,14 @@ sources: []
 
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
-**Al 26-09-2026: núcleo ancla completo y primera fuente de la tanda 1 dentro.** Siete
-fuentes de 115, treinta y seis páginas, **siete de ocho clústeres poblados**. Las
+**Al 26-09-2026: núcleo ancla completo y primera fuente de la tanda 1 dentro.** Ocho
+fuentes de 116, treinta y siete páginas, **siete de ocho clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Es la primera fuente que discute
-de frente con otras dos de la wiki, y no sólo la wiki con ellas.
+de frente con otras dos de la wiki, y no sólo la wiki con ellas. Entró además, fuera de
+orden y por decisión del autor, un proyecto de tesis de Derecho inédito: Zúñiga Núñez
+(2013). Lleva al extremo la crítica a la frontera entre Estado y crimen, y es la primera
+fuente de literatura gris de la wiki.
 
 ## Cinco respuestas a la misma pregunta
 
@@ -83,6 +86,17 @@ marcadas como tales en las páginas afectadas.
    presencia focalizada lo cause. Pueden ser ciertas las dos si se separa la presencia
    de las tácticas. Ver [[legitimidad-policial]] y [[policia-de-puntos-calientes]].
 
+**La que abre Zúñiga Núñez**
+
+10. **Qué separa al crimen del poder legítimo.** Albarracín pide una definición de
+    crimen organizado lo bastante precisa para comparar casos. Zúñiga Núñez sostiene
+    que la frontera es un efecto de legitimación: una organización es criminal cuando
+    falla en legitimar su violencia. Si se acepta, el concepto deja de poder medirse. Y
+    ambos rechazan la suma cero entre Estado y crimen, por razones opuestas. Ver
+    [[crimen-organizado]] y [[debilidad-estatal]]. Deja además una nota en
+    [[legitimidad-policial]]: la legitimidad procedimental de Sampson no es la
+    legitimidad fundada en el miedo de Zúñiga.
+
 **Y la que más va a pesar en el trabajo evaluado de S1.1, ahora con tres voces.**
 [[onu-habitat-guia-barrios]] —obra de consulta del ramo, coescrita por su docente—
 incorpora la teoría de las ventanas rotas dentro de su [[tipologia-barrial]], y
@@ -141,6 +155,7 @@ responder sobre cualquier intervención. Las formula esta wiki:
 
 - **Decir nada de Chile.** Chicago, Peterborough, Guadalajara, calles de ciudades
   estadounidenses y europeas, y una América Latina donde Chile aparece una sola vez.
+  La única fuente chilena es un proyecto de tesis de Derecho sin caso empírico.
   Ni siquiera sabe si la ley de concentración vale aquí: el propio libro advierte que
   no se ha probado en países de ingresos bajos ni en ciudades en crisis. Ver
   [[revision]]. `caso-de-grado` sigue vacío.
@@ -151,6 +166,8 @@ responder sobre cualquier intervención. Las formula esta wiki:
 - **Hablar de las teorías de la oportunidad desde sus autores.** Cinco páginas las
   mencionan y no tienen adónde enlazar. Clarke (1997) y Felson y Eckert (2016) entran
   en la tanda 4.
+- **Hablar de criminalización desde sus autores.** La criminología crítica sólo aparece
+  resumida de segunda mano en un proyecto de tesis. Baratta (2004) entra en la tanda 3.
 - **Contrastar métodos.** `wiki/methodology/` tiene dos páginas; las metodológicas de
   S1.2 siguen sin ingerir.
 - **Clasificar grupos criminales.** No hay `subtipo` de `entity` donde quepan el PCC o

@@ -177,6 +177,40 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       con `procedencia: mixta`, y no se citaría en un trabajo evaluado sin sustituirla
       por los estudios originales.
 
+- [ ] **[alcance]** Zúñiga Núñez (2013) es, sobre todo, teoría del Estado.
+      [[zuniga-civilizacion-y-derechos-humanos]] entró el 26-09-2026 por decisión
+      expresa del autor, fuera del orden por calendario. Su veta criminológica
+      —criminalización, castigo, selectividad— ocupa pocas páginas. El grueso es sistema
+      mundo, imperio, civilización e iusnaturalismo. Toca dos reglas de [[purpose]]: el
+      apartado «Diferido» manda que la ampliación temática por interés propio entre como
+      capa nueva, con clúster propio; y «Fuera» excluye la teoría del Estado que sostenía
+      la memoria previa.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-09-26
+      Lo que se hizo mientras tanto: la ficha va al clúster `sistema-penal`, que es donde
+      cae su veta criminológica. Sólo se tocaron tres páginas, y únicamente con esa veta.
+      La teoría del Estado no tiene páginas. Si el autor prefiere la capa nueva, basta
+      cambiar el `cluster` de la ficha. Si prefiere retirarla, el retiro en cascada deja
+      las tres páginas con sus demás fuentes y sólo les quita esta.
+
+- [ ] **[fuente]** Institución y estado de Zúñiga Núñez (2013) — el documento es un
+      proyecto de tesis de pregrado en Derecho, firmado en Maipú el 4 de marzo de 2013,
+      con Patricia Albornoz como profesora guía. No nombra la escuela. Varias notas
+      remiten a la Universidad Central de Chile, lo que la sugiere sin confirmarla. Tampoco
+      dice si el proyecto se aprobó ni si existe una versión final.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-09-26
+      Consulta sugerida: repositorio de tesis de la Universidad Central de Chile, autor
+      «Zúñiga Núñez, Ariel», 2013. Hasta resolverlo, la ficha queda con
+      `verificacion_bibliografica: pendiente` y la obra no se cita en trabajos evaluados.
+
+- [ ] **[concepto]** Criminalización y selectividad penal — criminalización primaria y
+      secundaria, selectividad del sistema penal, derecho penal simbólico. Hoy sólo
+      aparecen resumidos de segunda mano en [[zuniga-civilizacion-y-derechos-humanos]],
+      junto con su tesis propia: la criminalización como castigo más legitimación.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
+      Criterio: crearla con Baratta (2004), caps. I-II, IV, VII y VIII, que entra en la
+      tanda 3, y sumar a Zúñiga como segunda voz. Hacerla nacer desde un proyecto de tesis
+      inédito fijaría el encuadre desde la fuente más débil del cúmulo.
+
 ## Resueltos
 
 - [x] **[concepto]** Puntos calientes (concentraciones espacio-temporales del

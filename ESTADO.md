@@ -4,16 +4,16 @@
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 109 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 110 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 103 | 94.5 % |
+| `pendiente` | 103 | 93.6 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 6 | 5.5 % |
+| `completo` | 7 | 6.4 % |
 
 ## Por cumulo
 
@@ -29,7 +29,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Medición e inseguridad | 6 | 6 | 0 | 0 | 0 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
 | Prevención e intervención | 4 | 4 | 0 | 0 | 0 |
-| Sistema penal y Estado de derecho | 7 | 7 | 0 | 0 | 0 |
+| Sistema penal y Estado de derecho | 8 | 7 | 0 | 0 | 1 |
 | Vínculo Estado-crimen | 18 | 18 | 0 | 0 | 0 |
 
 ## Trabajo a medio camino
@@ -48,6 +48,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - [[onu-habitat-guia-barrios]]
 - [[programa-magister-uah]]
 - [[sampson-vecindario-y-comunidad]]
+- [[zuniga-civilizacion-y-derechos-humanos]]
 
 ## Detalle por documento
 
@@ -173,6 +174,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2001 - Silva Sánchez - La expansión del derecho penal, aspectos de la política criminal en las sociedades postindustriales.pdf
 - `pendiente` — 2007 - Gardner - La prohibición de las inmoralidades.pdf
 - `pendiente` — 2013 - Tanguay-Renaud - Criminalizar al Estado.pdf
+- `completo` — 2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf
 - `pendiente` — 2016 - Pérez - La economía informal y las finanzas públicas, de piratas a corsarios contemporáneos.pdf
 - `pendiente` — 2023 - Stamouli, Gasparinatou y Kouroutzas - Corrupción y delito corporativo en el sistema de salud griego.pdf
 

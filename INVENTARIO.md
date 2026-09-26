@@ -1,6 +1,6 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 26-09-2026 · **Total:** 115 documentos · **686 MB**
+**Fecha:** 26-09-2026 · **Total:** 116 documentos · **686 MB**
 
 > **Nomenclatura normalizada el 12-09-2026.** Los 114 documentos siguen ya el
 > patrón `año - autor - título`; no queda ninguno fuera de convención. Sin año
@@ -206,12 +206,17 @@ Alimenta: S1.2.
 | 2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf | 1.4 | `bc447d5662f3` |
 | 2023 - González-Guarda y Salazar-Tobar - Una panorámica de la criminología en Chile, una comunidad científica transitando hacia la profesionalización.pdf | 0.5 | `0d1906a5b2bd` |
 
-## Sistema penal y Estado de derecho · 7 doc.
+## Sistema penal y Estado de derecho · 8 doc.
 
 
 Alimenta: S1.3. El Garland original en inglés (2001), que S1.3 pide en esa edición, se
 retiró el 26-09-2026. La obra queda cubierta por la traducción Gedisa (2005), que está en
 el cúmulo `Bibliografía S1.1, consulta y complementaria`.
+
+Zúñiga Núñez (2013) entró el 26-09-2026 con su nombre de descarga
+(`annas-arch-870bab747f1a.pdf`) y se renombró a la convención. No es bibliografía de
+ningún programa: es un proyecto de tesis de pregrado en Derecho, inédito. Se ingirió el
+mismo día, fuera del orden por calendario, por decisión del autor.
 
 
 | Documento | MB | MD5 |
@@ -221,6 +226,7 @@ el cúmulo `Bibliografía S1.1, consulta y complementaria`.
 | 2001 - Silva Sánchez - La expansión del derecho penal, aspectos de la política criminal en las sociedades postindustriales.pdf | 8.8 | `623cd19b343a` |
 | 2007 - Gardner - La prohibición de las inmoralidades.pdf | 0.1 | `9b15f07d8d21` |
 | 2013 - Tanguay-Renaud - Criminalizar al Estado.pdf | 0.3 | `4f8139e435a3` |
+| 2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf | 1.5 | `870bab747f1a` |
 | 2016 - Pérez - La economía informal y las finanzas públicas, de piratas a corsarios contemporáneos.pdf | 0.1 | `4d759b0da956` |
 | 2023 - Stamouli, Gasparinatou y Kouroutzas - Corrupción y delito corporativo en el sistema de salud griego.pdf | 1.4 | `6b22f382a621` |
 

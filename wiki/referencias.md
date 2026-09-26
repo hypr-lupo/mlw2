@@ -61,6 +61,13 @@ Wikström, P.-O. H. (2017). Por qué se delinque: una teoría de la acción situ
 *Analytical Sociology. Actions and Networks*, Wiley)
 → [[wikstrom-por-que-se-delinque]] · verificada contra `programa/S1.1`
 
+Zúñiga Núñez, A. (2013). *Civilización y derechos humanos: Hacia una radicalización de
+los derechos fundamentales* [Proyecto de tesis de pregrado no publicado]. Escuela de
+Derecho no identificada.
+→ [[zuniga-civilizacion-y-derechos-humanos]] · **verificación bibliográfica pendiente**: el
+documento no nombra la escuela ni dice si hay versión final aprobada · **literatura gris,
+en borrador**: no citar en un trabajo evaluado mientras no se verifique
+
 ## Divergencias de edición conocidas
 
 Casos en que el corpus tiene la obra que un programa de curso pide, pero en otra

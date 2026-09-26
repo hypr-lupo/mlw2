@@ -8,6 +8,43 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-09-26] ingesta | Zúñiga Núñez (2013), Civilización y derechos humanos
+
+**Ingesta fuera del orden por calendario, por decisión expresa del autor. Primera fuente
+de literatura gris de la wiki.**
+
+- Corpus: el documento llegó como `annas-arch-870bab747f1a.pdf`. Se renombró a la
+  convención —mismo MD5 antes y después— y se registró en `INVENTARIO.md`, cúmulo
+  `Sistema penal y Estado de derecho`. El corpus queda en **116 documentos**.
+- Ficha creada: [[zuniga-civilizacion-y-derechos-humanos]]
+- Páginas creadas: ninguna, a propósito. El aporte propio del texto al campo —la
+  criminalización como castigo más legitimación— debe nacer con Baratta (2004) en la
+  tanda 3, no desde un proyecto de tesis inédito. El resto es teoría del Estado, que no
+  tiene páginas en la wiki.
+- Páginas actualizadas: [[crimen-organizado]] —la frontera entre crimen y poder legítimo
+  como efecto de legitimación; tercera fuente—, [[debilidad-estatal]] —una segunda
+  crítica al paradigma de la suma cero; segunda fuente—, [[legitimidad-policial]] —nota
+  sobre la legitimidad entendida como miedo; cuarta fuente—, más [[index]],
+  [[referencias]], [[overview]], [[revision]], [[pendientes]]
+- Contradicciones y tensiones: 2, más 1 nota.
+  · **Qué separa al crimen del poder legítimo**: Albarracín pide una definición precisa
+    para comparar casos; Zúñiga Núñez la disuelve en la legitimación. Si se acepta, el
+    concepto deja de poder medirse.
+  · **La suma cero, rechazada por dos razones opuestas**: para Albarracín, porque el
+    Estado hace crimen; para Zúñiga, porque el monopolio de la violencia nunca existió.
+  · **Nota**: dos sentidos de legitimidad, la procedimental y la fundada en el miedo. No
+    se refutan; hablan de objetos distintos.
+- En revisión: 3 ítems nuevos —`[alcance]`, `[fuente]` y `[concepto]` criminalización y
+  selectividad penal—. La cola queda en 17 abiertos.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-09-26-zuniga-civilizacion-y-derechos-humanos.md`.
+- Notas: es un proyecto de tesis de pregrado en Derecho firmado en Maipú el 4 de marzo de
+  2013, con notas al pie sin terminar. `verificacion_bibliografica: pendiente`: no nombra
+  la escuela ni dice si hay versión final. No trae evidencia propia; una afirmación sin
+  respaldo —la estructura centro-periferia como explicación de «la mayoría de las
+  cuestiones criminales»— quedó registrada en la ficha y no se usa en ninguna página. Toca
+  el límite del alcance de [[purpose]] y queda anotado para el autor.
+
 ## [2026-09-26] ingesta | Weisburd y otros (2016), El lugar importa
 
 **Primera fuente de la tanda 1 del orden por calendario, y primera que discute de

@@ -9,15 +9,22 @@ sources: []
 Artefacto operativo para retomar. Se actualiza al cerrar sesión.
 
 **Estado al 26-09-2026.** Núcleo ancla S1.1 **completo** y tanda 1 del orden por
-calendario en curso. 7 fuentes de 115 documentos, 36 páginas, **siete de ocho
+calendario en curso. 8 fuentes de 116 documentos, 37 páginas, **siete de ocho
 clústeres poblados**: sólo queda vacío `caso-de-grado`. Cobertura de S1.1: 17 de 32
-títulos oficiales, 53 %; Weisburd y otros no es bibliografía oficial y no la mueve.
+títulos oficiales, 53 %. Weisburd y otros y Zúñiga Núñez no son bibliografía oficial y no
+la mueven.
 
 **Sesión del 26-09-2026: primera ingesta de la tanda 1.** Entró Weisburd y otros
 (2016), *El lugar importa*: seis páginas nuevas, una ficha y ocho páginas
 actualizadas. Es la primera fuente que discute de frente con dos de las obligatorias
 —Sampson y Wikström— y con la guía del trabajo evaluado. Lo que sigue en la tanda es
 Vanderschueren (2015).
+
+**Y una ingesta fuera de orden, por decisión del autor.** Entró y se ingirió Zúñiga
+Núñez (2013), *Civilización y derechos humanos*: un proyecto de tesis de Derecho inédito,
+sobre todo de teoría del Estado. Deja una ficha y tres páginas actualizadas con su veta
+criminológica —[[crimen-organizado]], [[debilidad-estatal]] y [[legitimidad-policial]]—,
+y ninguna página nueva. No mueve el orden por calendario.
 
 ## Lo que bloquea
 
@@ -44,7 +51,7 @@ Queda esto en manos del autor, y **no bloquea la ingesta**:
 
 ## Fuentes por ingerir
 
-Al 26-09-2026 quedan 103 pendientes de un universo de 109: los 115 archivos del
+Al 26-09-2026 quedan 103 pendientes de un universo de 110: los 116 archivos del
 corpus menos los 6 programas oficiales. Diez de ellos están en cuarentena sin plazo. El
 orden está fijado en [[purpose]]; el detalle documento por documento lo da `python
 scripts/estado.py`.
@@ -89,7 +96,8 @@ Después de la tanda 6 vuelve el orden por cúmulos:
       podría dirimir la contradicción de Adams sobre el legado del conflicto armado
 - [ ] Gobernanza criminal y territorio — 5 restantes. Weisburd y otros (2016) entró el
       26-09-2026 y de ahí nació [[puntos-calientes]]
-- [ ] Sistema penal y Estado de derecho — 8. Contiene P1 de S1.3
+- [ ] Sistema penal y Estado de derecho — 7 restantes. Contiene P1 de S1.3. Zúñiga
+      Núñez (2013) entró y se ingirió el 26-09-2026, fuera de orden
 - [ ] Integrados desde el programa del curso — 9. Contiene P1 de S1.2
 - [ ] Vínculo Estado-crimen — 18. Material de reserva del electivo S3.E4, y donde vive
       la discusión clásica que hoy le falta a [[debilidad-estatal]]
@@ -108,8 +116,8 @@ refutación, un uso y un balance de evidencia; ninguna es la defensa de sus auto
       declaración del propio autor, y el caso latinoamericano que aporta Albarracín es
       de reversión
 - [ ] [[legitimidad-policial]] — su único caso positivo es Boston en los noventa
-- [ ] [[debilidad-estatal]] — construida desde quien la critica. Se completa con el
-      cúmulo `Vínculo Estado-crimen`
+- [ ] [[debilidad-estatal]] — construida desde quienes la critican: Albarracín y, desde
+      el 26-09-2026, Zúñiga Núñez. Se completa con el cúmulo `Vínculo Estado-crimen`
 - [ ] [[desorganizacion-social]] — exposición de segunda mano, hecha por autores que
       la usan para su propio argumento. Se contrasta con García-Pablos completo
 - [ ] [[policia-de-puntos-calientes]] — toda su evidencia la reportan los proponentes
@@ -156,23 +164,29 @@ refutación, un uso y un balance de evidencia; ninguna es la defensa de sus auto
 - [ ] **Focalización y legitimidad.** El daño de las tácticas agresivas, frente a la
       escasa evidencia de que la presencia focalizada lo cause. En
       [[legitimidad-policial]] y [[policia-de-puntos-calientes]]
+- [ ] **Qué separa al crimen del poder legítimo.** Albarracín pide una definición
+      precisa de crimen organizado para comparar casos; Zúñiga Núñez sostiene que la
+      frontera es un efecto de legitimación. En [[crimen-organizado]] y
+      [[debilidad-estatal]]
 
 ## Ítems de revisión abiertos
 
-- [ ] 14 abiertos en [[revision]]. **Ninguno bloquea.** La ingesta de Weisburd
+- [ ] 17 abiertos en [[revision]]. **Ninguno bloquea.** La ingesta de Weisburd
       resolvió dos —puntos calientes y desorganización social—, enmendó el de control
       social informal y abrió dos: la página de teorías de la oportunidad, que espera a
-      la tanda 4, y si la ley de concentración vale en una comuna chilena. Siguen
-      abiertos, entre otros, que la Guía ONU-Hábitat es un «Borrador avanzado» y que la
-      wiki ya construyó cuatro páginas sobre ella.
+      la tanda 4, y si la ley de concentración vale en una comuna chilena. La de Zúñiga
+      Núñez abrió tres: si su teoría del Estado cabe en el alcance, qué escuela y qué
+      versión es, y la página de criminalización y selectividad penal, que espera a
+      Baratta en la tanda 3. Siguen abiertos, entre otros, que la Guía ONU-Hábitat es un
+      «Borrador avanzado» y que la wiki ya construyó cuatro páginas sobre ella.
 
 ## Preguntas abiertas
 
 - [ ] ¿Sobre qué política, programa o proyecto chileno se ancla el trabajo de grado?
       Sexta pregunta rectora de [[purpose]] y la única que no se responde desde el
-      corpus. Siete fuentes ingeridas —Chicago, Peterborough, Guadalajara, una América
-      Latina donde Chile aparece una vez y calles de ciudades estadounidenses y
-      europeas— y `caso-de-grado` sigue vacío. Los dos
+      corpus. Ocho fuentes ingeridas —Chicago, Peterborough, Guadalajara, una América
+      Latina donde Chile aparece una vez, calles de ciudades estadounidenses y europeas,
+      y un ensayo jurídico chileno sin caso empírico— y `caso-de-grado` sigue vacío. Los dos
       Zeballos, integrados el 12-09-2026 y sin ingerir, son lo primero del corpus sobre
       crimen organizado en Chile
 - [ ] ¿Se cursará el taller electivo de crimen organizado? De la respuesta depende que

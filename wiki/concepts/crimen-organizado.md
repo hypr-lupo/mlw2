@@ -1,13 +1,13 @@
 ---
 title: Crimen organizado
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf"]
 cluster: gobernanza-criminal
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Crimen organizado
@@ -66,6 +66,14 @@ Y añade lo que Adams presenta como corolario de la [[zona-gris]]: pensar en una
 
 Juntos dejan al concepto sin sus dos anclas tradicionales —la organización jerárquica y la separación entre criminales y ciudadanos— y explican por qué la definición por objetivo, la de Varese, es la que queda en pie. También explican, desde otro ángulo, por qué la frontera entre actores estatales y grupos criminales resulta tan porosa: ver [[gobernanza-criminal]].
 
+## La frontera jurídica: un tercer ataque, y su costo
+
+Añadido el 26-09-2026 al ingerir [[zuniga-civilizacion-y-derechos-humanos]], un proyecto de tesis de Derecho inédito que llega al debate desde la teoría del derecho y no desde la criminología.
+
+Zúñiga Núñez ataca la tercera frontera: la que separa al crimen del poder legítimo. Lo que distingue un castigo de otra violencia no sería el acto sino su justificación política [^ext-12]. Por lo tanto, que un grupo se llame «organización criminal» depende de si se usan las fuentes del derecho para nombrarlo. Su ejemplo son las empresas concesionarias que extorsionan legalmente con cortes de suministro y cobros unilaterales [^ext-13]. La conclusión es que una organización criminal sólo llega a serlo si falla su proceso de legitimación [^ext-14].
+
+**El costo.** Si se acepta el argumento, el concepto deja de poder medirse. Lo que se compararía entre países serían procesos de legitimación, no organizaciones. Es justo el costo que Albarracín quiere evitar cuando pide una definición lo bastante precisa para distinguir el crimen organizado del común y contrastar casos [^ext-4]. La tensión la formula esta wiki, entre dos posiciones que no se discuten entre sí. Zúñiga no aporta casos ni datos. Su texto es un ensayo teórico en borrador, y conviene leerlo como una posición límite, no como un hallazgo.
+
 ## Cita
 
 > "regular y controlar la producción y distribución de un bien o servicio de forma ilegal"
@@ -77,6 +85,7 @@ Juntos dejan al concepto sin sus dos anclas tradicionales —la organización je
 - [[gobernanza-criminal]] — la agenda de investigación que esta definición abre
 - [[debilidad-estatal]] — la explicación dominante del fenómeno así definido
 - [[mano-dura-y-militarizacion]] — la política que se le aplica
+- [[zuniga-civilizacion-y-derechos-humanos]] — la frontera entre crimen y poder legítimo como efecto de legitimación
 
 El cúmulo `Vínculo Estado-crimen` y `Amenaza y securitización` suman 42 de los 93 documentos del corpus y discuten este concepto largamente. Ninguno está ingerido, y son material de reserva del electivo S3.E4: [[purpose]] ordena no empezar por ahí, porque fijaría el encuadre de todo lo demás.
 
@@ -95,3 +104,6 @@ El cúmulo `Vínculo Estado-crimen` y `Amenaza y securitización` suman 42 de lo
 [^ext-9]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 7.
 [^ext-10]: **Extraído** — [[adams-violencia-cronica]], sección I.C.5, p. 15, citando a Naím (2005, p. 2).
 [^ext-11]: **Extraído** — [[adams-violencia-cronica]], sección I.C.5, p. 15, citando a Naím (2005, pp. 240-241).
+[^ext-12]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 111.
+[^ext-13]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 112.
+[^ext-14]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 113.

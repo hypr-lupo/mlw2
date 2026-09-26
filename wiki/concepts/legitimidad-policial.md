@@ -1,7 +1,7 @@
 ---
 title: Legitimidad policial
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -57,6 +57,12 @@ Los autores de la evaluación —aún en curso cuando se escribe el artículo—
 
 **Qué es lo trasladable.** No la coalición religiosa, que depende de que exista un actor con legitimidad previa ante los residentes, sino la función: un tercero reconocido que medie y avale [^inf-1].
 
+## Otro sentido de la palabra
+
+Añadido el 26-09-2026 al ingerir [[zuniga-civilizacion-y-derechos-humanos]]. Esta página entiende la legitimidad como el reconocimiento de una actuación procedimentalmente justa. Zúñiga Núñez usa la palabra en el sentido opuesto: la legitimidad del poder estaría dada fundamentalmente por el miedo, y conviene encubrirlo salvo en momentos de crisis [^ext-11].
+
+No se refutan: hablan de objetos distintos. Sampson habla de la cooperación entre residentes y policía; Zúñiga, del poder en general. La nota sirve para no confundirlos al leer. Cuando un texto de política dice «legitimidad», puede estar pidiendo justicia procedimental o puede estar describiendo acatamiento por temor [^inf-3]. La definición de esta página no cambia.
+
 ## Cita
 
 > "lo que la gente parece pedir no es menos policía, sino policía de otro tipo"
@@ -69,6 +75,7 @@ Los autores de la evaluación —aún en curso cuando se escribe el artículo—
 - [[ventanas-rotas]] — la estrategia que la erosiona
 - [[eficacia-colectiva]] — la disposición vecinal a intervenir que la desconfianza en la policía deja sin canal
 - [[policia-de-puntos-calientes]] — la estrategia cuyo efecto sobre la legitimidad se discute
+- [[zuniga-civilizacion-y-derechos-humanos]] — la legitimidad entendida como miedo, en el sentido opuesto al de esta página
 
 El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como contenido propio, y su bibliografía específica no está en el corpus.
 
@@ -84,5 +91,7 @@ El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como
 [^ext-8]: **Extraído** — [[weisburd-el-lugar-importa]], p. 126, sobre Shaw (1995), Weisburd y otros (2011) y Kochel (2013).
 [^ext-9]: **Extraído** — [[weisburd-el-lugar-importa]], p. 157.
 [^ext-10]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 126-127.
+[^ext-11]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 94.
 [^inf-1]: **Inferido** (confianza 0.6) — el texto describe el caso y nombra la función de institución intermedia, pero no discute su transferibilidad. La distinción entre el actor y la función es lectura propia sobre lo que la fuente dice.
 [^inf-2]: **Inferido** (confianza 0.7) — la distinción entre focalización y tácticas es lectura propia al comparar lo que evalúa cada fuente. [[weisburd-el-lugar-importa]] la sugiere al separar las estrategias de aplicación de la ley de las orientadas a problemas (pp. 123-125), pero no la formula así.
+[^inf-3]: **Inferido** (confianza 0.6) — la advertencia de lectura es propia de esta wiki. Ninguna de las dos fuentes discute a la otra.
