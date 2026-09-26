@@ -1,6 +1,6 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 12-09-2026 · **Total:** 114 documentos · **719 MB**
+**Fecha:** 26-09-2026 · **Total:** 109 documentos · **684 MB**
 
 > **Nomenclatura normalizada el 12-09-2026.** Los 114 documentos siguen ya el
 > patrón `año - autor - título`; no queda ninguno fuera de convención. Sin año
@@ -247,10 +247,10 @@ Alimenta: S3.E4.
 | 2025 - Universidad Alberto Hurtado - Programa del curso, Metodología para la medición y análisis del delito.pdf | 0.3 | `543db059c1b8` |
 | 2025 - Universidad Alberto Hurtado - Programa del curso, Sistema penal, política criminal y Estado de derecho.pdf | 0.1 | `1c31c6bed0ea` |
 | 2026 - Universidad Alberto Hurtado - Horario, cohorte 2026, segundo semestre.pdf | 0.2 | `d682a5d2d7d9` |
-| 2026 - Universidad Alberto Hurtado - Programa del curso, Introducción a la criminología y aspectos teóricos de la prevención del delito y la violencia.pdf | 0.2 | `ca72cd4eae09` |
+| 2026 - Universidad Alberto Hurtado - Programa del curso, Introducción a la criminología y aspectos teóricos de la prevención del delito y la violencia (síntesis).md | 0.0 | `f6258904c24f` |
 | 2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md | 0.0 | `65150a2e467f` |
 
-## Ingreso sin clasificar · 13 doc.
+## Ingreso sin clasificar · 10 doc.
 
 
 **Cuarentena, no cúmulo temático.** Trece archivos aparecieron en `raw/sources/` el
@@ -273,6 +273,10 @@ Tres constataciones de la verificación del 12-09-2026:
    los dos Sutherland y Lamnek para el módulo 5 de S1.1, Renzetti para criminología
    feminista, y toda la bibliografía oficial de S2.4.
 
+**Depurado el 26-09-2026.** Se retiraron los tres archivos sobrantes que señala la
+constatación 1: el duplicado exacto y la reexportación de *Criminología preventiva*, y
+el duplicado exacto de Gaibor. Quedan diez archivos, uno por obra.
+
 Renombrados a la convención del corpus el 12-09-2026. Estar en convención no
 significa estar admitido: siguen en cuarentena.
 
@@ -286,10 +290,7 @@ significa estar admitido: siguen en cuarentena.
 | 2017 - Zaffaroni, Bailone y Mavila León - Dogmática penal y criminología cautelar.pdf | 0.8 | `57dbd80b8388` |
 | 2017 - Zapata - Criminología empresarial, manual de intervención criminológica en las empresas.pdf | 0.8 | `8208f9d5caa7` |
 | 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales.pdf | 5.6 | `84bb567b9b71` |
-| 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales (duplicado exacto).pdf | 5.6 | `84bb567b9b71` |
-| 2022 - Ríos Patio y Hikal (dirs.) - Criminología preventiva, estrategias basadas en casos reales (reexportación).pdf | 5.6 | `ad7a602372ad` |
 | s.f. - Gaibor - Criminología mediática y victimología del miedo.pdf | 1.8 | `19a51b9488fa` |
-| s.f. - Gaibor - Criminología mediática y victimología del miedo (duplicado exacto).pdf | 1.8 | `19a51b9488fa` |
 | s.f. - Velasco de la Fuente - Criminal-mente, la criminología como ciencia.pdf | 2.2 | `35570db4be57` |
 
 ### Identificación
