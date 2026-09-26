@@ -1,6 +1,6 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 26-09-2026 · **Total:** 109 documentos · **684 MB**
+**Fecha:** 26-09-2026 · **Total:** 110 documentos · **685 MB**
 
 > **Nomenclatura normalizada el 12-09-2026.** Los 114 documentos siguen ya el
 > patrón `año - autor - título`; no queda ninguno fuera de convención. Sin año
@@ -159,7 +159,7 @@ Alimenta: S1.1, S2.3, S3.1.
 | 2015 - Vanderschueren - Guía para la prevención en barrios.pdf | 2.8 | `06b1d0fa4eea` |
 | 2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf | 11.9 | `5c580cd0b7ff` |
 
-## Medición e inseguridad · 5 doc.
+## Medición e inseguridad · 6 doc.
 
 
 Alimenta: S1.2.
@@ -172,6 +172,7 @@ Alimenta: S1.2.
 | 2016 - Cámara Arroyo - Principales instrumentos de medición de la peligrosidad criminal.md | 0.0 | `c8f25592bfde` |
 | 2022 - Luna Pla - El análisis de redes complejas aplicado a grupos de crimen y corrupción.pdf | 0.2 | `1dc04dc73d0f` |
 | 2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf | 1.4 | `bc447d5662f3` |
+| 2023 - González-Guarda y Salazar-Tobar - Una panorámica de la criminología en Chile, una comunidad científica transitando hacia la profesionalización.pdf | 0.5 | `0d1906a5b2bd` |
 
 ## Sistema penal y Estado de derecho · 8 doc.
 

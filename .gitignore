@@ -4,6 +4,10 @@
 raw/sources/
 !raw/sources/.gitkeep
 
+# Presentaciones de clase, en una subcarpeta por ramo (clases/S1.2/, ...).
+# Viven solo en disco; se versiona su sintesis, que va plana en clases/.
+clases/*/
+
 # ── Obsidian ────────────────────────────────────────────────────
 # Se versiona la config del vault; no el estado de ventanas ni los
 # binarios de plugins.
