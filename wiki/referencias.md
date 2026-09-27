@@ -28,6 +28,12 @@ Friedrich-Ebert-Stiftung.
 · **informe de estado del arte**: sus afirmaciones empíricas son citas de estudios
 ajenos y se cita el estudio original, no a Albarracín
 
+Gardner, J. (2007). Prohibiting immoralities. *Cardozo Law Review, 28*, 2613.
+→ [[gardner-prohibir-inmoralidades]] · **verificación bibliográfica pendiente**: el
+corpus tiene la versión de autor, que pide no citar desde ella; falta el rango de
+páginas de la revista · obra en inglés sin traducción · comentario a Fletcher, *The
+Grammar of Criminal Law*, citado como inédito
+
 ONU-Hábitat y Gobierno Municipal de Guadalajara. (2020). *Guía en seguridad y
 prevención de barrios: implementando los lineamientos del sistema de Naciones Unidas
 de Ciudades más Seguras*. Programa de las Naciones Unidas para los Asentamientos
@@ -44,6 +50,16 @@ pp. 235-247). Fundación Democracia y Gobierno Local. (Obra original publicada e
 Universidad Alberto Hurtado. (2026). *Magíster en Prevención, Seguridad Urbana y
 Política Criminal* [Folleto del programa]. Facultad de Ciencias Sociales.
 → [[programa-magister-uah]] · verificación bibliográfica pendiente
+
+Vanderschueren, F., Olave, R. M., Ruiz, J. C., Mosciatti, E., del Canto, C., y Díaz,
+G. (2010). *Guía para la prevención en barrios: hacia políticas de cohesión social y
+seguridad ciudadana*. Programa de las Naciones Unidas para los Asentamientos Humanos y
+Universidad Alberto Hurtado.
+→ [[vanderschueren-guia-prevencion-barrios]] · **verificación bibliográfica pendiente**:
+los créditos dicen 2010, el prólogo cita una obra de 2011 y el corpus la fecha en 2015;
+el corpus la registra además sólo a nombre de Vanderschueren · **antecedente no citado
+de la guía de ONU-Hábitat y Guadalajara (2020)**: donde ambas dicen lo mismo, conviene
+citar ésta, que es la publicada, una vez verificada
 
 Weisburd, D., Eck, J. E., Braga, A. A., Telep, C. W., Cave, B., Bowers, K.,
 Bruinsma, G., Gill, C., Groff, E. R., Hibdon, J., Hinkle, J. C., Johnson, S. D.,

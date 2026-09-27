@@ -98,6 +98,7 @@ Es la parte del texto que toca el campo de esta wiki. Está dispersa y ocupa poc
 - Ninguna fuente ingerida comparte sustrato documental con ésta.
 - [[albarracin-crimen-organizado-america-latina]] — ambos rechazan el paradigma de la suma cero entre Estado y crimen, por razones distintas. Tensión registrada en [[debilidad-estatal]] y en [[crimen-organizado]].
 - [[sampson-vecindario-y-comunidad]] — la legitimidad como justicia procedimental, frente a la legitimidad como miedo. Nota en [[legitimidad-policial]].
+- [[gardner-prohibir-inmoralidades]] — añadido el 26-09-2026. Dos tensiones, construidas por esta wiki. **La justificación del castigo**: este texto la trata como efecto del poder, Gardner como exigencia moral que el Estado puede no cumplir. **El modo en que rige el derecho**: aquí, por la amenaza del castigo; para Gardner, por autoridad, con la coerción como respaldo. Registradas en [[moralismo-legal]] y [[crimen-organizado]].
 - **Por confrontar, en el corpus sin ingerir:** Baratta (2004), para la criminología crítica que el texto resume; Tanguay-Renaud (2013), *Criminalizar al Estado*, en el mismo cúmulo; y Tilly, en `Vínculo Estado-crimen`, cuya tesis del Estado como empresa de protección se parece a la de este texto sin que la cite [^inf-1].
 
 ---

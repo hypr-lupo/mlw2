@@ -1,13 +1,13 @@
 ---
 title: Autocontrol y disuasión
 type: concept
-sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf"]
+sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Autocontrol y disuasión
@@ -38,6 +38,12 @@ Dicho de otro modo: la disuasión no es una fuerza que empuje hacia la ley. Es u
 
 Ninguna fuente del corpus discute todavía esta afirmación.
 
+## Una convergencia desde la filosofía del derecho
+
+Añadido el 26-09-2026 al ingerir [[gardner-prohibir-inmoralidades]]. Por otro camino, Gardner llega a algo parecido al principio de relevancia condicional. Una amenaza sólo es coerción cuando entra en el razonamiento de quien la recibe. Quien se considera obligado por el derecho no es coaccionado por la sanción, aunque la sanción exista [^ext-6]. Y una amenaza no vuelve prudente a nadie: sólo apela a la prudencia que ya tiene [^ext-7].
+
+Las dos tesis coinciden en que la sanción no opera sobre quien ya tiene resuelta la cuestión. Pero son de naturaleza distinta, y conviene no fundirlas: la de Wikström es causal y describe cuándo la disuasión explica una acción; la de Gardner es conceptual y describe cuándo una amenaza cuenta como coerción [^inf-1]. Ver [[moralismo-legal]].
+
 ## Dónde reside cada capacidad
 
 La capacidad de ejercer autocontrol es una característica de la persona; la capacidad de imponer sus normas, una característica del entorno [^ext-4].
@@ -65,6 +71,7 @@ Gottfredson y Hirschi (1990) está en el corpus sin ingerir. Hasta entonces esta
 - [[filtro-moral]] — lo que ocurre antes, y que en la mayoría de los casos vuelve innecesario el control
 - [[propension-al-delito]] — donde vive la capacidad de autocontrol
 - [[exposicion-criminogena]] — donde vive la capacidad de aplicación del entorno
+- [[moralismo-legal]] — cuándo una amenaza cuenta como coerción, desde la filosofía del derecho
 
 **Distinto del control social informal de Sampson.** Allí el control social informal es la disposición colectiva de los vecinos a intervenir, y es el mecanismo central que reduce la violencia de un barrio. Aquí la disuasión es un proceso situacional del actor individual ante una norma percibida. Los dos conceptos comparten nombre de familia y no son el mismo. Ver [[eficacia-colectiva]] y [[revision]].
 
@@ -75,3 +82,6 @@ Gottfredson y Hirschi (1990) está en el corpus sin ingerir. Hasta entonces esta
 [^ext-3]: **Extraído** — [[wikstrom-por-que-se-delinque]], p. 349.
 [^ext-4]: **Extraído** — [[wikstrom-por-que-se-delinque]], p. 349.
 [^ext-5]: **Extraído** — [[wikstrom-por-que-se-delinque]], bibliografía, p. 366.
+[^ext-6]: **Extraído** — [[gardner-prohibir-inmoralidades]], §2, pp. 15-16.
+[^ext-7]: **Extraído** — [[gardner-prohibir-inmoralidades]], §3, p. 17.
+[^inf-1]: **Inferido** (confianza 0.6) — la convergencia es lectura de esta wiki. Gardner no cita a Wikström ni discute la disuasión como mecanismo causal.

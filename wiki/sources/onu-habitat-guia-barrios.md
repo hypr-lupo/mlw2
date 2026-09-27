@@ -15,7 +15,7 @@ procedencia: fuentes
 estado: revisado
 truncado: false
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Guía en seguridad y prevención de barrios (ONU-Hábitat)
@@ -28,6 +28,11 @@ Obra de **consulta** de S1.1. Según [[purpose]], la que operacionaliza el traba
 > **Es un borrador.** La portada dice «Borrador avanzado» [^ext-1]. No es una publicación cerrada, y conviene confirmar si existe versión final antes de citarla en un trabajo evaluado. De ahí `verificacion_bibliografica: pendiente`. Registrado en [[revision]].
 >
 > **Franz Vanderschueren es coautor, y es el docente de S1.1** [^ext-2]. El ramo cuya evaluación consiste en analizar una política municipal o un proyecto de seguridad tiene entre sus obras de consulta el manual operativo que su propio profesor coescribió. Con alta probabilidad es el marco con el que se corregirá el trabajo [^inf-1].
+
+> [!note] Tiene un antecedente que no cita
+> Añadido el 26-09-2026. Buena parte de la parte II reproduce casi textualmente [[vanderschueren-guia-prevencion-barrios]], la guía que ONU-Hábitat y la Universidad Alberto Hurtado publicaron hacia 2010. Coinciden el inicio de la política con su organigrama, el diagnóstico diferenciado por tipo de barrio, el componente policial, los cinco ámbitos de la integralidad y los apoyos del capítulo 4. El cambio sistemático es de vocabulario: «barrio crítico» pasa a «barrio con violencia crónica». Su bibliografía no la cita [^ext-19].
+>
+> Dos consecuencias. **No son dos fuentes independientes**: donde ambas sostienen lo mismo, hay una confirmación y no dos. Y **lo que se hereda tiene versión publicada**: si este borrador no tiene versión final, el ciclo de política y el diagnóstico se pueden citar desde la guía anterior. Lo propio de ésta es otra cosa: la tipología de cinco categorías, la proyección por tipología con la metodología de Rotterdam, el caso Guadalajara y la adopción de la violencia crónica. Ver [[tipologia-barrial]] y [[diagnostico-barrial]].
 
 ## Tesis central
 
@@ -114,6 +119,7 @@ Es la fuente con más conexiones explícitas de las ingeridas: cita por nombre a
 - [[gobernanzas-paralelas]] — el «capital social perverso» de la guía es la misma idea que las soberanías paralelas de Adams, con otro nombre.
 - [[policia-comunitaria]] y [[legitimidad-policial]] — la guía dedica un capítulo a la relación policía-barrio.
 - Pendiente: Pearce (2019) aparece citada aquí y **falta en el corpus**; es bibliografía oficial de S1.1.
+- [[vanderschueren-guia-prevencion-barrios]] — la versión anterior, que esta guía reedita sin citar. Ver la nota del inicio.
 
 ---
 
@@ -135,4 +141,5 @@ Es la fuente con más conexiones explícitas de las ingeridas: cita por nombre a
 [^ext-16]: **Extraído** — introducción, p. 6.
 [^ext-17]: **Extraído** — sección I.5.1.1, pp. 39-40.
 [^ext-18]: **Extraído** — introducción, p. 4.
+[^ext-19]: **Extraído** — cotejo de la parte II, capítulos 1 a 4, con [[vanderschueren-guia-prevencion-barrios]], pp. 32-95; y bibliografía, que cita sólo la *Guía para la prevención local* de 2009 entre las de la serie. Hecho el 26-09-2026.
 [^inf-1]: **Inferido** (confianza 0.7) — la coautoría del docente y la inclusión de la obra en la bibliografía de consulta del ramo hacen probable que su marco oriente la corrección del trabajo evaluado. El programa no lo dice.

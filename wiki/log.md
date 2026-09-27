@@ -8,6 +8,128 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-09-26] ingesta | Gardner (2007), Prohibiting Immoralities
+
+**Ingesta fuera del orden por calendario, por decisión expresa del autor. Primera fuente
+de filosofía del derecho penal, y la segunda página propia del clúster `sistema-penal`.**
+
+- Ficha creada: [[gardner-prohibir-inmoralidades]]
+- Páginas creadas: [[moralismo-legal]] —si la inmoralidad basta para prohibir, y la
+  distinción entre prohibir la inmoralidad e imponer la moralidad—. En borrador: una sola
+  fuente, que además es un comentario y trae filtrada la posición que discute
+- Páginas actualizadas: [[crimen-organizado]] —una tercera posición, normativa, sobre la
+  frontera entre crimen y poder legítimo—, [[zuniga-civilizacion-y-derechos-humanos]]
+  —dos tensiones—, [[legitimidad-policial]] —autoridad frente a coerción— y
+  [[autocontrol-y-disuasion]] —una convergencia—. Más [[index]], [[referencias]],
+  [[overview]], [[revision]] y [[pendientes]]
+- Contradicciones y tensiones: 2, más 1 convergencia y 1 nota sobre la fuente.
+  · **La justificación del castigo: ¿efecto o exigencia?** Zúñiga Núñez y Gardner coinciden
+    en que la coerción estatal es, en su materia, lo que normalmente sería un mal. Para
+    Zúñiga la justificación es un efecto del poder; para Gardner, una exigencia moral que
+    el Estado puede no cumplir. Con Albarracín quedan tres fronteras entre crimen y poder
+    legítimo: empírica, de legitimación y normativa. En [[crimen-organizado]] y
+    [[moralismo-legal]].
+  · **¿Rige el derecho por amenaza o por autoridad?** Zúñiga: por la amenaza del castigo.
+    Gardner: por autoridad, con la coerción como respaldo, y no conceptualmente necesaria.
+    En la ficha de Zúñiga y en [[moralismo-legal]].
+  · **Convergencia con Wikström**: la amenaza no opera sobre quien ya tiene resuelta la
+    cuestión. Una tesis causal y otra conceptual. En [[autocontrol-y-disuasion]].
+  · **Sobre la fuente**: la posición de Fletcher sólo llega por las citas de Gardner, y de
+    un mecanografiado inédito. Registrado en la ficha.
+- En revisión: 2 ítems nuevos —`[fuente]` versión de autor y `[concepto]` principio de
+  daño y Estado de derecho, que esperan a Ferrajoli en la tanda 6—. La cola queda en 22
+  abiertos.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-09-26-gardner-prohibir-inmoralidades.md`.
+- Notas: el archivo es la **versión de autor** del artículo de la *Cardozo Law Review*, vol.
+  28, y pide no citar ni transcribir desde ella. Las páginas de la wiki son las del
+  mecanografiado; la ficha no lleva cita textual y queda con `verificacion_bibliografica:
+  pendiente`. A diferencia de Zúñiga Núñez, todo su contenido cae dentro del clúster: es
+  teoría de los límites del derecho penal, no teoría del Estado. No trae datos, casos ni
+  referencias a América Latina. `programa/S1.3` lo pondera P2 como «marco propio», no del
+  curso, así que `curso: []`. Toca 6 páginas de contenido, ficha incluida. No mueve el
+  orden por calendario: la tanda 1 sigue con Vanderschueren, Díaz y Guajardo (2021).
+
+## [2026-09-26] corpus | Retiro de cinco duplicados de `raw/sources/`
+
+**Sin ingesta. Por decisión del autor.**
+
+- Los cinco archivos que entraron entre las 22:22 y las 22:25, detectados como anomalía en
+  la ingesta anterior, se verificaron por MD5 contra todo el corpus. Los cinco eran
+  duplicados exactos de documentos inventariados desde el 29-08-2026: Tilly (1985),
+  Chambliss (1988), Gottfredson y Hirschi (1990), Rivera Vélez y Sansó-Rubert (2021) y
+  Gardner (2007). No había ningún otro archivo nuevo.
+- Se retiraron **los más nuevos**, como pidió el autor, enviándolos a la Papelera de
+  reciclaje de Windows y no borrándolos en forma definitiva. Quedan los originales, con su
+  nombre de nomenclatura y su fila en `INVENTARIO.md`, que no cambia.
+- `raw/sources/` vuelve a 116 archivos y el universo de `ESTADO.md` a 110 documentos, sin
+  anomalías.
+
+## [2026-09-26] ingesta | Vanderschueren y otros (hacia 2010), Guía para la prevención en barrios
+
+**Segunda fuente de la tanda 1 del orden por calendario. Resultó ser la versión anterior,
+no citada, de la guía de ONU-Hábitat de 2020.**
+
+- Ficha creada: [[vanderschueren-guia-prevencion-barrios]]
+- Páginas creadas: [[capital-social]] —tres fuentes lo usan con tres sentidos distintos, y
+  [[eficacia-colectiva]] ya registraba la confusión—
+- Páginas actualizadas: [[tipologia-barrial]] —la versión de 2010, con cuatro tipos y la
+  pregunta entre barrio vulnerado y crítico—, [[diagnostico-barrial]] —diagnóstico
+  participativo o de expertos según el barrio, y un matiz a la tensión con Weisburd—,
+  [[coproduccion-de-seguridad]] —la definición que faltaba y el capital social de
+  puente—, [[gobernanzas-paralelas]] —el barrio crítico visto desde Santiago y Rio—,
+  [[onu-habitat-guia-barrios]] —el antecedente que no cita—, [[violencia-cronica]],
+  [[ventanas-rotas]] y [[policia-comunitaria]] —una nota cada una—, y un retroenlace en
+  [[eficacia-colectiva]]. Más [[index]], [[referencias]], [[overview]], [[revision]] y
+  [[pendientes]]
+- **Hallazgo principal.** La guía de 2020 reproduce casi textualmente buena parte de ésta:
+  el inicio de la política, el diagnóstico diferenciado, el componente policial, los cinco
+  ámbitos de la integralidad y los apoyos del último capítulo. Donde ésta dice «barrio
+  crítico», aquélla dice «barrio con violencia crónica». Su bibliografía no la cita. No son
+  dos fuentes independientes: donde ambas sostienen lo mismo hay una confirmación, no dos.
+  Registrado en las dos fichas.
+- Contradicciones y tensiones: 4, más 1 sobre la fuente.
+  · **La lista de las ventanas rotas no nació de las ventanas rotas.** En 2010 los mismos
+    elementos morfológicos se fundan en el control visual, lógica de vigilancia natural, y
+    la teoría no aparece en el texto. La contradicción con Sampson recae sobre la
+    justificación que añadió 2020. Pero la versión de 2010 también dice que esos elementos
+    favorecen el delito, y cita a Sampson y Raudenbush (1999) sin discutirlos.
+  · **Barrio o calle, con matiz.** La proyección de resultados por tipología, que es lo que
+    Weisburd y otros ponen en riesgo, llega en 2020 con la metodología de Rotterdam. La
+    versión de 2010 admite que el foco del problema puede no coincidir con el barrio y pide
+    mapas georreferenciados.
+  · **Escasez o perversión del capital social.** Adams, desde Putnam, habla de niveles
+    bajos; la guía distingue la falta, en el barrio vulnerado, de la perversión, en el
+    crítico. En [[capital-social]].
+  · **Dos criterios para la misma categoría.** En 2020 conviven la definición de violencia
+    crónica, con tasa de homicidios, y el criterio de inaccesibilidad heredado de 2010. En
+    [[tipologia-barrial]] y [[violencia-cronica]].
+  · **Sobre la fuente**: su evidencia es de experiencia. Las cifras de resultado que da son
+    antes-después sin control, de segunda mano. Frente a la idea de evidencia de Weisburd y
+    otros. Registrado en la ficha.
+- En revisión: 3 ítems nuevos —`[fuente]` año y autoría, `[entidad]` Quiero mi Barrio y
+  `[concepto]` mediación comunitaria— y 2 enmiendas: la página de Franz Vanderschueren y el
+  borrador de la guía de 2020, cuyo núcleo operativo tiene ahora versión publicada. La cola
+  queda en 20 abiertos.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-09-26-vanderschueren-guia-prevencion-barrios.md`.
+- Notas: **tres fechas y ninguna coincide.** Los créditos dicen «© 2010», el prólogo cita una
+  obra de 2011 y el corpus la fecha en 2015. La autoría tampoco: son seis autores y el
+  archivo lleva sólo el primero. `verificacion_bibliografica: pendiente`; el nombre del
+  archivo no se tocó. **Primera fuente con casos chilenos**: Quiero mi Barrio en Santa
+  Elena, la Herminda de la Victoria, La Legua y el Programa 24 Horas. La distinción entre
+  barrio vulnerado y crítico sale de investigación en barrios de Santiago: Lunecke y Ruiz,
+  y Ruiz, uno de los autores. `caso-de-grado` sigue vacío: son descripciones de hace más de
+  quince años, no casos evaluados. No es bibliografía oficial de ningún programa recibido.
+  Toca 11 páginas de contenido, ficha incluida.
+- Anomalía detectada por `scripts/estado.py` al cerrar la ingesta: cinco archivos entraron
+  a `raw/sources/` el 26-09-2026 entre las 22:22 y las 22:25, sin nomenclatura y sin fila en
+  `INVENTARIO.md`. Los cinco son **duplicados exactos**, por MD5, de documentos ya
+  inventariados: Tilly (1985), Chambliss (1988), Gottfredson y Hirschi (1990), Rivera Vélez
+  y Sansó-Rubert (2021) y Gardner (2007). No se tocaron: el corpus es inmutable para la
+  wiki y borrarlos es decisión del autor. Mientras sigan ahí, `ESTADO.md` cuenta 115
+  documentos en el universo en lugar de 110. Anotado en [[pendientes]].
+
 ## [2026-09-26] ingesta | Zúñiga Núñez (2013), Civilización y derechos humanos
 
 **Ingesta fuera del orden por calendario, por decisión expresa del autor. Primera fuente

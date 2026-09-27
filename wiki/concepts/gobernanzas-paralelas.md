@@ -1,13 +1,13 @@
 ---
 title: Gobernanzas paralelas
 type: concept
-sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf"]
+sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf"]
 cluster: gobernanza-criminal
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Gobernanzas paralelas
@@ -53,6 +53,18 @@ Las dos miradas son complementarias y juntas explican algo que ninguna explica s
 
 Y hay un costo que el texto señala y que conviene retener para cualquier diseño de intervención: las dinámicas de pandillas y narco-comunidades colocan a las comunidades influidas en posición de peligro frente al estado, lo que suele catalizar **más oposición popular contra el estado** [^ext-10]. Intervenir el territorio sin tocar eso profundiza el problema. Ver [[mano-dura-y-militarizacion]] y [[legitimidad-policial]].
 
+## Visto desde el barrio crítico
+
+Añadido el 26-09-2026 al ingerir [[vanderschueren-guia-prevencion-barrios]], que describe el mismo fenómeno a escala de barrio, desde investigación en poblaciones de Santiago y en favelas de Rio. No usa la expresión «gobernanzas paralelas»: lo llama **capital social perverso**. Ver [[capital-social]].
+
+**La misma lógica de intercambio.** Cuando el tráfico de drogas se dirige a toda la ciudad y no sólo al consumo interno, puede generar formas de «protección social» para otros habitantes: les da empleo o dinero y los convierte en clientela. De ahí, dice la guía, la simpatía hacia los líderes del narcotráfico que se ve en sus funerales [^ext-11]. Es la legitimidad a cambio de protección y servicios que Adams describe, sin que ninguna de las dos fuentes cite a la otra.
+
+**Un orden con normas propias.** La guía habla de la construcción progresiva de espacios fuera de la ley, donde rigen las normas que imponen unos pocos [^ext-11]. Un barrio crítico es una zona de «no derecho», con reglas impuestas por un grupo de poder interno que la comunidad legitima [^ext-12]. Las redes comunitarias se adaptan: respetan pactos de no denuncia a cambio de no ser agredidas, para conservar sus propios espacios [^ext-13].
+
+**No se instala en cualquier parte.** El narcotráfico se asienta donde encuentra condiciones: violencia y prácticas ilícitas previas, de las que el narcotráfico es sólo un salto cualitativo; liderazgos débiles o poco representativos; organización comunitaria insuficiente para contenerlo; alta demanda de drogas; y condiciones socioeconómicas que lo vuelven fuente de ingresos [^ext-14]. Y cuenta un caso chileno: barrios nacidos de políticas de vivienda que dispersaron a familias de tomas distintas, rompiendo la cohesión que tenían, y donde la violencia encontró terreno fácil [^ext-15].
+
+**La consecuencia para la política** va en la misma dirección que la advertencia de Adams, aunque por otra razón: una acción policial aislada, por fuerte y pertinente que sea, no impide que la delincuencia se reproduzca, y es lo peor que puede ocurrir en estos barrios [^ext-16]. La guía pide reconstruir la ciudadanía al mismo tiempo que se genera, lenta y difícilmente, un capital social positivo [^ext-11].
+
 ## Cita
 
 > "les brindan protección y servicios que el estado no provee"
@@ -67,6 +79,8 @@ Y hay un costo que el texto señala y que conviene retener para cualquier diseñ
 - [[miedo-social]] — barreras, patrullas y verjas como su expresión cotidiana
 - [[crimen-organizado]] — los grupos que gobiernan mercados ilícitos son una de las variantes, no todas
 - [[eficacia-colectiva]] — Sampson advierte que la comunidad puede movilizarse para excluir; esto es esa advertencia documentada a escala regional
+- [[vanderschueren-guia-prevencion-barrios]] — el mismo fenómeno a escala de barrio, desde Santiago y Rio
+- [[capital-social]] — el nombre que le da la guía de prevención en barrios: capital social perverso
 
 ---
 
@@ -80,3 +94,9 @@ Y hay un costo que el texto señala y que conviene retener para cualquier diseñ
 [^ext-8]: **Extraído** — [[adams-violencia-cronica]], sección III.L, pp. 50-51.
 [^ext-9]: **Extraído** — [[adams-violencia-cronica]], sección III.L, p. 51, citando a Martín Barbero (2002, pp. 27-29).
 [^ext-10]: **Extraído** — [[adams-violencia-cronica]], sección III.K, p. 50, sobre Leeds (1996).
+[^ext-11]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], primera parte, sección II.B.3.1, pp. 27-28.
+[^ext-12]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 1, sección 1.1.2, p. 34.
+[^ext-13]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], primera parte, sección II.A.3, p. 25.
+[^ext-14]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], primera parte, sección II.B.3.1, p. 28.
+[^ext-15]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 2, sección 2.1.2, p. 40.
+[^ext-16]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 2, sección 2.1.2, p. 40.

@@ -116,6 +116,7 @@ Añadido el 26-09-2026 al ingerir [[weisburd-el-lugar-importa]], que hace dos co
 
 - [[desorganizacion-social]] — la tradición donde [[weisburd-el-lugar-importa]] ubica el constructo
 - [[puntos-calientes]] — la escala a la que Weisburd y otros lo llevan
+- [[capital-social]] — el constructo rival, con sus tres sentidos separados. La guía de prevención en barrios de 2010 sí distingue ambos constructos; la de 2020 no
 
 **Vacío resuelto el 26-09-2026.** El módulo 3 de `programa/S1.1` enmarca esta obra dentro de la desorganización social, que Sampson no nombra. [[weisburd-el-lugar-importa]] es ahora la fuente que respalda ese encuadre. Ver [[desorganizacion-social]].
 

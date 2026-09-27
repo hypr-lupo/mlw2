@@ -30,6 +30,13 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       esa guía sostiene bastante más que el folleto: la tipología barrial, el ciclo de
       política y el contenido de la coproducción de seguridad. Falta aún su segunda obra
       del corpus, Vanderschueren, Díaz y Guajardo (2021), sin ingerir.
+      **Enmienda 26-09-2026** (ingesta de [[vanderschueren-guia-prevencion-barrios]]):
+      entra una segunda obra suya, como primer autor y editor, y resulta ser la versión
+      anterior de la guía de 2020, que la reedita sin citarla. El núcleo operativo que la
+      wiki atribuía a la guía de 2020 —ciclo de política, diagnóstico diferenciado,
+      coproducción— es obra de su equipo del Centro de Seguridad Ciudadana de la UAH
+      desde hacia 2010. Refuerza el criterio ya cumplido. La decisión sigue siendo del
+      autor; Vanderschueren, Díaz y Guajardo (2021) es la ingesta siguiente.
 
 - [ ] **[concepto]** «Control social informal» — Sampson lo usa como el mecanismo
       causal de la eficacia colectiva sin definirlo, y es contenido del módulo 6 de
@@ -150,6 +157,14 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       que cotejar la tipología y el ciclo de política, que son lo que la wiki registra.
       Importa más de lo habitual: es la obra que operacionaliza el trabajo evaluado de
       S1.1 y su coautor es el docente del ramo.
+      **Enmienda 26-09-2026** (ingesta de [[vanderschueren-guia-prevencion-barrios]]):
+      el riesgo baja a la mitad. El ciclo de política y el diagnóstico diferenciado por
+      tipo de barrio tienen **versión publicada**: la guía que ONU-Hábitat y la UAH
+      editaron hacia 2010, que la de 2020 reproduce casi textualmente sin citarla. Lo
+      que sigue dependiendo sólo del borrador es lo propio de 2020: la tipología de
+      cinco categorías, la proyección de resultados por tipología con la metodología de
+      Rotterdam, el caso Guadalajara y la adopción de la violencia crónica. Pero la guía
+      anterior tiene su propio problema de año y autoría; ver el ítem siguiente.
 
 - [ ] **[concepto]** Teorías de la oportunidad —elección racional, patrón
       delictivo, actividades rutinarias y prevención situacional—.
@@ -210,6 +225,65 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       Criterio: crearla con Baratta (2004), caps. I-II, IV, VII y VIII, que entra en la
       tanda 3, y sumar a Zúñiga como segunda voz. Hacerla nacer desde un proyecto de tesis
       inédito fijaría el encuadre desde la fuente más débil del cúmulo.
+
+- [ ] **[fuente]** Año y autoría de la *Guía para la prevención en barrios* — tres
+      fechas y ninguna coincide. Los créditos de [[vanderschueren-guia-prevencion-barrios]]
+      dicen «© 2010», con el código HS/116/10S. El prólogo la presenta como complemento
+      de una guía sobre jóvenes fechada en 2011, mientras la introducción habla de esos
+      materiales en futuro. El corpus la fecha en 2015. Tampoco coincide la autoría: son
+      seis autores —Vanderschueren, Olave, Ruiz, Mosciatti, del Canto y Díaz— y el
+      nombre del archivo lleva sólo el primero.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-09-26
+      Consulta sugerida: catálogo de publicaciones de ONU-Hábitat o del Centro de
+      Seguridad Ciudadana de la UAH, ISBN 978-92-1-132226-2 — año de publicación, y si
+      existe una reimpresión o segunda edición de 2015 que explique la fecha del corpus.
+      Hasta resolverlo la ficha usa el año de los créditos, queda con
+      `verificacion_bibliografica: pendiente` y la obra no se cita en trabajos evaluados.
+      El nombre del archivo en `raw/sources/` no se toca: renombrarlo es decisión del
+      autor.
+
+- [ ] **[entidad]** «Quiero mi Barrio» — el primer programa chileno que entra a la
+      wiki. [[vanderschueren-guia-prevencion-barrios]] lo describe en la población Santa
+      Elena de El Bosque, desde 2007: un consejo vecinal de desarrollo que prioriza obras
+      físicas y un plan de gestión social (p. 62). Es exactamente el tipo de programa
+      identificable sobre el que puede anclarse el trabajo evaluado de S1.1 o el de
+      grado.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
+      Criterio: crearla cuando una segunda fuente lo trate, y con `vigencia` declarada.
+      Una sola descripción de hace más de quince años no sostiene una página de
+      programa. Candidatas en el corpus: SPD (2022), orientaciones técnicas, en la tanda
+      5, y Luneke y Trebilcock (2023), en la tanda 6. Mientras tanto la guía trae otros
+      territorios chilenos —La Legua, Herminda de la Victoria, La Ermita— y el Programa
+      24 Horas de Carabineros, todos dentro de la ficha.
+
+- [ ] **[concepto]** Mediación comunitaria — [[vanderschueren-guia-prevencion-barrios]]
+      le dedica un tratamiento propio: la experiencia del Balcón de Derechos en las
+      favelas de Rio, las características del mediador, y cómo instalarla paso a paso
+      como cultura de resolución pacífica de conflictos (pp. 72-74). La propone como
+      acción de largo plazo en los barrios críticos.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
+      Criterio: crearla si una segunda fuente la desarrolla. Vanderschueren, Díaz y
+      Guajardo (2021), la ingesta siguiente, es la candidata más cercana.
+
+- [ ] **[fuente]** Gardner (2007) está en el corpus como versión de autor — el archivo
+      de [[gardner-prohibir-inmoralidades]] es el mecanografiado que Gardner publicó en su
+      página, y su portada pide no citar ni transcribir desde él y usar siempre la
+      versión definitiva. Las páginas que registra la wiki son las del mecanografiado, y
+      a la referencia le falta el rango de páginas de la revista.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-09-26
+      Consulta sugerida: *Cardozo Law Review*, vol. 28, 2007, p. 2613 en adelante —
+      conseguir el artículo publicado, completar la referencia y cotejar las páginas.
+      Hasta entonces la ficha queda con `verificacion_bibliografica: pendiente`, sin cita
+      textual, y la obra no se cita en trabajos evaluados.
+
+- [ ] **[concepto]** Principio de daño y Estado de derecho — [[gardner-prohibir-inmoralidades]]
+      los pone como dos de las tres condiciones para prohibir una conducta inmoral, y
+      como las restricciones especiales que pesan sobre el Estado. No los define ni los
+      defiende: los da por aceptados. Hoy viven sólo dentro de [[moralismo-legal]].
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
+      Criterio: crearlas con Ferrajoli (1995), *Derecho y razón*, en la tanda 6: el
+      principio de lesividad y las garantías penales son su tema. Escribirlas desde
+      Gardner sería escribirlas desde quien las da por supuestas.
 
 ## Resueltos
 

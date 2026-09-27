@@ -1,7 +1,7 @@
 ---
 title: Legitimidad policial
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -63,6 +63,8 @@ Añadido el 26-09-2026 al ingerir [[zuniga-civilizacion-y-derechos-humanos]]. Es
 
 No se refutan: hablan de objetos distintos. Sampson habla de la cooperación entre residentes y policía; Zúñiga, del poder en general. La nota sirve para no confundirlos al leer. Cuando un texto de política dice «legitimidad», puede estar pidiendo justicia procedimental o puede estar describiendo acatamiento por temor [^inf-3]. La definición de esta página no cambia.
 
+**Autoridad o coerción.** Añadido el 26-09-2026 al ingerir [[gardner-prohibir-inmoralidades]], que da una distinción para ordenar los dos sentidos. La autoridad crea una razón que desplaza las que uno tendría; la coerción añade una amenaza. Y la amenaza sólo es coerción cuando entra en el razonamiento de quien la recibe [^ext-12]. Dicho con esas palabras, el acatamiento por temor es coerción, no autoridad. La cooperación que Sampson describe, en cambio, se parece a lo que Gardner llama someterse a una autoridad: juzgar uno mismo que conviene seguir sus indicaciones [^inf-4]. Ver [[moralismo-legal]].
+
 ## Cita
 
 > "lo que la gente parece pedir no es menos policía, sino policía de otro tipo"
@@ -76,6 +78,7 @@ No se refutan: hablan de objetos distintos. Sampson habla de la cooperación ent
 - [[eficacia-colectiva]] — la disposición vecinal a intervenir que la desconfianza en la policía deja sin canal
 - [[policia-de-puntos-calientes]] — la estrategia cuyo efecto sobre la legitimidad se discute
 - [[zuniga-civilizacion-y-derechos-humanos]] — la legitimidad entendida como miedo, en el sentido opuesto al de esta página
+- [[gardner-prohibir-inmoralidades]] — la distinción entre autoridad y coerción, que ordena los dos sentidos
 
 El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como contenido propio, y su bibliografía específica no está en el corpus.
 
@@ -92,6 +95,8 @@ El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como
 [^ext-9]: **Extraído** — [[weisburd-el-lugar-importa]], p. 157.
 [^ext-10]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 126-127.
 [^ext-11]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 94.
+[^ext-12]: **Extraído** — [[gardner-prohibir-inmoralidades]], §2, pp. 13-15.
 [^inf-1]: **Inferido** (confianza 0.6) — el texto describe el caso y nombra la función de institución intermedia, pero no discute su transferibilidad. La distinción entre el actor y la función es lectura propia sobre lo que la fuente dice.
 [^inf-2]: **Inferido** (confianza 0.7) — la distinción entre focalización y tácticas es lectura propia al comparar lo que evalúa cada fuente. [[weisburd-el-lugar-importa]] la sugiere al separar las estrategias de aplicación de la ley de las orientadas a problemas (pp. 123-125), pero no la formula así.
 [^inf-3]: **Inferido** (confianza 0.6) — la advertencia de lectura es propia de esta wiki. Ninguna de las dos fuentes discute a la otra.
+[^inf-4]: **Inferido** (confianza 0.6) — aplicación de la distinción de [[gardner-prohibir-inmoralidades]] a Sampson y a Zúñiga. Gardner habla del derecho en general, no de la policía, y no cita a ninguno de los dos.

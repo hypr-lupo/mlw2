@@ -8,14 +8,26 @@ sources: []
 
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
-**Al 26-09-2026: núcleo ancla completo y primera fuente de la tanda 1 dentro.** Ocho
-fuentes de 116, treinta y siete páginas, **siete de ocho clústeres poblados**. Las
+**Al 26-09-2026: núcleo ancla completo y dos fuentes de la tanda 1 dentro.** Diez
+fuentes de 116, cuarenta y una páginas, **siete de ocho clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Es la primera fuente que discute
 de frente con otras dos de la wiki, y no sólo la wiki con ellas. Entró además, fuera de
 orden y por decisión del autor, un proyecto de tesis de Derecho inédito: Zúñiga Núñez
 (2013). Lleva al extremo la crítica a la frontera entre Estado y crimen, y es la primera
 fuente de literatura gris de la wiki.
+
+La última ingesta cambió lo que se sabe de la guía que prescribe. La *Guía para la
+prevención en barrios* que ONU-Hábitat y la UAH publicaron hacia 2010,
+[[vanderschueren-guia-prevencion-barrios]], es su versión anterior: la de 2020 la
+reproduce casi textualmente sin citarla. El instrumento del trabajo evaluado tiene
+entonces una genealogía, un núcleo publicado y una distinción de origen chileno —barrio
+vulnerado o barrio crítico— que la reedición conservó con otro nombre.
+
+Y entró, también fuera de orden y por decisión del autor, la primera fuente de filosofía
+del derecho penal: [[gardner-prohibir-inmoralidades]]. Con ella el clúster `sistema-penal`
+deja de ser sólo la crítica de Zúñiga Núñez y gana su contraparte normativa: qué puede
+prohibir el Estado y cómo tiene que justificar su coerción. Ver [[moralismo-legal]].
 
 ## Cinco respuestas a la misma pregunta
 
@@ -80,7 +92,9 @@ marcadas como tales en las páginas afectadas.
    Ver [[eficacia-colectiva]] y [[desorganizacion-social]].
 8. **El promedio del barrio.** El diagnóstico de la Guía proyecta por tipo de barrio;
    agregar por barrio puede ocultar los puntos calientes o hacer peligroso un barrio
-   entero por unas pocas calles. Ver [[diagnostico-barrial]].
+   entero por unas pocas calles. La proyección es un añadido de 2020: la versión de
+   2010 diagnostica un barrio ya elegido, admite que el foco del problema puede no
+   coincidir con él y pide mapas georreferenciados. Ver [[diagnostico-barrial]].
 9. **Focalización y legitimidad.** Sampson y Albarracín documentan el daño de las
    tácticas agresivas; Weisburd y otros sostienen que casi no hay evidencia de que la
    presencia focalizada lo cause. Pueden ser ciertas las dos si se separa la presencia
@@ -97,13 +111,45 @@ marcadas como tales en las páginas afectadas.
     [[legitimidad-policial]]: la legitimidad procedimental de Sampson no es la
     legitimidad fundada en el miedo de Zúñiga.
 
-**Y la que más va a pesar en el trabajo evaluado de S1.1, ahora con tres voces.**
+**Las dos que abre la guía de 2010**
+
+11. **Escasez o perversión.** Adams, desde Putnam, trata el capital social de los
+    barrios violentos como escaso. La guía separa dos casos: en el barrio vulnerado
+    falta, y hace falta un puente desde fuera; en el crítico existe y está al servicio
+    del narcotráfico. Construir vínculos sirve en el primero y puede no servir en el
+    segundo. Ver [[capital-social]].
+12. **Dos criterios para una misma categoría.** El barrio crítico de 2010 se definía por
+    la imposibilidad de entrar a trabajar y por la legitimación del delito. En 2020 se
+    llama de violencia crónica y suma el umbral de homicidios de Pearce y Adams, sin
+    abandonar el criterio anterior. Un barrio puede cumplir uno y no el otro. Ver
+    [[tipologia-barrial]] y [[violencia-cronica]].
+
+**Las dos que abre Gardner, frente a Zúñiga Núñez**
+
+13. **La justificación del castigo: ¿efecto o exigencia?** Los dos coinciden en que la
+    coerción estatal es, en su materia, lo que normalmente sería un mal. Para Zúñiga la
+    justificación es un efecto del poder; para Gardner, una exigencia moral que el
+    Estado puede no cumplir. La tensión 10 queda con tres fronteras entre crimen y poder
+    legítimo: empírica en Albarracín, de legitimación en Zúñiga, normativa en Gardner.
+    Ver [[crimen-organizado]] y [[moralismo-legal]].
+14. **¿Rige el derecho por amenaza o por autoridad?** Zúñiga: por la amenaza del
+    castigo. Gardner: por autoridad, con la coerción como respaldo para quien no se
+    somete. Ordena además la nota de [[legitimidad-policial]]: el acatamiento por temor
+    es coerción, no autoridad.
+
+Y una convergencia: Gardner, desde la filosofía del derecho, y Wikström, desde la
+criminología, coinciden en que la amenaza no opera sobre quien ya tiene resuelta la
+cuestión. Una tesis es conceptual y la otra causal. Ver [[autocontrol-y-disuasion]].
+
+**Y la que más va a pesar en el trabajo evaluado de S1.1, ahora con cuatro voces.**
 [[onu-habitat-guia-barrios]] —obra de consulta del ramo, coescrita por su docente—
 incorpora la teoría de las ventanas rotas dentro de su [[tipologia-barrial]], y
 [[sampson-vecindario-y-comunidad]] la declara espuria. Weisburd y otros no desempatan:
 declaran la evidencia **mixta** a escala de barrio y citan a Sampson como uno de los
 estudios, no como el cierre del asunto. El conflicto baja de grado, pero no se
-resuelve. Ver [[ventanas-rotas]].
+resuelve. La versión de 2010 de la guía cambia dónde cae: la misma lista de elementos
+se fundaba ahí en el control visual, y la teoría no aparecía. Lo discutible es la
+justificación que se le añadió en 2020, más que el inventario. Ver [[ventanas-rotas]].
 
 **Y una convergencia, que vale tanto como las tensiones.** Sampson desde Chicago y la
 tolerancia cero, y Albarracín desde América Latina y la mano dura, llegan a lo mismo
@@ -115,9 +161,14 @@ es popular: el debido proceso se vive como protección a los delincuentes. Ver
 ## Lo que ya puede hacer, y antes no
 
 - **Clasificar un territorio.** [[tipologia-barrial]] da cinco categorías con
-  indicadores comunes, aplicables a una comuna.
+  indicadores comunes, aplicables a una comuna. Y antes, la pregunta que decide todo lo
+  demás: si el barrio es vulnerado o crítico, sabiendo que esa frontera también la fija
+  la capacidad de intervenir de quien clasifica.
 - **Diseñar un levantamiento.** [[diagnostico-barrial]] fija las decisiones de muestreo
-  y la exigencia de comparabilidad en el tiempo.
+  y la exigencia de comparabilidad en el tiempo, y cambia de método según el barrio:
+  participativo en el vulnerado, de expertos y etnográfico en el crítico.
+- **Separar capital social de eficacia colectiva, y los sentidos del capital social
+  entre sí.** [[capital-social]].
 - **Nombrar el modo de trabajo que el programa exige.** [[coproduccion-de-seguridad]]
   da contenido a lo que el perfil de egreso compromete sin definir.
 - **Discutir la escala.** [[analisis-espacial-del-delito]] da los cuatro problemas que
@@ -130,15 +181,16 @@ es popular: el debido proceso se vive como protección a los delincuentes. Ver
   dueños, administradores y a la regulación local —patentes, ordenanzas,
   fiscalización—, sin pasar por la justicia penal.
 
-Las tres primeras vienen de un borrador coescrito por el docente del ramo; las tres
-últimas, de los proponentes de la criminología del lugar. Conviene usarlas sabiendo
-las dos cosas.
+Las tres primeras vienen de dos guías del equipo del docente del ramo: un borrador de
+2020 y la versión publicada hacia 2010 que ese borrador reedita. Donde las dos dicen lo
+mismo cuentan como una. Las tres últimas vienen de los proponentes de la criminología
+del lugar. Conviene usarlas sabiendo las dos cosas.
 
 ## Lo que esto deja para el trabajo evaluado de S1.1
 
 El trabajo recae sobre una política municipal o un proyecto de seguridad identificable
 —la misma exigencia de anclaje del [[trabajo-de-grado-profesionalizante]] un semestre
-antes. Las fuentes dan, juntas, siete preguntas que un diagnóstico serio debería poder
+antes. Las fuentes dan, juntas, nueve preguntas que un diagnóstico serio debería poder
 responder sobre cualquier intervención. Las formula esta wiki:
 
 - ¿Funciona por el territorio o por quién usa el territorio?
@@ -150,24 +202,32 @@ responder sobre cualquier intervención. Las formula esta wiki:
 - ¿La percepción de inseguridad que la motiva sigue a la violencia registrada, o va por
   delante?
 - ¿Lo que mejora es el delito o la percepción, y se está diciendo cuál de los dos?
+- ¿El territorio se trató como vulnerado o como crítico, quién lo decidió y con qué
+  criterio?
+- ¿El éxito que se reporta viene de una evaluación o de un antes-después sin control?
 
 ## Lo que la wiki todavía no puede hacer
 
-- **Decir nada de Chile.** Chicago, Peterborough, Guadalajara, calles de ciudades
+- **Decir casi nada de Chile.** Chicago, Peterborough, Guadalajara, calles de ciudades
   estadounidenses y europeas, y una América Latina donde Chile aparece una sola vez.
-  La única fuente chilena es un proyecto de tesis de Derecho sin caso empírico.
-  Ni siquiera sabe si la ley de concentración vale aquí: el propio libro advierte que
-  no se ha probado en países de ingresos bajos ni en ciudades en crisis. Ver
-  [[revision]]. `caso-de-grado` sigue vacío.
-- **Registrar el otro lado.** Seis páginas en borrador: [[ventanas-rotas]],
+  Lo chileno que hay es un proyecto de tesis de Derecho sin caso empírico y las
+  descripciones de la guía de 2010: Quiero mi Barrio en El Bosque, la Herminda de la
+  Victoria, La Legua, el Programa 24 Horas. Son de hace más de quince años y ninguna es
+  una evaluación. Ni siquiera sabe si la ley de concentración vale aquí: el propio
+  libro advierte que no se ha probado en países de ingresos bajos ni en ciudades en
+  crisis. Ver [[revision]]. `caso-de-grado` sigue vacío.
+- **Registrar el otro lado.** Siete páginas en borrador: [[ventanas-rotas]],
   [[policia-comunitaria]], [[legitimidad-policial]], [[debilidad-estatal]],
-  [[desorganizacion-social]] y [[policia-de-puntos-calientes]]. Las dos últimas nacen
-  de una sola fuente escrita por quienes defienden la posición.
+  [[desorganizacion-social]], [[policia-de-puntos-calientes]] y [[moralismo-legal]].
+  Dos nacen de una sola fuente escrita por quienes defienden la posición; la última,
+  de un comentario que trae filtrada la posición que discute.
 - **Hablar de las teorías de la oportunidad desde sus autores.** Cinco páginas las
   mencionan y no tienen adónde enlazar. Clarke (1997) y Felson y Eckert (2016) entran
   en la tanda 4.
 - **Hablar de criminalización desde sus autores.** La criminología crítica sólo aparece
   resumida de segunda mano en un proyecto de tesis. Baratta (2004) entra en la tanda 3.
+  Del lado normativo hay ahora un comentario de Gardner, pero el principio de daño y el
+  Estado de derecho, que él da por supuestos, esperan a Ferrajoli en la tanda 6.
 - **Contrastar métodos.** `wiki/methodology/` tiene dos páginas; las metodológicas de
   S1.2 siguen sin ingerir.
 - **Clasificar grupos criminales.** No hay `subtipo` de `entity` donde quepan el PCC o
@@ -177,6 +237,6 @@ responder sobre cualquier intervención. Las formula esta wiki:
 
 Hasta el 27-11-2026 manda el **orden por calendario** fijado en [[purpose]]: seis
 tandas, cada una cerrada antes de la clase que la usa. La tanda 1 sigue con
-**Vanderschueren (2015)**, **Vanderschueren, Díaz y Guajardo (2021)** y **Valdivia y
-otros (2019)**, y Tudela (2015) si alcanza. Después vuelve el orden por cúmulos.
+**Vanderschueren, Díaz y Guajardo (2021)** y **Valdivia y otros (2019)**, y Tudela
+(2015) si alcanza. Después vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.

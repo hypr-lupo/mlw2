@@ -1,7 +1,7 @@
 ---
 title: Ventanas rotas y tolerancia cero
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -62,6 +62,8 @@ Sigue en borrador por una razón: ninguna de las tres fuentes defiende la teorí
 > Es decir: la **lectura obligatoria** del ramo refuta el supuesto, y la **obra de consulta** que da el instrumento lo incorpora. Quien haga el trabajo evaluado tendrá las dos en la misma bibliografía.
 >
 > El matiz salva parte de la contradicción y conviene no perderlo. La guía acota el efecto a la **percepción** de inseguridad —terreno que Sampson no discute— y sólo de forma condicional lo extiende al delito. Sampson refuta la causalidad desorden→delito, no que el deterioro afecte cómo se siente un barrio. Dicho de otro modo: cabe sostener a la vez que arreglar la iluminación mejora la percepción y que no reduce el delito por sí solo, y el punto es no confundir una cosa con la otra al justificar una intervención.
+>
+> **La teoría llegó después que la lista.** Añadido el 26-09-2026. En la versión de 2010 de la guía, [[vanderschueren-guia-prevencion-barrios]], el mismo inventario —pasajes sin salida, espacios sin iluminación, muros ciegos, sitios eriazos— se funda en otra cosa: esos elementos **impiden el control visual** sobre las viviendas y el uso del espacio público [^ext-9]. Es la lógica de la vigilancia natural, que la guía asocia después a la prevención situacional y al CPTED [^ext-10], y la teoría de las ventanas rotas no aparece en ningún lugar del texto. La lista puede sostenerse sin el supuesto que Sampson refuta, y la contradicción recae sobre la justificación que se le añadió en 2020. Pero la versión de 2010 no queda del todo fuera: agrega que esos elementos, junto con el deterioro físico, favorecen los delitos [^ext-9]. Y su bibliografía incluye un estudio de Sampson y Raudenbush (1999) sobre el desorden en barrios urbanos [^ext-11], los mismos autores de la investigación que Sampson cita, con fecha 2001, para declarar espuria la relación [^ext-1]. El cuerpo de la guía no la discute.
 
 **Corroboración lateral, no confrontación.** [[mano-dura-y-militarizacion]] reúne evidencia latinoamericana que apunta en la misma dirección que el segundo piso del argumento de Sampson —el político—, desde una literatura y un continente distintos. No es una discusión de ventanas rotas: mano dura y tolerancia cero son familias de política emparentadas pero no la misma, y esa página no toca el primer piso, que es el empírico. Vale como convergencia, no como confirmación.
 
@@ -74,6 +76,7 @@ Sigue en borrador por una razón: ninguna de las tres fuentes defiende la teorí
 - [[desorganizacion-social]] — la tradición de la que la teoría se deriva
 - [[policia-de-puntos-calientes]] — el patrullaje focalizado, con el que no debe confundirse
 - [[weisburd-el-lugar-importa]] — fuente de la formulación y del balance de evidencia
+- [[vanderschueren-guia-prevencion-barrios]] — la versión de 2010 de la guía, donde la lista se funda en el control visual y no en esta teoría
 
 ---
 
@@ -85,3 +88,6 @@ Sigue en borrador por una razón: ninguna de las tres fuentes defiende la teorí
 [^ext-6]: **Extraído** — [[weisburd-el-lugar-importa]], p. 52, sobre Wilson y Kelling (1982).
 [^ext-7]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 59-60.
 [^ext-8]: **Extraído** — [[weisburd-el-lugar-importa]], p. 118, sobre Braga y Bond (2008).
+[^ext-9]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], primera parte, sección II.A.2, p. 24.
+[^ext-10]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 3, sección 3.5.B, p. 74.
+[^ext-11]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], bibliografía, p. 105.

@@ -48,6 +48,18 @@
       "bytes": 1564191,
       "ingerido": "2026-09-26",
       "ficha": "wiki/sources/zuniga-civilizacion-y-derechos-humanos.md"
+    },
+    "2015 - Vanderschueren - Guía para la prevención en barrios.pdf": {
+      "sha256": "8158cf26f21cd3a0313a30e2ccd89cdd3dfe650010b1cfe705b78a97c1b6c237",
+      "bytes": 2965771,
+      "ingerido": "2026-09-26",
+      "ficha": "wiki/sources/vanderschueren-guia-prevencion-barrios.md"
+    },
+    "2007 - Gardner - La prohibición de las inmoralidades.pdf": {
+      "sha256": "0a9ea266bee66222c1629bcb368a3278b034795f62e376624045af29a98b2802",
+      "bytes": 136721,
+      "ingerido": "2026-09-26",
+      "ficha": "wiki/sources/gardner-prohibir-inmoralidades.md"
     }
   }
 }

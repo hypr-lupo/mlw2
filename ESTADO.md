@@ -10,10 +10,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 103 | 93.6 % |
+| `pendiente` | 101 | 91.8 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 7 | 6.4 % |
+| `completo` | 9 | 8.2 % |
 
 ## Por cumulo
 
@@ -28,8 +28,8 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Integrados desde el programa del curso (05-09-2026) | 9 | 9 | 0 | 0 | 0 |
 | Medición e inseguridad | 6 | 6 | 0 | 0 | 0 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
-| Prevención e intervención | 4 | 4 | 0 | 0 | 0 |
-| Sistema penal y Estado de derecho | 8 | 7 | 0 | 0 | 1 |
+| Prevención e intervención | 4 | 3 | 0 | 0 | 1 |
+| Sistema penal y Estado de derecho | 8 | 6 | 0 | 0 | 2 |
 | Vínculo Estado-crimen | 18 | 18 | 0 | 0 | 0 |
 
 ## Trabajo a medio camino
@@ -45,9 +45,11 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 Estas fichas no se citan hasta cotejarlas contra el documento.
 
 - [[adams-violencia-cronica]]
+- [[gardner-prohibir-inmoralidades]]
 - [[onu-habitat-guia-barrios]]
 - [[programa-magister-uah]]
 - [[sampson-vecindario-y-comunidad]]
+- [[vanderschueren-guia-prevencion-barrios]]
 - [[zuniga-civilizacion-y-derechos-humanos]]
 
 ## Detalle por documento
@@ -164,7 +166,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 - `pendiente` — 1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf
 - `pendiente` — 2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf
-- `pendiente` — 2015 - Vanderschueren - Guía para la prevención en barrios.pdf
+- `completo` — 2015 - Vanderschueren - Guía para la prevención en barrios.pdf
 - `pendiente` — 2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf
 
 ### Sistema penal y Estado de derecho
@@ -172,7 +174,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 1995 - Ferrajoli - Derecho y razón, teoría del garantismo penal.pdf
 - `pendiente` — 1997 - Rose-Ackerman - Corrupción y competencia.pdf
 - `pendiente` — 2001 - Silva Sánchez - La expansión del derecho penal, aspectos de la política criminal en las sociedades postindustriales.pdf
-- `pendiente` — 2007 - Gardner - La prohibición de las inmoralidades.pdf
+- `completo` — 2007 - Gardner - La prohibición de las inmoralidades.pdf
 - `pendiente` — 2013 - Tanguay-Renaud - Criminalizar al Estado.pdf
 - `completo` — 2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf
 - `pendiente` — 2016 - Pérez - La economía informal y las finanzas públicas, de piratas a corsarios contemporáneos.pdf

@@ -1,13 +1,13 @@
 ---
 title: Policía comunitaria
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Policía comunitaria
@@ -55,6 +55,15 @@ Lo que la guía añade a lo que ya estaba en esta página es de encuadre, no de 
 - **La proximidad se plantea en América Latina como reforma pendiente**, orientada a la legitimidad del actuar policial, y como condición para reconstruir tejidos sociales dañados [^ext-12]. Ver [[legitimidad-policial]].
 - **Donde hay coproducción posible, se hace; donde no, se averigua por qué.** La guía trata el trabajo conjunto entre habitantes y policía como indicador diagnóstico: si no es posible, eso mismo informa sobre el barrio [^ext-13]. Ver [[coproduccion-de-seguridad]] y [[diagnostico-barrial]].
 
+**Un papel distinto según el barrio.** Añadido el 26-09-2026 al ingerir [[vanderschueren-guia-prevencion-barrios]], la versión anterior de esa guía, que gradúa la función policial por tipo de barrio. Ver [[tipologia-barrial]].
+
+- **En los barrios sin exclusión predominante**, la coproducción entre habitantes y policía es la estrategia más eficaz a largo plazo, sobre todo si la policía es de resolución de problemas, comunitaria o de proximidad [^ext-14]. La guía lo afirma sin citar evaluaciones.
+- **En los barrios críticos**, la policía, preparada para ese trabajo, acompaña el proceso de principio a fin como un socio. Una iniciativa de prevención sin acompañamiento policial y judicial probablemente no logrará sus objetivos [^ext-14].
+- **Socio, no líder.** La intervención en un barrio crítico lleva inevitablemente un componente policial, y el riesgo es que se reduzca a eso. Una acción policial aislada no impide que la delincuencia se reproduzca, por fuerte y pertinente que sea: la policía tiene que ser socio fundamental, no líder de la reconstrucción social del barrio [^ext-15]. Y la coordinación tiene que respetar las funciones de cada actor: el policía no sustituye al agente de prevención social, ni al revés [^ext-16].
+- **Conocerla antes de asociarse.** Tanto la ausencia de la policía como su sobreactuación represiva pueden bloquear una estrategia. El diagnóstico debe averiguar cómo actúa en la zona: si está ausente, si es eficaz, si es corrupta y con qué grado de impunidad [^ext-17].
+
+La guía documenta además el reverso, en un recuadro sobre Brasil: en el estado de Rio de Janeiro, las muertes en acciones policiales no bajaron de mil al año entre 2003 y 2008. Contadas como homicidios, serían cerca de un tercio del total, y la relación entre policías muertos en servicio y civiles muertos en acciones policiales fue de 1 a 41 en 2007 [^ext-18]. Ver [[legitimidad-policial]].
+
 ## Condición de fracaso
 
 Donde la policía es recibida con desconfianza —barrios de minorías étnicas, que soportan las mayores tasas de violencia—, los esfuerzos de cooperación fracasan aunque los residentes compartan el deseo de que haya menos delito e incluso estén dispuestos a participar [^ext-7]. Es decir: la voluntad vecinal no basta; la legitimidad es previa. Ver [[legitimidad-policial]].
@@ -70,6 +79,7 @@ Donde la policía es recibida con desconfianza —barrios de minorías étnicas,
 - [[eficacia-colectiva]] — la teoría de la que el modelo se deriva
 - [[legitimidad-policial]] — su condición de posibilidad
 - [[ventanas-rotas]] — el modelo con el que el texto insiste en no confundirla
+- [[vanderschueren-guia-prevencion-barrios]] — la función policial graduada por tipo de barrio
 
 El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía de proximidad**, junto con el debate sobre legitimidad policial. La bibliografía que lo cubriría —Vanderschueren, García y Quezada (2026)— no está en el corpus, de modo que hoy este módulo se sostiene sólo sobre las dos páginas que Sampson permite escribir.
 
@@ -88,3 +98,8 @@ El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía d
 [^ext-11]: **Extraído** — [[onu-habitat-guia-barrios]], introducción, p. 5.
 [^ext-12]: **Extraído** — [[onu-habitat-guia-barrios]], introducción, pp. 5-6.
 [^ext-13]: **Extraído** — [[onu-habitat-guia-barrios]], sección I.5.3, p. 43.
+[^ext-14]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 3, sección 3.1, p. 54.
+[^ext-15]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 2, sección 2.1.2, p. 40.
+[^ext-16]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], recuadro «La coordinación de la multisectorialidad», p. 57.
+[^ext-17]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 2, sección 2.4.2, p. 45.
+[^ext-18]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], recuadro «Violencia policial en Brasil», p. 27, sobre Ribeiro, Dias y Carvalho (2008), citados por Olinger (2009).

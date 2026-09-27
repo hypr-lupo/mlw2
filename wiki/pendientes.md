@@ -9,22 +9,34 @@ sources: []
 Artefacto operativo para retomar. Se actualiza al cerrar sesión.
 
 **Estado al 26-09-2026.** Núcleo ancla S1.1 **completo** y tanda 1 del orden por
-calendario en curso. 8 fuentes de 116 documentos, 37 páginas, **siete de ocho
+calendario en curso. 10 fuentes de 116 documentos, 41 páginas, **siete de ocho
 clústeres poblados**: sólo queda vacío `caso-de-grado`. Cobertura de S1.1: 17 de 32
-títulos oficiales, 53 %. Weisburd y otros y Zúñiga Núñez no son bibliografía oficial y no
-la mueven.
+títulos oficiales, 53 %. Weisburd y otros, Zúñiga Núñez, la guía de barrios de
+Vanderschueren y otros y Gardner no son bibliografía oficial y no la mueven.
 
 **Sesión del 26-09-2026: primera ingesta de la tanda 1.** Entró Weisburd y otros
 (2016), *El lugar importa*: seis páginas nuevas, una ficha y ocho páginas
 actualizadas. Es la primera fuente que discute de frente con dos de las obligatorias
-—Sampson y Wikström— y con la guía del trabajo evaluado. Lo que sigue en la tanda es
-Vanderschueren (2015).
+—Sampson y Wikström— y con la guía del trabajo evaluado.
+
+**Segunda ingesta de la tanda 1.** Entró la *Guía para la prevención en barrios* de
+Vanderschueren y otros, fechada en 2015 en el corpus y en 2010 en sus créditos: una
+ficha, una página nueva —[[capital-social]]— y nueve actualizadas. Resultó ser la
+versión anterior, no citada, de la guía de ONU-Hábitat de 2020. Lo que sigue en la
+tanda es Vanderschueren, Díaz y Guajardo (2021).
 
 **Y una ingesta fuera de orden, por decisión del autor.** Entró y se ingirió Zúñiga
 Núñez (2013), *Civilización y derechos humanos*: un proyecto de tesis de Derecho inédito,
 sobre todo de teoría del Estado. Deja una ficha y tres páginas actualizadas con su veta
 criminológica —[[crimen-organizado]], [[debilidad-estatal]] y [[legitimidad-policial]]—,
 y ninguna página nueva. No mueve el orden por calendario.
+
+**Y otra fuera de orden, también por decisión del autor.** Entró Gardner (2007),
+*Prohibiting Immoralities*: filosofía del derecho penal, en versión de autor. Deja una
+ficha, una página nueva —[[moralismo-legal]]— y cuatro actualizadas. Con Zúñiga Núñez
+abre el clúster `sistema-penal` a la discusión sobre qué puede prohibir el Estado y cómo
+justifica su coerción. Antes se retiraron de `raw/sources/` cinco duplicados exactos.
+No mueve el orden por calendario.
 
 ## Lo que bloquea
 
@@ -44,6 +56,10 @@ Queda esto en manos del autor, y **no bloquea la ingesta**:
 - [ ] **Conseguir el resto de la bibliografía de consulta de S1.1**, García-Pablos
       completo incluido. Es lo que habilita la base fundamental. Mientras tanto el
       orden vigente corre solo y no espera a nadie.
+- [x] **Cinco duplicados exactos en `raw/sources/`**, llegados el 26-09-2026 entre las
+      22:22 y las 22:25 con nombres fuera de la nomenclatura. Resuelto el mismo día: el
+      autor pidió retirar los más nuevos, y se enviaron a la Papelera de reciclaje. Quedan
+      los originales inventariados. Ver [[log]].
 - [x] **Dos documentos del inventario no están en disco** —el manual Routledge de
       Blokland y van der Geest, y el Garland original en inglés—. Resuelto el
       26-09-2026: el autor los declaró errores de integración y se borraron sus filas
@@ -51,7 +67,7 @@ Queda esto en manos del autor, y **no bloquea la ingesta**:
 
 ## Fuentes por ingerir
 
-Al 26-09-2026 quedan 103 pendientes de un universo de 110: los 116 archivos del
+Al 26-09-2026 quedan 101 pendientes de un universo de 110: los 116 archivos del
 corpus menos los 6 programas oficiales. Diez de ellos están en cuarentena sin plazo. El
 orden está fijado en [[purpose]]; el detalle documento por documento lo da `python
 scripts/estado.py`.
@@ -60,9 +76,8 @@ scripts/estado.py`.
 [[purpose]]). Cada tanda se cierra antes de la clase que la usa:
 
 - [ ] **Tanda 1, antes del 02-10:** ~~Weisburd y otros (2016)~~, ingerida el 26-09 ·
-      Vanderschueren (2015),
-      guía de barrios · Vanderschueren, Díaz y Guajardo (2021) · Valdivia y otros
-      (2019) · *si alcanza:* Tudela (2015)
+      ~~Vanderschueren (2015), guía de barrios~~, ingerida el 26-09 · Vanderschueren,
+      Díaz y Guajardo (2021) · Valdivia y otros (2019) · *si alcanza:* Tudela (2015)
 - [ ] **Tanda 2, antes del 10-10:** Batthyány y Cabrera · Vives Varela y Hamui Sutton ·
       INE (2023) · Srur, pp. 26-45 · Tudela (ed.) (2010), capítulo de Boba · CIPC (2015)
 - [ ] **Tanda 3, antes del 16-10:** Baratta (2004), caps. I-II, IV, VII y VIII ·
@@ -159,36 +174,52 @@ refutación, un uso y un balance de evidencia; ninguna es la defensa de sus auto
       y otros muestran que el barrio «malo» es en su mayoría calles sin delito. En
       [[eficacia-colectiva]] y [[desorganizacion-social]]
 - [ ] **El promedio del barrio.** El diagnóstico de la guía ONU-Hábitat proyecta por
-      tipo de barrio; agregar por barrio puede ocultar los puntos calientes. En
+      tipo de barrio; agregar por barrio puede ocultar los puntos calientes. La
+      proyección es un añadido de 2020, no de la versión de 2010. En
       [[diagnostico-barrial]] y [[analisis-espacial-del-delito]]
+- [ ] **Escasez o perversión del capital social.** Adams lo trata como escaso; la guía
+      de 2010 distingue su falta, en el barrio vulnerado, de su perversión, en el
+      crítico. En [[capital-social]]
+- [ ] **Dos criterios para una misma categoría.** El barrio de violencia crónica de 2020
+      suma el umbral de homicidios al criterio de inaccesibilidad heredado de 2010. En
+      [[tipologia-barrial]] y [[violencia-cronica]]
 - [ ] **Focalización y legitimidad.** El daño de las tácticas agresivas, frente a la
       escasa evidencia de que la presencia focalizada lo cause. En
       [[legitimidad-policial]] y [[policia-de-puntos-calientes]]
 - [ ] **Qué separa al crimen del poder legítimo.** Albarracín pide una definición
       precisa de crimen organizado para comparar casos; Zúñiga Núñez sostiene que la
-      frontera es un efecto de legitimación. En [[crimen-organizado]] y
-      [[debilidad-estatal]]
+      frontera es un efecto de legitimación; Gardner, que es una exigencia moral sobre el
+      Estado. En [[crimen-organizado]], [[debilidad-estatal]] y [[moralismo-legal]]
+- [ ] **¿Rige el derecho por amenaza o por autoridad?** Zúñiga Núñez: por la amenaza
+      del castigo. Gardner: por autoridad, con la coerción como respaldo. En
+      [[moralismo-legal]] y [[legitimidad-policial]]
 
 ## Ítems de revisión abiertos
 
-- [ ] 17 abiertos en [[revision]]. **Ninguno bloquea.** La ingesta de Weisburd
+- [ ] 22 abiertos en [[revision]]. **Ninguno bloquea.** La ingesta de Weisburd
       resolvió dos —puntos calientes y desorganización social—, enmendó el de control
       social informal y abrió dos: la página de teorías de la oportunidad, que espera a
       la tanda 4, y si la ley de concentración vale en una comuna chilena. La de Zúñiga
       Núñez abrió tres: si su teoría del Estado cabe en el alcance, qué escuela y qué
       versión es, y la página de criminalización y selectividad penal, que espera a
-      Baratta en la tanda 3. Siguen abiertos, entre otros, que la Guía ONU-Hábitat es un
-      «Borrador avanzado» y que la wiki ya construyó cuatro páginas sobre ella.
+      Baratta en la tanda 3. La de la guía de barrios de 2010 abrió tres —su año y
+      autoría, Quiero mi Barrio y la mediación comunitaria— y enmendó dos: la página de
+      Franz Vanderschueren y el borrador de la guía de 2020, cuyo ciclo de política y
+      diagnóstico tienen ahora versión publicada. La de Gardner abrió dos: conseguir la
+      versión definitiva de la revista, y las páginas de principio de daño y Estado de
+      derecho, que esperan a Ferrajoli en la tanda 6.
 
 ## Preguntas abiertas
 
 - [ ] ¿Sobre qué política, programa o proyecto chileno se ancla el trabajo de grado?
       Sexta pregunta rectora de [[purpose]] y la única que no se responde desde el
-      corpus. Ocho fuentes ingeridas —Chicago, Peterborough, Guadalajara, una América
+      corpus. Nueve fuentes ingeridas —Chicago, Peterborough, Guadalajara, una América
       Latina donde Chile aparece una vez, calles de ciudades estadounidenses y europeas,
-      y un ensayo jurídico chileno sin caso empírico— y `caso-de-grado` sigue vacío. Los dos
-      Zeballos, integrados el 12-09-2026 y sin ingerir, son lo primero del corpus sobre
-      crimen organizado en Chile
+      un ensayo jurídico chileno sin caso empírico y una guía con descripciones de barrios
+      de Santiago de hace más de quince años— y `caso-de-grado` sigue vacío. El primer
+      programa chileno identificable de la wiki, Quiero mi Barrio, espera una segunda
+      fuente en [[revision]]. Los dos Zeballos, integrados el 12-09-2026 y sin ingerir,
+      son lo primero del corpus sobre crimen organizado en Chile
 - [ ] ¿Se cursará el taller electivo de crimen organizado? De la respuesta depende que
       42 de los 114 documentos del corpus sean bibliografía oficial o material de
       reserva

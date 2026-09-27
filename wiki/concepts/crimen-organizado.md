@@ -1,7 +1,7 @@
 ---
 title: Crimen organizado
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf"]
 cluster: gobernanza-criminal
 curso: [s1-1]
 procedencia: fuentes
@@ -44,11 +44,11 @@ Vale la pena aislarlo, porque es un punto metodológico antes que sustantivo y c
 
 El Primeiro Comando da Capital de São Paulo ha sido descrito de tres maneras incompatibles, y cada una responde al tipo de dato desde el que se lo miró [^ext-8]:
 
-| Descripción | Base de datos |
-|---|---|
-| Organización altamente jerarquizada, con líderes capaces de controlar acciones violentas de subordinados contra el Estado en distintos territorios (Adorno y Salla, 2007) | Registros de acciones coordinadas |
-| «Movimiento» sin jerarquía firmemente establecida, con roles que ciertos miembros ocupan en algún momento y normas aceptadas por todos (Biondi, 2016) | Estudio etnográfico en el sistema penitenciario |
-| Organización burocratizada, capaz de gestionar un proto-sistema de seguridad social para miembros y familias (Lessing y Denyer Willis, 2019) | Documentación y contabilidad internas del grupo |
+| Descripción                                                                                                                                                               | Base de datos                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| Organización altamente jerarquizada, con líderes capaces de controlar acciones violentas de subordinados contra el Estado en distintos territorios (Adorno y Salla, 2007) | Registros de acciones coordinadas               |
+| «Movimiento» sin jerarquía firmemente establecida, con roles que ciertos miembros ocupan en algún momento y normas aceptadas por todos (Biondi, 2016)                     | Estudio etnográfico en el sistema penitenciario |
+| Organización burocratizada, capaz de gestionar un proto-sistema de seguridad social para miembros y familias (Lessing y Denyer Willis, 2019)                              | Documentación y contabilidad internas del grupo |
 
 La conclusión del texto no es cuál tiene razón, sino que las descripciones de grupos criminales son muchas veces parciales y determinadas por el tipo de información a la que se accede. Para acercarse a la complejidad hacen falta múltiples aproximaciones y tipos de datos [^ext-8].
 
@@ -74,6 +74,10 @@ Zúñiga Núñez ataca la tercera frontera: la que separa al crimen del poder le
 
 **El costo.** Si se acepta el argumento, el concepto deja de poder medirse. Lo que se compararía entre países serían procesos de legitimación, no organizaciones. Es justo el costo que Albarracín quiere evitar cuando pide una definición lo bastante precisa para distinguir el crimen organizado del común y contrastar casos [^ext-4]. La tensión la formula esta wiki, entre dos posiciones que no se discuten entre sí. Zúñiga no aporta casos ni datos. Su texto es un ensayo teórico en borrador, y conviene leerlo como una posición límite, no como un hallazgo.
 
+**Una tercera posición, normativa.** Añadido el 26-09-2026 al ingerir [[gardner-prohibir-inmoralidades]], que no habla de crimen organizado sino de filosofía del derecho penal. Gardner comparte con Zúñiga el punto de partida: el Estado, para mantener un sistema jurídico eficaz, tiene que coaccionar, y eso es lo que normalmente contaría como un mal. Pero para él el Estado es un agente moral ordinario, con restricciones adicionales: no debe matar, violar ni robar, ni ser cómplice de quien lo haga, y tiene que justificar moralmente su coerción [^ext-15]. La justificación deja de ser un efecto que el poder produce y pasa a ser una exigencia que puede no cumplirse [^inf-1].
+
+Las tres posiciones quedan así. Albarracín necesita una frontera **empírica**, lo bastante precisa para comparar casos. Zúñiga la disuelve en la **legitimación**. Gardner ofrece una frontera **normativa**: la coerción estatal que no se justifica moralmente no se distingue, en su materia, de un delito [^inf-1]. Ninguno discute a los otros; la comparación es de esta wiki. Ver [[moralismo-legal]].
+
 ## Cita
 
 > "regular y controlar la producción y distribución de un bien o servicio de forma ilegal"
@@ -86,6 +90,8 @@ Zúñiga Núñez ataca la tercera frontera: la que separa al crimen del poder le
 - [[debilidad-estatal]] — la explicación dominante del fenómeno así definido
 - [[mano-dura-y-militarizacion]] — la política que se le aplica
 - [[zuniga-civilizacion-y-derechos-humanos]] — la frontera entre crimen y poder legítimo como efecto de legitimación
+- [[gardner-prohibir-inmoralidades]] y [[moralismo-legal]] — la misma frontera como exigencia moral sobre el Estado
+- [[legitimidad-policial]] — los sentidos de «legitimidad» que esa frontera pone en juego: justicia procedimental, miedo o autoridad
 
 El cúmulo `Vínculo Estado-crimen` y `Amenaza y securitización` suman 42 de los 93 documentos del corpus y discuten este concepto largamente. Ninguno está ingerido, y son material de reserva del electivo S3.E4: [[purpose]] ordena no empezar por ahí, porque fijaría el encuadre de todo lo demás.
 
@@ -107,3 +113,5 @@ El cúmulo `Vínculo Estado-crimen` y `Amenaza y securitización` suman 42 de lo
 [^ext-12]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 111.
 [^ext-13]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 112.
 [^ext-14]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 113.
+[^ext-15]: **Extraído** — [[gardner-prohibir-inmoralidades]], §4, pp. 21-22.
+[^inf-1]: **Inferido** (confianza 0.7) — Gardner no discute el crimen organizado ni a Zúñiga. Aplicar su tesis sobre el Estado como agente moral a la frontera entre crimen y poder legítimo es lectura de esta wiki.

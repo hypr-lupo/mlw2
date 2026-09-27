@@ -1,13 +1,13 @@
 ---
 title: Violencia crónica
 type: concept
-sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf"]
+sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf"]
 cluster: victimizacion-e-inseguridad
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Violencia crónica
@@ -77,6 +77,8 @@ El mecanismo que la guía subraya es el de la normalización que Adams describe:
 
 Conviene notar el desplazamiento: Adams propone tratar la violencia crónica como norma perversa de largo plazo y advierte contra leerla como etapa de transición; la guía traduce eso en un requisito operativo —intervención integral y sostenida— sin discutir la advertencia. Es coherente, pero es traducción.
 
+**La categoría existía antes que el concepto.** Añadido el 26-09-2026 al ingerir [[vanderschueren-guia-prevencion-barrios]], la versión de 2010 de la misma guía. Ahí el lugar de la quinta categoría lo ocupaba el **barrio crítico**, y se definía sin tasas: no se puede entrar libremente a desarrollar la política, y la violencia, el temor y la legitimación de ilícitos son muy altos [^ext-17]. La guía de 2020 le dio a esa categoría el nombre y la definición de Pearce y Adams, y conservó a la vez el criterio anterior [^ext-18]. La traducción que describe el párrafo anterior tiene entonces una capa más: el concepto no sólo se volvió requisito operativo, sino que sirvió para nombrar una categoría que ya existía y que se definía por otra cosa. Un territorio puede tener violencia letal sostenida y seguir siendo accesible, o ser inaccesible sin duplicar la tasa de homicidios [^inf-1]. Ver [[tipologia-barrial]].
+
 ## Cita
 
 > "contribuyendo así a la reproducción de violencia a lo largo del tiempo"
@@ -91,6 +93,7 @@ Conviene notar el desplazamiento: Adams propone tratar la violencia crónica com
 - [[gobernanzas-paralelas]] — lo que la gente construye cuando el estado no provee
 - [[eficacia-colectiva]] — el trabajo se apoya en el capital social de Putnam, que es el constructo contra el que Sampson definió el suyo; la tensión está registrada allí
 - [[mano-dura-y-militarizacion]] — por qué el debido proceso se vive como protección a los delincuentes
+- [[vanderschueren-guia-prevencion-barrios]] — la versión de 2010 de la guía, donde la categoría se llamaba barrio crítico
 
 ---
 
@@ -110,3 +113,6 @@ Conviene notar el desplazamiento: Adams propone tratar la violencia crónica com
 [^ext-14]: **Extraído** — [[onu-habitat-guia-barrios]], sección I.5.3, p. 42.
 [^ext-15]: **Extraído** — [[onu-habitat-guia-barrios]], sección I.5.2, p. 41.
 [^ext-16]: **Extraído** — [[onu-habitat-guia-barrios]], capítulo I.4, p. 37.
+[^ext-17]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 1, sección 1.1.2, p. 33.
+[^ext-18]: **Extraído** — [[onu-habitat-guia-barrios]], parte II, sección II.1.3, p. 53.
+[^inf-1]: **Inferido** (confianza 0.7) — comparación entre las dos versiones de la guía. Ninguna comenta el cambio de nombre ni la coexistencia de dos criterios.
