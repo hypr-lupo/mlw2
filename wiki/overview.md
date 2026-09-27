@@ -8,8 +8,8 @@ sources: []
 
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
-**Al 26-09-2026: núcleo ancla completo y tres fuentes de la tanda 1 dentro.** Once
-fuentes de 116, cuarenta y seis páginas, **siete de ocho clústeres poblados**. Las
+**Al 27-09-2026: núcleo ancla completo y cuatro fuentes de la tanda 1 dentro.** Trece
+fuentes de 117, cuarenta y nueve páginas, **siete de ocho clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
 por decisión del autor, un proyecto de tesis de Derecho inédito, Zúñiga Núñez (2013),
@@ -34,6 +34,15 @@ Y la prevención, que daba nombre a un clúster sin tener página, tiene ahora d
 todo esto: varios autores describen instituciones de las que forman parte, y dos de los
 tres editores escribieron las guías de barrios. Muchas de sus coincidencias con esas
 guías no son confirmaciones independientes.
+
+**Y un tema que la wiki no tenía.** [[valdivia-violencia-en-el-noviazgo]] es la primera
+fuente sobre violencia de pareja y la primera obligatoria de S1.2. Nace
+[[violencia-en-el-noviazgo]]. Lo más útil que trae es metodológico: en Chile, preguntar a
+los jóvenes si vivieron violencia o preguntarles por conductas concretas cambia la
+prevalencia varias veces. La acompaña la primera norma de la wiki,
+[[ley-21675-violencia-de-genero]], que desde 2024 incluye el pololeo en la violencia
+intrafamiliar y corrige en parte el estado legal que la revisión describía. El femicidio
+queda por verificar.
 
 ## Seis respuestas a la misma pregunta
 
@@ -144,6 +153,13 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     constatan que la coproducción no existe en el nivel central chileno. Ver
     [[coproduccion-de-seguridad]].
 
+**La que abre Valdivia-Peralta y otros**
+
+20. **¿Violencia de género o violencia mutua?** La revisión encuadra la violencia en el
+    noviazgo como violencia de género, y varios de los estudios que compila miden tasas de
+    victimización iguales o mayores en hombres. No lo discute; los femicidios que cita sí
+    son asimétricos. Ver [[violencia-en-el-noviazgo]].
+
 **La que más va a pesar en el trabajo evaluado de S1.1.**
 [[onu-habitat-guia-barrios]] incorpora la teoría de las ventanas rotas dentro de su
 [[tipologia-barrial]], y [[sampson-vecindario-y-comunidad]] la declara espuria.
@@ -151,7 +167,7 @@ Weisburd y otros declaran la evidencia mixta. La versión de 2010 fundaba la mis
 en el control visual. Lo discutible es la justificación añadida en 2020, más que el
 inventario. Ver [[ventanas-rotas]].
 
-**Tres convergencias, que valen tanto como las tensiones.**
+**Cuatro convergencias, que valen tanto como las tensiones.**
 
 - **La mano dura.** Sampson desde la tolerancia cero, Albarracín desde la literatura
   latinoamericana y el libro de 2021 desde la prevención llegan a lo mismo: la
@@ -165,6 +181,10 @@ inventario. Ver [[ventanas-rotas]].
 - **La amenaza.** Gardner desde la filosofía del derecho y Wikström desde la
   criminología coinciden en que la amenaza no opera sobre quien ya tiene resuelta la
   cuestión. Ver [[autocontrol-y-disuasion]].
+- **La evaluación.** Tudela desde la prevención del delito y Valdivia-Peralta y otros desde
+  la violencia en el noviazgo llegan al mismo diagnóstico: en Chile los programas y las
+  campañas no se evalúan, y la evidencia viene de países de altos ingresos. Ver
+  [[evaluacion-de-programas]].
 
 ## Lo que ya puede hacer, y antes no
 
@@ -183,6 +203,9 @@ inventario. Ver [[ventanas-rotas]].
 - **Contar la historia policial chilena.** [[policia-comunitaria]] y
   [[legitimidad-policial]]: por qué Carabineros no habla de policía comunitaria, qué
   fue el Plan Cuadrante y por qué los propios autores lo dan por fallido.
+- **Leer una cifra de prevalencia.** [[violencia-en-el-noviazgo]] muestra cuánto
+  cambia según se pregunte por la etiqueta o por la conducta, la muestra y la ventana de
+  tiempo.
 - **Discutir la escala.** [[analisis-espacial-del-delito]].
 - **Evaluar una intervención focalizada.** [[policia-de-puntos-calientes]] y
   [[desplazamiento-y-difusion]].
@@ -197,7 +220,7 @@ cosas.
 
 El trabajo recae sobre una política municipal o un proyecto de seguridad identificable
 —la misma exigencia de anclaje del [[trabajo-de-grado-profesionalizante]] un semestre
-antes. Las fuentes dan, juntas, doce preguntas que un diagnóstico serio debería poder
+antes. Las fuentes dan, juntas, trece preguntas que un diagnóstico serio debería poder
 responder sobre cualquier intervención. Las formula esta wiki:
 
 - ¿Funciona por el territorio o por quién usa el territorio?
@@ -215,6 +238,8 @@ responder sobre cualquier intervención. Las formula esta wiki:
 - ¿Quién escribe el relato del éxito: la institución que lo ejecuta o un tercero?
 - ¿La coordina el municipio, o le llega definida desde el centro?
 - ¿Qué entiende por prevención cada actor que participa en ella?
+- ¿La cifra que la justifica se obtuvo preguntando por la etiqueta o por conductas
+  concretas, y con qué muestra?
 
 La primera política municipal chilena documentada en la wiki es la de Peñalolén. Vive
 en la ficha y en [[revision]], a la espera de una fuente que no sea su propia
@@ -227,24 +252,26 @@ dirección. Elegirla o no es decisión del autor.
   de Santiago. Varios de sus autores escriben sobre instituciones propias, y ninguna de
   esas descripciones es una evaluación. Sigue sin saberse si la ley de concentración
   vale aquí. Ver [[revision]]. `caso-de-grado` sigue vacío.
-- **Registrar el otro lado.** Ocho páginas en borrador: [[ventanas-rotas]],
+- **Registrar el otro lado.** Nueve páginas en borrador: [[ventanas-rotas]],
   [[policia-comunitaria]], [[legitimidad-policial]], [[debilidad-estatal]],
-  [[desorganizacion-social]], [[policia-de-puntos-calientes]], [[moralismo-legal]] y
-  [[criminologia-del-curso-de-vida]].
+  [[desorganizacion-social]], [[policia-de-puntos-calientes]], [[moralismo-legal]],
+  [[criminologia-del-curso-de-vida]] y [[violencia-en-el-noviazgo]].
 - **Hablar de las teorías de la oportunidad desde sus autores.** Clarke (1997) y Felson
   y Eckert (2016) entran en la tanda 4.
 - **Hablar del curso de vida y del autocontrol desde sus autores.** Blanco (2011) en la
   tanda 3; Gottfredson y Hirschi (1990) en la tanda 4.
 - **Hablar de criminalización desde sus autores.** Baratta (2004) en la tanda 3;
   Ferrajoli en la tanda 6.
-- **Contrastar métodos.** `wiki/methodology/` tiene tres páginas. De las metodológicas
-  de S1.2 sólo entró el capítulo de Tudela sobre evaluación.
+- **Contrastar métodos.** `wiki/methodology/` tiene tres páginas. De S1.2 entraron el
+  capítulo de Tudela sobre evaluación y la revisión de Valdivia-Peralta y otros. La
+  medición de la victimización espera al informe del INE (2023), en la tanda 2.
 - **Clasificar grupos criminales.** No hay `subtipo` de `entity` donde quepan el PCC o
   las milícias. Material de la operación 8.
 
 ## Orden de ingesta
 
 Hasta el 27-11-2026 manda el **orden por calendario** fijado en [[purpose]]: seis
-tandas, cada una cerrada antes de la clase que la usa. La tanda 1 sigue con **Valdivia y
-otros (2019)**, y Tudela (2015) si alcanza. Después vuelve el orden por cúmulos.
+tandas, cada una cerrada antes de la clase que la usa. De la tanda 1 queda sólo Tudela
+(2015), si alcanza antes del 02-10; la tanda 2 se cierra el 10-10. Después de la sexta
+vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.

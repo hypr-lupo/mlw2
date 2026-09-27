@@ -251,6 +251,13 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       Criterio: crearla con Baratta (2004), caps. I-II, IV, VII y VIII, que entra en la
       tanda 3, y sumar a Zúñiga como segunda voz. Hacerla nacer desde un proyecto de tesis
       inédito fijaría el encuadre desde la fuente más débil del cúmulo.
+      **Enmienda 27-09-2026** (ingesta de [[valdivia-violencia-en-el-noviazgo]]): entra una
+      voz que **defiende** una de las funciones que la página tendrá que discutir. Los
+      autores piden tipificar la violencia en el noviazgo, responsabilidad forzosa del
+      agresor y tolerancia cero, en parte para cambiar la definición cultural de esa
+      violencia (pp. 16 y 20). Es la función simbólica del derecho penal, defendida desde la
+      salud pública y la perspectiva de género, no desde la política criminal. La página
+      tendrá que registrar esa posición como una voz propia, junto a lo que traiga Baratta.
 
 - [ ] **[fuente]** Año y autoría de la *Guía para la prevención en barrios* — tres
       fechas y ninguna coincide. Los créditos de [[vanderschueren-guia-prevencion-barrios]]
@@ -350,6 +357,38 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       cambia `schema.md` y el validador. Es material de la operación 8. Importa porque
       vendrán más obras colectivas: Tudela (ed.) (2010), Srur (ed.) (2014) y Minayo y
       otros (2023) están en las tandas próximas.
+
+- [ ] **[método]** «Medición de la victimización» — [[valdivia-violencia-en-el-noviazgo]]
+      muestra con datos chilenos que la prevalencia depende de cómo se pregunta: con la
+      etiqueta, «¿ha vivido violencia?», las cifras son bajas; con conductas concretas, se
+      multiplican. En la encuesta del Injuv de 2012, la violencia física pasa del 7 % al
+      12,3 %. Suma el instrumento, la muestra y la ventana de tiempo. Hoy vive dentro de
+      [[violencia-en-el-noviazgo]].
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-27
+      Criterio: crearla con el informe metodológico del INE (2023) sobre la medición de
+      victimización y percepción de inseguridad, en la tanda 2, que es la obra dedicada
+      al asunto. Esta revisión entra como segunda voz, desde otro tipo de violencia.
+      Escribirla ahora sería escribirla desde el ejemplo y no desde el método.
+
+- [ ] **[fuente]** Estado legal de la violencia en el pololeo después de 2019 —
+      [[valdivia-violencia-en-el-noviazgo]] describe una ley de femicidio que excluye a las
+      parejas que nunca convivieron, y un proyecto de ley en trámite en 2018. Es la causa
+      de invisibilidad que el artículo documenta mejor, y está fechada.
+      Acción propuesta: `investigar` · Origen: ingesta 2026-09-27
+      Criterio: buscar primero en el corpus. Hoy nada lo dice; las candidatas son el
+      Decreto 96 de la PNSP, en la tanda 5, y lo que llegue para S3.3. Si hace falta
+      buscar fuera, la página va a `wiki/synthesis/` con `procedencia: mixta`. Mientras
+      tanto, [[violencia-en-el-noviazgo]] advierte que la sección legal describe 2018-2019.
+      **Enmienda 27-09-2026 — resuelto en parte.** El autor sumó al corpus la
+      [[ley-21675-violencia-de-genero]], de 2024, en su texto consolidado al 22-07-2026. Su
+      art. 54 N°5 reforma la Ley 20.066: desde entonces es violencia intrafamiliar el
+      maltrato contra una pareja sentimental o sexual sin convivencia. Esa mitad del
+      problema queda corregida en [[violencia-en-el-noviazgo]], con la versión de 2019
+      marcada como superada. La otra mitad sigue abierta: el tipo penal de femicidio. La
+      Ley 21.675 menciona el femicidio y el suicidio femicida sin definirlos ni reformarlos
+      (arts. 37 y 56). Consulta sugerida: Código Penal, art. 390 bis y siguientes, en la
+      BCN —si el femicidio cubre hoy a la pareja sin convivencia y desde qué ley—. Basta
+      con sumar esa norma al corpus, como se hizo con ésta.
 
 ## Resueltos
 

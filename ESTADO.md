@@ -4,16 +4,16 @@
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 110 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 111 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 100 | 90.9 % |
+| `pendiente` | 99 | 89.2 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 10 | 9.1 % |
+| `completo` | 12 | 10.8 % |
 
 ## Por cumulo
 
@@ -24,8 +24,8 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Explicación del delito | 4 | 4 | 0 | 0 | 0 |
 | Gobernanza criminal y territorio | 6 | 5 | 0 | 0 | 1 |
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
-| Institucionalidad y política de prevención en Chile | 5 | 5 | 0 | 0 | 0 |
-| Integrados desde el programa del curso (05-09-2026) | 9 | 8 | 0 | 0 | 1 |
+| Institucionalidad y política de prevención en Chile | 6 | 5 | 0 | 0 | 1 |
+| Integrados desde el programa del curso (05-09-2026) | 9 | 7 | 0 | 0 | 2 |
 | Medición e inseguridad | 6 | 6 | 0 | 0 | 0 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
 | Prevención e intervención | 4 | 3 | 0 | 0 | 1 |
@@ -129,6 +129,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 ### Institucionalidad y política de prevención en Chile
 
 - `pendiente` — 2023 - Luneke y Trebilcock - Prevención del delito, la construcción de la seguridad ciudadana y los cambios en la política criminal en Chile, 1990-2017.pdf
+- `completo` — 2024 - Ministerio de la Mujer y la Equidad de Género - Ley 21.675, estatuye medidas para prevenir, sancionar y erradicar la violencia en contra de las mujeres en razón de su género.pdf
 - `pendiente` — 2025 - Ministerio del Interior y Seguridad Pública - Ley 21.730, crea el Ministerio de Seguridad Pública.pdf
 - `pendiente` — 2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf
 - `pendiente` — 2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf
@@ -140,7 +141,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf
 - `pendiente` — 2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf
 - `pendiente` — 2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf
-- `pendiente` — 2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf
+- `completo` — 2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf
 - `completo` — 2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf
 - `pendiente` — 2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf
 - `pendiente` — 2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf

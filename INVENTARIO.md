@@ -1,6 +1,6 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 26-09-2026 · **Total:** 116 documentos · **686 MB**
+**Fecha:** 27-09-2026 · **Total:** 117 documentos · **686 MB**
 
 > **Nomenclatura normalizada el 12-09-2026.** Los 114 documentos siguen ya el
 > patrón `año - autor - título`; no queda ninguno fuera de convención. Sin año
@@ -162,7 +162,7 @@ Alimenta: S1.1, S2.3, S3.1.
 | 2015 - Vanderschueren - Guía para la prevención en barrios.pdf | 2.8 | `06b1d0fa4eea` |
 | 2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf | 11.9 | `5c580cd0b7ff` |
 
-## Institucionalidad y política de prevención en Chile · 5 doc.
+## Institucionalidad y política de prevención en Chile · 6 doc.
 
 
 Alimenta: S1.1 (clase 0, Leitao) y S2.3. Ingresaron el 26-09-2026 como la bibliografía
@@ -181,11 +181,20 @@ de publicación en el Diario Oficial.
   una fuente de gobierno, no académica: registra el anuncio, no sus resultados. La fecha
   de publicación figura en el cuerpo del texto; el campo `published` del recorte quedó
   vacío.
+- **Ley 21.675**: se sumó el 27-09-2026 por decisión del autor, y no viene de la
+  presentación de Leitao. Actualiza el estado legal que describe Valdivia-Peralta y otros
+  (2019), lectura de la clase 4 de S1.2. Promulgada el 03-06-2024 y publicada el
+  14-06-2024. Es el texto consolidado de la BCN, con la última modificación de la Ley
+  21.829 del 22-07-2026, generado el 27-09-2026. Llegó como `Ley-21675_14-JUN-2024.pdf` y
+  se renombró a la convención sin tocar el contenido. Estatuye medidas contra la violencia
+  hacia las mujeres en razón de su género; no es una norma de seguridad pública, aunque
+  obliga a las policías y al Ministerio del Interior.
 
 
 | Documento | MB | MD5 |
 |---|---:|---|
 | 2023 - Luneke y Trebilcock - Prevención del delito, la construcción de la seguridad ciudadana y los cambios en la política criminal en Chile, 1990-2017.pdf | 0.3 | `fc0823159263` |
+| 2024 - Ministerio de la Mujer y la Equidad de Género - Ley 21.675, estatuye medidas para prevenir, sancionar y erradicar la violencia en contra de las mujeres en razón de su género.pdf | 0.2 | `525120bde6d8` |
 | 2025 - Ministerio del Interior y Seguridad Pública - Ley 21.730, crea el Ministerio de Seguridad Pública.pdf | 0.1 | `2c2c9d2625e7` |
 | 2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf | 0.3 | `2037255cc177` |
 | 2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf | 0.1 | `5c546f131941` |

@@ -66,6 +66,18 @@
       "bytes": 2013764,
       "ingerido": "2026-09-26",
       "ficha": "wiki/sources/vanderschueren-prevencion-del-delito.md"
+    },
+    "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf": {
+      "sha256": "2decf8d7189ceb11a6606bcff1be3e8cf172bbaa2d530640e12e14a6ab5a2969",
+      "bytes": 335519,
+      "ingerido": "2026-09-27",
+      "ficha": "wiki/sources/valdivia-violencia-en-el-noviazgo.md"
+    },
+    "2024 - Ministerio de la Mujer y la Equidad de Género - Ley 21.675, estatuye medidas para prevenir, sancionar y erradicar la violencia en contra de las mujeres en razón de su género.pdf": {
+      "sha256": "c4898074bd00711a4ee0daaf20389a3f6cf5fe9a51828052da9ffc37541c4c0f",
+      "bytes": 156586,
+      "ingerido": "2026-09-27",
+      "ficha": "wiki/sources/ley-21675-violencia-de-genero.md"
     }
   }
 }

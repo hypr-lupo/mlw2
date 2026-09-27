@@ -1,13 +1,13 @@
 ---
 title: Evaluación de programas de prevención
 type: method
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1, s1-2]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-09-27
 ---
 
 # Evaluación de programas de prevención
@@ -85,6 +85,15 @@ En este último punto hace una afirmación que conviene retener. Se ha puesto el
 - **El tiempo.** La guía de barrios de 2010 sostiene que una evaluación antes de cuatro o cinco años no puede mostrar resultados de inclusión, y que abandonar tras una evaluación temprana produce un retroceso difícil de revertir [^ext-19]. El cap. I agrega que el peor obstáculo de la prevención es la discontinuidad [^ext-20].
 - **El barrio no es un laboratorio.** La misma guía defiende no controlar variables como en un experimento, y advierte que el análisis costo-beneficio podría mostrar que vender droga rinde más que emplearse [^ext-21].
 
+## Lo mismo, desde otro campo
+
+Añadido el 27-09-2026 al ingerir [[valdivia-violencia-en-el-noviazgo]], una revisión sobre violencia en el noviazgo sin relación con el libro de Tudela. Llega al mismo diagnóstico por su cuenta:
+
+- **En Chile no se evalúa.** Las campañas contra la violencia en el pololeo del Sernam, en 2014, y del Ministerio del Interior con la PDI, en 2017, no se evaluaron, y se desconoce su impacto [^ext-25].
+- **La evidencia viene de fuera.** De trece programas de prevención que cumplieron el criterio de una revisión internacional, sólo tres eran iberoamericanos, y la mayoría de los estudios proviene de países de altos ingresos [^ext-26].
+
+Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los estados con políticas más estrictas tienen menor prevalencia de violencia en parejas adolescentes (Hoefer y otros, 2015) [^ext-27]. La revisión la presenta como una asociación, junto a otras dos: el ingreso medio y el partido que gobierna. No es, en lo que reporta, el efecto medido de una política [^inf-3]. Ver [[violencia-en-el-noviazgo]].
+
 ## Dos ideas de evidencia
 
 > [!warning] La tensión que esta página no resuelve
@@ -111,6 +120,7 @@ En este último punto hace una afirmación que conviene retener. Se ha puesto el
 - [[diagnostico-barrial]] — la guía de 2010 le exige antecedentes comparables en el tiempo, que son los que después permiten evaluar
 - [[tipologia-barrial]] — la heterogeneidad del efecto según el tipo de barrio
 - [[policia-comunitaria]] — las evaluaciones del Plan Cuadrante
+- [[valdivia-violencia-en-el-noviazgo]] — el mismo diagnóstico, desde la violencia en el noviazgo
 - [[weisburd-el-lugar-importa]] — el estándar experimental
 
 **Por confrontar.** Las metodológicas de S1.2 en la tanda 2 —Batthyány y Cabrera (2011), CIPC (2015)— y el Tudela (2015) de la tanda 1.
@@ -141,5 +151,9 @@ En este último punto hace una afirmación que conviene retener. Se ha puesto el
 [^ext-22]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, p. 388.
 [^ext-23]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VII, pp. 172-173.
 [^ext-24]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. V, pp. 132-133, sobre Fundación Paz Ciudadana (2012) y Dipres (2014); y cap. VI, p. 154.
+[^ext-25]: **Extraído** — [[valdivia-violencia-en-el-noviazgo]], p. 16.
+[^ext-26]: **Extraído** — [[valdivia-violencia-en-el-noviazgo]], pp. 15-16, sobre Martínez y Rey (2014) y Lundgren y Amin (2015).
+[^ext-27]: **Extraído** — [[valdivia-violencia-en-el-noviazgo]], p. 15, sobre Hoefer, Black y Ricard (2015).
 [^inf-1]: **Inferido** (confianza 0.7) — lectura propia al comparar las tres fuentes. Ninguna discute a las otras. Tudela no cita a Weisburd ni a la guía.
 [^inf-2]: **Inferido** (confianza 0.7) — contraste entre las conclusiones, el cap. VII y el estándar del cap. II, nota 3. No es un juicio sobre la política, sino sobre lo que el libro demuestra de ella.
+[^inf-3]: **Inferido** (confianza 0.7) — la revisión da el hallazgo por comprobado sin discutir si es causal. El estudio de Hoefer y otros no está en el corpus.

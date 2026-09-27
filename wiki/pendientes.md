@@ -8,8 +8,8 @@ sources: []
 
 Artefacto operativo para retomar. Se actualiza al cerrar sesión.
 
-**Estado al 26-09-2026.** Núcleo ancla S1.1 **completo** y tanda 1 del orden por
-calendario en curso. 11 fuentes de 116 documentos, 46 páginas, **siete de ocho
+**Estado al 27-09-2026.** Núcleo ancla S1.1 **completo** y tanda 1 del orden por
+calendario en curso. 13 fuentes de 117 documentos, 49 páginas, **siete de ocho
 clústeres poblados**: sólo queda vacío `caso-de-grado`. Cobertura de S1.1: 17 de 32
 títulos oficiales, 53 %. La cobertura cuenta presencia en el corpus, no ingesta, así que
 ninguna de las ingestas de hoy la mueve.
@@ -46,6 +46,17 @@ quince capítulos. Deja una ficha, cuatro páginas nuevas —[[prevencion-del-de
 chileno de primera mano sobre Carabineros, el Plan Cuadrante, Peñalolén y el temor en
 Maipú. Lo que sigue en la tanda es Valdivia y otros (2019).
 
+**Cuarta ingesta de la tanda 1, el 27-09-2026.** Entró Valdivia-Peralta y otros (2019),
+sobre violencia en el noviazgo en Chile: obligatoria de la clase 4 de S1.2. Deja una ficha,
+una página nueva —[[violencia-en-el-noviazgo]]— y una actualizada. Es una revisión
+narrativa; lo más útil que trae es metodológico. Lo que queda de la tanda es Tudela (2015),
+si alcanza antes del 02-10.
+
+**Y una norma, fuera de orden, por decisión del autor.** Entró la Ley 21.675 (2024), que
+incorpora el pololeo a la violencia intrafamiliar y corrige en parte lo que describía
+Valdivia-Peralta y otros. Deja una ficha y dos páginas actualizadas. El femicidio sigue sin
+verificar: ver [[revision]].
+
 ## Lo que bloquea
 
 *Nada. Las dos decisiones que bloqueaban el 12-09-2026 se resolvieron el 13-09-2026 y
@@ -75,7 +86,7 @@ Queda esto en manos del autor, y **no bloquea la ingesta**:
 
 ## Fuentes por ingerir
 
-Al 26-09-2026 quedan 100 pendientes de un universo de 110: los 116 archivos del
+Al 27-09-2026 quedan 99 pendientes de un universo de 111: los 117 archivos del
 corpus menos los 6 programas oficiales. Diez de ellos están en cuarentena sin plazo. El
 orden está fijado en [[purpose]]; el detalle documento por documento lo da `python
 scripts/estado.py`.
@@ -85,8 +96,8 @@ scripts/estado.py`.
 
 - [ ] **Tanda 1, antes del 02-10:** ~~Weisburd y otros (2016)~~, ingerida el 26-09 ·
       ~~Vanderschueren (2015), guía de barrios~~, ingerida el 26-09 · ~~Vanderschueren,
-      Díaz y Guajardo (2021)~~, ingerida el 26-09 · Valdivia y otros (2019) · *si
-      alcanza:* Tudela (2015)
+      Díaz y Guajardo (2021)~~, ingerida el 26-09 · ~~Valdivia y otros (2019)~~,
+      ingerida el 27-09 · *si alcanza:* Tudela (2015)
 - [ ] **Tanda 2, antes del 10-10:** Batthyány y Cabrera · Vives Varela y Hamui Sutton ·
       INE (2023) · Srur, pp. 26-45 · Tudela (ed.) (2010), capítulo de Boba · CIPC (2015)
 - [ ] **Tanda 3, antes del 16-10:** Baratta (2004), caps. I-II, IV, VII y VIII ·
@@ -122,8 +133,9 @@ Después de la tanda 6 vuelve el orden por cúmulos:
       26-09-2026 y de ahí nació [[puntos-calientes]]
 - [ ] Sistema penal y Estado de derecho — 7 restantes. Contiene P1 de S1.3. Zúñiga
       Núñez (2013) entró y se ingirió el 26-09-2026, fuera de orden
-- [ ] Integrados desde el programa del curso — 8 restantes. Contiene P1 de S1.2.
-      Vanderschueren, Díaz y Guajardo (2021) entró el 26-09-2026
+- [ ] Integrados desde el programa del curso — 7 restantes. Contiene P1 de S1.2.
+      Vanderschueren, Díaz y Guajardo (2021) entró el 26-09-2026 y Valdivia y otros
+      (2019), el 27-09-2026
 - [ ] Vínculo Estado-crimen — 18. Material de reserva del electivo S3.E4, y donde vive
       la discusión clásica que hoy le falta a [[debilidad-estatal]]
 - [ ] Amenaza y securitización — 24. Material de reserva del electivo S3.E4
@@ -131,7 +143,7 @@ Después de la tanda 6 vuelve el orden por cúmulos:
 
 ## Páginas borrador
 
-Ocho. Cuatro por la misma razón: registran una sola posición sobre un asunto que
+Nueve. Cuatro por la misma razón: registran una sola posición sobre un asunto que
 tiene otra. [[ventanas-rotas]] ya tiene tres, pero sigue en borrador: son una
 refutación, un uso y un balance de evidencia; ninguna es la defensa de sus autores.
 
@@ -156,6 +168,9 @@ refutación, un uso y un balance de evidencia; ninguna es la defensa de sus auto
 - [ ] [[criminologia-del-curso-de-vida]] — la reseña de un capítulo, sin ninguno de los
       autores del enfoque en el corpus. Se contrasta con Blanco (2011), tanda 3, y con
       Gottfredson y Hirschi (1990), tanda 4
+- [ ] [[violencia-en-el-noviazgo]] — una revisión narrativa, con inconsistencias entre
+      texto y tablas y un marco de género que sus propios datos no discuten. Falta una
+      fuente de violencia de género, que llegará con S3.3
 
 ## Contradicciones sin resolver
 
@@ -227,10 +242,13 @@ refutación, un uso y un balance de evidencia; ninguna es la defensa de sus auto
       posiciones. En [[prevencion-del-delito]]
 - [ ] **¿Coproducir es prevenir?** Tudela frente a Peñalolén, y la coproducción
       ausente en el nivel central. En [[coproduccion-de-seguridad]]
+- [ ] **¿Violencia de género o violencia mutua?** Valdivia-Peralta y otros encuadran la
+      violencia en el noviazgo como violencia de género, y varios de los estudios que
+      compilan miden tasas iguales o mayores en hombres. En [[violencia-en-el-noviazgo]]
 
 ## Ítems de revisión abiertos
 
-- [ ] 24 abiertos en [[revision]]. **Ninguno bloquea.** La ingesta de Weisburd
+- [ ] 26 abiertos en [[revision]]. **Ninguno bloquea.** La ingesta de Weisburd
       resolvió dos —puntos calientes y desorganización social—, enmendó el de control
       social informal y abrió dos: la página de teorías de la oportunidad, que espera a
       la tanda 4, y si la ley de concentración vale en una comuna chilena. La de Zúñiga
@@ -247,7 +265,9 @@ refutación, un uso y un balance de evidencia; ninguna es la defensa de sus auto
       cómo tratar las obras colectivas en el modelo de relevancia— y
       enmendó cinco: la página de Franz Vanderschueren, el control social informal, que
       ahora tiene tres sentidos, el año de Adams, el de la guía de barrios y Quiero mi
-      Barrio.
+      Barrio. La de Valdivia-Peralta y otros abrió dos —la página de medición de la
+      victimización, que espera al INE (2023), y el estado legal de la violencia en el
+      pololeo después de 2019— y enmendó el de criminalización.
 
 ## Preguntas abiertas
 

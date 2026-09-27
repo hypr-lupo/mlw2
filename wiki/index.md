@@ -9,7 +9,7 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 46 páginas · 11 fuentes ingeridas de 116 · **núcleo ancla S1.1 completo** ·
+**Estado:** 49 páginas · 13 fuentes ingeridas de 117 · **núcleo ancla S1.1 completo** ·
 tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados · ver
 [[pendientes]] y `ESTADO.md`.
 
@@ -93,6 +93,9 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
 - [[violencia-cronica]] — condición y no episodio, medible en intensidad, espacio y
   tiempo; el nombre nuevo de una categoría barrial que ya existía; y México como caso
   (4 fuentes)
+- [[violencia-en-el-noviazgo]] — violencia en parejas jóvenes sin convivencia; por qué
+  es invisible en Chile, por qué la cifra depende de la pregunta, y la ley que deja
+  fuera el pololeo, y lo que corrigió la Ley 21.675. Borrador (2 fuentes)
 - [[zona-gris]] — por qué bajo terror crónico casi todos se comportan mal, y por qué
   eso no resulta evidente desde fuera (1 fuente)
 
@@ -110,8 +113,8 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
   diagnóstico participativo en el barrio vulnerado y de expertos en el crítico
   (3 fuentes)
 - [[evaluacion-de-programas]] — no basta saber qué funciona, sino por qué; evidencia,
-  implementación y fidelidad; y tres ideas de evidencia que la wiki no reconcilia
-  (2 fuentes)
+  implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; y el
+  mismo diagnóstico desde la violencia en el noviazgo (3 fuentes)
 
 ## Fuentes
 
@@ -122,6 +125,9 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
 - [[gardner-prohibir-inmoralidades]] — Gardner, 2007. Filosofía del derecho penal:
   comentario a Fletcher. Versión de autor que pide citar la de la revista. Fuera del
   orden por calendario
+- [[ley-21675-violencia-de-genero]] — Ley 21.675, 2024, en su texto vigente al
+  22-07-2026. Primera norma de la wiki. Incorpora el pololeo a la violencia
+  intrafamiliar; no toca el femicidio. Fuera del orden por calendario
 - [[onu-habitat-guia-barrios]] — ONU-Hábitat y Guadalajara, 2020. Consulta de S1.1 y
   la obra que operacionaliza su trabajo evaluado. Coescrita por el docente del ramo.
   Reedita, sin citarla, la guía de hacia 2010
@@ -129,6 +135,9 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
   institucional del programa
 - [[sampson-vecindario-y-comunidad]] — Sampson, 2006. Obligatoria de S1.1,
   módulo 3. Primera del núcleo ancla
+- [[valdivia-violencia-en-el-noviazgo]] — Valdivia-Peralta y otros, 2019. Obligatoria
+  de la clase 4 de S1.2. Revisión narrativa de prevalencias, no investigación primaria;
+  la cifra de su resumen viene de muestras de universitarios. Cuarta de la tanda 1
 - [[vanderschueren-guia-prevencion-barrios]] — Vanderschueren y otros, hacia 2010; el
   corpus dice 2015. No es bibliografía oficial. Versión anterior, no citada, de la guía
   de ONU-Hábitat (2020). Segunda de la tanda 1 y primera fuente con casos chilenos

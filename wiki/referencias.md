@@ -34,6 +34,14 @@ corpus tiene la versión de autor, que pide no citar desde ella; falta el rango 
 páginas de la revista · obra en inglés sin traducción · comentario a Fletcher, *The
 Grammar of Criminal Law*, citado como inédito
 
+Ley 21.675. (2024). *Estatuye medidas para prevenir, sancionar y erradicar la violencia
+en contra de las mujeres, en razón de su género*. Diario Oficial de la República de
+Chile, 14 de junio de 2024. Texto consolidado de la Biblioteca del Congreso Nacional,
+versión del 22 de julio de 2026. https://bcn.cl/qKZ4K8
+→ [[ley-21675-violencia-de-genero]] · verificada contra el encabezado de la BCN ·
+**norma vigente con modificaciones**: se cita la versión consolidada y su fecha, no sólo
+el texto de 2024
+
 ONU-Hábitat y Gobierno Municipal de Guadalajara. (2020). *Guía en seguridad y
 prevención de barrios: implementando los lineamientos del sistema de Naciones Unidas
 de Ciudades más Seguras*. Programa de las Naciones Unidas para los Asentamientos
@@ -50,6 +58,16 @@ pp. 235-247). Fundación Democracia y Gobierno Local. (Obra original publicada e
 Universidad Alberto Hurtado. (2026). *Magíster en Prevención, Seguridad Urbana y
 Política Criminal* [Folleto del programa]. Facultad de Ciencias Sociales.
 → [[programa-magister-uah]] · verificación bibliográfica pendiente
+
+Valdivia-Peralta, M., Fonseca-Pedrero, E., González Bravo, L., y Paino, M. (2019).
+Invisibilización de la violencia en el noviazgo en Chile: evidencia desde la investigación
+empírica. *Perfiles Latinoamericanos, 27*(54), 1-31.
+https://doi.org/10.18504/pl2754-012-2019
+→ [[valdivia-violencia-en-el-noviazgo]] · verificada contra la portada y contra
+`programa/S1.2`, que abrevia los apellidos compuestos · el DOI aparece sin el cero en los
+pies de página; la portada y la presentación de la clase 3 lo dan con él · **revisión
+narrativa**: sus cifras vienen de estudios ajenos, y texto y tablas no siempre coinciden;
+se cita el estudio original cuando se usa una cifra
 
 Vanderschueren, F., Díaz, G., y Guajardo, C. (Eds.). (2021). *Prevención del delito y
 la violencia: reflexiones desde la academia y los territorios*. Ediciones Universidad

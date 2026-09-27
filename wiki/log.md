@@ -8,6 +8,77 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-09-27] ingesta | Ley 21.675 (2024), violencia contra las mujeres en razón de su género
+
+**Fuera del orden por calendario, por decisión del autor. Primera norma de la wiki; corrige
+en parte el estado legal que describía Valdivia-Peralta y otros (2019).**
+
+- Corpus: el archivo llegó como `Ley-21675_14-JUN-2024.pdf`. Se verificó que no duplica
+  ningún documento y se renombró a la convención de las normas del inventario, sin tocar el
+  contenido. Entra al cúmulo `Institucionalidad y política de prevención en Chile`, con una
+  nota de que no viene de la presentación de Leitao. `INVENTARIO.md` y el disco coinciden:
+  117 documentos.
+- Ficha creada: [[ley-21675-violencia-de-genero]]. Texto consolidado de la BCN al
+  22-07-2026, con una modificación de la Ley 21.829. `vigencia: vigente`.
+- Páginas actualizadas (2): [[violencia-en-el-noviazgo]] —la sección legal se divide en lo
+  que describía la revisión y lo que cambió; lo corregido queda marcado como superado, no
+  borrado— y [[valdivia-violencia-en-el-noviazgo]] —la nota sobre el estado legal—. Más
+  [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Qué corrige: la Ley 20.066 considera ahora violencia intrafamiliar el maltrato contra una
+  pareja sin convivencia; se presume riesgo inminente cuando el agresor se opone con
+  violencia al fin de la relación; no hay mediación en violencia de pareja con o sin
+  convivencia.
+- Qué no corrige: el tipo penal de femicidio. La ley lo menciona sin definirlo ni
+  reformarlo.
+- En revisión: el ítem sobre el estado legal queda resuelto en parte y abierto sólo para el
+  femicidio. La cola sigue en 26 abiertos.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-09-27-ley-21675-violencia-de-genero.md`.
+- Notas: la ley superpone dos marcos, porque la reforma a la violencia intrafamiliar protege
+  a cualquier persona y el resto de la ley a las mujeres en razón de su género. Y define la
+  violencia psicológica por conductas, las mismas que en las encuestas hacen subir la cifra.
+  Toca tres páginas de contenido, ficha incluida.
+
+## [2026-09-27] ingesta | Valdivia-Peralta y otros (2019), violencia en el noviazgo
+
+**Cuarta ingesta de la tanda 1. Primera fuente de la wiki sobre violencia de pareja, y la
+primera obligatoria de S1.2.**
+
+- Ficha creada: [[valdivia-violencia-en-el-noviazgo]]. Artículo de *Perfiles
+  Latinoamericanos*, 2019. Es una revisión narrativa de estudios de prevalencia, no
+  investigación primaria.
+- Páginas creadas (1): [[violencia-en-el-noviazgo]] —por qué es invisible en Chile, por qué
+  la cifra depende de la pregunta, la ley que deja fuera el pololeo y lo que propone la
+  revisión—. En borrador: una sola fuente, con inconsistencias entre texto y tablas.
+- Páginas actualizadas (1): [[evaluacion-de-programas]] —el mismo diagnóstico desde otro
+  campo: campañas chilenas sin evaluar y evidencia de países de altos ingresos—. Más
+  [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: 2, más 1 convergencia y 7 ambigüedades internas.
+  · **La cifra del resumen no es la del país.** El 51 % y el 25 % vienen de muestras no
+    aleatorias de universitarios; la serie representativa del Injuv da mucho menos. En la
+    ficha y en [[violencia-en-el-noviazgo]].
+  · **¿Violencia de género o violencia mutua?** El artículo encuadra el problema como
+    violencia de género, y varios de los estudios que compila miden tasas iguales o
+    mayores en hombres. No lo discute. En los mismos lugares.
+  · **Convergencia** con Tudela sobre programas sin evaluar. En [[evaluacion-de-programas]].
+  · **Ambigüedades:** seis discrepancias entre texto y tablas, y dos formas del DOI.
+- En revisión: dos nuevos —una página de medición de la victimización, que espera al
+  informe del INE (2023) en la tanda 2, y el estado legal de la violencia en el pololeo
+  después de 2019, `investigar`— y una enmienda al ítem de criminalización: una voz que
+  defiende la función simbólica del derecho penal. La cola queda en 26 abiertos.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-09-27-valdivia-violencia-en-el-noviazgo.md`.
+- Notas:
+  · **Toca poco, a propósito.** Tres páginas de contenido, ficha incluida. La fuente abre un
+    tema que la wiki no tenía, y enlazarla a violencia urbana o crimen organizado sería
+    asociación temática. La convergencia con el cap. IV del libro de 2021 sobre salud y
+    educación como plataformas de prevención queda en la fase 1, sin enlace, para no
+    reforzar la fuente dominante.
+  · **Lo más útil es metodológico.** Preguntar por la etiqueta o por conductas concretas
+    cambia la prevalencia varias veces. Es material directo para S1.2.
+  · **Tabla 1.** El promedio latinoamericano de violencia psicológica sufrida coincide
+    exactamente con un solo estudio chileno. Anotado como inferencia en la ficha.
+
 ## [2026-09-26] ingesta | Vanderschueren, Díaz y Guajardo (eds.) (2021), Prevención del delito y la violencia
 
 **Tercera ingesta de la tanda 1. Primera fuente con material chileno de primera mano, y
