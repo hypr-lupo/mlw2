@@ -14,7 +14,7 @@ actualizado: 2026-09-26
 
 Levantamiento de información sobre la vida de un barrio y los factores que inciden en ella, como paso previo obligado de cualquier política de prevención. Es la segunda fase del ciclo que propone [[onu-habitat-guia-barrios]], después del inicio y antes del diseño [^ext-1].
 
-**Primera página de `wiki/methodology/`.** Hasta ahora la wiki tenía teoría y política, y nada sobre cómo se produce la evidencia con la que se decide.
+**Fue la primera página de `wiki/methodology/`**, el 12-09-2026, cuando la wiki tenía teoría y política y nada sobre cómo se produce la evidencia con la que se decide.
 
 ## Las tres decisiones que lo definen
 

@@ -10,6 +10,64 @@ Cola asincrónica de decisiones que corresponden al autor. Existe para no detene
 ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 `fusionar`, `omitir`, `preguntar`.
 
+## Resumen consolidado
+
+Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1. Agrupa los ítems abiertos
+por lo que los destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
+**27 abiertos.**
+
+**A. Sólo esperan una decisión del autor (5).** Se pueden resolver hoy.
+
+| Ítem | Acción | Qué hay que decidir |
+|---|---|---|
+| `[tesis]` Anclaje empírico frente a marco heredado | `crear-pagina` | Si se escribe la primera página `tesis-`, que es posición del autor. El ítem más antiguo de la cola, del 29-08 |
+| `[entidad]` Franz Vanderschueren | `preguntar` | Si merece página. El criterio se cumple desde el 12-09, y hoy lo citan 19 páginas por sus tres obras |
+| `[alcance]` Zúñiga Núñez es teoría del Estado | `preguntar` | Si queda en `sistema-penal`, pasa a una capa propia o se retira |
+| `[esquema]` Los grupos criminales no tienen `subtipo` | `preguntar` | Operación 8, que el esquema difiere a la elección del caso de anclaje |
+| `[esquema]` Las obras colectivas aplanan el modelo de relevancia | `preguntar` | Convivir, excluirlas del cálculo o citar por capítulo |
+
+**B. Esperan una verificación bibliográfica fuera del corpus (7).** Cada ítem trae su
+consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos evaluados.
+
+| Ítem | Qué verificar |
+|---|---|
+| `[fuente]` Año de Sampson | Año del volumen de *Claves del Gobierno Local* n.º 6 |
+| `[fuente]` Fecha de Adams | Año del original y de la traducción; hay indicios de 2011-2012 |
+| `[fuente]` La guía de 2020 es un borrador | Si hay versión final |
+| `[fuente]` Año y autoría de la guía de 2010 | Cuatro fechas: 2010, 2011 (dos veces) y 2015 |
+| `[fuente]` Institución de Zúñiga Núñez | Escuela y versión final del proyecto |
+| `[fuente]` Gardner es versión de autor | Páginas de la *Cardozo Law Review* |
+| `[fuente]` Estado legal del pololeo | Resuelto en parte con la Ley 21.675; falta el tipo penal de femicidio |
+
+**C. Esperan una obra que ya está en el corpus (12).** Se resuelven solos si el orden de
+ingesta se cumple.
+
+| Ítem | Acción | Obra que lo destraba | Tanda |
+|---|---|---|---|
+| `[método]` PADS+ | `crear-pagina` | Batthyány y Cabrera (2011) | 2 |
+| `[método]` Medición de la victimización | `crear-pagina` | INE (2023) | 2 |
+| `[entidad]` Política de seguridad de Peñalolén | `crear-pagina` | CIPC (2015), si la incluye | 2 |
+| `[investigar]` Ley de concentración en una comuna chilena | `investigar` | Metodológicas de la tanda 2; después, las normas de la tanda 5 | 2 y 5 |
+| `[concepto]` Criminalización y selectividad penal | `crear-pagina` | Baratta (2004) | 3 |
+| `[concepto]` Control social informal | `crear-pagina` | Gottfredson y Hirschi (1990) | 4 |
+| `[concepto]` Teorías de la oportunidad | `crear-pagina` | Clarke (1997); Felson y Eckert (2016) | 4 |
+| `[entidad]` Quiero mi Barrio | `crear-pagina` | SPD (2022); Luneke y Trebilcock (2023) | 5 y 6 |
+| `[concepto]` Seguridad ciudadana y seguridad humana | `crear-pagina` | Decreto 96 (PNSP); Luneke y Trebilcock (2023) | 5 y 6 |
+| `[entidad]` Plan Cuadrante, y quizá Carabineros | `crear-pagina` | Luneke y Trebilcock (2023) | 6 |
+| `[concepto]` Principio de daño y Estado de derecho | `crear-pagina` | Ferrajoli (1995) | 6 |
+| `[contradicción]` Legado del conflicto armado | `preguntar` | Dammert (2012), cúmulo `Medición e inseguridad` | después de la 6 |
+
+**D. Esperan una segunda fuente que todavía no se ha identificado (3).**
+
+| Ítem | Dónde podría estar |
+|---|---|
+| `[entidad]` Coalición de Diez Puntos | Nada identificado en el corpus |
+| `[entidad]` Milícias de Rio de Janeiro | Cúmulo `Vínculo Estado-crimen`, reserva del electivo; depende además del ítem de esquema |
+| `[entidad]` CICIG | Nada identificado en el corpus |
+
+**Qué adelanta cada tanda.** La 2 destraba o adelanta cuatro ítems; la 3, uno; la 4, dos;
+la 5, tres; la 6, cuatro.
+
 ## Abiertos
 
 - [ ] **[tesis]** «Anclaje empírico frente a marco conceptual heredado» — el
@@ -342,6 +400,12 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       evaluación convirtió a la policía en objeto de análisis (p. 146). No lo describe: el
       criterio sigue sin cumplirse. La candidata más probable del corpus es Luneke y
       Trebilcock (2023), sobre la política criminal chilena de 1990 a 2017, en la tanda 6.
+      **Enmienda 27-09-2026** (auditoría): Carabineros de Chile aparece en ocho páginas y
+      no tiene página ni ítem. Conviene decidir juntos los dos: una entidad `organismo`
+      para Carabineros, con el Plan Cuadrante como sección, o dos páginas. La primera
+      opción evita una página de programa con una sola fuente y agrupa lo que hoy está
+      repartido entre [[policia-comunitaria]], [[legitimidad-policial]] y
+      [[analisis-criminal]]. El criterio de la segunda fuente vale para ambas.
 
 - [ ] **[entidad]** «Política de seguridad de Peñalolén» — la primera política
       municipal chilena de la wiki, con doce años documentados: unidad en 2005, dirección
@@ -370,6 +434,14 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       cambia `schema.md` y el validador. Es material de la operación 8. Importa porque
       vendrán más obras colectivas: Tudela (ed.) (2010), Srur (ed.) (2014) y Minayo y
       otros (2023) están en las tandas próximas.
+      **Enmienda 27-09-2026** (auditoría): con 51 páginas el libro baja a 16 y deja de
+      superar el umbral de un tercio, pero el efecto de fondo se ve mejor que antes. La
+      detección de comunidades de `grafo.py` devuelve una sola comunidad con las 51
+      páginas, y 40 son nodos puente. Los siete clústeres declarados tienen buena cohesión
+      interna y ninguno se distingue por su conectividad. Las causas probables son este
+      ítem y la generosidad de las secciones «Relacionado». No es urgente con un solo
+      campo y 51 páginas; conviene repetir el diagnóstico con 100. Ver
+      `despliegue/auditoria/2026-09-27-auditoria.md`.
 
 - [ ] **[método]** «Medición de la victimización» — [[valdivia-violencia-en-el-noviazgo]]
       muestra con datos chilenos que la prevalencia depende de cómo se pregunta: con la
@@ -402,6 +474,19 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       (arts. 37 y 56). Consulta sugerida: Código Penal, art. 390 bis y siguientes, en la
       BCN —si el femicidio cubre hoy a la pareja sin convivencia y desde qué ley—. Basta
       con sumar esa norma al corpus, como se hizo con ésta.
+
+- [ ] **[concepto]** «Seguridad ciudadana y seguridad humana» — cinco páginas usan uno u
+      otro término sin página que los ordene. [[vanderschueren-guia-prevencion-barrios]]
+      define la seguridad ciudadana frente a la pública, como multiactor y multicausal. La
+      guía de 2020 pide enfoque de seguridad humana para los barrios de violencia crónica.
+      En [[vanderschueren-prevencion-del-delito]], Frey fecha la adopción de «seguridad
+      ciudadana» por Carabineros en 2002, y Peñalolén pasa en 2018 a la seguridad humana.
+      Acción propuesta: `crear-pagina` · Origen: auditoría 2026-09-27
+      Criterio: crearla con una fuente fuera del círculo de autores de las dos guías y del
+      libro de 2021, que hoy son las únicas que los definen o discuten. Candidatas: el Decreto
+      96 de la PNSP, en la tanda 5, y Luneke y Trebilcock (2023), en la tanda 6. Mientras
+      tanto, [[coproduccion-de-seguridad]] conserva la oposición entre seguridad pública y
+      ciudadana.
 
 ## Resueltos
 

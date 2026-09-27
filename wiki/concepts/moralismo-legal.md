@@ -1,7 +1,7 @@
 ---
 title: Moralismo legal
 type: concept
-sources: ["2007 - Gardner - La prohibición de las inmoralidades.pdf"]
+sources: ["2007 - Gardner - La prohibición de las inmoralidades.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf"]
 cluster: sistema-penal
 curso: []
 procedencia: fuentes

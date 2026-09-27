@@ -10,7 +10,7 @@ Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una 
 que no aparece aquí no existe a efectos de consulta.
 
 **Estado:** 51 páginas · 14 fuentes ingeridas de 117 · **núcleo ancla S1.1 completo** ·
-tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados · ver
+tanda 1 cerrada el 27-09-2026; sigue la tanda 2 · siete de ocho clústeres poblados · ver
 [[pendientes]] y `ESTADO.md`.
 
 ## Conceptos
@@ -21,13 +21,13 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
   beneficio de pertenecer a una red y capital perverso; escasez o perversión (3 fuentes)
 - [[coproduccion-de-seguridad]] — producir seguridad con la comunidad y no sólo para
   ella; su definición, el puente que hace falta donde el capital comunitario falta, y
-  su ausencia en el nivel central chileno (3 fuentes)
-- [[criminologia-del-curso-de-vida]] — trayectorias, puntos de inflexión y
-  desistimiento; el autocontrol temprano pesa pero no está sellado. Borrador, de segunda
-  mano (1 fuente)
+  su ausencia en el nivel central chileno (4 fuentes)
 - [[crimen-organizado]] — el problema de las doscientas definiciones, la salida por el
   objetivo, el comercio ilícito contra el dualismo y la frontera jurídica: empírica,
   de legitimación o normativa (4 fuentes)
+- [[criminologia-del-curso-de-vida]] — trayectorias, puntos de inflexión y
+  desistimiento; el autocontrol temprano pesa pero no está sellado. Borrador, de segunda
+  mano (1 fuente)
 - [[debilidad-estatal]] — el paradigma de la suma cero entre Estado y crimen, y la
   política de construir Estado que de él se sigue; dos críticas (2 fuentes)
 - [[desorganizacion-social]] — la tradición de Chicago llevada del barrio a la calle;
@@ -59,11 +59,11 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
 - [[mediacion-comunitaria]] — diálogo para transformar conflictos, contra la
   mediación penal vertical y la mano dura; sin evaluaciones, y de una sola escuela
   (2 fuentes)
-- [[moralismo-legal]] — si la inmoralidad basta para prohibir; prohibir la
-  inmoralidad no es imponer la moralidad; el Estado como agente moral (1 fuente)
 - [[miedo-social]] — el miedo como fenómeno social, y por qué la percepción de
   inseguridad puede ir muy por delante de la violencia registrada; la brecha del temor
   en Maipú y Peñalolén (2 fuentes)
+- [[moralismo-legal]] — si la inmoralidad basta para prohibir; prohibir la
+  inmoralidad no es imponer la moralidad; el Estado como agente moral (2 fuentes)
 - [[muerte-social]] — ceros sociales, humillación y búsqueda perversa del respeto;
   hoy lo único que el corpus ofrece para S2.4 (1 fuente)
 - [[policia-comunitaria]] — el modelo policial derivado de la eficacia colectiva, las
@@ -149,12 +149,12 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
 - [[vanderschueren-guia-prevencion-barrios]] — Vanderschueren y otros, hacia 2010; el
   corpus dice 2015. No es bibliografía oficial. Versión anterior, no citada, de la guía
   de ONU-Hábitat (2020). Segunda de la tanda 1 y primera fuente con casos chilenos
-- [[weisburd-el-lugar-importa]] — Weisburd y otros, 2016. No es bibliografía oficial;
-  sostiene el módulo 3 de S1.1 por contenido. Primera de la tanda 1
 - [[vanderschueren-prevencion-del-delito]] — Vanderschueren, Díaz y Guajardo (eds.),
   2021. Libro colectivo de Ediciones UAH, arbitrado. Bibliografía de S1.1 y, por el
   capítulo de Tudela, de la clase 1 de S1.2. Varios autores escriben sobre
   instituciones de las que forman parte. Tercera de la tanda 1
+- [[weisburd-el-lugar-importa]] — Weisburd y otros, 2016. No es bibliografía oficial;
+  sostiene el módulo 3 de S1.1 por contenido. Primera de la tanda 1
 - [[wikstrom-por-que-se-delinque]] — Wikström, 2017. Obligatoria de S1.1,
   módulo 6. Segunda del núcleo ancla
 - [[zuniga-civilizacion-y-derechos-humanos]] — Zúñiga Núñez, 2013. Proyecto de tesis

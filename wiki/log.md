@@ -8,6 +8,40 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-09-27] auditoría | Revisión completa al cerrar la tanda 1, y consolidación de lo pendiente
+
+**Sin ingesta. A pedido del autor.** Informe completo en
+`despliegue/auditoria/2026-09-27-auditoria.md`.
+
+- Diagnóstico estructural:
+  · cero páginas aisladas, cero enlaces rotos, cero páginas sin fuente;
+  · índice, fichas, manifiesto y referencias cuadran: 14 = 14 = 14;
+  · frontmatter sin errores; notas al pie completas.
+- Hallazgo principal: **la topología no confirma los clústeres.** La detección de
+  comunidades devuelve una sola comunidad de 51 páginas, y 40 son nodos puente. Queda como
+  enmienda al ítem de obras colectivas, para repetir con 100 páginas.
+- Otros hallazgos:
+  · candidatos con peso acumulado —prevención situacional en 13 páginas, control social
+    informal en 10, Carabineros en 8—;
+  · síntesis propias sin marca `inf` en cinco páginas del 12-09;
+  · procedencia incompleta en dos páginas;
+  · tres frases desactualizadas;
+  · un campo `curso` fuera de formato.
+- Corregido, por ser mecánico:
+  · `sources` de [[coproduccion-de-seguridad]] y [[moralismo-legal]];
+  · frases desactualizadas en [[diagnostico-barrial]], [[programa-magister-uah]] e
+    [[index]], más el orden alfabético de seis entradas del índice;
+  · `curso` de [[trabajo-de-grado-profesionalizante]].
+- Consolidado:
+  · [[revision]] tiene al inicio un resumen que agrupa los 27 ítems abiertos por lo que los
+    destraba —decisión del autor, verificación externa, obra del corpus, fuente sin
+    identificar—;
+  · se sumó un ítem, seguridad ciudadana y seguridad humana, y dos enmiendas: Carabineros
+    junto al Plan Cuadrante, y la topología en el ítem de obras colectivas;
+  · [[pendientes]] se reescribió como artefacto para retomar, sin crónica de sesiones y con
+    las cifras por cúmulo de `ESTADO.md`, que estaban desfasadas.
+- Espera aprobación: la pasada de marcado `inf`.
+
 ## [2026-09-27] ingesta | Tudela (2015), análisis criminal y estrategias policiales basadas en la evidencia
 
 **Quinta y última ingesta de la tanda 1, la marcada «si alcanza». La tanda queda cerrada

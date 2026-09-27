@@ -52,7 +52,7 @@ La estructura curricular reparte 240 horas lectivas entre diez asignaturas oblig
 - [[magister-prevencion-uah]] — el programa que el documento describe
 - Universidad Alberto Hurtado, Facultad de Ciencias Sociales — institución que lo imparte
 - Centro de Seguridad Urbana y Centro Espacio, Sociedad y Territorios — anclajes académicos
-- Franz Vanderschueren — director del programa, y autor de una fuente del corpus aún no ingerida
+- Franz Vanderschueren — director del programa, y autor de dos fuentes del corpus ingeridas el 26-09-2026: [[vanderschueren-guia-prevencion-barrios]] y [[vanderschueren-prevencion-del-delito]]
 
 ## Conceptos tratados
 

@@ -3,7 +3,7 @@ title: Trabajo de grado profesionalizante
 type: concept
 sources: ["2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md"]
 cluster: marco-institucional
-curso: [s4/trabajo-de-grado, sem/seminario]
+curso: [s4, sem]
 procedencia: fuentes
 estado: revisado
 creado: 2026-08-29

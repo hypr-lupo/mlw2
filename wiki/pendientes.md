@@ -6,336 +6,173 @@ sources: []
 
 # Pendientes
 
-Artefacto operativo para retomar. Se actualiza al cerrar sesión.
+Artefacto operativo para retomar, no registro de lo hecho: la crónica de cada sesión está
+en [[log]]. Se consolidó el 27-09-2026, en la auditoría que cerró la tanda 1; el informe
+está en `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-**Estado al 27-09-2026.** Núcleo ancla S1.1 **completo** y tanda 1 del orden por
-calendario en curso. 14 fuentes de 117 documentos, 51 páginas, **siete de ocho
-clústeres poblados**: sólo queda vacío `caso-de-grado`. Cobertura de S1.1: 17 de 32
-títulos oficiales, 53 %. La cobertura cuenta presencia en el corpus, no ingesta, así que
-ninguna de las ingestas de hoy la mueve.
+**Estado al 27-09-2026.** 14 fuentes ingeridas de 117 documentos; 98 pendientes de un
+universo de 111, que excluye los seis programas oficiales. 51 páginas: 9 en borrador.
+Núcleo ancla de S1.1 completo y **tanda 1 cerrada**. Siete de ocho clústeres poblados;
+`caso-de-grado` sigue vacío a propósito. Cobertura de S1.1: 17 de 32 títulos oficiales en
+el corpus, 53 %. Nada bloquea la ingesta.
 
-**Sesión del 26-09-2026: primera ingesta de la tanda 1.** Entró Weisburd y otros
-(2016), *El lugar importa*: seis páginas nuevas, una ficha y ocho páginas
-actualizadas. Es la primera fuente que discute de frente con dos de las obligatorias
-—Sampson y Wikström— y con la guía del trabajo evaluado.
+## Qué hacer al retomar
 
-**Segunda ingesta de la tanda 1.** Entró la *Guía para la prevención en barrios* de
-Vanderschueren y otros, fechada en 2015 en el corpus y en 2010 en sus créditos: una
-ficha, una página nueva —[[capital-social]]— y nueve actualizadas. Resultó ser la
-versión anterior, no citada, de la guía de ONU-Hábitat de 2020. Lo que sigue en la
-tanda es Vanderschueren, Díaz y Guajardo (2021).
+En este orden:
 
-**Y una ingesta fuera de orden, por decisión del autor.** Entró y se ingirió Zúñiga
-Núñez (2013), *Civilización y derechos humanos*: un proyecto de tesis de Derecho inédito,
-sobre todo de teoría del Estado. Deja una ficha y tres páginas actualizadas con su veta
-criminológica —[[crimen-organizado]], [[debilidad-estatal]] y [[legitimidad-policial]]—,
-y ninguna página nueva. No mueve el orden por calendario.
-
-**Y otra fuera de orden, también por decisión del autor.** Entró Gardner (2007),
-*Prohibiting Immoralities*: filosofía del derecho penal, en versión de autor. Deja una
-ficha, una página nueva —[[moralismo-legal]]— y cuatro actualizadas. Con Zúñiga Núñez
-abre el clúster `sistema-penal` a la discusión sobre qué puede prohibir el Estado y cómo
-justifica su coerción. Antes se retiraron de `raw/sources/` cinco duplicados exactos.
-No mueve el orden por calendario.
-
-**Tercera ingesta de la tanda 1.** Entró Vanderschueren, Díaz y Guajardo (eds.)
-(2021), *Prevención del delito y la violencia*: libro colectivo de Ediciones UAH, con
-quince capítulos. Deja una ficha, cuatro páginas nuevas —[[prevencion-del-delito]],
-[[evaluacion-de-programas]], [[criminologia-del-curso-de-vida]] y
-[[mediacion-comunitaria]]— y once actualizadas. Es la primera fuente con material
-chileno de primera mano sobre Carabineros, el Plan Cuadrante, Peñalolén y el temor en
-Maipú. Lo que sigue en la tanda es Valdivia y otros (2019).
-
-**Cuarta ingesta de la tanda 1, el 27-09-2026.** Entró Valdivia-Peralta y otros (2019),
-sobre violencia en el noviazgo en Chile: obligatoria de la clase 4 de S1.2. Deja una ficha,
-una página nueva —[[violencia-en-el-noviazgo]]— y una actualizada. Es una revisión
-narrativa; lo más útil que trae es metodológico. Lo que queda de la tanda es Tudela (2015),
-si alcanza antes del 02-10.
-
-**Y una norma, fuera de orden, por decisión del autor.** Entró la Ley 21.675 (2024), que
-incorpora el pololeo a la violencia intrafamiliar y corrige en parte lo que describía
-Valdivia-Peralta y otros. Deja una ficha y dos páginas actualizadas. El femicidio sigue sin
-verificar: ver [[revision]].
-
-**Quinta ingesta: la tanda 1 queda cerrada.** Entró Tudela (2015), sobre análisis criminal y
-estrategias policiales basadas en la evidencia. Deja una ficha, una página nueva
-—[[analisis-criminal]]— y cuatro actualizadas. Lo que sigue es la tanda 2, que cierra el
-10-10.
-
-## Lo que bloquea
-
-*Nada. Las dos decisiones que bloqueaban el 12-09-2026 se resolvieron el 13-09-2026 y
-viven en [[revision]], sección «Resueltos».*
-
-- [x] **Alcance de los trece sin clasificar** — cuarentena mantenida **sin plazo**. Son
-      en su mayoría manuales genéricos y el autor verifica la pertinencia obra por
-      obra. No vuelven a la cola hasta entonces.
-- [x] **Orden de la bibliografía de consulta de S1.1** — la Guía ONU-Hábitat ya entró y
-      **García-Pablos sale de la fila**: el documento está incompleto —extracto desde la
-      p. 688— y vuelve completo, como base fundamental, cuando llegue el resto de la
-      bibliografía de consulta.
-
-Queda esto en manos del autor, y **no bloquea la ingesta**:
-
-- [ ] **Conseguir el resto de la bibliografía de consulta de S1.1**, García-Pablos
-      completo incluido. Es lo que habilita la base fundamental. Mientras tanto el
-      orden vigente corre solo y no espera a nadie.
-- [x] **Cinco duplicados exactos en `raw/sources/`**, llegados el 26-09-2026 entre las
-      22:22 y las 22:25 con nombres fuera de la nomenclatura. Resuelto el mismo día: el
-      autor pidió retirar los más nuevos, y se enviaron a la Papelera de reciclaje. Quedan
-      los originales inventariados. Ver [[log]].
-- [x] **Dos documentos del inventario no están en disco** —el manual Routledge de
-      Blokland y van der Geest, y el Garland original en inglés—. Resuelto el
-      26-09-2026: el autor los declaró errores de integración y se borraron sus filas
-      del inventario. Ver el ítem `[corpus]` en [[revision]].
+1. **Tanda 2, antes del 10-10.** Es la que más ítems de la cola destraba. Ver abajo.
+2. **Decisiones que sólo toma el autor.** Cinco, en el grupo A de [[revision]]. La más
+   antigua es la página `tesis-` sobre el anclaje empírico, abierta desde el 29-08.
+3. **Verificaciones bibliográficas.** Siete, en el grupo B de [[revision]]. Mientras sigan
+   abiertas, esas obras no se citan en trabajos evaluados: Sampson, Adams, las dos guías de
+   barrios, Zúñiga Núñez, Gardner y el tipo penal de femicidio.
+4. **Mantenimiento**, cuando haya tiempo entre tandas. Ver abajo.
 
 ## Fuentes por ingerir
 
-Al 27-09-2026 quedan 98 pendientes de un universo de 111: los 117 archivos del
-corpus menos los 6 programas oficiales. Diez de ellos están en cuarentena sin plazo. El
-orden está fijado en [[purpose]]; el detalle documento por documento lo da `python
-scripts/estado.py`.
+**Hasta el 27-11-2026 manda el orden por calendario** fijado en [[purpose]]. El detalle
+documento por documento lo da `python scripts/estado.py`.
 
-**Hasta el 27-11-2026 manda el orden por calendario** (ajuste del 26-09-2026 en
-[[purpose]]). Cada tanda se cierra antes de la clase que la usa:
+- [x] **Tanda 1**, cerrada el 27-09: Weisburd y otros (2016), la guía de barrios de 2010,
+      Vanderschueren, Díaz y Guajardo (2021), Valdivia y otros (2019) y Tudela (2015).
+      Fuera de orden, por decisión del autor: Zúñiga Núñez (2013), Gardner (2007) y la
+      Ley 21.675 (2024).
+- [ ] **Tanda 2, antes del 10-10:** Batthyány y Cabrera (2011) · Vives Varela y Hamui
+      Sutton (2021) · INE (2023) · Srur (2014), pp. 26-45 · Tudela (ed.) (2010), sólo el
+      capítulo de Boba · CIPC (2015). Destraba o adelanta cuatro ítems de la cola: PADS+,
+      medición de la victimización, Peñalolén y la ley de concentración
+- [ ] **Tanda 3, antes del 16-10:** Baratta (2004), caps. I-II, IV, VII y VIII · Kessler
+      (2004) · Blanco (2011)
+- [ ] **Tanda 4, antes del 23-10:** Gottfredson y Hirschi (1990) · Clarke (1997) · Felson
+      y Eckert (2016)
+- [ ] **Tanda 5, antes del 06-11:** Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya (2024) ·
+      SPD (2022) · Campana y Meneghini (2024) · Bergman (2023)
+- [ ] **Tanda 6, antes del 27-11:** Garland (Gedisa) · Wacquant · Luneke y Trebilcock
+      (2023) · Alda y Beliz (2007) · Zeballos (2024) · Bergman (2016) · Silva Sánchez ·
+      Ferrajoli
 
-- [x] **Tanda 1, antes del 02-10, cerrada el 27-09:** ~~Weisburd y otros (2016)~~, ingerida el 26-09 ·
-      ~~Vanderschueren (2015), guía de barrios~~, ingerida el 26-09 · ~~Vanderschueren,
-      Díaz y Guajardo (2021)~~, ingerida el 26-09 · ~~Valdivia y otros (2019)~~,
-      ingerida el 27-09 · ~~Tudela (2015)~~, ingerida el 27-09
-- [ ] **Tanda 2, antes del 10-10:** Batthyány y Cabrera · Vives Varela y Hamui Sutton ·
-      INE (2023) · Srur, pp. 26-45 · Tudela (ed.) (2010), capítulo de Boba · CIPC (2015)
-- [ ] **Tanda 3, antes del 16-10:** Baratta (2004), caps. I-II, IV, VII y VIII ·
-      Kessler (2004) · Blanco (2011)
-- [ ] **Tanda 4, antes del 23-10:** Gottfredson y Hirschi · Clarke · Felson y Eckert
-- [ ] **Tanda 5, antes del 06-11:** Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya ·
-      SPD (2022) · Campana y Meneghini · Bergman (2023)
-- [ ] **Tanda 6, antes del 27-11:** Garland (Gedisa) · Wacquant · Luneke y Trebilcock ·
-      Alda y Beliz · Zeballos (2024) · Bergman (2016) · Silva Sánchez · Ferrajoli
+Después de la tanda 6 vuelve el orden por cúmulos. Pendientes por cúmulo, según
+`ESTADO.md`:
 
-Después de la tanda 6 vuelve el orden por cúmulos:
+| Cúmulo | Pendientes | Nota |
+|---|---:|---|
+| Bibliografía S1.1, consulta y complementaria | 11 | García-Pablos espera a estar completo |
+| Integrados desde el programa del curso | 6 | Contiene las P1 de S1.2 |
+| Medición e inseguridad | 6 | Contiene P1 de S1.2; ahí está lo que podría dirimir la contradicción de Adams |
+| Sistema penal y Estado de derecho | 6 | Contiene P1 de S1.3 |
+| Gobernanza criminal y territorio | 5 | |
+| Institucionalidad y política de prevención en Chile | 5 | Tres normas de la tanda 5, Luneke y Trebilcock (2023) y el comunicado de la ACOT |
+| Explicación del delito | 4 | Contiene P1 de S1.3, y Gottfredson y Hirschi |
+| Prevención e intervención | 3 | Contiene UNODC (2011), P1 de S1.2, y Clarke (1997) |
+| Vínculo Estado-crimen | 18 | Reserva del electivo S3.E4 |
+| Amenaza y securitización | 24 | Reserva del electivo S3.E4 |
+| Ingreso sin clasificar | 10 | En cuarentena sin plazo |
 
-- [x] **Núcleo ancla S1.1 — 4 de 4.** Sampson, Wikström, Albarracín y Adams, todas el
-      12-09-2026.
-- [x] **Guía ONU-Hábitat y Guadalajara (2020)** — ingerida el 12-09-2026. Primera obra
-      de consulta y primera fuente operativa de la wiki.
-- [ ] **Bibliografía S1.1, consulta y complementaria — 11 restantes.** El orden
-      interno que ponía primero a Blanco quedó sustituido por el orden por calendario.
-      García-Pablos sigue en espera hasta estar completo. Se sumaron
-      ocho títulos el 12-09-2026: Kessler, Wacquant, los dos Bergman, los dos Zeballos,
-      Garland Gedisa y el manual de curso de vida de Blokland y van der Geest. Este
-      último se retiró del corpus el 26-09-2026 por no corresponder al curso.
-- [ ] Programas oficiales y malla — 5 restantes. Bajaron de prioridad: los cuatro ramos
-      en curso ya tienen su programa fichado, y lo que queda son tres programas de
-      ramos futuros y el horario. Se ingieren por excepción cuando su ramo se acerque
-- [ ] Explicación del delito — 4. Contiene P1 de S1.3, y Gottfredson y Hirschi, que es
-      el contrapeso que hoy le falta a [[autocontrol-y-disuasion]]
-- [ ] Prevención e intervención — 4. Contiene P1 de S1.2 (UNODC 2011) y Clarke (1997),
-      el contrapeso que le falta a [[ventanas-rotas]]
-- [ ] Medición e inseguridad — 5. Contiene P1 de S1.2. Es además donde vive lo que
-      podría dirimir la contradicción de Adams sobre el legado del conflicto armado
-- [ ] Gobernanza criminal y territorio — 5 restantes. Weisburd y otros (2016) entró el
-      26-09-2026 y de ahí nació [[puntos-calientes]]
-- [ ] Sistema penal y Estado de derecho — 7 restantes. Contiene P1 de S1.3. Zúñiga
-      Núñez (2013) entró y se ingirió el 26-09-2026, fuera de orden
-- [ ] Integrados desde el programa del curso — 6 restantes. Contiene P1 de S1.2.
-      Vanderschueren, Díaz y Guajardo (2021) entró el 26-09-2026; Valdivia y otros
-      (2019) y Tudela (2015), el 27-09-2026
-- [ ] Vínculo Estado-crimen — 18. Material de reserva del electivo S3.E4, y donde vive
-      la discusión clásica que hoy le falta a [[debilidad-estatal]]
-- [ ] Amenaza y securitización — 24. Material de reserva del electivo S3.E4
-- [ ] Ingreso sin clasificar — 13, en cuarentena sin plazo. Ver arriba
+Queda en manos del autor, sin bloquear nada: **conseguir el resto de la bibliografía de
+consulta de S1.1**, García-Pablos completo incluido.
+
+## Cola de revisión
+
+**27 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
+
+- **A. Decisión del autor (5):**
+  - tesis del anclaje empírico;
+  - página de Vanderschueren;
+  - alcance de Zúñiga Núñez;
+  - subtipo para grupos criminales;
+  - obras colectivas en el modelo de relevancia.
+- **B. Verificación bibliográfica (7):** los años de Sampson, Adams y la guía de 2010; el
+  borrador de 2020; Zúñiga Núñez; Gardner; el femicidio.
+- **C. Una obra del corpus (12):** se destraban con las tandas 2 a 6 y, uno de ellos,
+  después.
+- **D. Segunda fuente sin identificar (3):**
+  - Coalición de Diez Puntos;
+  - milícias de Rio;
+  - CICIG.
 
 ## Páginas borrador
 
-Nueve. Cuatro por la misma razón: registran una sola posición sobre un asunto que
-tiene otra. [[ventanas-rotas]] ya tiene tres, pero sigue en borrador: son una
-refutación, un uso y un balance de evidencia; ninguna es la defensa de sus autores.
+Nueve. Casi todas por la misma razón: registran una sola posición, o la registran de
+segunda mano.
 
-- [ ] [[ventanas-rotas]] — Weisburd y otros la llevaron de espuria a mixta. Falta
-      Clarke (1997), tanda 4, y sigue faltando la voz de Wilson y Kelling
-- [ ] [[policia-comunitaria]] — la evidencia que invoca Sampson es débil por
-      declaración del propio autor, el caso latinoamericano que aporta Albarracín es
-      de reversión, y el chileno, el Plan Cuadrante, lo dan por fallido sus propios
-      reseñistas. Ninguna fuente trae una evaluación de un caso exitoso
-- [ ] [[legitimidad-policial]] — su único caso positivo es Boston en los noventa. Desde
-      el 26-09-2026 tiene la crisis de Carabineros, pero contada por un ex subsecretario
-      y por los editores de un libro, no medida
-- [ ] [[debilidad-estatal]] — construida desde quienes la critican: Albarracín y, desde
-      el 26-09-2026, Zúñiga Núñez. Se completa con el cúmulo `Vínculo Estado-crimen`
-- [ ] [[desorganizacion-social]] — exposición de segunda mano, hecha por autores que
-      la usan para su propio argumento. Se contrasta con García-Pablos completo
-- [ ] [[policia-de-puntos-calientes]] — toda su evidencia la reportan los proponentes
-      de la estrategia. Falta una fuente crítica o una evaluación independiente, y el
-      corpus no tiene ninguna identificada
-- [ ] [[moralismo-legal]] — una sola fuente, que además es un comentario y trae filtrada
-      la posición que discute. Falta la voz de Fletcher
-- [ ] [[criminologia-del-curso-de-vida]] — la reseña de un capítulo, sin ninguno de los
-      autores del enfoque en el corpus. Se contrasta con Blanco (2011), tanda 3, y con
-      Gottfredson y Hirschi (1990), tanda 4
-- [ ] [[violencia-en-el-noviazgo]] — una revisión narrativa, con inconsistencias entre
-      texto y tablas y un marco de género que sus propios datos no discuten. Falta una
-      fuente de violencia de género, que llegará con S3.3
+| Página | Qué le falta | Dónde puede estar |
+|---|---|---|
+| [[ventanas-rotas]] | La voz de quien la defiende | Clarke (1997), tanda 4; Wilson y Kelling no están en el corpus |
+| [[policia-comunitaria]] | Una evaluación de un caso exitoso | Nada identificado |
+| [[legitimidad-policial]] | Evidencia chilena medida, no narrada | Nada identificado |
+| [[debilidad-estatal]] | La voz de sus defensores | Cúmulo `Vínculo Estado-crimen` |
+| [[desorganizacion-social]] | Una fuente primaria de Chicago | García-Pablos completo |
+| [[policia-de-puntos-calientes]] | Una fuente crítica independiente de Weisburd | Nada identificado; Tudela (2015) repite a Weisburd |
+| [[moralismo-legal]] | La voz de Fletcher | No está en el corpus |
+| [[criminologia-del-curso-de-vida]] | Los autores del enfoque | Blanco (2011), tanda 3; Gottfredson y Hirschi, tanda 4 |
+| [[violencia-en-el-noviazgo]] | Una fuente de violencia de género | La bibliografía de S3.3, cuando llegue su programa |
 
 ## Contradicciones sin resolver
 
-- [ ] [[magister-prevencion-uah]] — la fecha de la IX Promoción es ambigua dentro de la
-      propia fuente. Se resuelve preguntando a la secretaría del programa
-- [ ] [[magister-prevencion-uah]] — el año de inicio del programa: 2015 en el folleto,
-      2016 en la introducción del libro de 2021, que firma su director
+- [ ] [[magister-prevencion-uah]] — la fecha de la IX Promoción, ambigua dentro del
+      folleto; y el año de inicio del programa, 2015 en el folleto y 2016 en el libro de
+      2021. Se resuelven preguntando a la secretaría del programa
 - [ ] [[prevencion-del-delito]] — dos capítulos del mismo libro definen distinto la
-      prevención primaria y atribuyen las dos definiciones a Brantingham y Faust (1976).
-      La obra original no está en el corpus
-- [ ] [[ventanas-rotas]] — la relación desorden-delito: espuria para Sampson, mixta
-      para Weisburd y otros. Ya tiene contraparte; falta quien la defienda
-- [ ] [[miedo-social]] y [[adams-violencia-cronica]] — **contradicción interna a la
-      fuente**: Adams sostiene que la traumatización política extrema explica las
-      respuestas desproporcionadas al riesgo y acto seguido cita al Banco Mundial
-      negando que el legado del conflicto armado explique la violencia centroamericana.
-      Depende de qué se acepte como indicador de violencia. En [[revision]]
+      prevención primaria y las dos atribuyen la definición a Brantingham y Faust (1976), que no está
+      en el corpus
+- [ ] [[ventanas-rotas]] — la relación entre desorden y delito: espuria para Sampson, mixta
+      para Weisburd y otros. Falta quien la defienda
+- [ ] [[miedo-social]] y [[adams-violencia-cronica]] — contradicción interna de Adams sobre
+      el legado del conflicto armado. En [[revision]], grupo C
 
 ## Tensiones registradas
 
-- [ ] **Enfoque territorial y determinismo local.** El módulo 3 presenta a Sampson como
-      fundamento del enfoque territorial; Sampson advierte contra sobreestimarlo. En
-      [[sampson-vecindario-y-comunidad]] y [[eficacia-colectiva]]
-- [ ] **Alcance del efecto de área.** Wikström conserva el efecto del barrio pero lo
-      condiciona a quién lo use: para las personas aversas al delito es cero. En
-      [[eficacia-colectiva]] y [[exposicion-criminogena]]
-- [ ] **Estatus del control en la prevención.** El módulo 6 los presenta como enfoques
-      preventivos; la TAS los acota a las situaciones con conflicto de reglas-guía. En
-      [[autocontrol-y-disuasion]]
-- [ ] **Capital social frente a eficacia colectiva.** Dos obligatorias del mismo ramo
-      trabajan con constructos rivales, y uno se formuló para corregir al otro. En
-      [[eficacia-colectiva]]
-- [ ] **Quién es el Estado.** Sampson y Wikström lo tratan como solución o contexto;
-      Albarracín lo sitúa dentro del problema. En [[gobernanza-criminal]]
-- [ ] **Qué es un punto caliente.** Para la TAS, el resultado de reunir personas
-      propensas con entornos criminógenos; para Weisburd y otros, un acoplamiento del
-      delito al lugar. En [[puntos-calientes]] y [[teoria-accion-situacional]]
-- [ ] **Barrio o calle.** Sampson funda la política territorial en el barrio; Weisburd
-      y otros muestran que el barrio «malo» es en su mayoría calles sin delito. En
-      [[eficacia-colectiva]] y [[desorganizacion-social]]
-- [ ] **El promedio del barrio.** El diagnóstico de la guía ONU-Hábitat proyecta por
-      tipo de barrio; agregar por barrio puede ocultar los puntos calientes. La
-      proyección es un añadido de 2020, no de la versión de 2010. En
-      [[diagnostico-barrial]] y [[analisis-espacial-del-delito]]
-- [ ] **Escasez o perversión del capital social.** Adams lo trata como escaso; la guía
-      de 2010 distingue su falta, en el barrio vulnerado, de su perversión, en el
-      crítico. En [[capital-social]]
-- [ ] **Dos criterios para una misma categoría.** El barrio de violencia crónica de 2020
-      suma el umbral de homicidios al criterio de inaccesibilidad heredado de 2010. En
-      [[tipologia-barrial]] y [[violencia-cronica]]
-- [ ] **Focalización y legitimidad.** El daño de las tácticas agresivas, frente a la
-      escasa evidencia de que la presencia focalizada lo cause. En
-      [[legitimidad-policial]] y [[policia-de-puntos-calientes]]
-- [ ] **Qué separa al crimen del poder legítimo.** Albarracín pide una definición
-      precisa de crimen organizado para comparar casos; Zúñiga Núñez sostiene que la
-      frontera es un efecto de legitimación; Gardner, que es una exigencia moral sobre el
-      Estado. En [[crimen-organizado]], [[debilidad-estatal]] y [[moralismo-legal]]
-- [ ] **¿Rige el derecho por amenaza o por autoridad?** Zúñiga Núñez: por la amenaza
-      del castigo. Gardner: por autoridad, con la coerción como respaldo. En
-      [[moralismo-legal]] y [[legitimidad-policial]]
-- [ ] **¿Es inevitable el desplazamiento?** El cap. I del libro de 2021 dice que sí;
-      las revisiones que reúne Weisburd, que no. Se acota porque miden cosas distintas:
-      lugar frente a táctica, número frente a gravedad. En [[desplazamiento-y-difusion]]
-- [ ] **Tres ideas de evidencia.** La guía de 2010, Weisburd y otros, y Tudela. Y la
-      afirmación sin evaluación sobre Peñalolén. En [[evaluacion-de-programas]]
-- [ ] **¿Viaja la eficacia colectiva?** Condicionada en América Latina a la policía,
-      según Arias y Tocornal (2018), citados de segunda mano. En [[eficacia-colectiva]]
-- [ ] **Factores de riesgo: base o límite.** Tres capítulos del mismo libro, tres
-      posiciones. En [[prevencion-del-delito]]
-- [ ] **¿Coproducir es prevenir?** Tudela frente a Peñalolén, y la coproducción
-      ausente en el nivel central. En [[coproduccion-de-seguridad]]
-- [ ] **Dos sentidos de «por qué».** Tudela (2015) pone el análisis «en lugar de» la
-      etiología; Vanderschueren pide identificar las causas. En [[evaluacion-de-programas]]
-- [ ] **Legitimidad por el trato o por el desempeño.** Sampson, justicia procedimental;
-      Tudela, eficacia demostrada. En [[legitimidad-policial]]
-- [ ] **¿Violencia de género o violencia mutua?** Valdivia-Peralta y otros encuadran la
-      violencia en el noviazgo como violencia de género, y varios de los estudios que
-      compilan miden tasas iguales o mayores en hombres. En [[violencia-en-el-noviazgo]]
+Veintidós, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
+resuelven. Tres podrían moverse con fuentes que ya tienen tanda:
 
-## Ítems de revisión abiertos
+- **El estatus del control en la prevención** (tensión 3), con Gottfredson y Hirschi en la
+  tanda 4.
+- **Las ventanas rotas** (sin número, la que más pesa en el trabajo evaluado de S1.1), con
+  Clarke en la tanda 4.
+- **Tres ideas de evidencia** (tensión 16), con el CIPC (2015) en la tanda 2, si trae
+  evaluaciones.
 
-- [ ] 26 abiertos en [[revision]]. **Ninguno bloquea.** La ingesta de Weisburd
-      resolvió dos —puntos calientes y desorganización social—, enmendó el de control
-      social informal y abrió dos: la página de teorías de la oportunidad, que espera a
-      la tanda 4, y si la ley de concentración vale en una comuna chilena. La de Zúñiga
-      Núñez abrió tres: si su teoría del Estado cabe en el alcance, qué escuela y qué
-      versión es, y la página de criminalización y selectividad penal, que espera a
-      Baratta en la tanda 3. La de la guía de barrios de 2010 abrió tres —su año y
-      autoría, Quiero mi Barrio y la mediación comunitaria— y enmendó dos: la página de
-      Franz Vanderschueren y el borrador de la guía de 2020, cuyo ciclo de política y
-      diagnóstico tienen ahora versión publicada. La de Gardner abrió dos: conseguir la
-      versión definitiva de la revista, y las páginas de principio de daño y Estado de
-      derecho, que esperan a Ferrajoli en la tanda 6. La del libro de 2021 resolvió uno
-      —la mediación comunitaria, que ya tiene página—, abrió tres —el Plan Cuadrante y la
-      política de seguridad de Peñalolén, que esperan una fuente fuera de ese libro, y
-      cómo tratar las obras colectivas en el modelo de relevancia— y
-      enmendó cinco: la página de Franz Vanderschueren, el control social informal, que
-      ahora tiene tres sentidos, el año de Adams, el de la guía de barrios y Quiero mi
-      Barrio. La de Valdivia-Peralta y otros abrió dos —la página de medición de la
-      victimización, que espera al INE (2023), y el estado legal de la violencia en el
-      pololeo después de 2019— y enmendó el de criminalización. La Ley 21.675 lo resolvió
-      en parte. La de Tudela (2015) enmendó tres: Plan Cuadrante, teorías de la oportunidad y
-      PADS+.
+## Mantenimiento
+
+Salió de la auditoría del 27-09-2026. No bloquea nada.
+
+- [ ] **Marcar como inferencia las síntesis propias sin nota.** Sobre todo en
+      [[crimen-organizado]], [[gobernanzas-paralelas]], [[eficacia-colectiva]],
+      [[zona-gris]] y [[policia-comunitaria]]. Hay que agregar la marca `inf`, sin cambiar
+      el contenido. Espera aprobación del autor.
+- [ ] **Repetir el diagnóstico de comunidades con 100 páginas.** Hoy la topología no
+      distingue los clústeres declarados. Ver el ítem de obras colectivas en [[revision]].
 
 ## Preguntas abiertas
 
-- [ ] ¿Sobre qué política, programa o proyecto chileno se ancla el trabajo de grado?
-      Sexta pregunta rectora de [[purpose]] y la única que no se responde desde el
-      corpus. Con el libro de 2021 la wiki tiene por fin material chileno de primera
-      mano, y `caso-de-grado` sigue vacío a propósito. Hay ya tres candidatos
-      identificables en [[revision]], todos esperando una segunda fuente: Quiero mi
-      Barrio, el Plan Cuadrante y la política de seguridad de Peñalolén. Esta última es
-      la única con doce años documentados, y también la única descrita sólo por su propia
-      dirección. Los dos Zeballos, integrados el 12-09-2026 y sin ingerir,
-      son lo primero del corpus sobre crimen organizado en Chile
-- [ ] ¿Se cursará el taller electivo de crimen organizado? De la respuesta depende que
-      42 de los 114 documentos del corpus sean bibliografía oficial o material de
-      reserva
+- [ ] **¿Sobre qué política, programa o proyecto chileno se ancla el trabajo de grado?**
+      Sexta pregunta rectora de [[purpose]], y la única que no se responde desde el corpus.
+      Hay tres candidatos identificables en [[revision]], cada uno a la espera de una
+      segunda fuente: Quiero mi Barrio, el Plan Cuadrante con Carabineros, y la política de
+      seguridad de Peñalolén. Esta última es la única con doce años documentados, y también
+      la única descrita sólo por su propia dirección. Lo primero del corpus sobre crimen
+      organizado en Chile son los dos Zeballos, en la tanda 6.
+- [ ] **¿Se cursará el taller electivo de crimen organizado?** De la respuesta depende que
+      42 documentos del corpus sean bibliografía oficial o material de reserva.
 
 ## Vacíos de corpus conocidos
 
-Confirmados el 12-09-2026: ninguno de los trece documentos nuevos los cubre.
-
-- [ ] **Módulo 5 de S1.1** —teoría de la tensión y delitos de cuello blanco—: ninguna
-      fuente primaria. Faltan Merton, los dos Sutherland y Lamnek. Baratta (2004), caps.
-      IV y VIII, lo cubre de segunda mano y entra en la tanda 3
-- [ ] **Criminología feminista**, objetivo específico declarado de S1.1: falta Renzetti
-      (2013)
-- [ ] **S2.4**: un documento de su bibliografía en el corpus, Kessler (2004), que
-      también pide S1.1. Pero su programa es de la promoción 2023 y quedó marcado `programa_vigente: no` el 12-09-2026: sus
-      faltantes **no se persiguen** hasta que llegue la versión de esta cohorte. Lo
-      único que la wiki le ofrece hoy es [[muerte-social]], y no lo sustituye
-- [x] **Desorganización social**: el módulo 3 la exige como marco y ninguna fuente la
-      definía. Cubierto el 26-09-2026 por Weisburd y otros, de segunda mano: nace
-      [[desorganizacion-social]] en borrador. Falta una fuente primaria de la tradición
-      de Chicago
-- [ ] **Breaking Rules** (Wikström y otros, 2012): donde viven el diseño y los análisis
-      completos de PADS+. Las cifras de [[propension-al-delito]] y
-      [[exposicion-criminogena]] no se verifican contra su fuente primaria
-- [ ] **Gibson y Krahn (2013)**, *Handbook of life course criminology*, pedido por
-      S1.1. Lo que llegó el 12-09-2026 fue el manual Routledge de Blokland y van der
-      Geest: otros editores, otra editorial, otro año. Tercera falsa coincidencia del
-      corpus; se retiró el 26-09-2026
-- [ ] **Zaffaroni, *En busca de las penas perdidas*** (2006), pedido por S1.3. Lo que
-      llegó el 12-09-2026 es otra obra del mismo autor. No se persigue: S1.3 también
-      quedó `programa_vigente: no`. Ver [[revision]]
-
-## Estado de los clústeres
-
-Siete de ocho poblados. `medicion-y-metodo` se pobló el 12-09-2026 con
-[[diagnostico-barrial]], primera página de `wiki/methodology/`. Queda vacío uno:
-
-- [ ] `caso-de-grado` — vacío a propósito y a la espera de una decisión del autor. Es
-      hoy el único hueco estructural de la wiki
+- [ ] **Módulo 5 de S1.1**, sobre teoría de la tensión y delitos de cuello blanco: ninguna
+      fuente primaria. Faltan Merton, los dos Sutherland y Lamnek. Baratta (2004) lo
+      cubre de segunda mano, en la tanda 3
+- [ ] **Criminología feminista**, objetivo específico de S1.1: falta Renzetti (2013)
+- [ ] **Gibson y Krahn (2013)**, *Handbook of life course criminology*, pedido por S1.1
+- [ ] **Breaking Rules** (Wikström y otros, 2012), donde están el diseño y los análisis
+      completos de PADS+
+- [ ] **El tipo penal de femicidio vigente**, para cerrar el estado legal del pololeo
+- [ ] **S2.4 y S1.3** tienen programas de promociones anteriores, marcados
+      `programa_vigente: no`. Sus faltantes no se persiguen hasta que lleguen las versiones
+      de esta cohorte; eso incluye el Zaffaroni que pide S1.3
 
 ## Programas de curso por solicitar
 
-Doce de las dieciséis fichas de `programa/` siguen en `programa_recibido: no`, y
-mientras sigan así su bibliografía no puede ponderarse. Los cuatro ramos en curso
-—S1.1, S1.2, S1.3 y S2.4— ya tienen el suyo. Los doce restantes son ramos futuros y
-ninguno bloquea trabajo evaluado hoy; el siguiente que importará es el del Seminario
-de Trabajo de Grado, donde debería estar la operacionalización que el folleto no da.
-Ver [[trabajo-de-grado-profesionalizante]].
+Doce de las dieciséis fichas de `programa/` siguen en `programa_recibido: no`. Los cuatro
+ramos en curso —S1.1, S1.2, S1.3 y S2.4— ya tienen el suyo. Los siguientes que importarán
+son el del Seminario de Trabajo de Grado, donde debería estar la operacionalización que el
+folleto no da, y el de S3.3, para la violencia de género. Ver
+[[trabajo-de-grado-profesionalizante]].
