@@ -1,13 +1,13 @@
 ---
 title: Legitimidad policial
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-09-27
 ---
 
 # Legitimidad policial
@@ -75,6 +75,18 @@ Los autores de la evaluación —aún en curso cuando se escribe el artículo—
 
 **Qué es lo trasladable.** No la coalición religiosa, que depende de que exista un actor con legitimidad previa ante los residentes, sino la función: un tercero reconocido que medie y avale [^inf-1].
 
+## Otra vía: la eficacia demostrada
+
+Añadido el 27-09-2026 al ingerir [[tudela-analisis-criminal]].
+
+**La crisis, en encuestas.** Según el Barómetro de las Américas 2014, casi una de cada dos personas en la región está insatisfecha con la policía local. Más de una de cada tres cree que ante un robo en su casa la policía tardaría más de una hora o no llegaría nunca. La confianza en los tribunales estaba en su punto más bajo de la década [^ext-19].
+
+**Una causa que propone Tudela.** Parte de la crisis vendría de que policías y tribunales miden su eficacia de manera endógena: se piensan expertos y dan por supuesto que el conocimiento es propio de su misión [^ext-20]. Si una institución no revisa sus estrategias con evidencia de qué funciona, corre el riesgo de seguir perdiendo legitimidad [^ext-21]. Evaluar y demostrar eficacia la fortalecería, aunque de manera indirecta [^ext-22].
+
+**La definición que usa.** Toma del National Research Council (2004) una legitimidad hecha de confianza pública y de la disposición a reconocer la autoridad policial: más que popularidad [^ext-23]. Y registra dos hallazgos sobre la conducta policial. El grado de acuerdo de los policías con las normas que los rigen, el control administrativo y la cultura de pares deciden si hay focos de corrupción. Los esfuerzos internos tradicionales para evitarlos tienen poco efecto [^ext-24].
+
+**Dos vías.** Sampson construye la legitimidad desde el trato: justicia procedimental. Tudela, desde el desempeño: eficacia demostrada. No se excluyen, y su propia definición incluye el reconocimiento de la autoridad, que es lo que la justicia procedimental busca producir [^inf-6]. Pero conducen a políticas distintas. Una pide cambiar cómo actúa la policía frente a los vecinos; la otra, medir mejor lo que logra.
+
 ## Otro sentido de la palabra
 
 Añadido el 26-09-2026 al ingerir [[zuniga-civilizacion-y-derechos-humanos]]. Esta página entiende la legitimidad como el reconocimiento de una actuación procedimentalmente justa. Zúñiga Núñez usa la palabra en el sentido opuesto: la legitimidad del poder estaría dada fundamentalmente por el miedo, y conviene encubrirlo salvo en momentos de crisis [^ext-11].
@@ -98,6 +110,7 @@ No se refutan: hablan de objetos distintos. Sampson habla de la cooperación ent
 - [[zuniga-civilizacion-y-derechos-humanos]] — la legitimidad entendida como miedo, en el sentido opuesto al de esta página
 - [[gardner-prohibir-inmoralidades]] — la distinción entre autoridad y coerción, que ordena los dos sentidos
 - [[vanderschueren-prevencion-del-delito]] — la crisis de Carabineros y las condiciones de transparencia y rendición de cuentas
+- [[tudela-analisis-criminal]] — la crisis regional en encuestas y la legitimidad como efecto de la eficacia
 
 El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como contenido propio, y su bibliografía específica no está en el corpus.
 
@@ -125,4 +138,11 @@ El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como
 [^ext-16]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. V, pp. 121-122.
 [^ext-17]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. V, pp. 135-136.
 [^ext-18]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, p. 384.
+[^ext-19]: **Extraído** — [[tudela-analisis-criminal]], p. 139, sobre Zechmeister (2014b, p. 4).
+[^ext-20]: **Extraído** — [[tudela-analisis-criminal]], pp. 139-140.
+[^ext-21]: **Extraído** — [[tudela-analisis-criminal]], p. 139.
+[^ext-22]: **Extraído** — [[tudela-analisis-criminal]], conclusiones, p. 149.
+[^ext-23]: **Extraído** — [[tudela-analisis-criminal]], pp. 146-147, sobre National Research Council (2004).
+[^ext-24]: **Extraído** — [[tudela-analisis-criminal]], p. 146.
 [^inf-5]: **Inferido** (confianza 0.6) — comparación propia. Las conclusiones no citan a Sampson en ese pasaje; atribuyen la afirmación a «estudios internacionales».
+[^inf-6]: **Inferido** (confianza 0.6) — comparación propia. Tudela no cita a Sampson.

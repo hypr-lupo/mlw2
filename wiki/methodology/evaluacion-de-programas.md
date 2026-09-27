@@ -1,7 +1,7 @@
 ---
 title: Evaluación de programas de prevención
 type: method
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1, s1-2]
 procedencia: fuentes
@@ -38,6 +38,8 @@ La tesis que atraviesa el capítulo es que la pregunta no es sólo **qué** prog
 
 **La heterogeneidad, con un ejemplo chileno.** Según el cap. I, el Programa de Parentalidad Positiva tendrá más efecto en barrios de ingresos modestos pero organizados que en barrios de alta complejidad, por la calidad del entorno y su menor anomia. Las conclusiones agregan que en los segundos la socialización del propio barrio neutraliza sus efectos [^ext-7]. Es una expectativa razonada, no un resultado medido: el libro no cita una evaluación que compare ambos tipos de barrio. Ver [[tipologia-barrial]].
 
+**Dos sentidos de «por qué».** Añadido el 27-09-2026 al ingerir [[tudela-analisis-criminal]]. En 2015, el mismo Tudela declaraba que el análisis criminal sirve a la prevención «en lugar de» entender a los infractores, y que sus teorías principales son la oportunidad y la elección racional [^ext-28]. Su «por qué» es el de los patrones, las oportunidades y los mecanismos de ejecución de un programa. El de Vanderschueren es el de las causas del comportamiento delictual [^ext-5]. Un programa puede explicarse bien en el primer sentido y quedar sin explicar en el segundo. Conviene decir en cuál se está pidiendo la explicación [^inf-4]. Ver [[analisis-criminal]].
+
 ## Prevención basada en evidencia
 
 Naciones Unidas pidió en 2002 políticas de prevención basadas en el conocimiento [^ext-8]. La segunda razón para ese enfoque, dice Tudela, es la constatación de los fracasos. Programas como Scared Straight, que buscan disuadir a los jóvenes mostrándoles la sanción, no disuaden [^ext-8].
@@ -69,6 +71,15 @@ La segunda tiene un corolario útil al leer evaluaciones: un resultado no conclu
 
 **Qué falla, según la revisión de programas sin efectos.** No hay resultados cuando no se aprendió de los errores anteriores ni hubo supervisión durante la ejecución [^ext-14]. Para esa revisión, Tudela sólo considera evaluaciones de programas de tres o más años, de diseño preferentemente cuasiexperimental y hechas por una entidad independiente [^ext-16].
 
+**Por qué no se evalúa, visto desde dentro de la policía.** Tudela (2015) da una razón institucional. Las autoridades policiales son reacias a reconocer que se evalúa poco, y confunden evaluación con control de gestión. El conocimiento nuevo pone en cuestión la autoridad basada en la experiencia [^ext-29]. Su propuesta es el método de Sherman (2013) —focalizar, testear y seguir—, en seis pasos [^ext-30]:
+
+1. diagnosticar el problema local;
+2. revisar la evidencia publicada;
+3. implementar y testear localmente;
+4. estimar el valor añadido frente a lo que habría pasado sin cambiar nada;
+5. evaluar los resultados;
+6. volver a empezar, reuniendo casos para confirmar lo aprendido.
+
 ## Qué diseño de evaluación
 
 Tudela pide tres cosas [^ext-17]:
@@ -78,6 +89,8 @@ Tudela pide tres cosas [^ext-17]:
 - herramientas adecuadas a la naturaleza del programa.
 
 En este último punto hace una afirmación que conviene retener. Se ha puesto el énfasis en los diseños estadísticos, pero la **evaluación comprensiva**, que recoge la mirada de los involucrados, es más útil para entender el impacto de las decisiones durante la implementación [^ext-17].
+
+**El mismo autor, seis años antes.** En 2015 Tudela privilegiaba los diseños experimentales y cuasiexperimentales y se situaba en la investigación positivista orientada al conocimiento aplicado [^ext-31]. En 2021 no abandona esos diseños para medir el efecto, pero afirma que la evaluación comprensiva es más útil para entender la implementación [^ext-17]. Es una distinción entre preguntas, no un cambio de bando. Y como es el mismo autor, las dos fuentes no se confirman entre sí.
 
 ## Por qué evaluar prevención es difícil
 
@@ -121,6 +134,8 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 - [[tipologia-barrial]] — la heterogeneidad del efecto según el tipo de barrio
 - [[policia-comunitaria]] — las evaluaciones del Plan Cuadrante
 - [[valdivia-violencia-en-el-noviazgo]] — el mismo diagnóstico, desde la violencia en el noviazgo
+- [[tudela-analisis-criminal]] — el mismo autor en 2015: el obstáculo policial y el método de Sherman
+- [[analisis-criminal]] — la evaluación como último paso del ciclo del analista
 - [[weisburd-el-lugar-importa]] — el estándar experimental
 
 **Por confrontar.** Las metodológicas de S1.2 en la tanda 2 —Batthyány y Cabrera (2011), CIPC (2015)— y el Tudela (2015) de la tanda 1.
@@ -154,6 +169,11 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 [^ext-25]: **Extraído** — [[valdivia-violencia-en-el-noviazgo]], p. 16.
 [^ext-26]: **Extraído** — [[valdivia-violencia-en-el-noviazgo]], pp. 15-16, sobre Martínez y Rey (2014) y Lundgren y Amin (2015).
 [^ext-27]: **Extraído** — [[valdivia-violencia-en-el-noviazgo]], p. 15, sobre Hoefer, Black y Ricard (2015).
+[^ext-28]: **Extraído** — [[tudela-analisis-criminal]], p. 144.
+[^ext-29]: **Extraído** — [[tudela-analisis-criminal]], p. 140.
+[^ext-30]: **Extraído** — [[tudela-analisis-criminal]], p. 148, sobre Sherman (2013a, 2013b).
+[^ext-31]: **Extraído** — [[tudela-analisis-criminal]], pp. 144 y 146.
 [^inf-1]: **Inferido** (confianza 0.7) — lectura propia al comparar las tres fuentes. Ninguna discute a las otras. Tudela no cita a Weisburd ni a la guía.
 [^inf-2]: **Inferido** (confianza 0.7) — contraste entre las conclusiones, el cap. VII y el estándar del cap. II, nota 3. No es un juicio sobre la política, sino sobre lo que el libro demuestra de ella.
 [^inf-3]: **Inferido** (confianza 0.7) — la revisión da el hallazgo por comprobado sin discutir si es causal. El estudio de Hoefer y otros no está en el corpus.
+[^inf-4]: **Inferido** (confianza 0.7) — contraste propio entre [[tudela-analisis-criminal]], p. 144, y [[vanderschueren-prevencion-del-delito]], cap. I, p. 36. Ninguno discute al otro.

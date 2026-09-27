@@ -1,13 +1,13 @@
 ---
 title: Policía de puntos calientes
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-09-27
 ---
 
 # Policía de puntos calientes
@@ -15,7 +15,7 @@ actualizado: 2026-09-26
 Estrategias policiales que concentran recursos en los pocos microlugares donde se concentra el delito, en lugar de repartirlos al azar por todo el territorio [^ext-1]. Es la aplicación directa de la ley de concentración: si el 5 % de las calles produce la mitad del delito, patrullar todas por igual es ineficiente [^ext-2]. Ver [[puntos-calientes]].
 
 > [!note] Página construida desde sus proponentes
-> La única fuente es [[weisburd-el-lugar-importa]], cuyos autores diseñaron varios de los experimentos que aquí se citan y dirigen la revisión Campbell sobre el tema. Las críticas aparecen reportadas y respondidas por ellos mismos. Por eso la página queda en borrador hasta que entre una fuente crítica independiente.
+> La fuente principal es [[weisburd-el-lugar-importa]], cuyos autores diseñaron varios de los experimentos que aquí se citan y dirigen la revisión Campbell sobre el tema. Las críticas aparecen reportadas y respondidas por ellos mismos. Desde el 27-09-2026 hay una segunda fuente, [[tudela-analisis-criminal]], pero toma su evidencia de Telep y Weisburd. La página sigue en borrador hasta que entre una fuente crítica independiente.
 
 ## El punto de partida
 
@@ -68,6 +68,16 @@ Dos experimentos lo muestran por dentro:
 
 **Lo que los autores reconocen.** El libro admite la controversia sobre el *stop, question and frisk* en Nueva York y otras ciudades, con fuertes disparidades raciales, y la preocupación de que la criminología del lugar sirva de excusa para prácticas agresivas [^ext-17]. Su respuesta es que la orientación a problemas puede mitigarlo, porque abre la definición de los problemas al público y se centra en cambiar condiciones más que en detener. Cincinnati adoptó ese enfoque bajo supervisión judicial tras acusaciones de sesgo racial [^ext-17]. Piden experimentos que prueben si una policía de puntos calientes con justicia procedimental mejora la legitimidad y la efectividad a la vez [^ext-18]. Ver [[legitimidad-policial]].
 
+## Desde el análisis criminal latinoamericano
+
+Añadido el 27-09-2026 al ingerir [[tudela-analisis-criminal]], que lleva esta evidencia al trabajo de los analistas de policías y fiscalías de la región.
+
+- **El balance.** Hay evidencia mixta sobre la eficacia del modelo estándar de policía, y mucho más concluyente a favor de la acción focalizada en los puntos de mayor concentración del delito. Cuanto más focalizada y orientada a resolver problemas, más eficaz [^ext-19].
+- **Lo que no funciona.** Saturar con vigilancia no disminuye el delito y favorece el desplazamiento. Tampoco sirven responder más rápido a las llamadas ni el patrullaje en moto o a pie (Karn, 2013) [^ext-20].
+- **Los detectives.** Propone llevarlos también a los puntos calientes, con informantes, en vez de limitarlos a cerrar casos después de ocurridos (Telep y Weisburd, 2011) [^ext-21].
+
+**Lo que no aporta es independencia.** El balance viene del National Research Council (2004) y de Telep y Weisburd (2011) [^ext-19]. Es la misma voz que la de la fuente principal, ahora citada desde Chile [^inf-1]. Ver [[analisis-criminal]].
+
 ## Cita
 
 > "Hot spots policing and problem-oriented policing at places remain the most scientifically supported interventions" [La policía de puntos calientes y la orientada a problemas en lugares siguen siendo las intervenciones con mayor respaldo científico]
@@ -82,6 +92,8 @@ Dos experimentos lo muestran por dentro:
 - [[legitimidad-policial]] — el costo que podría tener, y lo que se sabe
 - [[ventanas-rotas]] — con la que no debe confundirse: el patrullaje focalizado no es tolerancia cero
 - [[policia-comunitaria]] — el otro gran modelo policial registrado en la wiki
+- [[tudela-analisis-criminal]] — segunda fuente, con la evidencia de los mismos autores
+- [[analisis-criminal]] — el oficio que identifica los puntos y evalúa la estrategia
 
 El módulo 2 de `programa/S1.1` trata la creación de la institución policial y el debate sobre legitimidad y proximidad. La bibliografía específica de ese módulo no está en el corpus.
 
@@ -105,3 +117,7 @@ El módulo 2 de `programa/S1.1` trata la creación de la institución policial y
 [^ext-16]: **Extraído** — [[weisburd-el-lugar-importa]], p. 126.
 [^ext-17]: **Extraído** — [[weisburd-el-lugar-importa]], p. 157.
 [^ext-18]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 126-127.
+[^ext-19]: **Extraído** — [[tudela-analisis-criminal]], p. 146, sobre National Research Council (2004) y Telep y Weisburd (2011).
+[^ext-20]: **Extraído** — [[tudela-analisis-criminal]], p. 147, sobre Karn (2013).
+[^ext-21]: **Extraído** — [[tudela-analisis-criminal]], p. 147, sobre Telep y Weisburd (2011).
+[^inf-1]: **Inferido** (confianza 0.8) — por las fuentes que Tudela declara. Weisburd es coautor de la revisión que cita y editor de [[weisburd-el-lugar-importa]].

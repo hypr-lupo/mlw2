@@ -8,6 +8,42 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-09-27] ingesta | Tudela (2015), análisis criminal y estrategias policiales basadas en la evidencia
+
+**Quinta y última ingesta de la tanda 1, la marcada «si alcanza». La tanda queda cerrada
+antes del 02-10.**
+
+- Ficha creada: [[tudela-analisis-criminal]]. Artículo de reflexión de la *Revista
+  Criminalidad*, 2015, del autor del cap. II del libro de 2021 y docente de S1.2.
+- Páginas creadas (1): [[analisis-criminal]] —definición, siete tipos, ciclo de ocho pasos,
+  el paso de la información al conocimiento y su elección teórica por la oportunidad—.
+- Páginas actualizadas (4):
+  · [[evaluacion-de-programas]] —dos sentidos de «por qué», el obstáculo policial, el
+    método de Sherman y la evolución del autor entre 2015 y 2021—;
+  · [[policia-de-puntos-calientes]] —segunda fuente, pero con la evidencia de Telep y
+    Weisburd—;
+  · [[legitimidad-policial]] —la crisis regional en encuestas y la legitimidad como efecto
+    de la eficacia—;
+  · [[policia-comunitaria]] —la ineficacia del patrullaje a pie y aleatorio, y la mención
+    de la evaluación del Plan Cuadrante—.
+  Más [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: 2 nuevas, más 1 convergencia.
+  · **Dos sentidos de «por qué».** Para Tudela (2015), el análisis sirve a la prevención
+    «en lugar de» entender a los infractores; para Vanderschueren, hay que identificar las
+    causas. En [[evaluacion-de-programas]] y [[analisis-criminal]].
+  · **Legitimidad por el trato o por el desempeño.** Sampson frente a Tudela: dos vías que
+    no se excluyen pero piden políticas distintas. En [[legitimidad-policial]].
+  · **Convergencia:** el patrullaje a pie no es lo que funciona, desde Sampson y desde
+    Karn. En [[policia-comunitaria]].
+- En revisión: tres enmiendas —el Plan Cuadrante, que Tudela sólo nombra; las teorías de la
+  oportunidad, que invoca una sexta página; y PADS+, que sigue esperando una fuente de
+  diseño de investigación—. La cola sigue en 26 abiertos.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-09-27-tudela-analisis-criminal.md`.
+- Notas: su evidencia sobre puntos calientes no es independiente de Weisburd, y la de
+  evaluación no lo es del cap. II de 2021. El autor dirigía el programa de análisis
+  delictual que cita como buena práctica. Toca seis páginas de contenido, ficha incluida.
+
 ## [2026-09-27] ingesta | Ley 21.675 (2024), violencia contra las mujeres en razón de su género
 
 **Fuera del orden por calendario, por decisión del autor. Primera norma de la wiki; corrige

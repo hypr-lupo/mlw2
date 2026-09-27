@@ -8,8 +8,8 @@ sources: []
 
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
-**Al 27-09-2026: núcleo ancla completo y cuatro fuentes de la tanda 1 dentro.** Trece
-fuentes de 117, cuarenta y nueve páginas, **siete de ocho clústeres poblados**. Las
+**Al 27-09-2026: núcleo ancla completo y tanda 1 cerrada.** Catorce fuentes de 117,
+cincuenta y una páginas, **siete de ocho clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
 por decisión del autor, un proyecto de tesis de Derecho inédito, Zúñiga Núñez (2013),
@@ -43,6 +43,11 @@ prevalencia varias veces. La acompaña la primera norma de la wiki,
 [[ley-21675-violencia-de-genero]], que desde 2024 incluye el pololeo en la violencia
 intrafamiliar y corrige en parte el estado legal que la revisión describía. El femicidio
 queda por verificar.
+
+**Y el oficio del analista.** [[tudela-analisis-criminal]], del docente de S1.2, trae
+[[analisis-criminal]]: qué hace un analista, en siete tipos y un ciclo de ocho pasos, y la
+propuesta de que evalúe las estrategias de su propia institución. Su evidencia sobre
+policía viene de Weisburd y otros, así que no confirma a esa fuente: la repite desde Chile.
 
 ## Seis respuestas a la misma pregunta
 
@@ -160,6 +165,15 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     victimización iguales o mayores en hombres. No lo discute; los femicidios que cita sí
     son asimétricos. Ver [[violencia-en-el-noviazgo]].
 
+**Las dos que abre Tudela (2015)**
+
+21. **Dos sentidos de «por qué».** Tudela pone el análisis criminal «en lugar de» la
+    etiología, con teorías de la oportunidad; Vanderschueren pide identificar las causas
+    del comportamiento delictual. Ver [[evaluacion-de-programas]] y [[analisis-criminal]].
+22. **Legitimidad por el trato o por el desempeño.** Sampson la construye desde la justicia
+    procedimental; Tudela, desde la eficacia demostrada. No se excluyen, pero piden
+    políticas distintas. Ver [[legitimidad-policial]].
+
 **La que más va a pesar en el trabajo evaluado de S1.1.**
 [[onu-habitat-guia-barrios]] incorpora la teoría de las ventanas rotas dentro de su
 [[tipologia-barrial]], y [[sampson-vecindario-y-comunidad]] la declara espuria.
@@ -203,6 +217,8 @@ inventario. Ver [[ventanas-rotas]].
 - **Contar la historia policial chilena.** [[policia-comunitaria]] y
   [[legitimidad-policial]]: por qué Carabineros no habla de policía comunitaria, qué
   fue el Plan Cuadrante y por qué los propios autores lo dan por fallido.
+- **Describir el oficio del analista.** [[analisis-criminal]]: qué tipo de análisis
+  necesita cada usuario y cómo cerrar el ciclo con la evaluación.
 - **Leer una cifra de prevalencia.** [[violencia-en-el-noviazgo]] muestra cuánto
   cambia según se pregunte por la etiqueta o por la conducta, la muestra y la ventana de
   tiempo.
@@ -262,16 +278,17 @@ dirección. Elegirla o no es decisión del autor.
   tanda 3; Gottfredson y Hirschi (1990) en la tanda 4.
 - **Hablar de criminalización desde sus autores.** Baratta (2004) en la tanda 3;
   Ferrajoli en la tanda 6.
-- **Contrastar métodos.** `wiki/methodology/` tiene tres páginas. De S1.2 entraron el
-  capítulo de Tudela sobre evaluación y la revisión de Valdivia-Peralta y otros. La
-  medición de la victimización espera al informe del INE (2023), en la tanda 2.
+- **Contrastar métodos.** `wiki/methodology/` tiene cuatro páginas, ninguna sobre diseño
+  de investigación. La medición de la victimización espera al informe del INE (2023), y el
+  diseño, a Batthyány y Cabrera (2011), los dos en la tanda 2.
 - **Clasificar grupos criminales.** No hay `subtipo` de `entity` donde quepan el PCC o
   las milícias. Material de la operación 8.
 
 ## Orden de ingesta
 
 Hasta el 27-11-2026 manda el **orden por calendario** fijado en [[purpose]]: seis
-tandas, cada una cerrada antes de la clase que la usa. De la tanda 1 queda sólo Tudela
-(2015), si alcanza antes del 02-10; la tanda 2 se cierra el 10-10. Después de la sexta
-vuelve el orden por cúmulos.
+tandas, cada una cerrada antes de la clase que la usa. La tanda 1 quedó cerrada el
+27-09. Sigue la tanda 2, que cierra el 10-10: Batthyány y Cabrera (2011), Vives Varela y
+Hamui Sutton (2021), INE (2023), Srur (2014), pp. 26-45, el capítulo de Boba en Tudela (ed.)
+(2010) y CIPC (2015). Después de la sexta vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.

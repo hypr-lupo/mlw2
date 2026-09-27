@@ -1,13 +1,13 @@
 ---
 title: Policía comunitaria
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-09-27
 ---
 
 # Policía comunitaria
@@ -27,6 +27,8 @@ Aquí está la tesis más útil del texto para el diseño de una intervención, 
 **El dispositivo concreto.** Las reuniones de barrio: encuentros periódicos entre policía y residentes en instituciones públicas de fácil acceso —iglesias, escuelas—, cuyo objeto es que la comunidad participe del proceso de resolución de problemas [^ext-4]. La evidencia de la Chicago Alternative Policing Strategy las señala como uno de los signos más visibles y originales del modelo, y su interés específico está en que pueden promover el tipo de participación que resulta problemático en barrios pobres [^ext-4].
 
 **La lógica que la conecta con la teoría.** Si nueve de cada diez encuentros entre policía y ciudadanos nacen de una llamada del ciudadano, los residentes son agentes centrales del control del delito y no receptores pasivos de la actuación policial [^ext-5]. La implicación es que el policía actúe como catalizador para difundir un sentimiento de propiedad sobre los espacios públicos y activar el control social informal [^ext-1]. Ver [[eficacia-colectiva]].
+
+**Una confirmación desde otra literatura.** Añadido el 27-09-2026. [[tudela-analisis-criminal]] recoge una revisión según la cual el patrullaje en moto o a pie no mejora las tasas de delito, y responder más rápido a las llamadas no aumenta las detenciones (Karn, 2013) [^ext-32]. Para Tudela, el patrullaje preventivo aleatorio y la reducción de tiempos de respuesta están obsoletos [^ext-33]. Es lo mismo que sostiene Sampson por otra vía: el valor no está en la presencia a pie [^inf-2].
 
 ## Fuerza de la evidencia
 
@@ -99,6 +101,8 @@ Las conclusiones del libro constatan que el MICC sigue siendo una minoría dentr
 
 **Por comparación.** Guajardo presenta como casos exitosos de proximidad a dos municipios mexicanos, Escobedo y Nezahualcóyotl, sin cifras [^ext-31].
 
+**Su evaluación como objeto de estudio.** Tudela (2015) menciona la evaluación del Plan Cuadrante como uno de los primeros casos en que la actuación de la policía chilena se volvió objeto de análisis, junto al Sistema Táctico de Análisis Delictual [^ext-34]. No describe el plan ni sus resultados. Ver [[analisis-criminal]].
+
 ## Condición de fracaso
 
 Donde la policía es recibida con desconfianza —barrios de minorías étnicas, que soportan las mayores tasas de violencia—, los esfuerzos de cooperación fracasan aunque los residentes compartan el deseo de que haya menos delito e incluso estén dispuestos a participar [^ext-7]. Es decir: la voluntad vecinal no basta; la legitimidad es previa. Ver [[legitimidad-policial]].
@@ -117,6 +121,7 @@ Donde la policía es recibida con desconfianza —barrios de minorías étnicas,
 - [[vanderschueren-guia-prevencion-barrios]] — la función policial graduada por tipo de barrio
 - [[vanderschueren-prevencion-del-delito]] — proximidad frente a comunitaria, el Plan Cuadrante y el MICC
 - [[prevencion-del-delito]] — la prevención disuasiva de las rondas frente a la prevención «real»
+- [[tudela-analisis-criminal]] — la ineficacia del patrullaje a pie y aleatorio
 
 El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía de proximidad**, junto con el debate sobre legitimidad policial. La bibliografía que lo cubriría —Vanderschueren, García y Quezada (2026)— no está en el corpus. Desde el 26-09-2026 el módulo tiene además los capítulos de Frey y Guajardo sobre Carabineros, con la distinción entre proximidad y policía comunitaria.
 
@@ -153,5 +158,9 @@ El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía d
 [^ext-29]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VI, pp. 155-156 y nota 4.
 [^ext-30]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VI, pp. 157-159.
 [^ext-31]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VI, pp. 161-162.
+[^ext-32]: **Extraído** — [[tudela-analisis-criminal]], p. 147, sobre Karn (2013).
+[^ext-33]: **Extraído** — [[tudela-analisis-criminal]], p. 148.
+[^ext-34]: **Extraído** — [[tudela-analisis-criminal]], p. 146.
 [^inf-1]: **Inferido** (confianza 0.6) — Guajardo no cita a Sampson. La coincidencia es de esta wiki.
+[^inf-2]: **Inferido** (confianza 0.6) — convergencia construida por esta wiki entre [[sampson-vecindario-y-comunidad]], p. 243, y [[tudela-analisis-criminal]], p. 147. Tudela no cita a Sampson.
 [^amb-1]: **Ambiguo** — Frey lo llama Modelo de «Integración» Carabineros Comunidad (cap. V, p. 133); Guajardo y las conclusiones, de «Interacción» (cap. VI, p. 154; conclusiones, p. 385).

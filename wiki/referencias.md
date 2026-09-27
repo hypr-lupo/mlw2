@@ -55,6 +55,13 @@ pp. 235-247). Fundación Democracia y Gobierno Local. (Obra original publicada e
 2004 en *New Economy*, pp. 106-113)
 → [[sampson-vecindario-y-comunidad]] · verificación bibliográfica pendiente
 
+Tudela, P. (2015). Análisis criminal, proactividad y desarrollo de estrategias policiales
+basadas en la evidencia. *Revista Criminalidad, 57*(1), 137-152.
+→ [[tudela-analisis-criminal]] · verificada contra la portada, que da la forma de cita ·
+**artículo de reflexión**: no presenta datos propios, y su evidencia sobre estrategias
+policiales es de terceros; su autor dirigía el programa de análisis delictual que cita
+como buena práctica
+
 Universidad Alberto Hurtado. (2026). *Magíster en Prevención, Seguridad Urbana y
 Política Criminal* [Folleto del programa]. Facultad de Ciencias Sociales.
 → [[programa-magister-uah]] · verificación bibliográfica pendiente

@@ -78,6 +78,12 @@
       "bytes": 156586,
       "ingerido": "2026-09-27",
       "ficha": "wiki/sources/ley-21675-violencia-de-genero.md"
+    },
+    "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf": {
+      "sha256": "75cdfb5bbdf6913d785a0461fb254c9bf9291550f8bc08cf9daa305ebeb43d5b",
+      "bytes": 595262,
+      "ingerido": "2026-09-27",
+      "ficha": "wiki/sources/tudela-analisis-criminal.md"
     }
   }
 }

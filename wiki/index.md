@@ -9,7 +9,7 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 49 páginas · 13 fuentes ingeridas de 117 · **núcleo ancla S1.1 completo** ·
+**Estado:** 51 páginas · 14 fuentes ingeridas de 117 · **núcleo ancla S1.1 completo** ·
 tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados · ver
 [[pendientes]] y `ESTADO.md`.
 
@@ -51,8 +51,8 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
   desde Santiago y Rio (2 fuentes)
 - [[legitimidad-policial]] — condición de posibilidad de la cooperación entre
   vecinos y policía, con evidencia de Boston, Cali y México; y si la focalización la
-  erosiona; autoridad frente a acatamiento por temor; y la crisis de autonomía de
-  Carabineros (6 fuentes)
+  erosiona; autoridad frente a acatamiento por temor; la crisis de autonomía de
+  Carabineros; y la legitimidad como efecto de la eficacia (7 fuentes)
 - [[mano-dura-y-militarizacion]] — la política dominante de la región, su
   popularidad transversal, la evidencia sobre sus efectos, y México y la edad penal
   desde la prevención (2 fuentes)
@@ -68,9 +68,10 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
   hoy lo único que el corpus ofrece para S2.4 (1 fuente)
 - [[policia-comunitaria]] — el modelo policial derivado de la eficacia colectiva, las
   UPP de Rio como caso de reversión, la policía como socio y no líder en el barrio
-  crítico, y el Plan Cuadrante y el MICC en Chile (5 fuentes)
+  crítico, y el Plan Cuadrante y el MICC en Chile (6 fuentes)
 - [[policia-de-puntos-calientes]] — la estrategia policial mejor evaluada: la curva de
-  Koper, los metaanálisis y el costo en legitimidad (1 fuente)
+  Koper, los metaanálisis y el costo en legitimidad; una segunda fuente que repite a la
+  primera (2 fuentes)
 - [[prevencion-del-delito]] — dos concepciones, tres clasificaciones que no calzan,
   factores de riesgo como base o límite, y por qué el éxito de la prevención no se ve
   (1 fuente)
@@ -106,6 +107,9 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
 
 ## Métodos
 
+- [[analisis-criminal]] — el oficio del analista: siete tipos, un ciclo de ocho pasos y
+  el paso de gestionar información a gestionar conocimiento; y su elección teórica por la
+  oportunidad (1 fuente)
 - [[analisis-espacial-del-delito]] — autocorrelación, falacia ecológica, unidad
   modificable y efecto de borde; sitio y situación; técnicas de predicción (1 fuente)
 - [[diagnostico-barrial]] — muestreo por tipología en vez de censo de barrios, y la
@@ -113,8 +117,9 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
   diagnóstico participativo en el barrio vulnerado y de expertos en el crítico
   (3 fuentes)
 - [[evaluacion-de-programas]] — no basta saber qué funciona, sino por qué; evidencia,
-  implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; y el
-  mismo diagnóstico desde la violencia en el noviazgo (3 fuentes)
+  implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; el
+  mismo diagnóstico desde la violencia en el noviazgo; y dos sentidos de «por qué»
+  (4 fuentes)
 
 ## Fuentes
 
@@ -135,6 +140,9 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
   institucional del programa
 - [[sampson-vecindario-y-comunidad]] — Sampson, 2006. Obligatoria de S1.1,
   módulo 3. Primera del núcleo ancla
+- [[tudela-analisis-criminal]] — Tudela, 2015. Artículo de reflexión del docente de
+  S1.2, desde la Fundación Paz Ciudadana. Su evidencia sobre puntos calientes viene de
+  Weisburd. Quinta y última de la tanda 1
 - [[valdivia-violencia-en-el-noviazgo]] — Valdivia-Peralta y otros, 2019. Obligatoria
   de la clase 4 de S1.2. Revisión narrativa de prevalencias, no investigación primaria;
   la cifra de su resumen viene de muestras de universitarios. Cuarta de la tanda 1

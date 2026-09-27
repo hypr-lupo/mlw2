@@ -106,6 +106,11 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       produciría una ficha de estudio, no una página de método. Nota: el diseño
       completo está en Wikström y otros (2012), *Breaking Rules*, que no está en el
       corpus.
+      **Enmienda 27-09-2026:** entraron dos fuentes de Tudela —el cap. II del libro de
+      2021 y su artículo de 2015 sobre análisis criminal— y ninguna trae diseño de
+      investigación: tratan de evaluación de programas y de análisis policial.
+      `wiki/methodology/` tiene ahora cuatro páginas, pero ninguna sobre diseño. El
+      criterio espera a Batthyány y Cabrera (2011), en la tanda 2.
 
 - [ ] **[esquema]** Los grupos criminales no tienen dónde caber — un grupo como el
       PCC, las milícias de Rio o un cartel no encaja en ninguno de los cinco
@@ -203,6 +208,9 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       Criterio: crearla con Clarke (1997) y Felson y Eckert (2016), que están en el
       corpus y entran en la tanda 4. Escribirla desde Weisburd sería escribirla
       desde el resumen de quien las usa, no desde sus autores.
+      **Enmienda 27-09-2026** (ingesta de [[tudela-analisis-criminal]]): una sexta página
+      las invoca. [[analisis-criminal]] las declara, con la elección racional, las teorías
+      principales del oficio del analista. El criterio no cambia.
 
 - [ ] **[investigar]** ¿Vale la ley de concentración del delito en una comuna
       chilena? [[weisburd-el-lugar-importa]] no reporta ningún estudio de
@@ -329,6 +337,11 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       Tudela (2015), en la misma tanda. Lleva `vigencia` obligatoria, y el libro dice que
       hoy sólo queda la división territorial. Las evaluaciones de la Dipres no están en el
       corpus.
+      **Enmienda 27-09-2026** (ingesta de [[tudela-analisis-criminal]]): Tudela (2015) lo
+      nombra una sola vez, como una de las primeras estrategias policiales chilenas cuya
+      evaluación convirtió a la policía en objeto de análisis (p. 146). No lo describe: el
+      criterio sigue sin cumplirse. La candidata más probable del corpus es Luneke y
+      Trebilcock (2023), sobre la política criminal chilena de 1990 a 2017, en la tanda 6.
 
 - [ ] **[entidad]** «Política de seguridad de Peñalolén» — la primera política
       municipal chilena de la wiki, con doce años documentados: unidad en 2005, dirección

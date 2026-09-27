@@ -9,7 +9,7 @@ sources: []
 Artefacto operativo para retomar. Se actualiza al cerrar sesión.
 
 **Estado al 27-09-2026.** Núcleo ancla S1.1 **completo** y tanda 1 del orden por
-calendario en curso. 13 fuentes de 117 documentos, 49 páginas, **siete de ocho
+calendario en curso. 14 fuentes de 117 documentos, 51 páginas, **siete de ocho
 clústeres poblados**: sólo queda vacío `caso-de-grado`. Cobertura de S1.1: 17 de 32
 títulos oficiales, 53 %. La cobertura cuenta presencia en el corpus, no ingesta, así que
 ninguna de las ingestas de hoy la mueve.
@@ -57,6 +57,11 @@ incorpora el pololeo a la violencia intrafamiliar y corrige en parte lo que desc
 Valdivia-Peralta y otros. Deja una ficha y dos páginas actualizadas. El femicidio sigue sin
 verificar: ver [[revision]].
 
+**Quinta ingesta: la tanda 1 queda cerrada.** Entró Tudela (2015), sobre análisis criminal y
+estrategias policiales basadas en la evidencia. Deja una ficha, una página nueva
+—[[analisis-criminal]]— y cuatro actualizadas. Lo que sigue es la tanda 2, que cierra el
+10-10.
+
 ## Lo que bloquea
 
 *Nada. Las dos decisiones que bloqueaban el 12-09-2026 se resolvieron el 13-09-2026 y
@@ -86,7 +91,7 @@ Queda esto en manos del autor, y **no bloquea la ingesta**:
 
 ## Fuentes por ingerir
 
-Al 27-09-2026 quedan 99 pendientes de un universo de 111: los 117 archivos del
+Al 27-09-2026 quedan 98 pendientes de un universo de 111: los 117 archivos del
 corpus menos los 6 programas oficiales. Diez de ellos están en cuarentena sin plazo. El
 orden está fijado en [[purpose]]; el detalle documento por documento lo da `python
 scripts/estado.py`.
@@ -94,10 +99,10 @@ scripts/estado.py`.
 **Hasta el 27-11-2026 manda el orden por calendario** (ajuste del 26-09-2026 en
 [[purpose]]). Cada tanda se cierra antes de la clase que la usa:
 
-- [ ] **Tanda 1, antes del 02-10:** ~~Weisburd y otros (2016)~~, ingerida el 26-09 ·
+- [x] **Tanda 1, antes del 02-10, cerrada el 27-09:** ~~Weisburd y otros (2016)~~, ingerida el 26-09 ·
       ~~Vanderschueren (2015), guía de barrios~~, ingerida el 26-09 · ~~Vanderschueren,
       Díaz y Guajardo (2021)~~, ingerida el 26-09 · ~~Valdivia y otros (2019)~~,
-      ingerida el 27-09 · *si alcanza:* Tudela (2015)
+      ingerida el 27-09 · ~~Tudela (2015)~~, ingerida el 27-09
 - [ ] **Tanda 2, antes del 10-10:** Batthyány y Cabrera · Vives Varela y Hamui Sutton ·
       INE (2023) · Srur, pp. 26-45 · Tudela (ed.) (2010), capítulo de Boba · CIPC (2015)
 - [ ] **Tanda 3, antes del 16-10:** Baratta (2004), caps. I-II, IV, VII y VIII ·
@@ -133,9 +138,9 @@ Después de la tanda 6 vuelve el orden por cúmulos:
       26-09-2026 y de ahí nació [[puntos-calientes]]
 - [ ] Sistema penal y Estado de derecho — 7 restantes. Contiene P1 de S1.3. Zúñiga
       Núñez (2013) entró y se ingirió el 26-09-2026, fuera de orden
-- [ ] Integrados desde el programa del curso — 7 restantes. Contiene P1 de S1.2.
-      Vanderschueren, Díaz y Guajardo (2021) entró el 26-09-2026 y Valdivia y otros
-      (2019), el 27-09-2026
+- [ ] Integrados desde el programa del curso — 6 restantes. Contiene P1 de S1.2.
+      Vanderschueren, Díaz y Guajardo (2021) entró el 26-09-2026; Valdivia y otros
+      (2019) y Tudela (2015), el 27-09-2026
 - [ ] Vínculo Estado-crimen — 18. Material de reserva del electivo S3.E4, y donde vive
       la discusión clásica que hoy le falta a [[debilidad-estatal]]
 - [ ] Amenaza y securitización — 24. Material de reserva del electivo S3.E4
@@ -242,6 +247,10 @@ refutación, un uso y un balance de evidencia; ninguna es la defensa de sus auto
       posiciones. En [[prevencion-del-delito]]
 - [ ] **¿Coproducir es prevenir?** Tudela frente a Peñalolén, y la coproducción
       ausente en el nivel central. En [[coproduccion-de-seguridad]]
+- [ ] **Dos sentidos de «por qué».** Tudela (2015) pone el análisis «en lugar de» la
+      etiología; Vanderschueren pide identificar las causas. En [[evaluacion-de-programas]]
+- [ ] **Legitimidad por el trato o por el desempeño.** Sampson, justicia procedimental;
+      Tudela, eficacia demostrada. En [[legitimidad-policial]]
 - [ ] **¿Violencia de género o violencia mutua?** Valdivia-Peralta y otros encuadran la
       violencia en el noviazgo como violencia de género, y varios de los estudios que
       compilan miden tasas iguales o mayores en hombres. En [[violencia-en-el-noviazgo]]
@@ -267,7 +276,9 @@ refutación, un uso y un balance de evidencia; ninguna es la defensa de sus auto
       ahora tiene tres sentidos, el año de Adams, el de la guía de barrios y Quiero mi
       Barrio. La de Valdivia-Peralta y otros abrió dos —la página de medición de la
       victimización, que espera al INE (2023), y el estado legal de la violencia en el
-      pololeo después de 2019— y enmendó el de criminalización.
+      pololeo después de 2019— y enmendó el de criminalización. La Ley 21.675 lo resolvió
+      en parte. La de Tudela (2015) enmendó tres: Plan Cuadrante, teorías de la oportunidad y
+      PADS+.
 
 ## Preguntas abiertas
 
