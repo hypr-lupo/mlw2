@@ -8,6 +8,73 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-09-26] ingesta | Vanderschueren, Díaz y Guajardo (eds.) (2021), Prevención del delito y la violencia
+
+**Tercera ingesta de la tanda 1. Primera fuente con material chileno de primera mano, y
+la primera que le da a la prevención páginas propias.**
+
+- Ficha creada: [[vanderschueren-prevencion-del-delito]]. Libro colectivo de Ediciones
+  UAH, 2021, arbitrado, con quince capítulos de dieciocho autores. Bibliografía de S1.1;
+  el cap. II, de Tudela, lo pide la clase 1 de S1.2.
+- Páginas creadas (4):
+  · [[prevencion-del-delito]] —dos concepciones, tres clasificaciones, el problema de la
+    homologación, los factores de riesgo y las dos paradojas—;
+  · [[evaluacion-de-programas]] —prevención basada en evidencia, ciencia de la
+    implementación y el diagnóstico de las evaluaciones de la Dipres—;
+  · [[criminologia-del-curso-de-vida]] —en borrador: es una reseña, y Blanco (2011)
+    llega en la tanda 3—;
+  · [[mediacion-comunitaria]] —con la guía de 2010 como segunda fuente; resuelve un ítem
+    de revisión—.
+- Páginas actualizadas (11):
+  · [[policia-comunitaria]] —proximidad frente a comunitaria, el Plan Cuadrante, el MICC—;
+  · [[legitimidad-policial]] —la crisis de Carabineros y la tesis de la insularidad—;
+  · [[eficacia-colectiva]] —su condición policial en América Latina—;
+  · [[desplazamiento-y-difusion]] —la posición contraria y el portonazo—;
+  · [[miedo-social]] —la brecha del temor en Maipú y Peñalolén—;
+  · [[mano-dura-y-militarizacion]] —México, las maras, la edad penal—;
+  · [[coproduccion-de-seguridad]] —su ausencia en el nivel central chileno—;
+  · [[tipologia-barrial]], [[teoria-accion-situacional]], [[violencia-cronica]] y
+    [[magister-prevencion-uah]], una nota cada una.
+  Más [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: 5 nuevas, más 2 convergencias y 5 ambigüedades internas
+  al libro.
+  · **¿Es inevitable el desplazamiento?** El cap. I dice que sí; las revisiones que
+    reúne Weisburd, que no. Se acota: el portonazo es un desplazamiento de táctica y de
+    gravedad, que esas revisiones no miden. En [[desplazamiento-y-difusion]].
+  · **Tres ideas de evidencia**, y las conclusiones del libro afirmando sin evaluación
+    que Peñalolén bajó los delitos. En [[evaluacion-de-programas]] y en la ficha.
+  · **¿Viaja la eficacia colectiva?** En [[eficacia-colectiva]].
+  · **Factores de riesgo: base o límite.** En [[prevencion-del-delito]].
+  · **¿Coproducir es prevenir?** En [[coproduccion-de-seguridad]].
+  · **Convergencias:** el miedo desacoplado del delito, en Guatemala y en Chile; y la
+    mano dura, ahora desde tres literaturas.
+  · **Ambigüedades internas:** el nombre del MICC, el año de la Ley 20.502, la población
+    de Maipú, el tribunal de Roper v. Simmons y la definición de la prevención primaria.
+    Además, el año de inicio del magíster: 2015 en el folleto y 2016 en el libro.
+- En revisión: uno resuelto —la mediación comunitaria—, tres nuevos —el Plan Cuadrante
+  y la política de seguridad de Peñalolén, que esperan una fuente fuera de este libro, y
+  un `[esquema]` sobre las obras colectivas, que aplanan el modelo de relevancia— y cinco
+  enmiendas —Franz Vanderschueren, control social informal, el año de Adams, el de la
+  guía de barrios y Quiero mi Barrio—. La cola queda en 24 abiertos.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-09-26-vanderschueren-prevencion-del-delito.md`.
+- Notas:
+  · **Quién escribe qué.** Varios autores describen instituciones de las que forman
+    parte: el capítulo sobre Peñalolén es de su directora, un coeditor asesora esa
+    dirección, y Frey fue subsecretario de Prevención del Delito. La ficha lo registra.
+  · **No son confirmaciones independientes.** Dos editores escribieron las guías de
+    barrios, y la mediación comunitaria viene de la misma escuela en las dos fuentes.
+  · **Adams.** Las citas con página que hace el cap. XII de «Adams (2012)» calzan con el
+    PDF del corpus: probablemente es la misma traducción. Va como enmienda, sin
+    resolver el año.
+  · **Alcance.** Los caps. XI, XIII y XV —criminalidad financiera, extremismo violento y
+    justicia ambiental— quedan sólo en la ficha. Toca 16 páginas de contenido, ficha
+    incluida, en el límite alto de lo esperable para una obra de este tamaño.
+  · **Grafo.** `grafo.py` la marca como fuente dominante: está en más de un tercio de
+    las páginas. De las referencias cruzadas faltantes que aparecieron, sólo se enlazó
+    [[evaluacion-de-programas]] con [[policia-comunitaria]], por las evaluaciones del
+    Plan Cuadrante. El resto son efecto del libro y quedan sin enlazar a propósito.
+
 ## [2026-09-26] ingesta | Gardner (2007), Prohibiting Immoralities
 
 **Ingesta fuera del orden por calendario, por decisión expresa del autor. Primera fuente

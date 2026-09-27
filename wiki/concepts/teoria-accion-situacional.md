@@ -1,7 +1,7 @@
 ---
 title: Teoría de la acción situacional (TAS)
 type: concept
-sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf"]
+sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
@@ -80,6 +80,12 @@ Los puntos calientes no son propiedades de los lugares sino resultado de proceso
 >
 > La relación no es de pura oposición. Weisburd y otros presentan la TAS como una teoría que pone la situación y la motivación del infractor en el mismo plano, y citan estudios con el método de presupuesto espacio-temporal de Wikström según los cuales las características de los segmentos de calle influyen en el delito, dada la propensión del infractor [^ext-22]. También admiten que sus propios autores no se ponen de acuerdo sobre el papel de la motivación, y concluyen que vincular ambas perspectivas puede enriquecer el estudio del lugar [^ext-23]. La tensión la formula esta wiki. Ver [[puntos-calientes]].
 
+## Leída desde la prevención
+
+Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. El cap. I, de Vanderschueren, la presenta como la corrección de la prevención situacional. El límite de esa prevención, dice, es que no explica cómo la interacción entre persona y ambiente lleva a delinquir, y por eso no puede evitar los desplazamientos. La TAS la corrige «radicalmente» al sostener que la conducta la guían sobre todo hábitos interiorizados, las reglas-guía [^ext-24].
+
+Es una lectura con consecuencia práctica: si el delito depende de la propensión además de la oportunidad, cerrar oportunidades sin tocar la propensión mueve el problema. Pero la afirmación sobre el desplazamiento es del cap. I, no de Wikström, y choca con la evidencia que reúne [[weisburd-el-lugar-importa]]. Ver [[desplazamiento-y-difusion]], donde la contradicción queda acotada [^inf-1].
+
 ## Cita
 
 > "Los delitos son acciones morales"
@@ -94,6 +100,7 @@ Los puntos calientes no son propiedades de los lugares sino resultado de proceso
 - [[autocontrol-y-disuasion]] — por qué el control ocupa un lugar menor del que suele dársele
 - [[eficacia-colectiva]] — la teoría la incorpora como marcador de contexto moral débil y le señala un límite
 - [[puntos-calientes]] — la explicación rival de la concentración del delito
+- [[vanderschueren-prevencion-del-delito]] — la TAS como corrección de la prevención situacional
 
 El módulo 6 de `programa/S1.1` agrupa esta obra con las teorías del control social, la prevención situacional y el ciclo vital, «como explicaciones de la criminalidad y como enfoques preventivos». La TAS acota las tres: el control sólo es relevante bajo condición, y la mayoría de las abstenciones no son actos de contención. Ver [[autocontrol-y-disuasion]].
 
@@ -122,3 +129,5 @@ El módulo 6 de `programa/S1.1` agrupa esta obra con las teorías del control so
 [^ext-21]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 148-150.
 [^ext-22]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 70-71, sobre Wikström (2010) y Bernasco y otros (2013).
 [^ext-23]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 148 y 150.
+[^ext-24]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, pp. 43-44, sobre Wikström (2010).
+[^inf-1]: **Inferido** (confianza 0.6) — el cap. I no discute a Weisburd y otros ni las revisiones sobre desplazamiento. La conexión entre propensión y desplazamiento es lectura de esta wiki a partir del cap. I.

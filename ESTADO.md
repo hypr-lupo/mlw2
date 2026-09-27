@@ -1,6 +1,6 @@
 # Estado del despliegue
 
-**Generado:** 2026-09-26 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
+**Generado:** 2026-09-27 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
@@ -10,10 +10,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 101 | 91.8 % |
+| `pendiente` | 100 | 90.9 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 9 | 8.2 % |
+| `completo` | 10 | 9.1 % |
 
 ## Por cumulo
 
@@ -25,7 +25,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Gobernanza criminal y territorio | 6 | 5 | 0 | 0 | 1 |
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
 | Institucionalidad y política de prevención en Chile | 5 | 5 | 0 | 0 | 0 |
-| Integrados desde el programa del curso (05-09-2026) | 9 | 9 | 0 | 0 | 0 |
+| Integrados desde el programa del curso (05-09-2026) | 9 | 8 | 0 | 0 | 1 |
 | Medición e inseguridad | 6 | 6 | 0 | 0 | 0 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
 | Prevención e intervención | 4 | 3 | 0 | 0 | 1 |
@@ -141,7 +141,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf
 - `pendiente` — 2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf
 - `pendiente` — 2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf
-- `pendiente` — 2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf
+- `completo` — 2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf
 - `pendiente` — 2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf
 - `pendiente` — 2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf
 - `pendiente` — 2023 - Minayo, Deslandes y Gomes - Investigación social, teoría, método y creatividad.pdf

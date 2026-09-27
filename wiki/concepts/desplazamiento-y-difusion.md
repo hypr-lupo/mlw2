@@ -1,7 +1,7 @@
 ---
 title: Desplazamiento del delito y difusión de beneficios
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -51,6 +51,29 @@ Las cifras:
 - El desplazamiento puede tomar **muchas formas y ocurrir a distintas escalas**, y casi toda la investigación mide sólo el desplazamiento espacial inmediato [^ext-11].
 - Depende del **tipo de intervención y de delito** [^ext-11].
 
+## Una posición contraria, y un desplazamiento que no se cuenta
+
+Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]].
+
+**La afirmación.** El cap. I sostiene que el enfoque situacional no puede evitar los desplazamientos: geográficos, a otro tipo de delito o a otros métodos. Y lo atribuye a un límite de fondo, su incapacidad de explicar cómo la interacción entre persona y ambiente lleva a delinquir [^ext-12]. Es lo contrario de la primera conclusión de las revisiones de más arriba.
+
+**El ejemplo: los portonazos.** Desde 2013 se instaló en Chile una tecnología antirrobo eficaz para los autos [^ext-13]:
+
+- el robo pasó del auto estacionado, que bastaba un ladrón desarmado para llevarse, al robo con el conductor al volante;
+- el nuevo delito exige varios operadores dispuestos a usar armas, con riesgo de lesiones y de homicidio;
+- según las estadísticas de detención, lo cometen menores más agresivos que los antiguos ladrones.
+
+El autor lo llama **desplazamiento maligno**, por el riesgo para las víctimas y porque el portonazo forma a menores que pueden terminar como jefes de bandas [^ext-13]. Para él, la causa no es la facilidad del robo sino la rentabilidad de su mercado. Sin atacar a los grupos que lo explotan, las medidas situacionales son paliativos [^ext-14].
+
+**La versión policial.** El cap. VI observa algo parecido en las rondas de Carabineros. Como no se sostienen en el tiempo, el delito se comete antes o después de la presencia policial, o se traslada [^ext-15].
+
+**Cuánto se contradicen.** Menos de lo que parece, por dos razones [^inf-1].
+
+- **Qué desplazamiento se mide.** El portonazo es un desplazamiento de **táctica y de tipo de delito**, no de lugar. Weisburd y otros admiten que casi toda la investigación mide sólo el desplazamiento espacial inmediato [^ext-11]. Ninguna de las revisiones de más arriba habría captado este caso.
+- **Qué se compara.** Que el desplazamiento sea «menor que el delito prevenido» es un recuento de hechos. Un robo violento con conductor no pesa lo mismo que un robo sin contacto. Las revisiones pueden tener razón en el número y el portonazo, en la gravedad.
+
+Queda una diferencia real. El cap. I generaliza desde un caso, sin cifras propias. Las revisiones generalizan desde cientos de observaciones, pero con la medida estrecha. Ninguna fuente de la wiki ha medido el desplazamiento de táctica o de gravedad en Chile.
+
 ## Cita
 
 > "displacement is far from inevitable" [el desplazamiento está lejos de ser inevitable]
@@ -62,6 +85,8 @@ Las cifras:
 - [[policia-de-puntos-calientes]] — donde la evidencia es más sólida
 - [[puntos-calientes]] — el acoplamiento que explica por qué el delito no se mueve
 - [[gestion-de-lugares]] — el caso de Chula Vista, donde la regulación benefició también a moteles de ciudades vecinas
+- [[vanderschueren-prevencion-del-delito]] — la posición contraria y el desplazamiento maligno
+- [[teoria-accion-situacional]] — la teoría que el cap. I propone para corregir el límite que atribuye a la prevención situacional
 
 **Por confrontar.** Clarke (1997), en el corpus sin ingerir, es la obra fundacional de la prevención situacional, que es donde nació esta discusión.
 
@@ -78,3 +103,8 @@ Las cifras:
 [^ext-9]: **Extraído** — [[weisburd-el-lugar-importa]], p. 137, sobre Weisburd y otros (2006).
 [^ext-10]: **Extraído** — [[weisburd-el-lugar-importa]], p. 138.
 [^ext-11]: **Extraído** — [[weisburd-el-lugar-importa]], p. 137.
+[^ext-12]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, p. 43.
+[^ext-13]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, p. 47.
+[^ext-14]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, p. 48.
+[^ext-15]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VI, nota 2, p. 142.
+[^inf-1]: **Inferido** (confianza 0.6) — lectura propia al comparar las dos fuentes. El cap. I no cita a Weisburd ni a las revisiones sobre desplazamiento, y Weisburd y otros no discuten casos latinoamericanos.

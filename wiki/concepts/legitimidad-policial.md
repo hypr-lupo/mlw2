@@ -1,7 +1,7 @@
 ---
 title: Legitimidad policial
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -47,6 +47,24 @@ A la vez, el libro reconoce la controversia por el *stop, question and frisk* en
 
 **Sesgo de fuente.** La respuesta a la objeción la dan los autores de los experimentos cuestionados.
 
+### En Chile: una crisis de autonomía
+
+Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. Es la primera evidencia chilena de esta página, y cambia el ángulo: el problema no aparece como táctica agresiva sino como falta de control civil.
+
+**La crisis.** A inicios de 2019, un desfalco de más de 26 mil millones de pesos, la alteración de pruebas en la Operación Huracán y la muerte de Camilo Catrillanca pusieron en duda la credibilidad de Carabineros. Para Frey, lo que se discute detrás es su excesiva autonomía [^ext-13]. La introducción del libro agrega el estallido social de fines de 2019, que puso en evidencia una necesidad de reforma frenada por los gobiernos sucesivos, en una policía considerada de las mejores de la región [^ext-14].
+
+**Insularidad e instrumentalidad.** Dos tesis sobre la relación entre policía y poder civil. Según la de la insularidad, la policía es un Estado dentro del Estado. Según la de la instrumentalidad, responde mecánicamente a la autoridad civil (Brodeur, 2003) [^ext-15]. Frey sostiene que Carabineros combina las dos: obediencia jerárquica hacia dentro y autonomía hacia el poder civil [^ext-16]. Su conclusión es que la colaboración con los gobiernos desde los noventa modernizó la gestión pero no produjo una policía más democrática, con transparencia y controles externos [^ext-17].
+
+**Las condiciones que ponen los editores.** Las conclusiones del libro vinculan esto con la [[eficacia-colectiva]]. En la región, la eficacia colectiva funciona si la policía ayuda y no neutraliza la acción comunitaria. Eso exige tres condiciones [^ext-18]:
+
+1. niveles aceptables de transparencia;
+2. un modelo de policiamiento en sintonía real con la población;
+3. capacidad de actuar en la [[coproduccion-de-seguridad]].
+
+Las dos últimas suponen rendir cuentas no sólo a la jerarquía policial sino también a las comunidades.
+
+Sampson ponía la legitimidad como condición de la cooperación vecinal. Los editores dicen lo mismo, pero añaden la transparencia y la rendición de cuentas a la comunidad, que en Sampson no aparecen [^inf-5]. Ver [[policia-comunitaria]], donde está la historia del Plan Cuadrante.
+
 ## Cómo se construye: el paraguas de legitimidad
 
 El caso que el texto ofrece es la Coalición de Diez Puntos de Boston, formada a inicios de los noventa por un grupo de sacerdotes ante el aumento de la violencia juvenil [^ext-4]. El conflicto de partida es reconocible: los residentes querían calles más seguras para sus hijos y no estaban dispuestos a que sus hijos fueran detenidos en masa; las tácticas agresivas contra jóvenes negros sólo empeoraron las cosas, y no había consenso sobre qué contaba como actividad policial legítima [^ext-4].
@@ -79,6 +97,7 @@ No se refutan: hablan de objetos distintos. Sampson habla de la cooperación ent
 - [[policia-de-puntos-calientes]] — la estrategia cuyo efecto sobre la legitimidad se discute
 - [[zuniga-civilizacion-y-derechos-humanos]] — la legitimidad entendida como miedo, en el sentido opuesto al de esta página
 - [[gardner-prohibir-inmoralidades]] — la distinción entre autoridad y coerción, que ordena los dos sentidos
+- [[vanderschueren-prevencion-del-delito]] — la crisis de Carabineros y las condiciones de transparencia y rendición de cuentas
 
 El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como contenido propio, y su bibliografía específica no está en el corpus.
 
@@ -100,3 +119,10 @@ El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como
 [^inf-2]: **Inferido** (confianza 0.7) — la distinción entre focalización y tácticas es lectura propia al comparar lo que evalúa cada fuente. [[weisburd-el-lugar-importa]] la sugiere al separar las estrategias de aplicación de la ley de las orientadas a problemas (pp. 123-125), pero no la formula así.
 [^inf-3]: **Inferido** (confianza 0.6) — la advertencia de lectura es propia de esta wiki. Ninguna de las dos fuentes discute a la otra.
 [^inf-4]: **Inferido** (confianza 0.6) — aplicación de la distinción de [[gardner-prohibir-inmoralidades]] a Sampson y a Zúñiga. Gardner habla del derecho en general, no de la policía, y no cita a ninguno de los dos.
+[^ext-13]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. V, p. 120.
+[^ext-14]: **Extraído** — [[vanderschueren-prevencion-del-delito]], introducción, p. 20.
+[^ext-15]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. V, pp. 120-121, sobre Brodeur (2003, p. 34); y conclusiones, p. 384.
+[^ext-16]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. V, pp. 121-122.
+[^ext-17]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. V, pp. 135-136.
+[^ext-18]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, p. 384.
+[^inf-5]: **Inferido** (confianza 0.6) — comparación propia. Las conclusiones no citan a Sampson en ese pasaje; atribuyen la afirmación a «estudios internacionales».

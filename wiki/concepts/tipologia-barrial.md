@@ -1,7 +1,7 @@
 ---
 title: Tipología barrial
 type: concept
-sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf"]
+sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -85,6 +85,14 @@ No hay barrios de alta renta ni históricos patrimoniales. La clasificación se 
 
 **Qué cambió en 2020.** El barrio crítico pasó a llamarse de «violencia crónica o alta complejidad». Es el mismo lugar en la clasificación con otro nombre, y ahora con dos criterios que conviven sin articularse. Uno es la definición de Pearce y Adams, con su umbral de homicidios. Ver [[violencia-cronica]]. El otro es el de 2010, conservado casi palabra por palabra: la imposibilidad de ingresar libremente a desarrollar la política [^ext-23]. Un barrio puede cumplir uno y no el otro [^inf-2]. Se sumaron además dos categorías que 2010 no tenía, alta renta e históricos patrimoniales. De la frontera política quedó la mitad: se conserva que por gobernabilidad sólo unos pocos sectores pueden declararse críticos [^ext-23], y no aparece el párrafo según el cual los gobiernos fijan los indicadores de criticidad según su capacidad de intervenir, ni el costo de clasificar mal.
 
+## Una razón para clasificar: el mismo programa rinde distinto
+
+Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]], donde el primer autor de las dos guías da el argumento que justifica diferenciar la política por tipo de barrio.
+
+El Programa de Parentalidad Positiva tendría más efecto en barrios de ingresos modestos pero organizados que en barrios de alta complejidad, por la calidad del entorno y su menor anomia, con independencia de la calidad de los agentes [^ext-25]. Las conclusiones lo generalizan. En los barrios de alta complejidad, la socialización del propio barrio neutraliza los efectos del programa. Eso obliga a decidir si se aborda el barrio como comunidad, si se focaliza en los sectores más vulnerables o cómo hacer las dos cosas a la vez [^ext-26].
+
+Es el mismo razonamiento de la guía de 2010, que advertía el costo de tratar un barrio crítico como vulnerado, ahora aplicado a un programa concreto. Pero el libro lo presenta como expectativa, no como resultado de una evaluación [^inf-3]. Ver [[evaluacion-de-programas]].
+
 ## Una advertencia sobre la dimensión física
 
 > [!warning] La tipología incorpora las ventanas rotas
@@ -108,6 +116,8 @@ No hay barrios de alta renta ni históricos patrimoniales. La clasificación se 
 - [[coproduccion-de-seguridad]] — el modo de trabajo que la guía prescribe sobre cada tipo
 - [[violencia-cronica]] — la quinta categoría, tomada de Pearce y Adams
 - [[eficacia-colectiva]] — lo que la guía dice medir con su variable de cohesión social
+- [[vanderschueren-prevencion-del-delito]] — por qué un mismo programa rinde distinto según el tipo de barrio
+- [[mediacion-comunitaria]] — la acción de largo plazo que la guía de 2010 propone para los barrios críticos
 - [[trabajo-de-grado-profesionalizante]] — si el trabajo evaluado de S1.1 recae sobre una política municipal, esta tipología es el instrumento con el que clasificar su territorio
 
 ---
@@ -138,3 +148,6 @@ No hay barrios de alta renta ni históricos patrimoniales. La clasificación se 
 [^ext-24]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], primera parte, sección II.A.2, p. 24.
 [^inf-1]: **Inferido** (confianza 0.6) — ninguna de las dos guías atribuye a un estudio chileno las demás categorías, y las de 2020 que no están en 2010 vienen de otras fuentes. «Que se sepa» porque las guías no documentan el origen de cada categoría.
 [^inf-2]: **Inferido** (confianza 0.7) — los dos criterios miden cosas distintas: uno, la letalidad sostenida de un territorio; el otro, la posibilidad de trabajar en él. Ninguna de las dos guías discute qué hacer cuando no coinciden.
+[^ext-25]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, p. 49.
+[^ext-26]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, p. 386.
+[^inf-3]: **Inferido** (confianza 0.7) — el cap. I formula el efecto en futuro y no cita una evaluación del programa en ambos tipos de barrio. La conexión con el costo de clasificar mal, de [[vanderschueren-guia-prevencion-barrios]], p. 25, es de esta wiki.

@@ -60,6 +60,12 @@
       "bytes": 136721,
       "ingerido": "2026-09-26",
       "ficha": "wiki/sources/gardner-prohibir-inmoralidades.md"
+    },
+    "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf": {
+      "sha256": "33f116fce0614ca32c4bcec382f3a4bb85424fb71e698984dc02428a11c051cf",
+      "bytes": 2013764,
+      "ingerido": "2026-09-26",
+      "ficha": "wiki/sources/vanderschueren-prevencion-del-delito.md"
     }
   }
 }

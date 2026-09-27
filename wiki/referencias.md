@@ -51,6 +51,16 @@ Universidad Alberto Hurtado. (2026). *Magíster en Prevención, Seguridad Urbana
 Política Criminal* [Folleto del programa]. Facultad de Ciencias Sociales.
 → [[programa-magister-uah]] · verificación bibliográfica pendiente
 
+Vanderschueren, F., Díaz, G., y Guajardo, C. (Eds.). (2021). *Prevención del delito y
+la violencia: reflexiones desde la academia y los territorios*. Ediciones Universidad
+Alberto Hurtado.
+→ [[vanderschueren-prevencion-del-delito]] · verificada contra la página de créditos
+(ISBN 978-956-357-291-9, 1.ª ed. abril de 2021) y contra `programa/S1.1` · **libro
+colectivo arbitrado**: los capítulos se citan por su autor, con esta obra como
+contenedora; así, Tudela (2021), pp. 57-76, que pide la clase 1 de S1.2 · varios
+autores describen instituciones de las que forman parte: el cap. VII sobre Peñalolén es
+de su directora
+
 Vanderschueren, F., Olave, R. M., Ruiz, J. C., Mosciatti, E., del Canto, C., y Díaz,
 G. (2010). *Guía para la prevención en barrios: hacia políticas de cohesión social y
 seguridad ciudadana*. Programa de las Naciones Unidas para los Asentamientos Humanos y
@@ -100,3 +110,4 @@ el documento, no por inferencia.
 | Adams, *La violencia crónica y su reproducción* | 2017 | 2017, pero el documento no declara fecha y no cita nada posterior a 2011 |
 | Garland, *La cultura del control* | 2005, traducción Gedisa | **resuelta el 12-09-2026**: llegó la Gedisa 2005; el archivo de 2001 es el original en inglés |
 | ONU-Hábitat y Guadalajara, *Guía en seguridad y prevención de barrios* | 2020 | 2020, pero la portada declara «Borrador avanzado»: confirmar si hay versión final |
+| Vanderschueren, Díaz y Guajardo (eds.), *Prevención del delito y la violencia* | 2021, tres editores | 2021, coincide. La presentación de la clase 1 de S1.2 cita la obra contenedora a nombre de «F. Vanderschueren (Ed.)», un solo editor |

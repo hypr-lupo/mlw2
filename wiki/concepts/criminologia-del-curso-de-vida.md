@@ -1,0 +1,130 @@
+---
+title: Criminología del desarrollo y del curso de vida
+type: concept
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
+cluster: explicacion-del-delito
+curso: [s1-1]
+procedencia: fuentes
+estado: borrador
+creado: 2026-09-26
+actualizado: 2026-09-26
+---
+
+# Criminología del desarrollo y del curso de vida
+
+Enfoque que explica el delito como parte de una trayectoria vital y no como un hecho aislado. Según el cap. X de [[vanderschueren-prevencion-del-delito]], de Germán Díaz, ha sido el marco más fructífero de las últimas décadas para entender la delincuencia infanto-juvenil, sobre todo gracias a estudios longitudinales [^ext-1].
+
+> [!note] Página en borrador
+> Todo lo que sigue es exposición de segunda mano: un capítulo que reseña a los autores del enfoque, ninguno de ellos en el corpus. La obra que el corpus tiene sobre el enfoque del curso de vida en general es Blanco (2011), que el propio capítulo cita y que entra en la tanda 3. Cuando llegue, esta página se contrasta con ella.
+
+## Qué lo distingue
+
+- **Dinámico, no determinista.** Las personas cambian de posición, de experiencias y hasta de identidad a lo largo de la vida. Tendencias que parecían fijadas pueden alterarse, y factores irrelevantes en un momento pueden volverse decisivos después [^ext-1].
+- **Agencia y estructura, interdependientes.** Un entorno muy desfavorable puede inhibir los factores protectores, pero la responsabilidad individual nunca desaparece del todo; en entornos favorables pesan más las variables individuales, sin que el contexto deje de actuar [^ext-2].
+- **No reemplaza a las teorías clásicas: las gradúa por edad.** Identifica qué factores pesan más en cada momento del ciclo vital [^ext-2]. Es un modelo integrador de la asociación diferencial, el control y la tensión [^ext-3].
+
+## Los conceptos
+
+Tres ejes organizadores, tomados de Elder (1985) y de Blanco (2011) [^ext-4]:
+
+- **Trayectoria.** Una línea de vida en varios dominios interdependientes: trabajo, escuela, familia. En criminología, la sucesión de conductas que termina identificando a alguien con el delito.
+- **Transición.** Un cambio de estado o de posición. Permite distinguir tres fases de la conducta delictiva [^ext-5]:
+  - **activación**, el inicio, que puede acelerarse, estabilizarse o diversificarse;
+  - **agravación**, la escalada;
+  - **desistencia**, el descenso hasta el abandono.
+- **Punto de inflexión** (*turning point*). Un evento que cambia la dirección del curso de vida.
+
+Y un cuarto principio: el **momento** (*timing*). Un mismo evento repercute de modo distinto según la edad a la que ocurre. El capítulo afirma que quien empieza a delinquir antes de los 15 años tiene más probabilidades de persistir, pero deja la cita sin completar [^ext-6].
+
+## Contra el autocontrol fijado temprano
+
+El punto de inflexión es, según Díaz, lo más significativo del enfoque para la prevención. Relativiza el determinismo de la teoría del control de Gottfredson y Hirschi, para la cual el bajo autocontrol queda fijado en la infancia y marca a la persona el resto de su vida [^ext-7].
+
+El cap. III, de Parrao, llega a una conclusión compatible desde la neurociencia, con un matiz:
+
+- **El autocontrol es estimulable.** Las funciones ejecutivas —autocontrol, perseverancia, control atencional— dependen de los lóbulos frontales y pueden mejorarse desde los cuatro años (Diamond) [^ext-8].
+- **Pero importa desde temprano.** En un seguimiento de 1.000 niños durante 32 años, un mejor autocontrol infantil predijo menos conductas de riesgo en la adolescencia y menos problemas legales en la adultez, controlando por inteligencia, sexo, clase y circunstancias familiares (Moffitt, 2011) [^ext-8].
+
+Es decir, el autocontrol temprano pesa, como sostienen Gottfredson y Hirschi, pero no está sellado [^inf-1]. Ver [[autocontrol-y-disuasion]], donde la teoría de la acción situacional le asigna al autocontrol un papel todavía más acotado.
+
+## La base neurobiológica
+
+El cap. III aporta el sustrato de la curva edad-delito [^ext-9]:
+
+- el delito sube después de la infancia, alcanza su máximo en la adolescencia o la juventud temprana y luego declina (Loeber, 2014);
+- la búsqueda de sensaciones aumenta con la pubertad, mientras el control de impulsos todavía madura: en la adolescencia el sistema límbico está más activo que los mecanismos de control frontal (Casey, 2008);
+- los lóbulos frontales terminan de desarrollarse hacia los 25 años, y por eso son la zona del cerebro menos determinada por los genes y más moldeada por la experiencia [^ext-10].
+
+La adversidad temprana altera ese desarrollo [^ext-11]. Un metaanálisis de 74 estudios encontró que el apego débil en la infancia predice la delincuencia (Hoeve, 2012) [^ext-12]. Su conclusión práctica: prevenir en la infancia tiene más impacto que tratar después, y entre los tratamientos, la terapia multisistémica es el más prometedor [^ext-13].
+
+## Los exponentes
+
+| Autor | Tesis | Para la prevención |
+|---|---|---|
+| **Moffitt** | Dos tipos distintos: delincuencia limitada a la adolescencia y persistente a lo largo de la vida. La persistente tiene origen neuropsicológico, agravado por entornos desfavorables [^ext-14] | Programas diferenciados por complejidad. Hay poca evidencia de programas exitosos con persistentes [^ext-14] |
+| **Patterson** | Una cadena acumulativa: crianza deficiente, fracaso escolar, rechazo de pares y afiliación a pares desviados. Distingue inicio temprano y tardío [^ext-15] | La edad de inicio importa |
+| **Sampson y Laub** | Control social informal graduado por edad. Rechazan las tipologías y explican la persistencia y el abandono por puntos de inflexión: matrimonio, ejército, cambio de escuela o de barrio [^ext-16] | Cada punto de inflexión es una oportunidad |
+| **Thornberry** | Teoría interaccional: los vínculos débiles con familia, escuela y creencias convencionales son la causa básica, y se refuerzan entre sí. A diferencia de Hirschi, no es lineal [^ext-17] | No todo niño con bajo control interno sigue una trayectoria desviada |
+| **Farrington** | Teoría integrada del potencial antisocial (ICAP), sin tipologías. Explica las diferencias de corto plazo por la situación y las de largo plazo por impulsividad, tensión y socialización [^ext-18] | Factores de riesgo y protección identificables, aunque ningún programa abarca todos |
+
+Los modelos no coinciden en si hay tipos de delincuentes. Moffitt los distingue; Sampson y Laub y Farrington los rechazan [^ext-19].
+
+## El desistimiento
+
+Es uno de los temas más controvertidos del enfoque, y según Díaz la llave para intervenciones más efectivas [^ext-20].
+
+- **Maruna (2001).** Tres perspectivas: reforma maduracional, vínculos sociales y narrativa. El desistimiento ocurre en la interfaz entre maduración personal, cambio de vínculos y la narrativa que la persona construye sobre ellos [^ext-21].
+- **Burnett (2000).** Entre adultos liberados de prisión distingue no iniciadores, evitadores y conversos. Los conversos muestran el cambio de identidad del desistimiento secundario [^ext-22].
+- **McNeill (2006).** Las intervenciones deben promover la agencia, basarse en relaciones legítimas y atender al capital social, es decir, a las oportunidades, además del capital humano. Importan las actividades **generativas**, las que contribuyen al bienestar de otros [^ext-23].
+
+De ahí la afirmación más fuerte del capítulo: en casos de mediana y alta complejidad, sancionar y controlar parece mucho menos efectivo que promover actividades generativas con un contexto afectivo. La justicia restaurativa es el ejemplo [^ext-23]. La formulación es cauta —«pareciera»— y no cita una evaluación que la respalde.
+
+## En Chile
+
+El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
+
+- **El diagnóstico.** El Sename está bajo investigación judicial por la muerte de 865 niños en once años. La nueva institucionalidad —Subsecretaría y Defensoría de la Niñez, Política 2015-2025— convive con una visión adultocéntrica: extender el control de identidad a los 14-18 años y bajar la edad de responsabilidad penal.
+- **Las propuestas.** Estudios longitudinales chilenos, en vez de importar modelos basados en evidencia. Prevención primaria focalizada entre los siete y los nueve años. Escuelas de segunda oportunidad. Registros biográficos integrados [^ext-25].
+- **Una crítica a un instrumento en uso.** El ASSET, que en Chile se aplica en el Programa Lazos, se centra en el riesgo y no en los recursos de los jóvenes [^ext-25]. Ver [[prevencion-del-delito]].
+
+## Cita
+
+> "relativiza el determinismo de la mayor parte de las teorías criminológicas"
+> — Díaz (2021, p. 252), sobre el punto de inflexión
+
+## Relacionado
+
+- [[vanderschueren-prevencion-del-delito]] — fuente
+- [[prevencion-del-delito]] — el enfoque de factores de riesgo, que toma su base empírica de aquí, y sus críticas
+- [[autocontrol-y-disuasion]] — el autocontrol en la teoría de la acción situacional
+
+**Por confrontar.** Blanco (2011), en la tanda 3, y Gottfredson y Hirschi (1990), en la tanda 4: la voz de la teoría que este enfoque discute.
+
+---
+
+[^ext-1]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, p. 248.
+[^ext-2]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 248-249.
+[^ext-3]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 253-254.
+[^ext-4]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 250-252, sobre Elder (1985) y Blanco (2011, pp. 12-13).
+[^ext-5]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, p. 251.
+[^ext-6]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 252-253. El texto dice «(referencia)» donde debería ir la cita.
+[^ext-7]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, p. 252.
+[^ext-8]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. III, p. 91, sobre Moffitt (2011) y Diamond (2007-2015).
+[^ext-9]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. III, pp. 86-87, sobre Loeber (2014), Jolliffe y Farrington (2009) y Casey (2008).
+[^ext-10]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. III, p. 79.
+[^ext-11]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. III, pp. 87-88.
+[^ext-12]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. III, p. 89, sobre Hoeve (2012).
+[^ext-13]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. III, p. 90.
+[^ext-14]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 254-255.
+[^ext-15]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 255-256, sobre McGee y Farrington (2016).
+[^ext-16]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 256-257.
+[^ext-17]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, p. 257.
+[^ext-18]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 258-259.
+[^ext-19]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 254, 256 y 258.
+[^ext-20]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, p. 259.
+[^ext-21]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 259-260, sobre Maruna (2001).
+[^ext-22]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, p. 260, sobre Burnett (2000).
+[^ext-23]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 260-261, sobre McNeill (2006).
+[^ext-24]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 262-264.
+[^ext-25]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 265-266 y nota 2.
+[^inf-1]: **Inferido** (confianza 0.6) — lectura conjunta de los caps. III y X. Parrao no discute a Gottfredson y Hirschi; Díaz no discute a Moffitt (2011). El estudio de Moffitt muestra estabilidad predictiva del autocontrol infantil, lo que Gottfredson y Hirschi sostienen, y Parrao lo usa para argumentar que conviene estimularlo, lo que la fijación temprana haría inútil.

@@ -9,7 +9,7 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 41 páginas · 10 fuentes ingeridas de 116 · **núcleo ancla S1.1 completo** ·
+**Estado:** 46 páginas · 11 fuentes ingeridas de 116 · **núcleo ancla S1.1 completo** ·
 tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados · ver
 [[pendientes]] y `ESTADO.md`.
 
@@ -20,8 +20,11 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
 - [[capital-social]] — tres sentidos que no conviene confundir: densidad de vínculos,
   beneficio de pertenecer a una red y capital perverso; escasez o perversión (3 fuentes)
 - [[coproduccion-de-seguridad]] — producir seguridad con la comunidad y no sólo para
-  ella; su definición, y el puente que hace falta donde el capital comunitario falta
-  (2 fuentes)
+  ella; su definición, el puente que hace falta donde el capital comunitario falta, y
+  su ausencia en el nivel central chileno (3 fuentes)
+- [[criminologia-del-curso-de-vida]] — trayectorias, puntos de inflexión y
+  desistimiento; el autocontrol temprano pesa pero no está sellado. Borrador, de segunda
+  mano (1 fuente)
 - [[crimen-organizado]] — el problema de las doscientas definiciones, la salida por el
   objetivo, el comercio ilícito contra el dualismo y la frontera jurídica: empírica,
   de legitimación o normativa (4 fuentes)
@@ -30,9 +33,11 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
 - [[desorganizacion-social]] — la tradición de Chicago llevada del barrio a la calle;
   el marco en que el curso ubica a Sampson y que Sampson no nombra (2 fuentes)
 - [[desplazamiento-y-difusion]] — si la prevención focalizada sólo mueve el delito;
-  la evidencia dice que la difusión es más probable (1 fuente)
+  la evidencia dice que la difusión es más probable, y el portonazo muestra el
+  desplazamiento que no se mide (2 fuentes)
 - [[eficacia-colectiva]] — cohesión más expectativas compartidas de intervenir:
-  el mecanismo que media entre desventaja concentrada y violencia (5 fuentes)
+  el mecanismo que media entre desventaja concentrada y violencia; en América Latina,
+  condicionada a la policía (6 fuentes)
 - [[exposicion-criminogena]] — el lado entorno: contexto moral, oportunidades y
   fricciones; y el efecto de área condicionado a quién lo use (1 fuente)
 - [[filtro-moral]] — la percepción selectiva de alternativas de acción; por qué la
@@ -46,43 +51,55 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
   desde Santiago y Rio (2 fuentes)
 - [[legitimidad-policial]] — condición de posibilidad de la cooperación entre
   vecinos y policía, con evidencia de Boston, Cali y México; y si la focalización la
-  erosiona; autoridad frente a acatamiento por temor (5 fuentes)
+  erosiona; autoridad frente a acatamiento por temor; y la crisis de autonomía de
+  Carabineros (6 fuentes)
 - [[mano-dura-y-militarizacion]] — la política dominante de la región, su
-  popularidad transversal y la evidencia sobre sus efectos (1 fuente)
+  popularidad transversal, la evidencia sobre sus efectos, y México y la edad penal
+  desde la prevención (2 fuentes)
+- [[mediacion-comunitaria]] — diálogo para transformar conflictos, contra la
+  mediación penal vertical y la mano dura; sin evaluaciones, y de una sola escuela
+  (2 fuentes)
 - [[moralismo-legal]] — si la inmoralidad basta para prohibir; prohibir la
   inmoralidad no es imponer la moralidad; el Estado como agente moral (1 fuente)
 - [[miedo-social]] — el miedo como fenómeno social, y por qué la percepción de
-  inseguridad puede ir muy por delante de la violencia registrada (1 fuente)
+  inseguridad puede ir muy por delante de la violencia registrada; la brecha del temor
+  en Maipú y Peñalolén (2 fuentes)
 - [[muerte-social]] — ceros sociales, humillación y búsqueda perversa del respeto;
   hoy lo único que el corpus ofrece para S2.4 (1 fuente)
 - [[policia-comunitaria]] — el modelo policial derivado de la eficacia colectiva, las
-  UPP de Rio como caso de reversión, y la policía como socio y no líder en el barrio
-  crítico (4 fuentes)
+  UPP de Rio como caso de reversión, la policía como socio y no líder en el barrio
+  crítico, y el Plan Cuadrante y el MICC en Chile (5 fuentes)
 - [[policia-de-puntos-calientes]] — la estrategia policial mejor evaluada: la curva de
   Koper, los metaanálisis y el costo en legitimidad (1 fuente)
+- [[prevencion-del-delito]] — dos concepciones, tres clasificaciones que no calzan,
+  factores de riesgo como base o límite, y por qué el éxito de la prevención no se ve
+  (1 fuente)
 - [[propension-al-delito]] — el lado persona: moral legalmente relevante más
   capacidad de autocontrol, y la aversión al delito (1 fuente)
 - [[puntos-calientes]] — la ley de concentración del delito en microlugares; no son
   barrios malos, y la TAS los explica de otro modo (2 fuentes)
 - [[teoria-accion-situacional]] — el delito como acción moral y las causas como
-  situacionales; los atributos no son causas (2 fuentes)
+  situacionales; los atributos no son causas; leída como corrección de la prevención
+  situacional (3 fuentes)
 - [[tipologia-barrial]] — las cinco categorías de barrio con que ONU-Hábitat organiza
   una política de prevención municipal, y su versión de 2010: cuatro tipos y la
-  pregunta entre barrio vulnerado y crítico (2 fuentes)
+  pregunta entre barrio vulnerado y crítico; y por qué un programa rinde distinto
+  según el barrio (3 fuentes)
 - [[trabajo-de-grado-profesionalizante]] — criterio de admisibilidad del trabajo
   final: utilidad demostrable sobre un caso real, no aporte al conocimiento (1 fuente)
 - [[ventanas-rotas]] — espuria para la obligatoria del ramo, mixta para la
   criminología del lugar, e incorporada por la guía del trabajo evaluado en 2020, no
   en 2010 (4 fuentes)
 - [[violencia-cronica]] — condición y no episodio, medible en intensidad, espacio y
-  tiempo; y el nombre nuevo de una categoría barrial que ya existía (3 fuentes)
+  tiempo; el nombre nuevo de una categoría barrial que ya existía; y México como caso
+  (4 fuentes)
 - [[zona-gris]] — por qué bajo terror crónico casi todos se comportan mal, y por qué
   eso no resulta evidente desde fuera (1 fuente)
 
 ## Entidades
 
 - [[magister-prevencion-uah]] — el programa: malla, líneas de desarrollo, perfil de
-  egreso y cuerpo docente
+  egreso y cuerpo docente; y el libro que se gestó en él (2 fuentes)
 
 ## Métodos
 
@@ -92,6 +109,9 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
   exigencia de comparabilidad en el tiempo; el riesgo de promediar por barrio; y un
   diagnóstico participativo en el barrio vulnerado y de expertos en el crítico
   (3 fuentes)
+- [[evaluacion-de-programas]] — no basta saber qué funciona, sino por qué; evidencia,
+  implementación y fidelidad; y tres ideas de evidencia que la wiki no reconcilia
+  (2 fuentes)
 
 ## Fuentes
 
@@ -114,6 +134,10 @@ tanda 1 del orden por calendario en curso · siete de ocho clústeres poblados �
   de ONU-Hábitat (2020). Segunda de la tanda 1 y primera fuente con casos chilenos
 - [[weisburd-el-lugar-importa]] — Weisburd y otros, 2016. No es bibliografía oficial;
   sostiene el módulo 3 de S1.1 por contenido. Primera de la tanda 1
+- [[vanderschueren-prevencion-del-delito]] — Vanderschueren, Díaz y Guajardo (eds.),
+  2021. Libro colectivo de Ediciones UAH, arbitrado. Bibliografía de S1.1 y, por el
+  capítulo de Tudela, de la clase 1 de S1.2. Varios autores escriben sobre
+  instituciones de las que forman parte. Tercera de la tanda 1
 - [[wikstrom-por-que-se-delinque]] — Wikström, 2017. Obligatoria de S1.1,
   módulo 6. Segunda del núcleo ancla
 - [[zuniga-civilizacion-y-derechos-humanos]] — Zúñiga Núñez, 2013. Proyecto de tesis

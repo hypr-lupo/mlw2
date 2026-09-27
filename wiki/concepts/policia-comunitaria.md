@@ -1,7 +1,7 @@
 ---
 title: Policía comunitaria
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -64,6 +64,41 @@ Lo que la guía añade a lo que ya estaba en esta página es de encuadre, no de 
 
 La guía documenta además el reverso, en un recuadro sobre Brasil: en el estado de Rio de Janeiro, las muertes en acciones policiales no bajaron de mil al año entre 2003 y 2008. Contadas como homicidios, serían cerca de un tercio del total, y la relación entre policías muertos en servicio y civiles muertos en acciones policiales fue de 1 a 41 en 2007 [^ext-18]. Ver [[legitimidad-policial]].
 
+## El caso chileno: Carabineros
+
+Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. Es el primer material sobre la policía chilena que entra a la wiki, y viene de dos capítulos: el de Frey, ex subsecretario de Prevención del Delito, y el de Guajardo, coeditor del libro.
+
+**Proximidad o comunitaria.** Guajardo separa dos modelos que el resto de la wiki usa como uno [^ext-19]:
+
+- La **policía de proximidad** busca acercarse a la ciudadanía para trabajar con ella y hacerla partícipe de la prevención.
+- La **policía comunitaria** adopta todos los componentes de la proximidad y agrega los cambios institucionales necesarios para **empoderar** a la ciudadanía. Le da un papel en la planificación de las estrategias, no sólo en la entrega de información.
+
+La distinción coincide con la tesis de Sampson de más arriba: lo que cuenta es institucionalizar la participación, no la presencia [^inf-1]. Guajardo añade dos advertencias. El modelo no funciona como una unidad especializada: exige que toda la institución opere con sus principios (Frühling, 2003) [^ext-20]. Y un policía de proximidad no es «un policía amable» [^ext-20]. En algunos estados de México, además, «policía comunitaria» designa a grupos armados de autodefensa [^ext-21].
+
+**La palabra que Carabineros evitó.** Según Frey, hacia fines de los años noventa Carabineros y el Ministerio del Interior acordaron hablar de «relación Carabineros-comunidad» para no hablar de «policía comunitaria», y de paso frenar las ideas de policía municipal [^ext-22]. La expresión no aparece en ningún documento oficial de la institución [^ext-23].
+
+**El Plan Cuadrante de Seguridad Preventiva** (desde 2000). Divide el territorio de cada comisaría en cuadrantes para un sistema de vigilancia sectorizado. Llegó a 150 comunas en 2013 [^ext-24]. Las evaluaciones que reseñan Frey y Guajardo coinciden:
+
+- privilegió las funciones operativas sobre la relación con la comunidad;
+- hay una inconsistencia entre sus medios, de control, y sus fines, preventivos;
+- la interacción con la comunidad fue unilateral: «audiencias cautivas», en palabras de Dammert;
+- en la síntesis de Mohor, es una metodología de asignación de recursos policiales, no de acercamiento a la comunidad [^ext-25].
+
+Guajardo llega a lo mismo: el plan sólo logró una distribución territorial del servicio operativo [^ext-26]. Las conclusiones del libro son más duras. El plan fracasó en su objetivo y hoy es sólo una división territorial que no implica necesariamente patrullaje [^ext-27].
+
+**El MICC y el Plan Cuadrante 2.0.** Tras sucesivas recomendaciones de la Dipres, Carabineros pilotó en 2012 un modelo de trabajo con la comunidad que adapta la policía orientada a problemas [^ext-28]. En 2015 el Plan Cuadrante 2.0, inicialmente sólo en la Región Metropolitana, sumó oficinas de análisis criminal y ese modelo, el MICC [^ext-29] [^amb-1]. Cada comisaría debería tener una Oficina de Integración Comunitaria: un encargado, un apoyo técnico de ciencias sociales y delegados de cuadrante, que son cabos o sargentos [^ext-29].
+
+Los obstáculos que Guajardo identifica son de institución, no de diseño [^ext-30]:
+
+- los delegados no tienen dedicación exclusiva, y los estadios, las citaciones y las rondas desplazan los compromisos con la comunidad;
+- los jefes de unidad valoran poco el trabajo comunitario y participan poco en las mesas con vecinos;
+- sólo se forma a los delegados, no a los mandos;
+- los diagnósticos extrapolan la realidad comunal a cada cuadrante, se actualizan poco y se apoyan sólo en estadística policial.
+
+Las conclusiones del libro constatan que el MICC sigue siendo una minoría dentro de la institución [^ext-27].
+
+**Por comparación.** Guajardo presenta como casos exitosos de proximidad a dos municipios mexicanos, Escobedo y Nezahualcóyotl, sin cifras [^ext-31].
+
 ## Condición de fracaso
 
 Donde la policía es recibida con desconfianza —barrios de minorías étnicas, que soportan las mayores tasas de violencia—, los esfuerzos de cooperación fracasan aunque los residentes compartan el deseo de que haya menos delito e incluso estén dispuestos a participar [^ext-7]. Es decir: la voluntad vecinal no basta; la legitimidad es previa. Ver [[legitimidad-policial]].
@@ -80,8 +115,10 @@ Donde la policía es recibida con desconfianza —barrios de minorías étnicas,
 - [[legitimidad-policial]] — su condición de posibilidad
 - [[ventanas-rotas]] — el modelo con el que el texto insiste en no confundirla
 - [[vanderschueren-guia-prevencion-barrios]] — la función policial graduada por tipo de barrio
+- [[vanderschueren-prevencion-del-delito]] — proximidad frente a comunitaria, el Plan Cuadrante y el MICC
+- [[prevencion-del-delito]] — la prevención disuasiva de las rondas frente a la prevención «real»
 
-El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía de proximidad**, junto con el debate sobre legitimidad policial. La bibliografía que lo cubriría —Vanderschueren, García y Quezada (2026)— no está en el corpus, de modo que hoy este módulo se sostiene sólo sobre las dos páginas que Sampson permite escribir.
+El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía de proximidad**, junto con el debate sobre legitimidad policial. La bibliografía que lo cubriría —Vanderschueren, García y Quezada (2026)— no está en el corpus. Desde el 26-09-2026 el módulo tiene además los capítulos de Frey y Guajardo sobre Carabineros, con la distinción entre proximidad y policía comunitaria.
 
 ---
 
@@ -103,3 +140,18 @@ El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía d
 [^ext-16]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], recuadro «La coordinación de la multisectorialidad», p. 57.
 [^ext-17]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 2, sección 2.4.2, p. 45.
 [^ext-18]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], recuadro «Violencia policial en Brasil», p. 27, sobre Ribeiro, Dias y Carvalho (2008), citados por Olinger (2009).
+[^ext-19]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VI, pp. 144-146.
+[^ext-20]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VI, p. 151, sobre Frühling (2003).
+[^ext-21]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VI, p. 141 y nota 1.
+[^ext-22]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. V, pp. 129-130.
+[^ext-23]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. V, nota 24, p. 130, sobre una entrevista a Patricio Tudela (2017).
+[^ext-24]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. V, p. 132 y nota 30.
+[^ext-25]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. V, pp. 132-133, sobre Fundación Paz Ciudadana (2012), Oviedo (2007), Dammert y Mohor, citados por Espriú (2013).
+[^ext-26]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VI, p. 154.
+[^ext-27]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, p. 385.
+[^ext-28]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. V, p. 133.
+[^ext-29]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VI, pp. 155-156 y nota 4.
+[^ext-30]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VI, pp. 157-159.
+[^ext-31]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VI, pp. 161-162.
+[^inf-1]: **Inferido** (confianza 0.6) — Guajardo no cita a Sampson. La coincidencia es de esta wiki.
+[^amb-1]: **Ambiguo** — Frey lo llama Modelo de «Integración» Carabineros Comunidad (cap. V, p. 133); Guajardo y las conclusiones, de «Interacción» (cap. VI, p. 154; conclusiones, p. 385).

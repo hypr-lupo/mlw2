@@ -37,6 +37,15 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       coproducción— es obra de su equipo del Centro de Seguridad Ciudadana de la UAH
       desde hacia 2010. Refuerza el criterio ya cumplido. La decisión sigue siendo del
       autor; Vanderschueren, Díaz y Guajardo (2021) es la ingesta siguiente.
+      **Enmienda 26-09-2026** (ingesta de [[vanderschueren-prevencion-del-delito]]): entra
+      la tercera obra, como primer editor y autor de la introducción, el cap. I y las
+      conclusiones. Es la primera donde expone teoría con voz propia: dos concepciones de
+      la prevención, el paso de «qué funciona» a «por qué funciona», la lectura de la TAS
+      como corrección de la prevención situacional y el desplazamiento maligno. Hoy lo
+      citan diecinueve páginas de contenido de la wiki, sin contar las fichas, a través
+      de sus tres obras. La decisión sigue siendo
+      del autor; si se crea, conviene `subtipo: persona` y dejar explícito que sus tres
+      obras no son confirmaciones independientes entre sí.
 
 - [ ] **[concepto]** «Control social informal» — Sampson lo usa como el mecanismo
       causal de la eficacia colectiva sin definirlo, y es contenido del módulo 6 de
@@ -58,6 +67,15 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       lugares, que es intencional como el control formal pero no es función estatal
       (p. 49). El criterio sigue igual: la página nace con Gottfredson y Hirschi
       (tanda 4), para que distinga los dos sentidos desde el inicio.
+      **Enmienda 26-09-2026** (ingesta de [[vanderschueren-prevencion-del-delito]]): el
+      cap. I agrupa bajo «teorías del control social» el autocontrol de Gottfredson y
+      Hirschi, el control informal de la escuela de Chicago y de Sampson, y el apego
+      familiar (p. 44). Y el cap. X trae un **tercer sentido**: el control social informal
+      graduado por edad de Sampson y Laub, que opera por vínculos con instituciones como
+      el matrimonio o el empleo, a escala individual (pp. 256-257). Ya está en
+      [[criminologia-del-curso-de-vida]], que registra además que los puntos de inflexión
+      relativizan la fijación temprana del autocontrol. El criterio no cambia; la página
+      tendrá que distinguir tres sentidos, no dos.
 
 - [ ] **[fuente]** Año de edición de Sampson — el corpus y el programa la fechan en
       2006; el texto declara un original de 2004 en *New Economy* y no consigna el
@@ -131,6 +149,14 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       Importa por dos cosas: se citará en un trabajo evaluado, y cambia cómo se lee
       su vigencia. Un diagnóstico regional redactado hacia 2011 antecede a la
       escalada centroamericana posterior y a todo lo ocurrido en Chile.
+      **Enmienda 26-09-2026** (ingesta de [[vanderschueren-prevencion-del-delito]]): el
+      cap. XII, de Vallejo y Grassi, cita la obra como «Adams T. (2012)», en versión del
+      Wilson Center y con la misma URL (p. 306). Sus citas con página calzan con el PDF del
+      corpus: la definición de globalización está en la p. 17, como ellos dicen. La
+      referencia a Arias y Goldstein, que ellos ubican en la p. 24, está en la p. 25. Es
+      probable que el archivo del corpus sea la misma traducción que circulaba en 2012,
+      lo que refuerza la datación interna hacia 2011-2012. No lo resuelve: sigue faltando
+      el dato editorial.
 
 - [ ] **[contradicción]** ¿Pesa el legado del conflicto armado sobre la violencia
       actual? [[adams-violencia-cronica]] se contradice consigo misma en dos párrafos
@@ -241,6 +267,10 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       `verificacion_bibliografica: pendiente` y la obra no se cita en trabajos evaluados.
       El nombre del archivo en `raw/sources/` no se toca: renombrarlo es decisión del
       autor.
+      **Enmienda 26-09-2026** (ingesta de [[vanderschueren-prevencion-del-delito]]): una
+      cuarta fecha. El cap. VII, de Maray, la cita como «ONU-Habitat, Universidad Alberto
+      Hurtado (2011)», y en la misma bibliografía fecha la *Guía para la prevención local*
+      en 2009 (p. 197). Coincide con el prólogo, que ya sugería 2011, y no con los créditos.
 
 - [ ] **[entidad]** «Quiero mi Barrio» — el primer programa chileno que entra a la
       wiki. [[vanderschueren-guia-prevencion-barrios]] lo describe en la población Santa
@@ -255,15 +285,10 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       5, y Luneke y Trebilcock (2023), en la tanda 6. Mientras tanto la guía trae otros
       territorios chilenos —La Legua, Herminda de la Victoria, La Ermita— y el Programa
       24 Horas de Carabineros, todos dentro de la ficha.
-
-- [ ] **[concepto]** Mediación comunitaria — [[vanderschueren-guia-prevencion-barrios]]
-      le dedica un tratamiento propio: la experiencia del Balcón de Derechos en las
-      favelas de Rio, las características del mediador, y cómo instalarla paso a paso
-      como cultura de resolución pacífica de conflictos (pp. 72-74). La propone como
-      acción de largo plazo en los barrios críticos.
-      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
-      Criterio: crearla si una segunda fuente la desarrolla. Vanderschueren, Díaz y
-      Guajardo (2021), la ingesta siguiente, es la candidata más cercana.
+      **Enmienda 26-09-2026** (ingesta de [[vanderschueren-prevencion-del-delito]]): el
+      cap. I lo nombra de paso, como ejemplo de prevención social que empodera a sectores
+      desfavorecidos (p. 33). Es una mención, no un tratamiento: el criterio sigue sin
+      cumplirse.
 
 - [ ] **[fuente]** Gardner (2007) está en el corpus como versión de autor — el archivo
       de [[gardner-prohibir-inmoralidades]] es el mecanografiado que Gardner publicó en su
@@ -285,7 +310,63 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
       principio de lesividad y las garantías penales son su tema. Escribirlas desde
       Gardner sería escribirlas desde quien las da por supuestas.
 
+- [ ] **[entidad]** «Plan Cuadrante de Seguridad Preventiva» — la principal estrategia
+      operativa de Carabineros desde 2000, y su versión 2.0 de 2015 con el MICC. Es el
+      segundo programa chileno de la wiki y el primero con evaluaciones citadas: la Dipres
+      lo evaluó en 2007 y 2014, y la Fundación Paz Ciudadana en 2012. Tres capítulos de
+      [[vanderschueren-prevencion-del-delito]] lo tratan y lo juzgan fallido en su
+      objetivo de acercamiento a la comunidad. Hoy vive dentro de [[policia-comunitaria]].
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
+      Criterio: crearla con una fuente fuera de este volumen; tres capítulos de un mismo
+      libro son una sola fuente para el modelo de relevancia. La candidata más cercana es
+      Tudela (2015), en la misma tanda. Lleva `vigencia` obligatoria, y el libro dice que
+      hoy sólo queda la división territorial. Las evaluaciones de la Dipres no están en el
+      corpus.
+
+- [ ] **[entidad]** «Política de seguridad de Peñalolén» — la primera política
+      municipal chilena de la wiki, con doce años documentados: unidad en 2005, dirección
+      en 2012, paso a la seguridad humana en 2018, presupuesto y organigramas. La única
+      descripción es el cap. VII de [[vanderschueren-prevencion-del-delito]], escrito por
+      su directora. Un coeditor del libro es asesor de esa dirección, y las conclusiones
+      le atribuyen una baja real de los delitos sin una evaluación que la respalde.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
+      Criterio: crearla con una fuente que no sea la propia dirección. En el corpus, la
+      candidata es CIPC (2015), sobre experiencias territoriales exitosas, en la tanda 2;
+      no se sabe aún si la incluye. Lleva `subtipo: politica` y `vigencia`. Es el tipo
+      de política identificable sobre la que puede anclarse el trabajo evaluado de S1.1.
+      Elegirla o no es decisión del autor, y la página no la volvería caso de grado.
+
+- [ ] **[esquema]** Las obras colectivas aplanan el modelo de relevancia —
+      [[vanderschueren-prevencion-del-delito]] está en 16 de las 46 páginas, más de un
+      tercio, y `scripts/grafo.py` la marca como fuente dominante. Como la señal más
+      fuerte del modelo es compartir fuente, dos páginas que citan capítulos distintos
+      del libro —Carabineros y trata de personas, por ejemplo— cuentan como si
+      compartieran sustrato. El diagnóstico de esta ingesta ya lo muestra: aparecieron
+      varias «referencias cruzadas faltantes» que son efecto de eso. Se enlazó sólo la
+      que tenía relación real.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-09-26
+      Opciones: dejarlo así y leer el diagnóstico sabiendo el sesgo; excluir la obra del
+      cálculo en `grafo.py`; o permitir en `sources` una referencia por capítulo, lo que
+      cambia `schema.md` y el validador. Es material de la operación 8. Importa porque
+      vendrán más obras colectivas: Tudela (ed.) (2010), Srur (ed.) (2014) y Minayo y
+      otros (2023) están en las tandas próximas.
+
 ## Resueltos
+
+- [x] **[concepto]** Mediación comunitaria — [[vanderschueren-guia-prevencion-barrios]]
+      le dedica un tratamiento propio: la experiencia del Balcón de Derechos en las
+      favelas de Rio, las características del mediador, y cómo instalarla paso a paso
+      como cultura de resolución pacífica de conflictos (pp. 72-74). La propone como
+      acción de largo plazo en los barrios críticos.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
+      Criterio: crearla si una segunda fuente la desarrolla. Vanderschueren, Díaz y
+      Guajardo (2021), la ingesta siguiente, es la candidata más cercana.
+      **Resuelto el 26-09-2026 — `crear-pagina`.** Se cumplió el criterio: el cap. XII de
+      [[vanderschueren-prevencion-del-delito]], de Vallejo y Grassi, la desarrolla para
+      México. Nace [[mediacion-comunitaria]] con las dos fuentes. La página advierte que no
+      son independientes: la definición que usa el capítulo viene de una guía de 2016
+      escrita por dos editores de la guía de 2010 y por el autor de su recuadro sobre
+      mediación.
 
 - [x] **[concepto]** Puntos calientes (concentraciones espacio-temporales del
       delito) — mencionado por [[sampson-vecindario-y-comunidad]] y explicado por

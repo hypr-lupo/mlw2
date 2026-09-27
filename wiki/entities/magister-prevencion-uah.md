@@ -1,14 +1,14 @@
 ---
 title: Magíster en Prevención, Seguridad Urbana y Política Criminal (UAH)
 type: entity
-sources: ["2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md"]
+sources: ["2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
 alias: [Magíster UAH, programa, MPSUPC]
 cluster: marco-institucional
 curso: [transversal]
 procedencia: fuentes
 estado: revisado
 creado: 2026-08-29
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Magíster en Prevención, Seguridad Urbana y Política Criminal (UAH)
@@ -17,7 +17,7 @@ Programa de posgrado profesionalizante de la Universidad Alberto Hurtado, orient
 
 ## Descripción
 
-Opera desde 2015 y se declara pionero en Chile en abordar de forma integral la violencia, el delito y los conflictos urbanos [^ext-1]. Desde 2025 pertenece a la Facultad de Ciencias Sociales y se vincula al Centro Espacio, Sociedad y Territorios, además del Centro de Seguridad Urbana, que reúne a su cuerpo docente [^ext-2]. Se dicta en modalidad combinada sincrónica; la enseñanza a distancia rige desde la sexta generación, 2021-2022 [^ext-3].
+Opera desde 2015 [^amb-2] y se declara pionero en Chile en abordar de forma integral la violencia, el delito y los conflictos urbanos [^ext-1]. Desde 2025 pertenece a la Facultad de Ciencias Sociales y se vincula al Centro Espacio, Sociedad y Territorios, además del Centro de Seguridad Urbana, que reúne a su cuerpo docente [^ext-2]. Se dicta en modalidad combinada sincrónica; la enseñanza a distancia rige desde la sexta generación, 2021-2022 [^ext-3].
 
 ## Hechos
 
@@ -61,13 +61,14 @@ Compromete cuatro capacidades: comprender la naturaleza y etiología del conflic
 ## Relaciones
 
 - Define [[trabajo-de-grado-profesionalizante]], que fija las condiciones del cuarto semestre.
-- Su director, Franz Vanderschueren, es autor de dos fuentes del corpus todavía no
-  ingeridas: la guía de prevención en barrios (2015) y el volumen colectivo de
-  Ediciones UAH (2021) que coeditó con Germán Díaz y Carlos Guajardo.
+- Su director, Franz Vanderschueren, es autor de dos fuentes del corpus, ingeridas el
+  26-09-2026: [[vanderschueren-guia-prevencion-barrios]] y el volumen colectivo
+  [[vanderschueren-prevencion-del-delito]], que coeditó con Germán Díaz y Carlos Guajardo.
 
 ## Fuentes que la tratan
 
-- [[programa-magister-uah]] — folleto institucional, única fuente sobre el programa hasta ahora
+- [[programa-magister-uah]] — folleto institucional
+- [[vanderschueren-prevencion-del-delito]] — libro gestado en el programa y escrito por sus docentes y colaboradores; Díaz, Parrao y Tudela, del cuerpo docente, firman capítulos [^ext-8]
 
 ---
 
@@ -78,7 +79,9 @@ Compromete cuatro capacidades: comprender la naturaleza y etiología del conflic
 [^ext-5]: **Extraído** — [[programa-magister-uah]], «Director» y «Equipo docente».
 [^ext-6]: **Extraído** — [[programa-magister-uah]], «Metodología de trabajo y evaluación».
 [^ext-7]: **Extraído** — [[programa-magister-uah]], «Perfil de egreso».
+[^ext-8]: **Extraído** — [[vanderschueren-prevencion-del-delito]], presentación, p. 11; introducción, p. 15; e índice, pp. 7-8.
 [^amb-1]: **Ambiguo** — el encabezado del folleto fecha la IX Promoción en 2025; su propia ficha sitúa el programa entre septiembre de 2026 y agosto de 2028.
+[^amb-2]: **Ambiguo** — el folleto sitúa el inicio en 2015 ([[programa-magister-uah]], «Descripción general»); la introducción de [[vanderschueren-prevencion-del-delito]], escrita por el director del programa, dice que se inició en 2016 (p. 15).
 
 ---
 

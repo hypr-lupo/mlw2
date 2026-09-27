@@ -1,13 +1,13 @@
 ---
 title: Mano dura y militarización
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
 cluster: sistema-penal
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-09-26
 ---
 
 # Mano dura y militarización
@@ -59,6 +59,26 @@ Trudeau (2022) apunta en la misma dirección desde otro ángulo: un fallo del Su
 
 El texto se cuida de un malentendido, y la página lo conserva: la lección no es que el Estado deba dejar de proveer seguridad e ignorar las actividades de los grupos criminales [^ext-9]. Lo que queda en cuestión es el supuesto de suma cero que fundamenta la mano dura —que más capacidad y más uso de la fuerza estatal redundan en menos delito—, que no siempre produce los resultados esperados.
 
+## México y Chile, desde la prevención
+
+Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]], que llega a una conclusión compatible con la de Albarracín desde la literatura de prevención y con otras fuentes. México aparece en las dos.
+
+**La guerra mexicana.** El cap. XII, de Vallejo y Grassi, la reconstruye. Desde 2006, el gobierno de Calderón desplegó al Ejército y la Marina en los estados más afectados por el crimen organizado, en operativos conjuntos y luego coordinados [^ext-10]. Diez años después, los muertos se cuentan por cientos de miles, la violencia creció en todo el país, y las organizaciones criminales se reorganizaron pero no desaparecieron [^ext-11]. En 2017 México registró 31.174 homicidios, 25 por cada 100 mil habitantes, las tasas más altas en dos décadas [^ext-12]. La Ley de Seguridad Interior de 2017 consolidó la militarización [^ext-11].
+
+**La prevención subordinada.** México sí tuvo programas nacionales de prevención: el Pronapred desde 2012 y el Fortaseg, que destina a prevención el 10 % de sus recursos. Pero según los autores ninguno cambió la perspectiva del gobierno. La prevención se entregó de arriba hacia abajo sin modificar la estrategia de mano dura [^ext-13]. Ver [[evaluacion-de-programas]].
+
+**Por qué la apoyan quienes la sufren.** Albarracín constataba la popularidad transversal de la mano dura. El cap. XII da un mecanismo, tomado de Pearce: la **ciudadanía autoritaria**. Las mismas personas que sienten temor y hartazgo ante la violación de su derecho a la seguridad reproducen exclusión y legitiman la mano dura [^ext-14]. Ver [[miedo-social]].
+
+**Efectos contrarios al objetivo.** El cap. I reúne tres [^ext-15]:
+
+- aumentar las penas al tráfico de drogas, de demanda inelástica, no baja el tráfico: sube el precio y baja la calidad de la droga que llega a los sectores populares (Bergman, 2014);
+- la mano dura contra las pandillas centroamericanas las radicalizó en maras (Rodgers, 2015);
+- bajar la edad de responsabilidad penal lleva en muchos casos a una entrada más temprana en el delito.
+
+**En Chile.** El cap. X registra las propuestas de extender el control de identidad a los menores de 14 a 18 años y de bajar la edad de responsabilidad penal adolescente por debajo de los 14 [^ext-16]. Las conclusiones del libro son tajantes: esas medidas no conducen en absoluto a disminuir la violencia infanto-juvenil [^ext-17]. El libro no presenta un estudio chileno que lo mida. La afirmación descansa en la literatura del desarrollo que expone el cap. X y en el argumento del cap. I [^inf-1]. Ver [[criminologia-del-curso-de-vida]].
+
+**El nombre en el libro.** Tres capítulos y las conclusiones llaman a esta demanda **populismo punitivo**, y la sitúan tanto en los gobiernos como en la demanda ciudadana [^ext-18].
+
 ## Cita
 
 > "el enemigo debe ser eliminado y no es sujeto de derechos"
@@ -71,6 +91,8 @@ El texto se cuida de un malentendido, y la página lo conserva: la lección no e
 - [[gobernanza-criminal]] — por qué, si actores estatales construyen crimen organizado, reforzar la coerción puede reforzar el problema
 - [[legitimidad-policial]] — el costo que estas políticas imponen, medido aquí en Cali y en México
 - [[ventanas-rotas]] — la misma conclusión desde otra literatura y otro continente
+- [[vanderschueren-prevencion-del-delito]] — México, las maras y la edad penal
+- [[mediacion-comunitaria]] — la alternativa que el cap. XII propone en México
 
 **Convergencia que conviene registrar.** [[sampson-vecindario-y-comunidad]] sostiene, desde la investigación estadounidense sobre desorden y tolerancia cero, que la intervención punitiva sobre territorios pobres no reduce el delito y sí destruye la legitimidad policial. Albarracín llega a lo mismo desde la literatura latinoamericana sobre mano dura, con casos y estudios completamente distintos. Que dos corpus independientes converjan es un hallazgo por derecho propio; ninguno de los dos autores discute al otro.
 
@@ -85,3 +107,13 @@ El texto se cuida de un malentendido, y la página lo conserva: la lección no e
 [^ext-7]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 11.
 [^ext-8]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 11.
 [^ext-9]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], pp. 11-12.
+[^ext-10]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. XII, pp. 294-295, sobre Querales (2018).
+[^ext-11]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. XII, p. 295 y nota 5.
+[^ext-12]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. XII, p. 292.
+[^ext-13]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. XII, pp. 296-297.
+[^ext-14]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. XII, p. 301 y nota 7, sobre Pearce (2017).
+[^ext-15]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, p. 42, sobre Bergman (2014) y Rodgers y Baird (2015).
+[^ext-16]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, p. 264.
+[^ext-17]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, p. 388.
+[^ext-18]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, p. 51; cap. VI, p. 143; cap. VII, p. 168; y conclusiones, p. 387.
+[^inf-1]: **Inferido** (confianza 0.7) — las conclusiones atribuyen la afirmación a «uno de los artículos», que es el cap. X. Ese capítulo argumenta desde teorías y estudios extranjeros, no desde una evaluación de las medidas chilenas.

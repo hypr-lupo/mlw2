@@ -9,10 +9,10 @@ sources: []
 Artefacto operativo para retomar. Se actualiza al cerrar sesión.
 
 **Estado al 26-09-2026.** Núcleo ancla S1.1 **completo** y tanda 1 del orden por
-calendario en curso. 10 fuentes de 116 documentos, 41 páginas, **siete de ocho
+calendario en curso. 11 fuentes de 116 documentos, 46 páginas, **siete de ocho
 clústeres poblados**: sólo queda vacío `caso-de-grado`. Cobertura de S1.1: 17 de 32
-títulos oficiales, 53 %. Weisburd y otros, Zúñiga Núñez, la guía de barrios de
-Vanderschueren y otros y Gardner no son bibliografía oficial y no la mueven.
+títulos oficiales, 53 %. La cobertura cuenta presencia en el corpus, no ingesta, así que
+ninguna de las ingestas de hoy la mueve.
 
 **Sesión del 26-09-2026: primera ingesta de la tanda 1.** Entró Weisburd y otros
 (2016), *El lugar importa*: seis páginas nuevas, una ficha y ocho páginas
@@ -37,6 +37,14 @@ ficha, una página nueva —[[moralismo-legal]]— y cuatro actualizadas. Con Z�
 abre el clúster `sistema-penal` a la discusión sobre qué puede prohibir el Estado y cómo
 justifica su coerción. Antes se retiraron de `raw/sources/` cinco duplicados exactos.
 No mueve el orden por calendario.
+
+**Tercera ingesta de la tanda 1.** Entró Vanderschueren, Díaz y Guajardo (eds.)
+(2021), *Prevención del delito y la violencia*: libro colectivo de Ediciones UAH, con
+quince capítulos. Deja una ficha, cuatro páginas nuevas —[[prevencion-del-delito]],
+[[evaluacion-de-programas]], [[criminologia-del-curso-de-vida]] y
+[[mediacion-comunitaria]]— y once actualizadas. Es la primera fuente con material
+chileno de primera mano sobre Carabineros, el Plan Cuadrante, Peñalolén y el temor en
+Maipú. Lo que sigue en la tanda es Valdivia y otros (2019).
 
 ## Lo que bloquea
 
@@ -67,7 +75,7 @@ Queda esto en manos del autor, y **no bloquea la ingesta**:
 
 ## Fuentes por ingerir
 
-Al 26-09-2026 quedan 101 pendientes de un universo de 110: los 116 archivos del
+Al 26-09-2026 quedan 100 pendientes de un universo de 110: los 116 archivos del
 corpus menos los 6 programas oficiales. Diez de ellos están en cuarentena sin plazo. El
 orden está fijado en [[purpose]]; el detalle documento por documento lo da `python
 scripts/estado.py`.
@@ -76,8 +84,9 @@ scripts/estado.py`.
 [[purpose]]). Cada tanda se cierra antes de la clase que la usa:
 
 - [ ] **Tanda 1, antes del 02-10:** ~~Weisburd y otros (2016)~~, ingerida el 26-09 ·
-      ~~Vanderschueren (2015), guía de barrios~~, ingerida el 26-09 · Vanderschueren,
-      Díaz y Guajardo (2021) · Valdivia y otros (2019) · *si alcanza:* Tudela (2015)
+      ~~Vanderschueren (2015), guía de barrios~~, ingerida el 26-09 · ~~Vanderschueren,
+      Díaz y Guajardo (2021)~~, ingerida el 26-09 · Valdivia y otros (2019) · *si
+      alcanza:* Tudela (2015)
 - [ ] **Tanda 2, antes del 10-10:** Batthyány y Cabrera · Vives Varela y Hamui Sutton ·
       INE (2023) · Srur, pp. 26-45 · Tudela (ed.) (2010), capítulo de Boba · CIPC (2015)
 - [ ] **Tanda 3, antes del 16-10:** Baratta (2004), caps. I-II, IV, VII y VIII ·
@@ -113,7 +122,8 @@ Después de la tanda 6 vuelve el orden por cúmulos:
       26-09-2026 y de ahí nació [[puntos-calientes]]
 - [ ] Sistema penal y Estado de derecho — 7 restantes. Contiene P1 de S1.3. Zúñiga
       Núñez (2013) entró y se ingirió el 26-09-2026, fuera de orden
-- [ ] Integrados desde el programa del curso — 9. Contiene P1 de S1.2
+- [ ] Integrados desde el programa del curso — 8 restantes. Contiene P1 de S1.2.
+      Vanderschueren, Díaz y Guajardo (2021) entró el 26-09-2026
 - [ ] Vínculo Estado-crimen — 18. Material de reserva del electivo S3.E4, y donde vive
       la discusión clásica que hoy le falta a [[debilidad-estatal]]
 - [ ] Amenaza y securitización — 24. Material de reserva del electivo S3.E4
@@ -121,16 +131,19 @@ Después de la tanda 6 vuelve el orden por cúmulos:
 
 ## Páginas borrador
 
-Seis. Cuatro por la misma razón: registran una sola posición sobre un asunto que
+Ocho. Cuatro por la misma razón: registran una sola posición sobre un asunto que
 tiene otra. [[ventanas-rotas]] ya tiene tres, pero sigue en borrador: son una
 refutación, un uso y un balance de evidencia; ninguna es la defensa de sus autores.
 
 - [ ] [[ventanas-rotas]] — Weisburd y otros la llevaron de espuria a mixta. Falta
       Clarke (1997), tanda 4, y sigue faltando la voz de Wilson y Kelling
 - [ ] [[policia-comunitaria]] — la evidencia que invoca Sampson es débil por
-      declaración del propio autor, y el caso latinoamericano que aporta Albarracín es
-      de reversión
-- [ ] [[legitimidad-policial]] — su único caso positivo es Boston en los noventa
+      declaración del propio autor, el caso latinoamericano que aporta Albarracín es
+      de reversión, y el chileno, el Plan Cuadrante, lo dan por fallido sus propios
+      reseñistas. Ninguna fuente trae una evaluación de un caso exitoso
+- [ ] [[legitimidad-policial]] — su único caso positivo es Boston en los noventa. Desde
+      el 26-09-2026 tiene la crisis de Carabineros, pero contada por un ex subsecretario
+      y por los editores de un libro, no medida
 - [ ] [[debilidad-estatal]] — construida desde quienes la critican: Albarracín y, desde
       el 26-09-2026, Zúñiga Núñez. Se completa con el cúmulo `Vínculo Estado-crimen`
 - [ ] [[desorganizacion-social]] — exposición de segunda mano, hecha por autores que
@@ -138,11 +151,21 @@ refutación, un uso y un balance de evidencia; ninguna es la defensa de sus auto
 - [ ] [[policia-de-puntos-calientes]] — toda su evidencia la reportan los proponentes
       de la estrategia. Falta una fuente crítica o una evaluación independiente, y el
       corpus no tiene ninguna identificada
+- [ ] [[moralismo-legal]] — una sola fuente, que además es un comentario y trae filtrada
+      la posición que discute. Falta la voz de Fletcher
+- [ ] [[criminologia-del-curso-de-vida]] — la reseña de un capítulo, sin ninguno de los
+      autores del enfoque en el corpus. Se contrasta con Blanco (2011), tanda 3, y con
+      Gottfredson y Hirschi (1990), tanda 4
 
 ## Contradicciones sin resolver
 
 - [ ] [[magister-prevencion-uah]] — la fecha de la IX Promoción es ambigua dentro de la
       propia fuente. Se resuelve preguntando a la secretaría del programa
+- [ ] [[magister-prevencion-uah]] — el año de inicio del programa: 2015 en el folleto,
+      2016 en la introducción del libro de 2021, que firma su director
+- [ ] [[prevencion-del-delito]] — dos capítulos del mismo libro definen distinto la
+      prevención primaria y atribuyen las dos definiciones a Brantingham y Faust (1976).
+      La obra original no está en el corpus
 - [ ] [[ventanas-rotas]] — la relación desorden-delito: espuria para Sampson, mixta
       para Weisburd y otros. Ya tiene contraparte; falta quien la defienda
 - [ ] [[miedo-social]] y [[adams-violencia-cronica]] — **contradicción interna a la
@@ -193,10 +216,21 @@ refutación, un uso y un balance de evidencia; ninguna es la defensa de sus auto
 - [ ] **¿Rige el derecho por amenaza o por autoridad?** Zúñiga Núñez: por la amenaza
       del castigo. Gardner: por autoridad, con la coerción como respaldo. En
       [[moralismo-legal]] y [[legitimidad-policial]]
+- [ ] **¿Es inevitable el desplazamiento?** El cap. I del libro de 2021 dice que sí;
+      las revisiones que reúne Weisburd, que no. Se acota porque miden cosas distintas:
+      lugar frente a táctica, número frente a gravedad. En [[desplazamiento-y-difusion]]
+- [ ] **Tres ideas de evidencia.** La guía de 2010, Weisburd y otros, y Tudela. Y la
+      afirmación sin evaluación sobre Peñalolén. En [[evaluacion-de-programas]]
+- [ ] **¿Viaja la eficacia colectiva?** Condicionada en América Latina a la policía,
+      según Arias y Tocornal (2018), citados de segunda mano. En [[eficacia-colectiva]]
+- [ ] **Factores de riesgo: base o límite.** Tres capítulos del mismo libro, tres
+      posiciones. En [[prevencion-del-delito]]
+- [ ] **¿Coproducir es prevenir?** Tudela frente a Peñalolén, y la coproducción
+      ausente en el nivel central. En [[coproduccion-de-seguridad]]
 
 ## Ítems de revisión abiertos
 
-- [ ] 22 abiertos en [[revision]]. **Ninguno bloquea.** La ingesta de Weisburd
+- [ ] 24 abiertos en [[revision]]. **Ninguno bloquea.** La ingesta de Weisburd
       resolvió dos —puntos calientes y desorganización social—, enmendó el de control
       social informal y abrió dos: la página de teorías de la oportunidad, que espera a
       la tanda 4, y si la ley de concentración vale en una comuna chilena. La de Zúñiga
@@ -207,18 +241,24 @@ refutación, un uso y un balance de evidencia; ninguna es la defensa de sus auto
       Franz Vanderschueren y el borrador de la guía de 2020, cuyo ciclo de política y
       diagnóstico tienen ahora versión publicada. La de Gardner abrió dos: conseguir la
       versión definitiva de la revista, y las páginas de principio de daño y Estado de
-      derecho, que esperan a Ferrajoli en la tanda 6.
+      derecho, que esperan a Ferrajoli en la tanda 6. La del libro de 2021 resolvió uno
+      —la mediación comunitaria, que ya tiene página—, abrió tres —el Plan Cuadrante y la
+      política de seguridad de Peñalolén, que esperan una fuente fuera de ese libro, y
+      cómo tratar las obras colectivas en el modelo de relevancia— y
+      enmendó cinco: la página de Franz Vanderschueren, el control social informal, que
+      ahora tiene tres sentidos, el año de Adams, el de la guía de barrios y Quiero mi
+      Barrio.
 
 ## Preguntas abiertas
 
 - [ ] ¿Sobre qué política, programa o proyecto chileno se ancla el trabajo de grado?
       Sexta pregunta rectora de [[purpose]] y la única que no se responde desde el
-      corpus. Nueve fuentes ingeridas —Chicago, Peterborough, Guadalajara, una América
-      Latina donde Chile aparece una vez, calles de ciudades estadounidenses y europeas,
-      un ensayo jurídico chileno sin caso empírico y una guía con descripciones de barrios
-      de Santiago de hace más de quince años— y `caso-de-grado` sigue vacío. El primer
-      programa chileno identificable de la wiki, Quiero mi Barrio, espera una segunda
-      fuente en [[revision]]. Los dos Zeballos, integrados el 12-09-2026 y sin ingerir,
+      corpus. Con el libro de 2021 la wiki tiene por fin material chileno de primera
+      mano, y `caso-de-grado` sigue vacío a propósito. Hay ya tres candidatos
+      identificables en [[revision]], todos esperando una segunda fuente: Quiero mi
+      Barrio, el Plan Cuadrante y la política de seguridad de Peñalolén. Esta última es
+      la única con doce años documentados, y también la única descrita sólo por su propia
+      dirección. Los dos Zeballos, integrados el 12-09-2026 y sin ingerir,
       son lo primero del corpus sobre crimen organizado en Chile
 - [ ] ¿Se cursará el taller electivo de crimen organizado? De la respuesta depende que
       42 de los 114 documentos del corpus sean bibliografía oficial o material de

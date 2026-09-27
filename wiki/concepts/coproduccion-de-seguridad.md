@@ -1,7 +1,7 @@
 ---
 title: Coproducción de seguridad
 type: concept
-sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf"]
+sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -59,6 +59,27 @@ En la relación entre habitantes y policía. La guía sostiene que la seguridad 
 
 Ver [[policia-comunitaria]] y [[legitimidad-policial]]: la coproducción es exactamente lo que la desconfianza hacia la policía vuelve imposible, aunque los residentes quieran menos delito.
 
+## Dónde no existe: el nivel central chileno
+
+Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. Las guías de 2010 y 2020 prescriben la coproducción en el barrio. Este libro, de los mismos autores en parte, mira hacia arriba y constata que falta en el Estado central.
+
+**El diagnóstico de los editores.** En Chile, la prevención se define en la Subsecretaría de Prevención del Delito, y los demás ministerios sociales no se involucran realmente. Por eso concluyen que a nivel gubernamental la coproducción de seguridad no existe: es asunto del Ministerio del Interior. Tampoco hay formas permanentes de diálogo con los municipios, que reciben prioridades definidas en el centro [^ext-17]. El cap. IV, escrito desde la Fundación Paz Ciudadana, llega a lo mismo por otra vía: el desafío más importante de la institucionalidad chilena es la coordinación intersectorial, en el diseño y en la implementación [^ext-18].
+
+**Quién debería coordinar.** Según los editores, el municipio: así lo indican la experiencia internacional, los acuerdos de Naciones Unidas y los mejores casos latinoamericanos, Bogotá y Medellín. Chile es ambiguo. Los consejos comunales de seguridad de 2016 van en esa dirección, pero las prioridades siguen fijándose desde el centro [^ext-19].
+
+**Cómo se ve desde un municipio.** La directora de seguridad de Peñalolén describe el mismo problema desde abajo [^ext-20]:
+
+- los consejos comunales resuelven poco, porque sus integrantes institucionales tienen planes formulados sin considerar la realidad local;
+- la política nacional homologó los planes de todos los municipios focalizados sin distinguir su grado de desarrollo;
+- los municipios compiten entre sí por fondos concursables en vez de asociarse [^ext-21];
+- los ministerios llegan al territorio sin coordinarse entre sí, y el municipio queda reducido a ejecutar [^ext-21].
+
+**Un dato incómodo para el concepto.** En 2018 Peñalolén dejó el enfoque de seguridad ciudadana por el de seguridad humana. La razón que da su directora es que la seguridad ciudadana, aun con la participación y la coproducción que incluía, no respondía a los fenómenos sociales y situacionales de la seguridad de las personas [^ext-22]. Es decir, el municipio que el libro presenta como ejemplar juzgó insuficiente la coproducción, no fallida [^inf-1].
+
+**¿Coproducir es prevenir?** El mismo capítulo había presentado antes la cohesión social, entendida como coproducción y participación, como la mejor estrategia preventiva [^ext-23]. El cap. II advierte en sentido contrario: revitalizar la comunidad no es lo mismo que prevenir el delito [^ext-24]. Ver [[prevencion-del-delito]].
+
+**Un ejemplo concreto.** El cap. XII presenta la mediación comunitaria como un ejemplo palpable de coproducción, con la misma definición que da la guía de 2010 [^ext-25]. Ver [[mediacion-comunitaria]].
+
 ## Cita
 
 > "la multiplicidad de agencias de intervención a menudo no está preparada"
@@ -75,6 +96,8 @@ Ver [[policia-comunitaria]] y [[legitimidad-policial]]: la coproducción es exac
 - [[eficacia-colectiva]] — el constructo que mide la disposición vecinal de la que depende
 - [[policia-comunitaria]] y [[legitimidad-policial]] — donde se pone a prueba
 - [[gobernanzas-paralelas]] — lo que ocupa el lugar cuando el Estado no coproduce ni provee
+- [[vanderschueren-prevencion-del-delito]] — la coproducción ausente en el nivel central, vista desde Peñalolén
+- [[mediacion-comunitaria]] — su ejemplo concreto
 
 ---
 
@@ -94,3 +117,13 @@ Ver [[policia-comunitaria]] y [[legitimidad-policial]]: la coproducción es exac
 [^ext-14]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], sección II.B.2, p. 26, sobre Durston (2003); y conclusiones, p. 30.
 [^ext-15]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 3, sección 3.4.C, p. 70.
 [^ext-16]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 1, sección 1.1.2, p. 34.
+[^ext-17]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, p. 383.
+[^ext-18]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. IV, p. 100.
+[^ext-19]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, p. 386.
+[^ext-20]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VII, p. 185.
+[^ext-21]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VII, pp. 194-195.
+[^ext-22]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VII, p. 185.
+[^ext-23]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VII, p. 181.
+[^ext-24]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. II, p. 73.
+[^ext-25]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. XII, pp. 300-301, sobre Ruiz y otros, en Díaz y otros (2014, p. 39).
+[^inf-1]: **Inferido** (confianza 0.6) — el capítulo no dice que la coproducción fracasara; dice que no bastaba. La lectura de que el paso a la seguridad humana amplía y no reemplaza la coproducción es propia.

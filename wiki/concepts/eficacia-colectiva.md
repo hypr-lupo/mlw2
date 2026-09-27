@@ -1,7 +1,7 @@
 ---
 title: Eficacia colectiva
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
@@ -99,6 +99,16 @@ Añadido el 26-09-2026 al ingerir [[weisburd-el-lugar-importa]], que hace dos co
 > [!warning] Tensión sobre la escala
 > [[sampson-vecindario-y-comunidad]] advierte contra el determinismo local: lo que pasa en el barrio lo configuran fuerzas no locales [^ext-8]. [[weisburd-el-lugar-importa]] mueve el mismo constructo en la dirección contraria, hacia dentro del barrio. La primera advierte que el barrio es demasiado chico para explicarse solo; la segunda, que es demasiado grande para ver dónde está el delito. Ninguna discute a la otra. Ver [[desorganizacion-social]] y [[puntos-calientes]].
 
+## ¿Viaja a América Latina?
+
+Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. El libro pone una condición regional al constructo.
+
+**El hallazgo comparado.** El cap. I cita trabajos comparativos de Arias y Tocornal (2018) según los cuales la eficacia colectiva no tiene el mismo efecto en Estados Unidos que en América Latina. Pesan el tipo de urbanización y de migración, y sobre todo los enfoques policiales y el grado de legitimidad de la policía [^ext-28]. La obra de Arias y Tocornal no está en el corpus: la afirmación llega de segunda mano.
+
+**La condición policial.** Las conclusiones de los editores la vuelven regla. En la región, la eficacia colectiva funciona si la policía ayuda y no neutraliza la acción comunitaria [^ext-29]. Ver [[legitimidad-policial]], donde están las tres condiciones que los editores derivan de eso.
+
+**Qué cambia respecto de Sampson.** Sampson ya ponía la legitimidad policial como condición de la cooperación vecinal. Lo nuevo es la escala. Allí era un problema de algunos barrios de minorías; aquí es un rasgo de la región que modula el efecto del constructo [^inf-2]. Para una política municipal chilena, el orden de los factores importa: medir la eficacia colectiva de un barrio sin medir cómo actúa la policía en él describe la mitad del mecanismo [^inf-2].
+
 ## Cita
 
 > "las redes necesitan ser activadas para que en última instancia sean significativas"
@@ -117,6 +127,7 @@ Añadido el 26-09-2026 al ingerir [[weisburd-el-lugar-importa]], que hace dos co
 - [[desorganizacion-social]] — la tradición donde [[weisburd-el-lugar-importa]] ubica el constructo
 - [[puntos-calientes]] — la escala a la que Weisburd y otros lo llevan
 - [[capital-social]] — el constructo rival, con sus tres sentidos separados. La guía de prevención en barrios de 2010 sí distingue ambos constructos; la de 2020 no
+- [[vanderschueren-prevencion-del-delito]] — la condición policial del constructo en América Latina
 
 **Vacío resuelto el 26-09-2026.** El módulo 3 de `programa/S1.1` enmarca esta obra dentro de la desorganización social, que Sampson no nombra. [[weisburd-el-lugar-importa]] es ahora la fuente que respalda ese encuadre. Ver [[desorganizacion-social]].
 
@@ -149,4 +160,7 @@ Añadido el 26-09-2026 al ingerir [[weisburd-el-lugar-importa]], que hace dos co
 [^ext-25]: **Extraído** — [[weisburd-el-lugar-importa]], p. 61, sobre Weisburd, Groff y Yang (2014).
 [^ext-26]: **Extraído** — [[weisburd-el-lugar-importa]], nota 3 del cap. 3, p. 160.
 [^ext-27]: **Extraído** — [[weisburd-el-lugar-importa]], p. 114 y nota 2 del cap. 6, p. 161.
+[^ext-28]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, p. 45, sobre Arias y Tocornal (2018).
+[^ext-29]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, p. 384.
 [^inf-1]: **Inferido** (confianza 0.8) — la diferencia entre el indicador de voto y la escala de Sampson, Raudenbush y Earls resulta de comparar esta página con [[sampson-vecindario-y-comunidad]]; el libro no la plantea en estos términos.
+[^inf-2]: **Inferido** (confianza 0.6) — comparación con [[sampson-vecindario-y-comunidad]], pp. 243-244, recogida en [[legitimidad-policial]]. Ni el cap. I ni las conclusiones discuten a Sampson en ese punto.
