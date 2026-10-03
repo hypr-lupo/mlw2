@@ -1,13 +1,13 @@
 ---
 title: Violencia crónica
 type: concept
-sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
+sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf"]
 cluster: victimizacion-e-inseguridad
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-10-02
 ---
 
 # Violencia crónica
@@ -51,6 +51,8 @@ Y las tasas nacionales engañan en tres direcciones distintas, cada una con cons
 
 **Ocultan la escala del fenómeno.** El Informe de Desarrollo Mundial 2011 estima que el 25 % de la población mundial —ricos y pobres— vive con altos niveles de violencia de largo plazo y repercusiones trans-generacionales. Y aunque América Latina encabeza los índices globales, el fenómeno afecta también a países de ingreso bajo y medio de África subsahariana, Asia y Medio Oriente, y a grupos crónicamente marginados dentro de países ricos [^ext-9].
 
+**Ocultan el orden.** Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]]. Donde un grupo armado domina el barrio en colusión con el Estado, los homicidios pueden no aparecer en las estadísticas, por el control del grupo, el ocultamiento y sus relaciones con el gobierno [^ext-23]. Y un control fuerte puede producir poca violencia aparente mientras crece el temor [^ext-24]. La tasa baja no distingue entre un barrio seguro y uno dominado. Ver [[regimenes-armados-microescala]].
+
 ## Por qué no es una etapa
 
 La propuesta de marco lo dice de frente: la incapacidad de algunos estados para controlar la violencia y garantizar derechos básicos, y los efectos perversos que esa incapacidad tiene sobre ciertos sectores, deben analizarse como **rasgos potencialmente de largo plazo** y no como momentos pasajeros en la transición a la democracia [^ext-10].
@@ -79,6 +81,16 @@ Conviene notar el desplazamiento: Adams propone tratar la violencia crónica com
 
 **La categoría existía antes que el concepto.** Añadido el 26-09-2026 al ingerir [[vanderschueren-guia-prevencion-barrios]], la versión de 2010 de la misma guía. Ahí el lugar de la quinta categoría lo ocupaba el **barrio crítico**, y se definía sin tasas: no se puede entrar libremente a desarrollar la política, y la violencia, el temor y la legitimación de ilícitos son muy altos [^ext-17]. La guía de 2020 le dio a esa categoría el nombre y la definición de Pearce y Adams, y conservó a la vez el criterio anterior [^ext-18]. La traducción que describe el párrafo anterior tiene entonces una capa más: el concepto no sólo se volvió requisito operativo, sino que sirvió para nombrar una categoría que ya existía y que se definía por otra cosa. Un territorio puede tener violencia letal sostenida y seguir siendo accesible, o ser inaccesible sin duplicar la tasa de homicidios [^inf-1]. Ver [[tipologia-barrial]].
 
+## Una lectura política: el pluralismo violento
+
+Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]], que comparte con Adams la tesis de que la violencia no es una etapa y le da un fundamento político.
+
+Arias rechaza leer a las democracias latinoamericanas como versiones disminuidas de un modelo. Son sistemas pluralistas que conviven con órdenes violentos locales, y la violencia es menos una falla que un rasgo de los sistemas políticos muy desiguales [^ext-25]. El crimen crónico no viene del quiebre del Estado de derecho, sino de relaciones particulares entre actores estatales y criminales [^ext-26]. Es la versión política de lo que Adams llama norma perversa.
+
+**No son dos confirmaciones independientes.** Adams toma el concepto de pluralismo violento de Arias y Goldstein (2010) [^ext-27], y Arias cita a Adams como antecedente [^ext-28]. La coincidencia entre ambos es una conversación, no una convergencia.
+
+**Una diferencia que conviene no perder.** Adams subraya que la violencia crónica tiene muchas causas y critica explicarla por el narcotráfico o el crimen organizado [^ext-11]. Arias pone en el centro la relación entre grupos armados y Estado. No se contradicen, porque Arias estudia barrios con grupos armados y no la violencia en general [^inf-3]. Pero quien use a Arias para explicar la violencia de un barrio sin grupo armado consolidado estará extendiendo su modelo más allá de donde lo probó.
+
 ## México como caso
 
 Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. Dos capítulos usan el concepto para leer México.
@@ -96,6 +108,7 @@ El cap. XII cita a Adams con el año 2012 [^ext-22]. Es una fecha más para una 
 ## Relacionado
 
 - [[adams-violencia-cronica]] — fuente
+- [[arias-empresas-criminales-y-gobernanza]] — fuente: el pluralismo violento, y la tasa baja que oculta el dominio armado
 - [[miedo-social]] — uno de los dos mecanismos que el texto añade a los recuentos habituales
 - [[zona-gris]] — el otro
 - [[muerte-social]] — el efecto sobre los jóvenes varones
@@ -131,3 +144,10 @@ El cap. XII cita a Adams con el año 2012 [^ext-22]. Es una fecha más para una 
 [^ext-21]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, pp. 46-47.
 [^ext-22]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. XII, bibliografía, p. 306.
 [^inf-2]: **Inferido** (confianza 0.7) — Vanderschueren es coautor de [[onu-habitat-guia-barrios]]. La coincidencia no es una confirmación independiente.
+[^ext-23]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, p. 30.
+[^ext-24]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, pp. 108-109, y cap. 1, p. 36.
+[^ext-25]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], introducción, p. 8, y conclusión, p. 244.
+[^ext-26]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], introducción, p. 6.
+[^ext-27]: **Extraído** — [[adams-violencia-cronica]], sección II.D, pp. 24-25, sobre Arias y Goldstein (2010, pp. 4-5).
+[^ext-28]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], introducción, p. 2, nota 3.
+[^inf-3]: **Inferido** (confianza 0.7) — comparación entre el alcance de ambas obras. Ninguna discute a la otra sobre este punto.

@@ -1,13 +1,13 @@
 ---
 title: Legitimidad policial
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-09-27
+actualizado: 2026-10-02
 ---
 
 # Legitimidad policial
@@ -87,6 +87,18 @@ Añadido el 27-09-2026 al ingerir [[tudela-analisis-criminal]].
 
 **Dos vías.** Sampson construye la legitimidad desde el trato: justicia procedimental. Tudela, desde el desempeño: eficacia demostrada. No se excluyen, y su propia definición incluye el reconocimiento de la autoridad, que es lo que la justicia procedimental busca producir [^inf-6]. Pero conducen a políticas distintas. Una pide cambiar cómo actúa la policía frente a los vecinos; la otra, medir mejor lo que logra.
 
+## Cuando la legitimidad se va a otro lado
+
+Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]] y [[bourgois-en-busca-de-respeto]]. Las secciones anteriores tratan la legitimidad como algo que la policía tiene o pierde ante los vecinos. Estas dos fuentes, desde el barrio, muestran dos situaciones que ese esquema no contempla.
+
+**Se transfiere al grupo armado.** En Denham Town, Kingston, los residentes no acudían a la policía. Uno cuenta que la propia policía los mandaba a resolver sus problemas con el don, y que hablar con la policía exponía a recibir un disparo [^ext-25]. Arias concluye que allí la policía delegaba en la pandilla la mayor parte de su trabajo [^ext-26]. En Rocinha, una residente decía que a los traficantes al menos se les conoce la cara, y que la policía muestra una que no es la verdadera [^ext-27].
+
+**Y la policía puede ser instrumento del grupo.** En Back Bush, según los residentes, los pistoleros locales hicieron que la policía matara a un rival: le entregaron el arma usada contra dos policías y lo señalaron [^ext-28]. Arias describe una relación en ambos sentidos: los pistoleros operan en parte como brazo de la policía, y la policía a veces actúa en nombre de las pandillas [^ext-29]. En Rio das Pedras, algunos policías dirigen la milícia [^ext-30]. Ver [[gobernanza-criminal]] y [[regimenes-armados-microescala]].
+
+**Ni corrupta ni legítima: incompetente.** Bourgois describe otra relación en East Harlem a fines de los ochenta. La red de casas de crack que estudió fue casi invulnerable a la policía, y no por corrupción: la policía era tan incompetente y estaba tan desmoralizada que no necesitaba ser corrupta para que el narcotráfico floreciera [^ext-31]. Los policías honestos eran demasiado hostiles para construir las redes de confianza que hacían falta. En cinco años y medio nunca lo reconocieron, ni siquiera cuando asistió a las reuniones antidrogas del programa de acercamiento a la comunidad [^ext-31]. Lo que sí conoció fue el trato: lo detenían, lo revisaban y lo insultaban, porque un blanco en East Harlem sólo podía ser policía encubierto o comprador de droga [^ext-32].
+
+**Dos relaciones, dos contextos.** Arias encuentra colusión; Bourgois, incompetencia y hostilidad. No se contradicen: hablan de ciudades, décadas y mercados distintos. Pero obligan a no suponer una sola relación entre policía y mercado ilícito al diagnosticar un barrio [^inf-7]. Y las dos coinciden con el punto de partida de esta página: los residentes no rechazan a la policía porque prefieran el delito, sino porque la policía que conocen no los protege.
+
 ## Otro sentido de la palabra
 
 Añadido el 26-09-2026 al ingerir [[zuniga-civilizacion-y-derechos-humanos]]. Esta página entiende la legitimidad como el reconocimiento de una actuación procedimentalmente justa. Zúñiga Núñez usa la palabra en el sentido opuesto: la legitimidad del poder estaría dada fundamentalmente por el miedo, y conviene encubrirlo salvo en momentos de crisis [^ext-11].
@@ -108,6 +120,8 @@ No se refutan: hablan de objetos distintos. Sampson habla de la cooperación ent
 - [[eficacia-colectiva]] — la disposición vecinal a intervenir que la desconfianza en la policía deja sin canal
 - [[policia-de-puntos-calientes]] — la estrategia cuyo efecto sobre la legitimidad se discute
 - [[zuniga-civilizacion-y-derechos-humanos]] — la legitimidad entendida como miedo, en el sentido opuesto al de esta página
+- [[arias-empresas-criminales-y-gobernanza]] — la legitimidad transferida al grupo armado, y la policía que delega en él
+- [[bourgois-en-busca-de-respeto]] — una policía incompetente y hostil, que no necesita ser corrupta
 - [[gardner-prohibir-inmoralidades]] — la distinción entre autoridad y coerción, que ordena los dos sentidos
 - [[vanderschueren-prevencion-del-delito]] — la crisis de Carabineros y las condiciones de transparencia y rendición de cuentas
 - [[tudela-analisis-criminal]] — la crisis regional en encuestas y la legitimidad como efecto de la eficacia
@@ -146,3 +160,12 @@ El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como
 [^ext-24]: **Extraído** — [[tudela-analisis-criminal]], p. 146.
 [^inf-5]: **Inferido** (confianza 0.6) — comparación propia. Las conclusiones no citan a Sampson en ese pasaje; atribuyen la afirmación a «estudios internacionales».
 [^inf-6]: **Inferido** (confianza 0.6) — comparación propia. Tudela no cita a Sampson.
+[^ext-25]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, p. 120, testimonio.
+[^ext-26]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, p. 125.
+[^ext-27]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, p. 127, testimonio.
+[^ext-28]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, pp. 122-123, versión de los residentes.
+[^ext-29]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, p. 124.
+[^ext-30]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, Tabla 4.3, p. 133, y p. 134.
+[^ext-31]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 3, p. 132.
+[^ext-32]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 1, pp. 58-60.
+[^inf-7]: **Inferido** (confianza 0.75) — contraste entre las dos fuentes. Arias cita a Bourgois como antecedente metodológico, no sobre este punto.

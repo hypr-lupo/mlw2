@@ -12,11 +12,12 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 
 ## Resumen consolidado
 
-Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1. Agrupa los ítems abiertos
-por lo que los destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**27 abiertos.**
+Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, y el 02-10-2026, con la
+ingesta de Arias (2017) y Bourgois (2010). Agrupa los ítems abiertos por lo que los
+destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
+**31 abiertos.**
 
-**A. Sólo esperan una decisión del autor (5).** Se pueden resolver hoy.
+**A. Sólo esperan una decisión del autor (7).** Se pueden resolver hoy.
 
 | Ítem | Acción | Qué hay que decidir |
 |---|---|---|
@@ -25,8 +26,10 @@ por lo que los destraba. No reemplaza a los ítems: cada uno sigue abajo, con su
 | `[alcance]` Zúñiga Núñez es teoría del Estado | `preguntar` | Si queda en `sistema-penal`, pasa a una capa propia o se retira |
 | `[esquema]` Los grupos criminales no tienen `subtipo` | `preguntar` | Operación 8, que el esquema difiere a la elección del caso de anclaje |
 | `[esquema]` Las obras colectivas aplanan el modelo de relevancia | `preguntar` | Convivir, excluirlas del cálculo o citar por capítulo |
+| `[entidad]` Milícias de Rio de Janeiro | `crear-pagina` | Nada más que el subtipo: la segunda fuente llegó el 02-10. Se resuelven juntos |
+| `[fuente]` «Violencia como lenguaje» en el archivo de Bourgois | `preguntar` | Qué significa. Si es una unidad de curso, la ficha puede ganar un `curso` |
 
-**B. Esperan una verificación bibliográfica fuera del corpus (7).** Cada ítem trae su
+**B. Esperan una verificación bibliográfica fuera del corpus (8).** Cada ítem trae su
 consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos evaluados.
 
 | Ítem | Qué verificar |
@@ -38,6 +41,7 @@ consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos
 | `[fuente]` Institución de Zúñiga Núñez | Escuela y versión final del proyecto |
 | `[fuente]` Gardner es versión de autor | Páginas de la *Cardozo Law Review* |
 | `[fuente]` Estado legal del pololeo | Resuelto en parte con la Ley 21.675; falta el tipo penal de femicidio |
+| `[fuente]` Año e ISBN de Arias | 2016, 2017 o 2018, y los dos ISBN, en el catálogo de la editorial |
 
 **C. Esperan una obra que ya está en el corpus (12).** Se resuelven solos si el orden de
 ingesta se cumple.
@@ -57,13 +61,14 @@ ingesta se cumple.
 | `[concepto]` Principio de daño y Estado de derecho | `crear-pagina` | Ferrajoli (1995) | 6 |
 | `[contradicción]` Legado del conflicto armado | `preguntar` | Dammert (2012), cúmulo `Medición e inseguridad` | después de la 6 |
 
-**D. Esperan una segunda fuente que todavía no se ha identificado (3).**
+**D. Esperan una fuente que no está en el corpus o no se ha identificado (4).**
 
 | Ítem | Dónde podría estar |
 |---|---|
 | `[entidad]` Coalición de Diez Puntos | Nada identificado en el corpus |
-| `[entidad]` Milícias de Rio de Janeiro | Cúmulo `Vínculo Estado-crimen`, reserva del electivo; depende además del ítem de esquema |
 | `[entidad]` CICIG | Nada identificado en el corpus |
+| `[concepto]` Capital cultural | Bourdieu (2002), pedido por S2.4 y ausente del corpus |
+| `[concepto]` Violencia contra las mujeres en la pareja y la familia | La bibliografía de S3.3, cuando llegue su programa |
 
 **Qué adelanta cada tanda.** La 2 destraba o adelanta cuatro ítems; la 3, uno; la 4, dos;
 la 5, tres; la 6, cuatro.
@@ -134,6 +139,16 @@ la 5, tres; la 6, cuatro.
       [[criminologia-del-curso-de-vida]], que registra además que los puntos de inflexión
       relativizan la fijación temprana del autocontrol. El criterio no cambia; la página
       tendrá que distinguir tres sentidos, no dos.
+      **Enmienda 02-10-2026** (ingesta de Arias y Bourgois): aparece una pregunta que la
+      página tendrá que responder además de la escala: **quién** ejerce el control.
+      [[arias-empresas-criminales-y-gobernanza]] toma la definición de Bursik y de Sampson,
+      Raudenbush y Earls (1997) y la aplica a los grupos armados. El control informal más
+      fuerte de sus seis barrios es el que ejercen la milícia y la pandilla dominante (pp.
+      26, 109 y Tabla 4.4). [[bourgois-en-busca-de-respeto]] contrasta el control familiar
+      y comunal del Puerto Rico rural con el de Nueva York (pp. 216-217 y 309), y registra
+      que la mafia italiana mantuvo durante décadas la segregación y el orden de su cuadra
+      (pp. 86 y 99-100). El control informal no siempre es la virtud que la eficacia
+      colectiva supone. El criterio no cambia.
 
 - [ ] **[fuente]** Año de edición de Sampson — el corpus y el programa la fechan en
       2006; el texto declara un original de 2004 en *New Economy* y no consigna el
@@ -190,6 +205,12 @@ la 5, tres; la 6, cuatro.
       Criterio: crearla si una segunda fuente las retoma. El cúmulo `Vínculo
       Estado-crimen` tiene candidatas —Arias, Duncan, Schultze-Kraft—, todas sin
       ingerir. Depende además de resolver el ítem de esquema anterior.
+      **Enmienda 02-10-2026** (ingesta de [[arias-empresas-criminales-y-gobernanza]]): el
+      criterio de la segunda fuente se cumple, con holgura. Arias estudia de cerca la
+      milícia de Rio das Pedras y afirma que todas las milícias incluyen miembros de los
+      servicios de seguridad del Estado (p. 70). Hoy viven en [[gobernanza-criminal]] y
+      [[regimenes-armados-microescala]]. Lo único que bloquea la página es el ítem de
+      esquema anterior, y conviene resolverlos juntos. Pasa del grupo D al A.
 
 - [ ] **[entidad]** CICIG, Comisión Internacional Contra la Impunidad en Guatemala —
       único ejemplo positivo que ofrece [[albarracin-crimen-organizado-america-latina]]
@@ -487,6 +508,46 @@ la 5, tres; la 6, cuatro.
       96 de la PNSP, en la tanda 5, y Luneke y Trebilcock (2023), en la tanda 6. Mientras
       tanto, [[coproduccion-de-seguridad]] conserva la oposición entre seguridad pública y
       ciudadana.
+
+- [ ] **[fuente]** «Violencia como lenguaje» — el archivo de [[bourgois-en-busca-de-respeto]]
+      llegó el 02-10-2026 como `bourgois-en-busca-del-respeto -Violencia como lenguaje.pdf`.
+      La frase no aparece en la portada, en la página de imprenta ni en el índice: la
+      agregó quien nombró el archivo. El escaneo trae además notas manuscritas de un
+      lector anterior, lo que sugiere un material de curso. Si es el nombre de una unidad
+      o una sesión de un ramo, la ficha debe registrarlo y quizá ganar un `curso`; si es
+      una etiqueta propia, basta con saberlo.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-10-02
+
+- [ ] **[fuente]** Año e ISBN de Arias (2017) — en [[arias-empresas-criminales-y-gobernanza]]
+      la página de derechos dice 2017, el catálogo de la editorial que viene en el PDF dice
+      2016 y la primera edición en rústica es de 2018. Los dos ISBN salen ilegibles en la
+      capa de texto. El corpus además omite «y el Caribe» en el título.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-10-02
+      Consulta sugerida: la ficha de Cambridge Core del DOI 10.1017/9781316650073 —
+      confirmar el año de la primera edición y los dos ISBN. Hasta entonces la ficha
+      queda con `verificacion_bibliografica: pendiente`.
+
+- [ ] **[concepto]** «Capital cultural» — [[bourgois-en-busca-de-respeto]] lo usa para
+      explicar por qué el dueño de una red de crack fracasa en la economía legal y por qué
+      la escuela castiga a los niños puertorriqueños. [[arias-empresas-criminales-y-gobernanza]]
+      lo menciona de paso, para explicar por qué los grupos pequeños de Medellín no
+      consiguen alianzas con el Estado (p. 85). Ninguna de las dos lo define: lo toman de
+      Bourdieu. Hoy vive en [[cultura-callejera]].
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-10-02
+      Criterio: crearla con una fuente que lo defina, no que lo use. Bourdieu (2002) está
+      en la bibliografía de S2.4 y falta en el corpus.
+
+- [ ] **[concepto]** «Violencia contra las mujeres en la pareja y la familia» — tres
+      fuentes la tratan desde ángulos que no se tocan. [[valdivia-violencia-en-el-noviazgo]]
+      mide prevalencias en parejas jóvenes; [[ley-21675-violencia-de-genero]] la define en
+      el derecho chileno; [[bourgois-en-busca-de-respeto]] la explica, en tres capítulos,
+      por la crisis del patriarcado rural en la ciudad postindustrial, y critica la
+      explicación por «ciclos» intergeneracionales. Hoy sólo existe
+      [[violencia-en-el-noviazgo]], que no cubre la violencia en la familia.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-10-02
+      Criterio: crearla cuando entre una fuente de violencia de género, para que la página
+      no nazca de una etnografía de Nueva York en los ochenta. El lugar natural es la
+      bibliografía de S3.3, cuyo programa no ha llegado.
 
 ## Resueltos
 

@@ -1,13 +1,13 @@
 ---
 title: Gobernanza criminal
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf"]
 cluster: gobernanza-criminal
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-10-02
 ---
 
 # Gobernanza criminal
@@ -50,6 +50,11 @@ Conviene retener la distinción que el texto marca en nota: una cosa es ver al c
 
 **Regímenes armados locales.** Arias (2017), sobre Brasil, Colombia y Jamaica, muestra que el tipo de relación entre grupos criminales y actores estatales determina el régimen armado local que se conforma. Donde hay gobernanza colaborativa —lazos cooperativos fuertes—, los grupos ejercen un control fuerte sobre la vida social y política del territorio [^ext-9].
 
+> [!note] El original, desde el 02-10-2026
+> Con [[arias-empresas-criminales-y-gobernanza]] la wiki tiene el libro que Albarracín resume. El resumen pierde una variable: el régimen depende de la relación con el Estado **y** del grado de consolidación de los grupos, que se refuerzan entre sí [^ext-16]. Con las dos salen cuatro regímenes, y la gobernanza colaborativa es sólo uno de ellos. Ver [[regimenes-armados-microescala]].
+>
+> Arias formula además el giro de esta sección con sus propias palabras: el crimen crónico no resulta del quiebre del Estado de derecho, sino de tipos particulares de relación entre actores estatales y criminales [^ext-17]. Y propone leer la violencia armada como sistema de gobernanza y no como guerra, porque la metáfora de la guerra oculta la colusión [^ext-18].
+
 ### Las milícias de Rio de Janeiro
 
 El caso desarrollado del documento, y el más nítido del argumento [^ext-10].
@@ -61,6 +66,14 @@ Después ampliaron su alcance: transporte irregular, obligar a residentes a comp
 Pese a ser investigadas por autoridades judiciales y por una comisión especial de la Cámara Legislativa del Estado de Rio en 2008, se expandieron hasta ser hoy el grupo criminal con mayor área física controlada en la región y el segundo por número de habitantes bajo su dominio: cerca de **1,7 millones de personas**.
 
 La frase que cierra el recuadro es la que conviene recordar: cuando el Estado combate a las milícias, está luchando contra actores que muchas veces se encuentran dentro del mismo Estado [^ext-10].
+
+**Lo que agrega Arias.** Añadido el 02-10-2026. [[arias-empresas-criminales-y-gobernanza]] estudia una milícia de cerca, la de Rio das Pedras, y confirma el recuadro con más detalle:
+
+- **No «muchas veces»: siempre.** Todas las milícias involucran a miembros de los servicios de seguridad del Estado. En algunos lugares fueron vigilantes que se ligaron a la policía; en otros, policías corruptos que se impusieron desde fuera. En 2008 dominaban entre 81 y 171 barrios [^ext-19]. La cifra no choca con la de Albarracín: es de otra fecha y cuenta barrios, no personas.
+- **El negocio es el barrio mismo.** La milícia cobra protección a los comercios, vende derechos de monopolio, controla el mercado inmobiliario y una notaría donde se formalizan las ventas, y dirige la cooperativa de furgonetas [^ext-20]. Gana mejorando el barrio y usa la fuerza para cobrar por esas mejoras [^ext-21].
+- **La calma tiene costo.** Las armas casi nunca se ven y es menos probable que asalten a alguien allí que en los barrios comerciales vecinos. Debajo, los residentes dicen que no pueden denunciar nada y que la gente desaparece [^ext-22].
+- **La asociación de vecinos es parte de la milícia.** La AMARP organiza la vida cívica, asigna lotes y bloquea asociaciones alternativas [^ext-23]. Su presidente llegó a concejal de Rio en 2004 [^ext-24].
+- **Las UPP casi no las tocaron.** De 37 favelas ocupadas por esas unidades, sólo una tenía milícia [^ext-25]. Ver [[policia-comunitaria]].
 
 ## Qué política se sigue de esto
 
@@ -79,6 +92,8 @@ El texto lo traduce en **políticas contra la impunidad estatal**, con dos apoyo
 ## Relacionado
 
 - [[albarracin-crimen-organizado-america-latina]] — fuente
+- [[arias-empresas-criminales-y-gobernanza]] — fuente, desde el 02-10-2026: el libro que Albarracín resume
+- [[regimenes-armados-microescala]] — el modelo de Arias completo, con sus dos variables
 - [[crimen-organizado]] — la definición por gobernanza de la que esta agenda se desprende
 - [[debilidad-estatal]] — el paradigma que esta agenda desplaza
 - [[mano-dura-y-militarizacion]] — la política que resulta ineficaz si este diagnóstico es correcto
@@ -104,3 +119,13 @@ El texto lo traduce en **políticas contra la impunidad estatal**, con dos apoyo
 [^ext-13]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 15.
 [^ext-14]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 16.
 [^ext-15]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 13, nota 10.
+[^ext-16]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], introducción, pp. 3-4, y cap. 1, pp. 21-24.
+[^ext-17]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], introducción, p. 6.
+[^ext-18]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], introducción, pp. 10-11, y conclusión, pp. 247-248.
+[^ext-19]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 2, p. 70, sobre Cano y Duarte.
+[^ext-20]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, pp. 131-132.
+[^ext-21]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, p. 231.
+[^ext-22]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, pp. 129-131.
+[^ext-23]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 5, pp. 163-168.
+[^ext-24]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], introducción, p. 1, y cap. 5, p. 165.
+[^ext-25]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], conclusión, p. 240.

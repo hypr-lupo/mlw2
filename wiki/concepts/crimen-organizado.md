@@ -1,13 +1,13 @@
 ---
 title: Crimen organizado
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf"]
 cluster: gobernanza-criminal
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-10-02
 ---
 
 # Crimen organizado
@@ -78,6 +78,16 @@ Zúñiga Núñez ataca la tercera frontera: la que separa al crimen del poder le
 
 Las tres posiciones quedan así. Albarracín necesita una frontera **empírica**, lo bastante precisa para comparar casos. Zúñiga la disuelve en la **legitimación**. Gardner ofrece una frontera **normativa**: la coerción estatal que no se justifica moralmente no se distingue, en su materia, de un delito [^inf-1]. Ninguno discute a los otros; la comparación es de esta wiki. Ver [[moralismo-legal]].
 
+## Por el territorio: las empresas criminales territoriales
+
+Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]], que llega desde la política comparada y define su objeto por un tercer criterio.
+
+Arias parte de la definición corriente: un grupo que colabora de forma continua para cometer delitos, al menos en parte por ganancia material. Dentro de ella recorta las **empresas criminales territoriales**, que persiguen sus fines estableciendo control sobre lugares con exclusión de otros grupos armados [^ext-16]. Pueden tener de un puñado a cientos de miembros y reciben nombres locales: combo, banda, crew, facção, milícia. No siempre son juveniles. Extorsionan, venden drogas y armas y tienen también negocios legales. Lo que comparten es la disposición a controlar y defender un territorio como base de operaciones [^ext-16].
+
+**Qué cambia respecto de Varese.** La definición por objetivo pide que el grupo busque regular un mercado entero. La de Arias pide que controle un territorio. Las dos pueden separarse: las esquinas de Back Bush, en Kingston, controlan su pedazo de barrio sin regular ningún mercado [^ext-17], y un racket puede regular un mercado sin dominar un barrio [^inf-2]. El recorte de Arias corresponde al tercer ámbito de la [[gobernanza-criminal]], la regulación de comunidades enteras.
+
+**Más allá de las drogas.** Arias pide ampliar el foco: la extorsión destaca por cómo empodera a los grupos armados [^ext-18]. Y la protección da mejor base que las drogas o el secuestro para tener lazos con el Estado, porque puede presentarse como legítima [^ext-19]. Ver [[regimenes-armados-microescala]].
+
 ## Cita
 
 > "regular y controlar la producción y distribución de un bien o servicio de forma ilegal"
@@ -86,6 +96,7 @@ Las tres posiciones quedan así. Albarracín necesita una frontera **empírica**
 ## Relacionado
 
 - [[albarracin-crimen-organizado-america-latina]] — fuente
+- [[arias-empresas-criminales-y-gobernanza]] — fuente: las empresas criminales territoriales
 - [[gobernanza-criminal]] — la agenda de investigación que esta definición abre
 - [[debilidad-estatal]] — la explicación dominante del fenómeno así definido
 - [[mano-dura-y-militarizacion]] — la política que se le aplica
@@ -115,3 +126,8 @@ El cúmulo `Vínculo Estado-crimen` y `Amenaza y securitización` suman 42 de lo
 [^ext-14]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 113.
 [^ext-15]: **Extraído** — [[gardner-prohibir-inmoralidades]], §4, pp. 21-22.
 [^inf-1]: **Inferido** (confianza 0.7) — Gardner no discute el crimen organizado ni a Zúñiga. Aplicar su tesis sobre el Estado como agente moral a la frontera entre crimen y poder legítimo es lectura de esta wiki.
+[^ext-16]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, pp. 19-20, sobre Arsovska y Albanese para la definición corriente.
+[^ext-17]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 3, pp. 91-92, y cap. 4, pp. 120-122.
+[^ext-18]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], conclusión, pp. 248-249.
+[^ext-19]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, pp. 33-34, sobre Bailey.
+[^inf-2]: **Inferido** (confianza 0.7) — contraste entre la definición de Varese, en [[albarracin-crimen-organizado-america-latina]], p. 6, y la de [[arias-empresas-criminales-y-gobernanza]], p. 20. Arias no discute a Varese.

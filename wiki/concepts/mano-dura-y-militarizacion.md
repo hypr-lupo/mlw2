@@ -1,13 +1,13 @@
 ---
 title: Mano dura y militarización
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
 cluster: sistema-penal
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-10-02
 ---
 
 # Mano dura y militarización
@@ -79,6 +79,20 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]], que 
 
 **El nombre en el libro.** Tres capítulos y las conclusiones llaman a esta demanda **populismo punitivo**, y la sitúan tanto en los gobiernos como en la demanda ciudadana [^ext-18].
 
+## Desde el barrio: Arias y Bourgois
+
+Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]] y [[bourgois-en-busca-de-respeto]]. Uno mira la mano dura desde seis barrios de Rio, Kingston y Medellín; el otro, desde East Harlem.
+
+**Cohesiona a los grupos.** Arias recoge de la literatura regional que la mano dura aliena a la población de la policía, socava el control del delito y aumenta la cohesión de los grupos criminales [^ext-19]. Cuando el Estado enfrenta a un criminal que se volvió notorio, no restaura el control: abre paso a un nuevo orden criminal [^ext-20]. Converge con Osorio y con Durán-Martínez, pero no de forma independiente, porque Arias declara que extiende el trabajo de Durán-Martínez del municipio al barrio [^ext-21].
+
+**Contra la metáfora de la guerra.** La violencia armada se entiende mejor como sistema de gobernanza que como guerra. La metáfora de la guerra impide ver la colusión, justifica una postura de combate contra los barrios pobres y oculta la corrupción que hace sostenible la violencia crónica [^ext-22]. Su alternativa se parece a la represión condicional de Lessing: una política sostenida contra la colusión entre Estado y crimen, con represión selectiva y nuevas formas de relación con los barrios [^ext-23].
+
+**Un dato chileno incómodo.** Arias cita a Gootenberg: el régimen de Pinochet destruyó el comercio de cocaína de Chile en los setenta [^ext-24]. No lo usa para defender la mano dura. Lo usa para mostrar que los cambios de régimen reconfiguran el crimen, y en el mismo pasaje dice que la democratización, al aflojar la represión, puede aumentar la violencia [^ext-24]. Conviene tenerlo a la vista y no omitirlo, con sus límites: es la única mención de Chile en el libro, viene de segunda mano y no dice qué pasó después con ese comercio ni a qué costo. Verificarlo exige la obra de Gootenberg, que no está en el corpus.
+
+**El encarcelamiento como política social.** Bourgois documenta la versión estadounidense. En los noventa la tasa de encarcelamiento se duplicó y llegó a ser de 6 a 12 veces la de la Unión Europea [^ext-25]. La política federal «one strike» permitía desalojar de la vivienda pública a toda una familia por un solo miembro condenado; la mayoría de los traficantes del libro fueron desalojados con sus familias [^ext-26]. En el epílogo de 2010 concluye que la expansión de la policía es la política más agresiva del gobierno de Estados Unidos para combatir la pobreza [^ext-27].
+
+**Y en América Latina, una tesis sin datos.** En el prefacio de 2010, Bourgois sostiene que la tolerancia cero y la mano dura crearon en América Latina las condiciones para la expansión del crack [^ext-28]. Converge con Arias, pero el texto no trae evidencia para la región: es una opinión del autor, no un hallazgo de su etnografía.
+
 ## Cita
 
 > "el enemigo debe ser eliminado y no es sujeto de derechos"
@@ -93,6 +107,10 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]], que 
 - [[ventanas-rotas]] — la misma conclusión desde otra literatura y otro continente
 - [[vanderschueren-prevencion-del-delito]] — México, las maras y la edad penal
 - [[mediacion-comunitaria]] — la alternativa que el cap. XII propone en México
+- [[arias-empresas-criminales-y-gobernanza]] — la mano dura cohesiona a los grupos; contra la metáfora de la guerra; el dato de Pinochet
+- [[bourgois-en-busca-de-respeto]] — encarcelamiento masivo y desalojos en Nueva York
+- [[regimenes-armados-microescala]] — por qué la respuesta debería cambiar según el régimen armado del barrio
+- [[desplazamiento-y-difusion]] — la fragmentación que produce la represión, vista como desplazamiento de organización
 
 **Convergencia que conviene registrar.** [[sampson-vecindario-y-comunidad]] sostiene, desde la investigación estadounidense sobre desorden y tolerancia cero, que la intervención punitiva sobre territorios pobres no reduce el delito y sí destruye la legitimidad policial. Albarracín llega a lo mismo desde la literatura latinoamericana sobre mano dura, con casos y estudios completamente distintos. Que dos corpus independientes converjan es un hallazgo por derecho propio; ninguno de los dos autores discute al otro.
 
@@ -117,3 +135,13 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]], que 
 [^ext-17]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, p. 388.
 [^ext-18]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, p. 51; cap. VI, p. 143; cap. VII, p. 168; y conclusiones, p. 387.
 [^inf-1]: **Inferido** (confianza 0.7) — las conclusiones atribuyen la afirmación a «uno de los artículos», que es el cap. X. Ese capítulo argumenta desde teorías y estudios extranjeros, no desde una evaluación de las medidas chilenas.
+[^ext-19]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, p. 35, sobre Cruz, Moncada, y Arias y Ungar.
+[^ext-20]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, p. 36.
+[^ext-21]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], introducción, p. 10.
+[^ext-22]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], introducción, pp. 10-11, y conclusión, pp. 247-248.
+[^ext-23]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, p. 37.
+[^ext-24]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, p. 34, sobre Gootenberg.
+[^ext-25]: **Extraído** — [[bourgois-en-busca-de-respeto]], prefacio a la 2.ª ed., p. 27, sobre Wacquant (1999).
+[^ext-26]: **Extraído** — [[bourgois-en-busca-de-respeto]], prefacio a la 2.ª ed., p. 29.
+[^ext-27]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a esta edición (2010), p. 372.
+[^ext-28]: **Extraído** — [[bourgois-en-busca-de-respeto]], prefacio a esta edición (2010), p. 19.

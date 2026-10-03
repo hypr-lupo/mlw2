@@ -1,13 +1,13 @@
 ---
 title: Miedo social
 type: concept
-sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
+sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf"]
 cluster: victimizacion-e-inseguridad
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-10-02
 ---
 
 # Miedo social
@@ -67,6 +67,22 @@ Usan el concepto de **empeligrosamiento** (Kessler, 2009). El peligro recae siem
 
 **Qué hacer con esto.** Las conclusiones del libro separan dos objetivos de la prevención con causas distintas: la victimización y la percepción de inseguridad. La segunda exige una política comunicacional y pedagógica de largo plazo [^ext-15]. Ver [[prevencion-del-delito]].
 
+## Donde la violencia sí es alta: la cultura del terror
+
+Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]]. Adams desacopla miedo y violencia en comunidades donde la violencia es baja. Bourgois lo hace en East Harlem a fines de los ochenta, donde era alta.
+
+**La violencia no se reduce a su cifra.** Los asesinatos y las palizas se concentraban en un grupo reducido: quienes participaban del narcotráfico y de la economía informal, y algunos especialmente vulnerables, como los ancianos. La inmensa mayoría de los vecinos nunca había sufrido un asalto. Pero la violencia callejera, visible y traumática, afectaba la percepción del barrio de forma desproporcionada respecto de su peligro real [^ext-16].
+
+**Lo que produce es silencio.** Bourgois toma de Taussig la idea de una **cultura del terror**. Su efecto en el barrio era silenciar a la gran mayoría que no recurría a la violencia: se aislaban, despreciaban a quienes participaban de la calle, interiorizaban los estereotipos racistas y desconfiaban de sus vecinos [^ext-17]. Los traficantes eran una minoría, pero habían impuesto el tono de la vida pública, y los vecinos que cumplían la ley habían perdido el control del espacio público [^ext-18]. A cada padre le quedaban dos opciones: encerrar a sus hijos o convivir a diario con las drogas [^ext-19].
+
+**Y sirve hacia fuera.** Las imágenes de esa violencia deshumanizan a víctimas y victimarios, y le permiten a la sociedad dominante justificar que no se enfrente la segregación ni el deterioro del sector público [^ext-17]. Es la construcción del otro peligroso que describe Adams, vista desde el barrio que la sufre.
+
+## Donde la violencia es baja porque alguien manda
+
+Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]], que agrega un tercer caso. En los barrios donde un grupo armado domina en colusión con el Estado, un control fuerte puede producir poca violencia aparente mientras crece el temor [^ext-20]. En Rio das Pedras, dominado por una milícia, las armas casi no se ven y los asaltos son raros, pero los residentes dicen que no pueden denunciar nada y que la gente desaparece [^ext-21]. En la Comuna 1 de Medellín, con homicidios más focalizados, había menos miedo a transitar y más miedo a desafiar en público al grupo [^ext-22].
+
+**Tres desacoples distintos.** Adams describe miedo alto con violencia baja, sin grupo dominante. Bourgois, miedo mayor que el peligro real para la mayoría, con violencia alta y concentrada. Arias, violencia baja porque el miedo cambió de objeto: ya no es el asalto sino el grupo que lo impide [^inf-2]. Los tres llevan a la misma advertencia para un diagnóstico, por caminos distintos.
+
 ## Por qué importa para un diagnóstico local
 
 Si la percepción de inseguridad puede ser alta donde la violencia registrada es baja, y producir las mismas respuestas —barreras, patrullas, linchamientos—, entonces un diagnóstico que se apoye sólo en tasas de delito describirá mal el problema que una política municipal tendría que atender.
@@ -87,6 +103,9 @@ El corpus tiene material sin ingerir que discute exactamente esto: Dammert (2012
 - [[gobernanzas-paralelas]] — las barreras, las patrullas y los condominios cerrados son su expresión organizada
 - [[eficacia-colectiva]] — Sampson mide la disposición a intervenir; aquí esa misma disposición, movida por el miedo, produce patrullas y linchamientos
 - [[vanderschueren-prevencion-del-delito]] — la brecha del temor en Maipú y Peñalolén, y el temor en la movilidad cotidiana
+- [[bourgois-en-busca-de-respeto]] — la cultura del terror en East Harlem
+- [[arias-empresas-criminales-y-gobernanza]] — el miedo bajo un orden armado, donde la violencia aparente es baja
+- [[cultura-callejera]] — lo que impone el tono de la vida pública
 
 ---
 
@@ -106,3 +125,11 @@ El corpus tiene material sin ingerir que discute exactamente esto: Dammert (2012
 [^ext-14]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. IX, p. 240, sobre la ENUSC 2017.
 [^ext-15]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, pp. 380-381.
 [^inf-1]: **Inferido** (confianza 0.7) — comparación propia entre [[adams-violencia-cronica]], sección II.G, y los caps. VII y VIII. Ninguno de los capítulos cita a Adams.
+[^ext-16]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 1, pp. 60-62.
+[^ext-17]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 1, p. 62, sobre Taussig (1987).
+[^ext-18]: **Extraído** — [[bourgois-en-busca-de-respeto]], introducción, pp. 40-41.
+[^ext-19]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 7, p. 277.
+[^ext-20]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, pp. 108-109.
+[^ext-21]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, pp. 129-131.
+[^ext-22]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, p. 115.
+[^inf-2]: **Inferido** (confianza 0.7) — comparación propia entre [[adams-violencia-cronica]], [[bourgois-en-busca-de-respeto]] y [[arias-empresas-criminales-y-gobernanza]]. Ninguno discute a los otros sobre este punto.

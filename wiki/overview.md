@@ -8,8 +8,9 @@ sources: []
 
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
-**Al 27-09-2026: núcleo ancla completo y tanda 1 cerrada.** Catorce fuentes de 117,
-cincuenta y una páginas, **siete de ocho clústeres poblados**. Las
+**Al 02-10-2026: núcleo ancla completo, tanda 1 cerrada y dos ingestas fuera de
+orden.** Dieciséis fuentes de 118, cincuenta y cinco páginas, **siete de ocho clústeres
+poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
 por decisión del autor, un proyecto de tesis de Derecho inédito, Zúñiga Núñez (2013),
@@ -49,7 +50,20 @@ queda por verificar.
 propuesta de que evalúe las estrategias de su propia institución. Su evidencia sobre
 policía viene de Weisburd y otros, así que no confirma a esa fuente: la repite desde Chile.
 
-## Seis respuestas a la misma pregunta
+**La última ingesta mira el barrio desde dentro.** Entraron el 02-10, fuera del orden y por
+decisión del autor, dos libros que ningún programa recibido nombra.
+[[arias-empresas-criminales-y-gobernanza]] estudia seis barrios de Rio, Kingston y
+Medellín y propone los [[regimenes-armados-microescala]]: el orden de un barrio depende de
+cuán consolidado esté el grupo armado y de su relación con el Estado. Es el libro que
+Albarracín resumía de segunda mano, y el resumen perdía una de las dos variables.
+[[bourgois-en-busca-de-respeto]] es la primera etnografía de la wiki: una red de casas de
+crack en East Harlem a fines de los ochenta. Trae la [[cultura-callejera]], una
+respuesta a la exclusión que da un lugar a la dignidad y a la vez organiza la
+destrucción de quienes participan. Entre los dos tocan veinte páginas, fichas incluidas, y las que más
+cambian son [[legitimidad-policial]], [[miedo-social]] y [[mano-dura-y-militarizacion]],
+que ahora tienen el barrio además de la estadística.
+
+## Siete respuestas a la misma pregunta
 
 Las fuentes teóricas explican por qué la violencia se concentra donde se concentra, y
 cada una pone el mecanismo en un lugar distinto.
@@ -75,7 +89,14 @@ La página está en borrador: es una reseña, y Blanco (2011) llega en la tanda 
 
 **En el Estado.** [[albarracin-crimen-organizado-america-latina]]: el crimen organizado
 existe también por la cooperación deliberada de actores estatales. Ver
-[[gobernanza-criminal]] y [[crimen-organizado]].
+[[gobernanza-criminal]] y [[crimen-organizado]]. [[arias-empresas-criminales-y-gobernanza]]
+lo baja al barrio: el tipo de relación con el Estado y la consolidación del grupo definen
+qué orden se forma. Ver [[regimenes-armados-microescala]].
+
+**En la cultura.** [[bourgois-en-busca-de-respeto]]: la exclusión de la economía legal
+produce una [[cultura-callejera]] que busca respeto y termina destruyendo a sus
+participantes. La concentración de pobreza que la hace posible la produjeron políticas
+urbanas, no la ecología del barrio. Ver [[desorganizacion-social]].
 
 **En la condición.** [[adams-violencia-cronica]]: la [[violencia-cronica]] es condición
 y no episodio, y sus efectos —[[miedo-social]], [[zona-gris]], [[muerte-social]]— la
@@ -174,6 +195,32 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     procedimental; Tudela, desde la eficacia demostrada. No se excluyen, pero piden
     políticas distintas. Ver [[legitimidad-policial]].
 
+**Las ocho que abren Arias y Bourgois**
+
+23. **Una variable o dos.** Albarracín resume a Arias con la relación con el Estado; el
+    modelo usa además la consolidación del grupo. Ver [[gobernanza-criminal]] y
+    [[regimenes-armados-microescala]].
+24. **Las UPP, criticadas y recomendadas.** Arias muestra que la caída de homicidios era
+    previa y que las unidades se corrompieron, y aun así recomienda la ocupación
+    progresiva para un tipo de régimen. Ver [[policia-comunitaria]].
+25. **Medellín: ¿buen caso o paz armada?** El libro de 2021 lo pone entre los mejores
+    casos de coordinación municipal; Arias atribuye buena parte de su caída de homicidios
+    a la consolidación paramilitar y a un pacto entre organizaciones criminales. Ver
+    [[coproduccion-de-seguridad]].
+26. **¿Paralelas o mediadoras?** Adams describe grupos que proveen lo que el Estado no;
+    Arias, grupos que reparten lo que el Estado paga. Ver [[gobernanzas-paralelas]].
+27. **Colusión o incompetencia.** Arias encuentra policías que coluden con los grupos o
+    los integran; Bourgois, una policía que no necesitaba ser corrupta. Ver
+    [[legitimidad-policial]].
+28. **Desorganización o economía política.** Bourgois acepta la continuidad ecológica
+    de East Harlem y la atribuye a la renovación urbana. Ver [[desorganizacion-social]].
+29. **El empleo ilegal como punto de inflexión.** En Bourgois, el puesto en la casa de
+    crack ordenó vidas que el empleo legal no ordenó. Ver
+    [[criminologia-del-curso-de-vida]].
+30. **¿Qué significa la deserción escolar?** Un factor de riesgo para Hein; durante una
+    generación, una estrategia con estatus que fracasó cuando cerraron las fábricas. Ver
+    [[prevencion-del-delito]].
+
 **La que más va a pesar en el trabajo evaluado de S1.1.**
 [[onu-habitat-guia-barrios]] incorpora la teoría de las ventanas rotas dentro de su
 [[tipologia-barrial]], y [[sampson-vecindario-y-comunidad]] la declara espuria.
@@ -186,12 +233,15 @@ inventario. Ver [[ventanas-rotas]].
 - **La mano dura.** Sampson desde la tolerancia cero, Albarracín desde la literatura
   latinoamericana y el libro de 2021 desde la prevención llegan a lo mismo: la
   intervención punitiva sobre territorios pobres no reduce el delito y sí destruye
-  legitimidad. Adams y Pearce explican por qué es popular. Ver
-  [[mano-dura-y-militarizacion]].
+  legitimidad. Adams y Pearce explican por qué es popular. Arias agrega que cohesiona a
+  los grupos, y Bourgois describe su versión estadounidense: encarcelamiento masivo y
+  desalojos. Ver [[mano-dura-y-militarizacion]].
 - **El miedo.** Adams en Guatemala, y Luneke y Trebilcock en Maipú y la encuesta de
   Peñalolén en Chile, encuentran el temor desacoplado del delito y movido por los
   medios, el conflicto entre generaciones y la construcción del otro. Investigaciones
-  independientes, en dos países. Ver [[miedo-social]].
+  independientes, en dos países. Bourgois y Arias agregan dos desacoples más: el miedo
+  mayor que el peligro donde la violencia es alta y concentrada, y la calma que esconde
+  miedo donde un grupo armado manda. Ver [[miedo-social]].
 - **La amenaza.** Gardner desde la filosofía del derecho y Wikström desde la
   criminología coinciden en que la amenaza no opera sobre quien ya tiene resuelta la
   cuestión. Ver [[autocontrol-y-disuasion]].
@@ -226,6 +276,10 @@ inventario. Ver [[ventanas-rotas]].
 - **Evaluar una intervención focalizada.** [[policia-de-puntos-calientes]] y
   [[desplazamiento-y-difusion]].
 - **Mirar a quien gestiona el lugar.** [[gestion-de-lugares]].
+- **Leer un barrio con grupo armado.** [[regimenes-armados-microescala]]: qué régimen
+  hay, qué inseguridad produce cada uno y qué política le corresponde.
+- **Explicar la violencia juvenil desde la calle.** [[cultura-callejera]], con la
+  advertencia de que viene de Nueva York en los ochenta.
 
 Las cuatro primeras vienen sobre todo del equipo del docente del ramo: dos guías que
 cuentan como una, y el libro de 2021, en parte de los mismos autores. Las tres últimas,
@@ -236,7 +290,7 @@ cosas.
 
 El trabajo recae sobre una política municipal o un proyecto de seguridad identificable
 —la misma exigencia de anclaje del [[trabajo-de-grado-profesionalizante]] un semestre
-antes. Las fuentes dan, juntas, trece preguntas que un diagnóstico serio debería poder
+antes. Las fuentes dan, juntas, quince preguntas que un diagnóstico serio debería poder
 responder sobre cualquier intervención. Las formula esta wiki:
 
 - ¿Funciona por el territorio o por quién usa el territorio?
@@ -256,6 +310,9 @@ responder sobre cualquier intervención. Las formula esta wiki:
 - ¿Qué entiende por prevención cada actor que participa en ella?
 - ¿La cifra que la justifica se obtuvo preguntando por la etiqueta o por conductas
   concretas, y con qué muestra?
+- ¿Hay en el territorio un grupo armado consolidado, y qué relación tiene con quienes
+  ejecutan la intervención?
+- ¿Una tasa de homicidios baja indica seguridad o dominio?
 
 La primera política municipal chilena documentada en la wiki es la de Peñalolén. Vive
 en la ficha y en [[revision]], a la espera de una fuente que no sea su propia
@@ -268,10 +325,13 @@ dirección. Elegirla o no es decisión del autor.
   de Santiago. Varios de sus autores escriben sobre instituciones propias, y ninguna de
   esas descripciones es una evaluación. Sigue sin saberse si la ley de concentración
   vale aquí. Ver [[revision]]. `caso-de-grado` sigue vacío.
-- **Registrar el otro lado.** Nueve páginas en borrador: [[ventanas-rotas]],
+- **Registrar el otro lado.** Once páginas en borrador: [[ventanas-rotas]],
   [[policia-comunitaria]], [[legitimidad-policial]], [[debilidad-estatal]],
   [[desorganizacion-social]], [[policia-de-puntos-calientes]], [[moralismo-legal]],
-  [[criminologia-del-curso-de-vida]] y [[violencia-en-el-noviazgo]].
+  [[criminologia-del-curso-de-vida]], [[violencia-en-el-noviazgo]],
+  [[regimenes-armados-microescala]] y [[cultura-callejera]]. Las dos nuevas descansan en
+  una sola fuente cada una, y ninguna fuente del corpus las prueba en Chile. [[ventanas-rotas]] y
+  [[debilidad-estatal]] suman críticos, pero siguen sin un defensor.
 - **Hablar de las teorías de la oportunidad desde sus autores.** Clarke (1997) y Felson
   y Eckert (2016) entran en la tanda 4.
 - **Hablar del curso de vida y del autocontrol desde sus autores.** Blanco (2011) en la
@@ -282,7 +342,8 @@ dirección. Elegirla o no es decisión del autor.
   de investigación. La medición de la victimización espera al informe del INE (2023), y el
   diseño, a Batthyány y Cabrera (2011), los dos en la tanda 2.
 - **Clasificar grupos criminales.** No hay `subtipo` de `entity` donde quepan el PCC o
-  las milícias. Material de la operación 8.
+  las milícias. Material de la operación 8. Las milícias ya tienen la segunda fuente que
+  su página esperaba; lo único que la bloquea es esto.
 
 ## Orden de ingesta
 
@@ -292,3 +353,5 @@ tandas, cada una cerrada antes de la clase que la usa. La tanda 1 quedó cerrada
 Hamui Sutton (2021), INE (2023), Srur (2014), pp. 26-45, el capítulo de Boba en Tudela (ed.)
 (2010) y CIPC (2015). Después de la sexta vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.
+Arias (2017) y Bourgois (2010) entraron fuera de ese orden el 02-10, por decisión del
+autor. Ningún documento de la tanda 2 está ingerido, y su cierre es el 10-10.

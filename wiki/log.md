@@ -8,6 +8,105 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-02] ingesta | Bourgois (2010), En busca de respeto. Vendiendo crack en Harlem
+
+**Ingesta fuera del orden por calendario, por decisión del autor, en la misma sesión que
+Arias (2017). Primera etnografía de la wiki.**
+
+- Ficha creada: [[bourgois-en-busca-de-respeto]]. Traducción de 2010, de Siglo Veintiuno, de
+  la 2.ª edición en inglés (2003) de una obra de 1995, con prefacio y epílogo de 2010.
+  Trabajo de campo en East Harlem de 1985 a 1990. `verificacion_bibliografica: verificado`
+  contra la página de imprenta.
+- Páginas creadas (1): [[cultura-callejera]] —respuesta a la exclusión que da un lugar a la
+  dignidad y organiza la destrucción; la violencia como inversión en reputación; dos
+  capitales culturales; contra la cultura de la pobreza—. Borrador: una sola fuente.
+- Páginas actualizadas (9):
+  · [[muerte-social]] —la búsqueda de respeto en una etnografía; superfluos sin conciencia
+    de serlo—;
+  · [[ventanas-rotas]] —la tolerancia cero de Giuliani vista desde East Harlem, y la
+    despenalización de hecho de la marihuana—;
+  · [[desorganizacion-social]] —Thrasher, la continuidad ecológica y la renovación urbana—;
+  · [[miedo-social]] —la cultura del terror—;
+  · [[criminologia-del-curso-de-vida]] —trayectorias de desistimiento y recaída, y el empleo
+    ilegal como punto de inflexión—;
+  · [[prevencion-del-delito]] —una crítica etnográfica a los factores de riesgo y a los
+    programas centrados en la actitud—;
+  · [[mano-dura-y-militarizacion]], [[legitimidad-policial]] y [[desplazamiento-y-difusion]],
+    en secciones compartidas con Arias.
+  · Más [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: 4.
+  · **Desorganización o economía política.** Bourgois acepta la continuidad ecológica y la
+    atribuye a políticas urbanas. En [[desorganizacion-social]].
+  · **El empleo ilegal como punto de inflexión.** En [[criminologia-del-curso-de-vida]].
+  · **Qué significa la deserción escolar.** Frente a Hein (2004). En
+    [[prevencion-del-delito]].
+  · **Colusión o incompetencia**, frente a Arias. En [[legitimidad-policial]].
+- En revisión: 3 ítems nuevos —`[fuente]` «Violencia como lenguaje», `[concepto]` capital
+  cultural y `[concepto]` violencia contra las mujeres en la pareja y la familia— y 1
+  enmienda, a control social informal, compartida con Arias.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-10-02-bourgois-en-busca-de-respeto.md`.
+- Notas: el archivo llegó como `bourgois-en-busca-del-respeto -Violencia como lenguaje.pdf`
+  y se renombró a la convención; el contenido no se tocó. El título es «En busca **de**
+  respeto». «Violencia como lenguaje» no está en el libro. El escaneo trae dos páginas del
+  libro por página de PDF; el cap. 8 no tiene capa de texto y se leyó por imagen, y la
+  mitad izquierda del PDF 165 son notas manuscritas de un lector anterior. Ningún programa
+  recibido lo nombra: `curso: []`. Una nota de la conclusión cita a Merton de segunda mano;
+  registrado en el vacío del módulo 5. Toca 11 páginas de contenido, ficha incluida.
+
+## [2026-10-02] ingesta | Arias (2017), Criminal Enterprises and Governance in Latin America and the Caribbean
+
+**Ingesta fuera del orden por calendario, por decisión del autor. La wiki tenía este libro
+de segunda mano, por Albarracín.**
+
+- Ficha creada: [[arias-empresas-criminales-y-gobernanza]]. Monografía de política comparada,
+  Cambridge University Press, sobre seis barrios de Rio, Kingston y Medellín, con unas 300
+  entrevistas entre 2006 y 2012. `verificacion_bibliografica: pendiente` por el año y los
+  ISBN.
+- Páginas creadas (1): [[regimenes-armados-microescala]] —dos variables, cuatro regímenes,
+  qué inseguridad produce cada uno y qué política le corresponde—. Borrador: una sola
+  fuente.
+- Páginas actualizadas (11):
+  · [[gobernanza-criminal]] —el original que Albarracín resume, y las milícias vistas de
+    cerca en Rio das Pedras—;
+  · [[debilidad-estatal]] —una tercera crítica, contra O'Donnell—;
+  · [[gobernanzas-paralelas]] —cómo se produce la adhesión, y el grupo que media al Estado—;
+  · [[mano-dura-y-militarizacion]] —la mano dura cohesiona a los grupos; contra la metáfora
+    de la guerra; el dato de Pinochet, de segunda mano—;
+  · [[policia-comunitaria]] —las UPP: tendencia previa, rutinización, y una ocupación que
+    casi no tocó a las milícias—;
+  · [[crimen-organizado]] —las empresas criminales territoriales—;
+  · [[coproduccion-de-seguridad]] —el grupo armado como tercer coproductor, y Medellín—;
+  · [[legitimidad-policial]] —la legitimidad que se transfiere al grupo armado—;
+  · [[desplazamiento-y-difusion]] —el desplazamiento de organización—;
+  · [[violencia-cronica]] —la tasa baja que oculta el dominio armado, y el pluralismo
+    violento—;
+  · [[miedo-social]] —la calma que esconde miedo—.
+  · Más [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: 5, más 1 nota sobre independencia.
+  · **Una variable o dos.** Albarracín resume el modelo con una. En [[gobernanza-criminal]]
+    y [[regimenes-armados-microescala]].
+  · **Las UPP, criticadas y recomendadas.** En [[policia-comunitaria]].
+  · **Medellín: ¿buen caso o paz armada?** Frente al libro de 2021. En
+    [[coproduccion-de-seguridad]].
+  · **¿Paralelas o mediadoras?** Frente a Adams. En [[gobernanzas-paralelas]].
+  · **Colusión o incompetencia**, frente a Bourgois. En [[legitimidad-policial]].
+  · **Sobre la independencia**: Adams toma el pluralismo violento de Arias y Goldstein
+    (2010), y Arias cita a Adams. Su coincidencia no es una confirmación independiente. En
+    [[violencia-cronica]].
+- En revisión: 1 ítem nuevo —`[fuente]` año e ISBN— y 2 enmiendas: milícias de Rio, cuyo
+  criterio de segunda fuente se cumple y que pasa a esperar sólo el subtipo, y control
+  social informal, compartida con Bourgois. La cola queda en 31 abiertos.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-10-02-arias-empresas-criminales-y-gobernanza.md`.
+- Notas: el 02-10 llegó a `raw/sources/` un segundo archivo, `2017 - Arias - empresas
+  criminales y gobernanza en amlat.pdf`, idéntico por MD5 al que el corpus tenía desde el
+  29-08. Se ingirió el canónico; el duplicado no se borró, queda anotado en
+  `INVENTARIO.md` y retirarlo le corresponde al autor. El título del corpus omite «y el
+  Caribe». Ningún programa recibido lo nombra: `curso: []`. Toca 13 páginas de contenido,
+  ficha incluida. No mueve el orden por calendario: la tanda 2, que cierra el 10-10, no ha
+  empezado.
+
 ## [2026-09-27] auditoría | Revisión completa al cerrar la tanda 1, y consolidación de lo pendiente
 
 **Sin ingesta. A pedido del autor.** Informe completo en

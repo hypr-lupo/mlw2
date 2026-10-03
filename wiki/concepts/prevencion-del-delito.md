@@ -1,13 +1,13 @@
 ---
 title: Prevención del delito
 type: concept
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-10-02
 ---
 
 # Prevención del delito
@@ -69,6 +69,14 @@ El libro no se pone de acuerdo sobre el enfoque que organiza buena parte de la p
 
 La tensión es interna al libro y ninguno de los capítulos discute a los otros. Ver [[criminologia-del-curso-de-vida]], que es el marco del que el enfoque de factores de riesgo toma su base empírica.
 
+**Una crítica desde fuera.** Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]], una etnografía de East Harlem que no discute este libro pero sí el enfoque.
+
+- **Como individualización.** Los estudios del «niño en riesgo» concluyen que el carácter se fija en la primera infancia y que presenciar violencia basta para traumatizar. Según esas teorías, dice Bourgois, la mayor parte de East Harlem debería ser sociópata. Su objeción es que el determinismo psicológico deja fuera el contexto político, económico y cultural, y que sus muestras sobrerrepresentan a familias blancas de clase media [^ext-27].
+- **Sobre la deserción escolar.** Es uno de los cuatro factores de Hein. En East Harlem, dejar la escuela por la fábrica fue durante una generación una estrategia con estatus, que las madres autorizaban. En uno o dos años esas fábricas cerraron [^ext-28]. La correlación puede mantenerse; lo que cambia es lo que la deserción significa, y por tanto dónde habría que intervenir [^inf-1].
+- **Sobre los programas centrados en la actitud.** Bourgois inscribió a tres de sus informantes en un curso de motivación para «inempleables» cuya filosofía era que el problema estaba en la actitud. Ninguno fue a más de tres sesiones [^ext-29]. Generaliza la crítica a Head Start, que según él remedia síntomas individuales —baja autoestima, agresividad, déficit escolar— en vez de las fuerzas materiales que los producen [^ext-30].
+
+Su propuesta va en dirección contraria a la focalización: emparejar los servicios públicos de los barrios pobres con los de los suburbios, con guarderías gratuitas, salud universal y financiamiento escolar equitativo [^ext-31]. Es una posición del autor, no un resultado de su etnografía.
+
 ## Dos paradojas
 
 El cap. XIII, escrito sobre el extremismo violento, formula dos paradojas que valen para cualquier prevención [^ext-22]:
@@ -104,6 +112,7 @@ Las conclusiones separan lo que la definición de Naciones Unidas junta: la prev
 - [[criminologia-del-curso-de-vida]] — el fundamento del enfoque de factores de riesgo
 - [[miedo-social]] — el segundo objetivo de la prevención
 - [[tipologia-barrial]] — la prevención diferenciada por tipo de barrio en las guías de los mismos autores
+- [[bourgois-en-busca-de-respeto]] — la crítica etnográfica a los factores de riesgo y a los programas centrados en la actitud
 
 **Por confrontar.** La prevención situacional tiene su obra fundacional en el corpus: Clarke (1997), en la tanda 4. La comunitaria, en las orientaciones técnicas de la Subsecretaría de Prevención del Delito (2022), en la tanda 5.
 
@@ -135,4 +144,10 @@ Las conclusiones separan lo que la definición de Naciones Unidas junta: la prev
 [^ext-24]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VII, p. 181.
 [^ext-25]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. XIV, p. 340, sobre Montiel (2009).
 [^ext-26]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, pp. 380-381.
+[^ext-27]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 7, p. 273.
+[^ext-28]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 4, pp. 157-161.
+[^ext-29]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 4, p. 178.
+[^ext-30]: **Extraído** — [[bourgois-en-busca-de-respeto]], conclusión, p. 340.
+[^ext-31]: **Extraído** — [[bourgois-en-busca-de-respeto]], conclusión, pp. 338-339.
 [^amb-1]: **Ambiguo** — el cap. IV (p. 102) y el cap. VI (pp. 146-147) atribuyen a Brantingham y Faust (1976) definiciones distintas de la prevención primaria. El IV la define por la población destinataria, siguiendo al Foro de Expertos de 2004; el VI, por las condiciones del ambiente que dan oportunidades al delito. El libro no nota la diferencia. La obra original no está en el corpus; no se resuelve por inferencia.
+[^inf-1]: **Inferido** (confianza 0.65) — contraste entre Hein (2004), en [[vanderschueren-prevencion-del-delito]], cap. IV, y [[bourgois-en-busca-de-respeto]], cap. 4. Bourgois no discute el enfoque de factores de riesgo con ese nombre.

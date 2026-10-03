@@ -1,13 +1,13 @@
 ---
 title: Desorganización social
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-10-02
 ---
 
 # Desorganización social
@@ -60,6 +60,18 @@ La teoría se formuló para barrios. La tesis de [[weisburd-el-lugar-importa]] e
 > [!warning] Tensión sobre la escala
 > [[sampson-vecindario-y-comunidad]] funda en el barrio una política de seguridad territorial y advierte contra sobreestimar lo local: lo que pasa en el barrio lo configuran fuerzas no locales [^ext-15]. [[weisburd-el-lugar-importa]] baja la teoría todavía más, a la calle. Las dos obras usan el mismo constructo —la eficacia colectiva— y lo llevan en direcciones opuestas: una hacia fuera del barrio, la otra hacia dentro. Ninguna discute a la otra. La tensión la construye esta wiki.
 
+## Desde la etnografía: Thrasher y la economía política
+
+Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]]. Bourgois no expone la teoría, pero discute con su tradición desde East Harlem, el barrio donde trabajó uno de sus fundadores.
+
+**Acepta la continuidad.** Las calles de El Barrio produjeron personas violentas y adictas fuera cual fuera el grupo étnico que las habitara: holandeses, irlandeses, judíos, italianos, puertorriqueños. Bourgois la llama una explicación casi ecológica [^ext-16]. Es el hallazgo de Shaw y McKay, contado desde un barrio.
+
+**Juzga a Thrasher.** Frederic Thrasher, fundador de los estudios de pandillas, dedicó sus últimos quince años al Harlem italiano y financió decenas de tesis sobre su idea de las áreas intersticiales: el delito y la patología social nacen de los núcleos de pobreza urbana y se expanden en círculos concéntricos. Bourgois considera el enfoque simplista medio siglo después, pero reconoce que en su tiempo fue una crítica fuerte al racismo y al darwinismo social [^ext-17]. El mismo Thrasher, sin embargo, sostenía que los muchachos del distrito tenían una inteligencia menor a la normal [^ext-18].
+
+**Pero cambia la causa.** La concentración de pobreza no se formó sola. La renovación urbana de fines de los cincuenta destruyó decenas de cuadras de una comunidad obrera y reubicó a puertorriqueños y afroamericanos pobres en los proyectos de vivienda pública, que formaron uno de los núcleos de pobreza más concentrados de Nueva York. Para Bourgois, esa concentración fue fundamental para que las culturas callejeras tomaran el control del espacio público [^ext-19]. En la conclusión lo generaliza: la concentración de pobreza, drogas y delito en enclaves como East Harlem resulta de políticas estatales y fuerzas de mercado [^ext-20]. Ver [[cultura-callejera]].
+
+**Dónde queda respecto de la tensión de escala.** Bourgois coincide con la advertencia de Sampson: lo que pasa en el barrio lo configuran fuerzas que no son locales. Va en la dirección contraria a la de Weisburd y otros, que bajan la explicación a la calle [^inf-1]. La economía política no niega la desorganización: pregunta quién la produjo.
+
 ## Sobre el módulo 3 de S1.1
 
 El programa del ramo enmarca a Sampson dentro de la desorganización social, y Sampson (2006) no la nombra. [[weisburd-el-lugar-importa]] sí hace ese encuadre, y es la fuente que lo respalda: presenta la eficacia colectiva como extensión de la teoría sistémica, una de las versiones de la desorganización social [^ext-4]. El encuadre del programa queda así atribuido a una fuente, no a Sampson.
@@ -77,6 +89,7 @@ El programa del ramo enmarca a Sampson dentro de la desorganización social, y S
 - [[puntos-calientes]] — el fenómeno que la teoría tiene que explicar a escala de calle
 - [[gestion-de-lugares]] — la explicación rival, por la oportunidad, y cómo pueden combinarse
 - [[sampson-vecindario-y-comunidad]] — el autor que el programa enmarca aquí
+- [[bourgois-en-busca-de-respeto]] — la continuidad ecológica de East Harlem, explicada por la política urbana
 
 ---
 
@@ -95,3 +108,9 @@ El programa del ramo enmarca a Sampson dentro de la desorganización social, y S
 [^ext-13]: **Extraído** — [[weisburd-el-lugar-importa]], p. 114 y nota 2 del cap. 6 (p. 161).
 [^ext-14]: **Extraído** — [[weisburd-el-lugar-importa]], p. 115.
 [^ext-15]: **Extraído** — [[sampson-vecindario-y-comunidad]], p. 245.
+[^ext-16]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 2, pp. 81-83.
+[^ext-17]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 2, pp. 89-90.
+[^ext-18]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 2, pp. 84-85.
+[^ext-19]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 2, p. 91.
+[^ext-20]: **Extraído** — [[bourgois-en-busca-de-respeto]], conclusión, p. 337.
+[^inf-1]: **Inferido** (confianza 0.7) — comparación con la tensión registrada más arriba. Bourgois no cita a Sampson ni a Weisburd y otros.

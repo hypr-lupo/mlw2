@@ -1,13 +1,13 @@
 ---
 title: Desplazamiento del delito y difusión de beneficios
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-10-02
 ---
 
 # Desplazamiento del delito y difusión de beneficios
@@ -74,6 +74,18 @@ El autor lo llama **desplazamiento maligno**, por el riesgo para las víctimas y
 
 Queda una diferencia real. El cap. I generaliza desde un caso, sin cifras propias. Las revisiones generalizan desde cientos de observaciones, pero con la medida estrecha. Ninguna fuente de la wiki ha medido el desplazamiento de táctica o de gravedad en Chile.
 
+## Desplazamientos de mercado y de organización
+
+Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]] y [[arias-empresas-criminales-y-gobernanza]]. Ninguno de los dos evalúa prevención situacional. Los dos describen lo que se mueve cuando el Estado reprime un mercado o un grupo, y amplían la lista de lo que la investigación de más arriba no mide.
+
+**De mercancía.** Según Bourgois, el control fronterizo llevó a los importadores a reemplazar la marihuana, voluminosa, por cocaína. Las ciudades se inundaron de cocaína barata: según la DEA, el kilo bajó de 80.000 a 15.000 dólares entre 1980 y 1990 [^ext-16]. De ahí salió el crack. No se desplazó el delito: cambió lo que se vendía, y el cambio fue a peor.
+
+**De lugar, observado.** En la cuadra donde vivía Bourgois, un operativo antidrogas en otra zona trajo a varias compañías dominicanas de heroína; el dueño de las casas de crack las presionó para que se fueran al otro lado de la avenida [^ext-17]. Es un caso, sin medición, pero es el desplazamiento espacial que las revisiones buscan, y aquí el que lo resolvió fue el mercado local.
+
+**De organización.** Arias describe un desplazamiento que no es de lugar ni de tipo de delito sino de quién controla. El éxito de una política tiende a provocar la adaptación del grupo, y destruir un grupo empodera a sus competidores [^ext-18]. En la Comuna 13 de Medellín, la extradición del jefe paramilitar en 2008 no dejó un vacío: fragmentó el barrio entre cuatro combos pequeños que se disputaban una zona, y la violencia subió [^ext-19]. Un activista lo explicó con una metáfora: si se mata a la reina del hormiguero, las hormigas medianas quieren ser reinas [^ext-19]. La interdicción también puede mover a un grupo de negocio, de la droga a la extorsión [^ext-20]. A escala nacional, la literatura que reúne [[mano-dura-y-militarizacion]] describe lo mismo: la represión fragmenta el mundo criminal y desata guerras por los mercados [^ext-21].
+
+**Qué agrega a la discusión.** El desacuerdo de esta página era entre quienes miden el desplazamiento espacial y quienes señalan el de táctica. Estos casos agregan dos más, el de mercancía y el de organización, que ocurren a escala de mercado o de ciudad y que ningún estudio de punto caliente podría captar [^inf-2]. No refutan las revisiones, que hablan de intervenciones focalizadas. Advierten contra extender su conclusión a la represión de mercados y grupos.
+
 ## Cita
 
 > "displacement is far from inevitable" [el desplazamiento está lejos de ser inevitable]
@@ -87,6 +99,8 @@ Queda una diferencia real. El cap. I generaliza desde un caso, sin cifras propia
 - [[gestion-de-lugares]] — el caso de Chula Vista, donde la regulación benefició también a moteles de ciudades vecinas
 - [[vanderschueren-prevencion-del-delito]] — la posición contraria y el desplazamiento maligno
 - [[teoria-accion-situacional]] — la teoría que el cap. I propone para corregir el límite que atribuye a la prevención situacional
+- [[bourgois-en-busca-de-respeto]] — de la marihuana a la cocaína, y un desplazamiento de lugar observado en East Harlem
+- [[arias-empresas-criminales-y-gobernanza]] — el desplazamiento de organización: destruir un grupo empodera a sus competidores
 
 **Por confrontar.** Clarke (1997), en el corpus sin ingerir, es la obra fundacional de la prevención situacional, que es donde nació esta discusión.
 
@@ -108,3 +122,10 @@ Queda una diferencia real. El cap. I generaliza desde un caso, sin cifras propia
 [^ext-14]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, p. 48.
 [^ext-15]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VI, nota 2, p. 142.
 [^inf-1]: **Inferido** (confianza 0.6) — lectura propia al comparar las dos fuentes. El cap. I no cita a Weisburd ni a las revisiones sobre desplazamiento, y Weisburd y otros no discuten casos latinoamericanos.
+[^ext-16]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 2, p. 100, sobre la DEA.
+[^ext-17]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 3, p. 108.
+[^ext-18]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, pp. 36-37.
+[^ext-19]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 3, pp. 78-80.
+[^ext-20]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, p. 34.
+[^inf-2]: **Inferido** (confianza 0.75) — comparación entre las escalas de [[weisburd-el-lugar-importa]] y de las dos fuentes nuevas. Ninguna de ellas usa la palabra desplazamiento en el sentido técnico de esta página.
+[^ext-21]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 11, sobre Osorio (2015) y Durán-Martínez (2018), tal como lo recoge [[mano-dura-y-militarizacion]].

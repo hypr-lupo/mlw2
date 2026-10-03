@@ -1,13 +1,13 @@
 ---
 title: Debilidad estatal y relación de suma cero
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf"]
 cluster: gobernanza-criminal
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-10-02
 ---
 
 # Debilidad estatal y relación de suma cero
@@ -60,6 +60,16 @@ Albarracín rechaza la suma cero porque algunos actores estatales forman parte d
 
 **Coinciden en la conclusión, no en la razón.** Para Albarracín, reforzar la coerción estatal puede reforzar a quienes sostienen el crimen. Para Zúñiga, Estado y crimen no se distinguen por lo que hacen sino por quién logra legitimar su violencia. Ver [[crimen-organizado]]. La crítica de Zúñiga es teórica: no trae datos y viene de un proyecto de tesis inédito. Por eso la página sigue en borrador, y la voz que falta sigue siendo la de los defensores del paradigma.
 
+## Una tercera crítica, desde la política comparada
+
+Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]]. Es la crítica con más trabajo de campo de las tres, y la única que nombra a su adversario.
+
+Arias discute la versión de O'Donnell: las «zonas marrones» donde el Estado de derecho no llega y la ciudadanía es de baja intensidad. Su tesis es que el crimen crónico no resulta del quiebre del Estado de derecho en sí, sino de tipos particulares de relación entre actores estatales y criminales [^ext-13]. Para sostenerla separa dos cosas que el paradigma junta. Usa la definición neoweberiana del Estado como herramienta operativa, pero lo trata como una fuerza plural: un mismo grupo armado puede colaborar con una parte del Estado y enfrentarse a otra [^ext-14].
+
+**Concede más que las otras dos.** La violencia resulta tanto de las limitaciones del Estado como de sus acciones [^ext-13], y la presencia estatal limita los conflictos entre grupos [^ext-15]. No niega que la capacidad estatal importe. Niega que menos violencia sea señal de más Estado: una organización dominante en colusión con el Estado puede producir orden y paz relativa [^ext-13]. Ver [[regimenes-armados-microescala]].
+
+Con tres críticos y ningún defensor, la página sigue en borrador por la misma razón.
+
 ## Cita
 
 > "estos dos «mundos» viven en una relación de suma cero"
@@ -72,6 +82,7 @@ Albarracín rechaza la suma cero porque algunos actores estatales forman parte d
 - [[crimen-organizado]] — el fenómeno que este paradigma explica
 - [[mano-dura-y-militarizacion]] — la política que se sigue de él
 - [[zuniga-civilizacion-y-derechos-humanos]] — segunda fuente: el monopolio de la violencia que el paradigma supone nunca existió
+- [[arias-empresas-criminales-y-gobernanza]] — tercera fuente: el Estado como fuerza plural, contra las «zonas marrones» de O'Donnell
 
 **Pendiente de completar.** El cúmulo `Vínculo Estado-crimen` del corpus contiene la discusión clásica sobre Estado y crimen organizado —Tilly (1985, 1990), Chambliss, Gambetta, Williams, Chabat, Schultze-Kraft, Caballero— y ninguno está ingerido. Hasta entonces esta página registra el paradigma sólo a través de quienes lo critican.
 
@@ -89,3 +100,6 @@ Albarracín rechaza la suma cero porque algunos actores estatales forman parte d
 [^ext-10]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 13.
 [^ext-11]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 136.
 [^ext-12]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 137.
+[^ext-13]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], introducción, p. 6.
+[^ext-14]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, pp. 20-21.
+[^ext-15]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, p. 24, sobre Skaperdas.

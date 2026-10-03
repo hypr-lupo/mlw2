@@ -28,6 +28,19 @@ Friedrich-Ebert-Stiftung.
 · **informe de estado del arte**: sus afirmaciones empíricas son citas de estudios
 ajenos y se cita el estudio original, no a Albarracín
 
+Arias, E. D. (2017). *Criminal enterprises and governance in Latin America and the
+Caribbean*. Cambridge University Press. https://doi.org/10.1017/9781316650073
+→ [[arias-empresas-criminales-y-gobernanza]] · **verificación bibliográfica pendiente**:
+el PDF trae el año 2017 en la página de derechos, 2016 en el catálogo de la editorial y
+2018 en la primera edición en rústica; ISBN ilegible · obra en inglés sin traducción · el
+corpus omite «y el Caribe» en el título
+
+Bourgois, P. (2010). *En busca de respeto: vendiendo crack en Harlem* (F. Montero
+Castrillo, Trad.). Siglo Veintiuno Editores. (Obra original publicada en 1995)
+→ [[bourgois-en-busca-de-respeto]] · verificada contra la página de imprenta · traduce
+la 2.ª edición en inglés (Cambridge University Press, 2003) y agrega un prefacio y un
+epílogo de 2010 · trabajo de campo de 1985 a 1990
+
 Gardner, J. (2007). Prohibiting immoralities. *Cardozo Law Review, 28*, 2613.
 → [[gardner-prohibir-inmoralidades]] · **verificación bibliográfica pendiente**: el
 corpus tiene la versión de autor, que pide no citar desde ella; falta el rango de

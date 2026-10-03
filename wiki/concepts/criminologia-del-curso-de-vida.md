@@ -1,13 +1,13 @@
 ---
 title: Criminología del desarrollo y del curso de vida
 type: concept
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-10-02
 ---
 
 # Criminología del desarrollo y del curso de vida
@@ -79,6 +79,20 @@ Es uno de los temas más controvertidos del enfoque, y según Díaz la llave par
 
 De ahí la afirmación más fuerte del capítulo: en casos de mediana y alta complejidad, sancionar y controlar parece mucho menos efectivo que promover actividades generativas con un contexto afectivo. La justicia restaurativa es el ejemplo [^ext-23]. La formulación es cauta —«pareciera»— y no cita una evaluación que la respalde.
 
+## Trayectorias en East Harlem
+
+Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]]. No es un estudio longitudinal, pero sigue a las mismas personas desde 1985 hasta 2010, con epílogos en 1994, 2002 y 2010, y no usa el vocabulario de este enfoque. Lo que muestra sirve para ponerlo a prueba.
+
+**Los puntos de inflexión aparecen.** Primo, que robaba desde los diez años con primos mayores, dejó de robar cuando se juntó con la madre de su hijo y encontró trabajo [^ext-26]. Bourgois generaliza: muchos de sus informantes mantuvieron familias estables por períodos largos, casi siempre mientras tenían empleo legal [^ext-27].
+
+**Y se revierten.** A los 19 años, Primo trabajaba en una imprenta de cuatro de la tarde a medianoche, había dejado la cocaína y le leía el alfabeto a su hijo. Le cambiaron el turno a uno de dos a diez de la madrugada: empezó a dormirse en el trabajo, volvió a fumar, lo despidieron en una ola de despidos y la pareja se separó [^ext-28]. El punto de inflexión dependía de las condiciones del empleo, no sólo de tenerlo.
+
+**El momento importa, como dice el enfoque.** A los 26, Primo era demasiado viejo para los trabajos de adolescente y tenía un hueco en su historial laboral [^ext-29]. El mismo desempleo que a los 18 era transitorio, a los 26 lo dejó fuera.
+
+**El empleo ilegal también ordena.** Bourgois documenta dos casos que el enfoque no prevé. Primo, adicto y desempleado, derrotó al crack cuando lo contrataron como gerente de la casa de crack: el puesto le dio la estabilidad y el sentido de dignidad que necesitaba [^ext-30]. Y Benzie, que fumaba crack mientras tenía un empleo legal, sólo pudo dejarlo al pasar a vendedor de tiempo completo, porque las responsabilidades del puesto lo obligaron a enderezarse [^ext-31]. Lo que ordenó su vida no fue la legalidad del empleo sino su estructura, su exigencia y el respeto que traía [^inf-2]. El enfoque supone que los vínculos que llevan al desistimiento son con instituciones convencionales; estos casos sugieren que el mecanismo puede operar también fuera de ellas, aunque con otro destino.
+
+**Las instituciones también cortan trayectorias.** En 2010, Primo había renunciado a un empleo de 14,75 dólares la hora cuando empezaron a descontarle una deuda de pensión alimenticia que, además, no llegaba a su hijo; volvió a vender [^ext-32]. Antes, en 2002, lo habían desalojado de la vivienda pública por una condena por posesión [^ext-33]. Y el ejército, uno de los puntos de inflexión de Sampson y Laub, reaparece en el epílogo de 2010 con otro sentido: un juez de menores obligó al hijo de Primo a enrolarse para anular sus cargos, y Bourgois lo lee como el único vehículo legal de redención que el Estado ofrece a esos jóvenes [^ext-34]. Ver [[mano-dura-y-militarizacion]].
+
 ## En Chile
 
 El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
@@ -97,6 +111,8 @@ El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
 - [[vanderschueren-prevencion-del-delito]] — fuente
 - [[prevencion-del-delito]] — el enfoque de factores de riesgo, que toma su base empírica de aquí, y sus críticas
 - [[autocontrol-y-disuasion]] — el autocontrol en la teoría de la acción situacional
+- [[bourgois-en-busca-de-respeto]] — trayectorias de desistimiento y recaída seguidas durante veinticinco años
+- [[cultura-callejera]] — el contexto en que esas trayectorias se forman
 
 **Por confrontar.** Blanco (2011), en la tanda 3, y Gottfredson y Hirschi (1990), en la tanda 4: la voz de la teoría que este enfoque discute.
 
@@ -128,3 +144,13 @@ El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
 [^ext-24]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 262-264.
 [^ext-25]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 265-266 y nota 2.
 [^inf-1]: **Inferido** (confianza 0.6) — lectura conjunta de los caps. III y X. Parrao no discute a Gottfredson y Hirschi; Díaz no discute a Moffitt (2011). El estudio de Moffitt muestra estabilidad predictiva del autocontrol infantil, lo que Gottfredson y Hirschi sostienen, y Parrao lo usa para argumentar que conviene estimularlo, lo que la fijación temprana haría inútil.
+[^ext-26]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 5, pp. 212 y 220, testimonio.
+[^ext-27]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 8, p. 317.
+[^ext-28]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 8, pp. 317-320, testimonio.
+[^ext-29]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 4, pp. 143-144.
+[^ext-30]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 3, p. 106.
+[^ext-31]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 3, p. 114.
+[^ext-32]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a esta edición (2010), pp. 368-369.
+[^ext-33]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a la 2.ª ed., pp. 353-354.
+[^inf-2]: **Inferido** (confianza 0.6) — lectura de los dos casos de [[bourgois-en-busca-de-respeto]] contra el desistimiento por vínculos sociales que expone esta página. Bourgois no usa el concepto de punto de inflexión.
+[^ext-34]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a esta edición (2010), pp. 367-368 y 372.

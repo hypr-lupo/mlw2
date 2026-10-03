@@ -1,13 +1,13 @@
 ---
 title: Coproducción de seguridad
 type: concept
-sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md"]
+sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-10-02
 ---
 
 # Coproducción de seguridad
@@ -80,6 +80,21 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. Las 
 
 **Un ejemplo concreto.** El cap. XII presenta la mediación comunitaria como un ejemplo palpable de coproducción, con la misma definición que da la guía de 2010 [^ext-25]. Ver [[mediacion-comunitaria]].
 
+## Cuando el tercer coproductor está armado
+
+Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]]. Las guías y el libro de 2021 piensan la coproducción entre el Estado y una comunidad que coopera. Arias la estudia en barrios donde hay un grupo armado, y encuentra que también coproduce.
+
+**Tres coproductores.** Arias toma el concepto de la literatura sobre políticas públicas —Evans, Ostrom, Tendler—, donde Estado y sociedad civil coproducen las políticas. Donde hay grupos armados bien organizados, los actores de la coproducción son tres: funcionarios, líderes cívicos y armados [^ext-26]. De ahí dos figuras. En la **provisión de dos canales**, el Estado y las organizaciones negocian con el grupo además de entre sí. En la **estructura de incidencia mediada**, el grupo se convierte en el interlocutor principal entre gobierno y comunidad [^ext-27]. Y el grupo no sólo saca recursos: gana legitimidad al entregar, o parecer que entrega, lo que llega al barrio [^ext-28]. Ver [[gobernanzas-paralelas]].
+
+**El presupuesto participativo de Medellín.** Es su caso más claro. En la Comuna 1, funcionarios municipales dijeron a las organizaciones que debían trabajar con los grupos desmovilizados, que controlaban la junta administradora local. Una comisión tripartita entre esos grupos y el municipio decidía qué organizaciones podían participar, y hubo amenazas a votantes en la fila [^ext-29]. Según un testimonio, los paramilitares se quedaban con el 40 % del dinero de los programas [^ext-30]. En la Comuna 13, en cambio, la crítica principal no fue la injerencia armada, sino la insensibilidad de la burocracia municipal, que con sus licitaciones desvirtuaba lo que la comunidad había decidido [^ext-31].
+
+**El resultado puede ser eficiente.** En Rio das Pedras, donde la milícia trabaja directamente con los funcionarios, Arias describe políticas fluidas, desarrollo económico, aquiescencia y miedo [^ext-32]. La coproducción funciona, pero la legitimidad que debía darle la participación la reemplazan las amenazas.
+
+**Qué se sigue para el concepto.** Las guías ya advertían que la coproducción se pide justamente donde el capital comunitario está más dañado. Arias agrega que donde la comunidad está organizada por un grupo armado, convocar a «la comunidad» puede ser convocar al grupo [^inf-2]. La participación no basta como indicador de coproducción: hay que saber quién controla a los que participan.
+
+> [!warning] Medellín: ¿buen caso o paz armada?
+> [[vanderschueren-prevencion-del-delito]] cita a Medellín, junto con Bogotá, entre los mejores casos latinoamericanos de coordinación municipal [^ext-19]. Arias no discute la coordinación municipal, pero sí el resultado que la hace parecer exitosa. Atribuye la caída de los homicidios entre 2002 y 2007 a la expulsión de la guerrilla y al control que la red paramilitar de Diego Murillo estableció con apoyo estatal, no al deterioro de los grupos armados [^ext-33]. Tras la extradición de Murillo en 2008, los homicidios volvieron a subir. Para la caída posterior a 2010 reconoce la inversión y el trabajo policial, pero también un pacto de 2013 entre dos organizaciones criminales que se repartieron territorios [^ext-34]. Citar a Medellín como modelo exige decir qué parte de su resultado se debe a la política y qué parte a la consolidación armada.
+
 ## Cita
 
 > "la multiplicidad de agencias de intervención a menudo no está preparada"
@@ -98,7 +113,7 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. Las 
 - [[gobernanzas-paralelas]] — lo que ocupa el lugar cuando el Estado no coproduce ni provee
 - [[vanderschueren-prevencion-del-delito]] — la coproducción ausente en el nivel central, vista desde Peñalolén
 - [[mediacion-comunitaria]] — su ejemplo concreto
-
+- [[arias-empresas-criminales-y-gobernanza]] — la coproducción con un grupo armado como tercer actor, y Medellín como paz armada
 ---
 
 [^ext-1]: **Extraído** — [[programa-magister-uah]], perfil de egreso, recogido en [[magister-prevencion-uah]].
@@ -127,3 +142,13 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. Las 
 [^ext-24]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. II, p. 73.
 [^ext-25]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. XII, pp. 300-301, sobre Ruiz y otros, en Díaz y otros (2014, p. 39).
 [^inf-1]: **Inferido** (confianza 0.6) — el capítulo no dice que la coproducción fracasara; dice que no bastaba. La lectura de que el paso a la seguridad humana amplía y no reemplaza la coproducción es propia.
+[^ext-26]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, p. 207.
+[^ext-27]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, p. 208.
+[^ext-28]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, p. 209.
+[^ext-29]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, pp. 215-216.
+[^ext-30]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, pp. 216-217, testimonio.
+[^ext-31]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, pp. 213-214.
+[^ext-32]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, p. 233.
+[^ext-33]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 2, pp. 52-53.
+[^ext-34]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 2, pp. 53-54, y conclusión, p. 242.
+[^inf-2]: **Inferido** (confianza 0.7) — se sigue de los casos de la Comuna 1 y de Rio das Pedras en [[arias-empresas-criminales-y-gobernanza]], cap. 7. Arias no lo formula como advertencia sobre el concepto de las guías, que no conoce.

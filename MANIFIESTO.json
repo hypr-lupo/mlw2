@@ -84,6 +84,18 @@
       "bytes": 595262,
       "ingerido": "2026-09-27",
       "ficha": "wiki/sources/tudela-analisis-criminal.md"
+    },
+    "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf": {
+      "sha256": "7a98c284d8f62949e91ca802635e778a134e8da41bb02ffd5bd50d9c5dcf0a6e",
+      "bytes": 2104649,
+      "ingerido": "2026-10-02",
+      "ficha": "wiki/sources/arias-empresas-criminales-y-gobernanza.md"
+    },
+    "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf": {
+      "sha256": "7d1668992f0d660d37ec855b29ce43bec1bafb1defa1885fea1116f9a6ebb866",
+      "bytes": 17635322,
+      "ingerido": "2026-10-02",
+      "ficha": "wiki/sources/bourgois-en-busca-de-respeto.md"
     }
   }
 }

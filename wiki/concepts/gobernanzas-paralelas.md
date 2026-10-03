@@ -1,13 +1,13 @@
 ---
 title: Gobernanzas paralelas
 type: concept
-sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf"]
+sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf"]
 cluster: gobernanza-criminal
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-10-02
 ---
 
 # Gobernanzas paralelas
@@ -65,6 +65,18 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-guia-prevencion-barrios]], qu
 
 **La consecuencia para la política** va en la misma dirección que la advertencia de Adams, aunque por otra razón: una acción policial aislada, por fuerte y pertinente que sea, no impide que la delincuencia se reproduzca, y es lo peor que puede ocurrir en estos barrios [^ext-16]. La guía pide reconstruir la ciudadanía al mismo tiempo que se genera, lenta y difícilmente, un capital social positivo [^ext-11].
 
+## ¿Paralelas o mediadoras?
+
+Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]], que estudia seis barrios de Rio, Kingston y Medellín y describe cómo el grupo armado produce adhesión.
+
+**Cómo se gana la adhesión.** Resolviendo disputas: en Denham Town, cada calle tenía un líder de área que mantenía el orden, y quien no quedaba conforme podía apelar a Coke, que oía quejas cada semana y recuperaba lo robado [^ext-17]. En Rocinha la resolución era plural: la asociación de vecinos como primera instancia y la pandilla para los casos difíciles, con un sesgo a favor de quien tenía conexiones con ella [^ext-18]. Y entregando beneficios: el grupo gana legitimidad cuando entrega, o parece entregar, lo que llega al barrio [^ext-19].
+
+**Lo que llega no siempre es suyo.** Adams describe grupos que brindan lo que el Estado no provee [^ext-1]. En los barrios de Arias, buena parte de lo que el grupo reparte lo paga el Estado. En Denham Town, la pandilla asignaba la vivienda pública y administraba contratos estatales [^ext-20]. En Rio das Pedras, la ciudad construyó una cancha que la milícia mantiene y por la que cobra a cada jugador [^ext-21]. El grupo no reemplaza al Estado: se pone entre él y los residentes. Arias lo llama estructura de incidencia mediada. Ver [[coproduccion-de-seguridad]].
+
+**No es una contradicción con Adams**, que describe lo que pasa donde el Estado no llega. Pero cambia la lectura de «paralela»: en estos barrios el orden armado depende de lo que el Estado entrega y de que lo entregue a través del grupo [^inf-1].
+
+**La adhesión varía con el régimen.** Donde el grupo domina sin competencia, la legitimidad deja paso al miedo. En Rio das Pedras los residentes prefieren la milícia al narcotráfico, pero dicen que no pueden denunciar nada y que la gente desaparece [^ext-22]. Arias resume el resultado como políticas fluidas, desarrollo económico, aquiescencia y miedo [^ext-23]. Ver [[regimenes-armados-microescala]].
+
 ## Cita
 
 > "les brindan protección y servicios que el estado no provee"
@@ -73,6 +85,8 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-guia-prevencion-barrios]], qu
 ## Relacionado
 
 - [[adams-violencia-cronica]] — fuente
+- [[arias-empresas-criminales-y-gobernanza]] — fuente: cómo se produce la adhesión en seis barrios, y el grupo como mediador del Estado
+- [[regimenes-armados-microescala]] — por qué la adhesión cambia de un barrio a otro
 - [[gobernanza-criminal]] — la misma intersección vista desde el Estado
 - [[violencia-cronica]] — la condición dentro de la que estas esferas emergen
 - [[muerte-social]] — por qué la pandilla es una oferta y no sólo una amenaza
@@ -100,3 +114,11 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-guia-prevencion-barrios]], qu
 [^ext-14]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], primera parte, sección II.B.3.1, p. 28.
 [^ext-15]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 2, sección 2.1.2, p. 40.
 [^ext-16]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 2, sección 2.1.2, p. 40.
+[^ext-17]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 3, pp. 88-89, y cap. 4, pp. 118-119.
+[^ext-18]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, pp. 128-129.
+[^ext-19]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, p. 209.
+[^ext-20]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, pp. 222-226.
+[^ext-21]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, p. 231.
+[^ext-22]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, pp. 130-131.
+[^ext-23]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, p. 233.
+[^inf-1]: **Inferido** (confianza 0.7) — contraste entre [[adams-violencia-cronica]], p. 49, y [[arias-empresas-criminales-y-gobernanza]], cap. 7. Ninguno de los dos discute al otro sobre este punto.

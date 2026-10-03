@@ -1,6 +1,6 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 27-09-2026 · **Total:** 117 documentos · **686 MB**
+**Fecha:** 02-10-2026 · **Total:** 118 documentos · **703 MB**
 
 > **Nomenclatura normalizada el 12-09-2026.** Los 114 documentos siguen ya el
 > patrón `año - autor - título`; no queda ninguno fuera de convención. Sin año
@@ -92,12 +92,19 @@ Tres advertencias sobre este bloque:
    el programa pide *Cuando el crimen reza* de 2025 y los metadatos del archivo dan
    2026.
 
-## Explicación del delito · 4 doc.
+## Explicación del delito · 5 doc.
 
 
 Alimenta: S1.3 —Baratta, Pavarini y, por contenido, Felson y Eckert— y S1.1 —Gottfredson
 y Hirschi—. La atribución anterior daba los cuatro a S1.1; el programa ancla, recibido el
 11-09-2026, sólo confirma uno. Ver `programa/S1.1`.
+
+**Alta del 02-10-2026: Bourgois (2010).** Llegó como `bourgois-en-busca-del-respeto
+-Violencia como lenguaje.pdf` y se renombró a la convención. Es la traducción de 2010 de la
+2.ª edición en inglés (2003) de una obra de 1995. «Violencia como lenguaje» no está en el
+libro: es un añadido de quien nombró el archivo, y queda como pregunta en
+`wiki/revision.md`. Ningún programa recibido lo nombra. Ingerido el mismo día, fuera del
+orden por calendario, por decisión del autor.
 
 
 | Documento | MB | MD5 |
@@ -105,6 +112,7 @@ y Hirschi—. La atribución anterior daba los cuatro a S1.1; el programa ancla,
 | 1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf | 31.3 | `a9c9341311ce` |
 | 2002 - Pavarini - Control y dominación, teorías criminológicas burguesas y proyecto hegemónico.pdf | 9.3 | `96cfa9d34aa2` |
 | 2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf | 9.5 | `4ff1f2891d1d` |
+| 2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf | 16.8 | `7e154c5a74d5` |
 | 2016 - Felson y Eckert - El delito y la vida cotidiana.pdf | 11.6 | `0b35231846f5` |
 
 ## Vínculo Estado-crimen · 18 doc.
@@ -138,6 +146,11 @@ Alimenta: S3.E4.
 
 
 Alimenta: S2.1, S3.E4.
+
+**Duplicado del 02-10-2026.** `2017 - Arias - empresas criminales y gobernanza en
+amlat.pdf` apareció ese día con el mismo tamaño y el mismo MD5 que el Arias (2017) de esta
+tabla. No se cuenta como documento ni se ingiere. Retirarlo le corresponde al autor; mientras
+siga en la carpeta, `scripts/estado.py` lo reportará fuera de inventario.
 
 
 | Documento | MB | MD5 |

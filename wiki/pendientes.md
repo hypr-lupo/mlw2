@@ -10,8 +10,8 @@ Artefacto operativo para retomar, no registro de lo hecho: la crónica de cada s
 en [[log]]. Se consolidó el 27-09-2026, en la auditoría que cerró la tanda 1; el informe
 está en `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-**Estado al 27-09-2026.** 14 fuentes ingeridas de 117 documentos; 98 pendientes de un
-universo de 111, que excluye los seis programas oficiales. 51 páginas: 9 en borrador.
+**Estado al 02-10-2026.** 16 fuentes ingeridas de 118 documentos; 97 pendientes de un
+universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 55 páginas: 11 en borrador.
 Núcleo ancla de S1.1 completo y **tanda 1 cerrada**. Siete de ocho clústeres poblados;
 `caso-de-grado` sigue vacío a propósito. Cobertura de S1.1: 17 de 32 títulos oficiales en
 el corpus, 53 %. Nada bloquea la ingesta.
@@ -21,11 +21,13 @@ el corpus, 53 %. Nada bloquea la ingesta.
 En este orden:
 
 1. **Tanda 2, antes del 10-10.** Es la que más ítems de la cola destraba. Ver abajo.
-2. **Decisiones que sólo toma el autor.** Cinco, en el grupo A de [[revision]]. La más
-   antigua es la página `tesis-` sobre el anclaje empírico, abierta desde el 29-08.
-3. **Verificaciones bibliográficas.** Siete, en el grupo B de [[revision]]. Mientras sigan
+2. **Decisiones que sólo toma el autor.** Siete, en el grupo A de [[revision]]. La más
+   antigua es la página `tesis-` sobre el anclaje empírico, abierta desde el 29-08. Fuera
+   de la cola, una más: retirar de `raw/sources/` el duplicado exacto de Arias (2017) que
+   llegó el 02-10; mientras siga, `scripts/estado.py` lo reporta como anomalía.
+3. **Verificaciones bibliográficas.** Ocho, en el grupo B de [[revision]]. Mientras sigan
    abiertas, esas obras no se citan en trabajos evaluados: Sampson, Adams, las dos guías de
-   barrios, Zúñiga Núñez, Gardner y el tipo penal de femicidio.
+   barrios, Zúñiga Núñez, Gardner, Arias y el tipo penal de femicidio.
 4. **Mantenimiento**, cuando haya tiempo entre tandas. Ver abajo.
 
 ## Fuentes por ingerir
@@ -37,6 +39,8 @@ documento por documento lo da `python scripts/estado.py`.
       Vanderschueren, Díaz y Guajardo (2021), Valdivia y otros (2019) y Tudela (2015).
       Fuera de orden, por decisión del autor: Zúñiga Núñez (2013), Gardner (2007) y la
       Ley 21.675 (2024).
+- [x] **Fuera de orden, el 02-10**, por decisión del autor: Arias (2017) y Bourgois
+      (2010). Ninguno está en un programa recibido; la tanda 2 no ha empezado.
 - [ ] **Tanda 2, antes del 10-10:** Batthyány y Cabrera (2011) · Vives Varela y Hamui
       Sutton (2021) · INE (2023) · Srur (2014), pp. 26-45 · Tudela (ed.) (2010), sólo el
       capítulo de Boba · CIPC (2015). Destraba o adelanta cuatro ítems de la cola: PADS+,
@@ -60,7 +64,7 @@ Después de la tanda 6 vuelve el orden por cúmulos. Pendientes por cúmulo, seg
 | Integrados desde el programa del curso | 6 | Contiene las P1 de S1.2 |
 | Medición e inseguridad | 6 | Contiene P1 de S1.2; ahí está lo que podría dirimir la contradicción de Adams |
 | Sistema penal y Estado de derecho | 6 | Contiene P1 de S1.3 |
-| Gobernanza criminal y territorio | 5 | |
+| Gobernanza criminal y territorio | 4 | |
 | Institucionalidad y política de prevención en Chile | 5 | Tres normas de la tanda 5, Luneke y Trebilcock (2023) y el comunicado de la ACOT |
 | Explicación del delito | 4 | Contiene P1 de S1.3, y Gottfredson y Hirschi |
 | Prevención e intervención | 3 | Contiene UNODC (2011), P1 de S1.2, y Clarke (1997) |
@@ -73,26 +77,29 @@ consulta de S1.1**, García-Pablos completo incluido.
 
 ## Cola de revisión
 
-**27 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
+**31 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
 
-- **A. Decisión del autor (5):**
+- **A. Decisión del autor (7):**
   - tesis del anclaje empírico;
   - página de Vanderschueren;
   - alcance de Zúñiga Núñez;
   - subtipo para grupos criminales;
-  - obras colectivas en el modelo de relevancia.
-- **B. Verificación bibliográfica (7):** los años de Sampson, Adams y la guía de 2010; el
-  borrador de 2020; Zúñiga Núñez; Gardner; el femicidio.
+  - milícias de Rio, que ya tienen su segunda fuente y sólo esperan el subtipo;
+  - obras colectivas en el modelo de relevancia;
+  - qué significa «Violencia como lenguaje» en el archivo de Bourgois.
+- **B. Verificación bibliográfica (8):** los años de Sampson, Adams y la guía de 2010; el
+  borrador de 2020; Zúñiga Núñez; Gardner; el año y los ISBN de Arias; el femicidio.
 - **C. Una obra del corpus (12):** se destraban con las tandas 2 a 6 y, uno de ellos,
   después.
-- **D. Segunda fuente sin identificar (3):**
+- **D. Una fuente que no está en el corpus o no se ha identificado (4):**
   - Coalición de Diez Puntos;
-  - milícias de Rio;
-  - CICIG.
+  - CICIG;
+  - capital cultural, que espera a Bourdieu;
+  - violencia contra las mujeres en la pareja y la familia, que espera a S3.3.
 
 ## Páginas borrador
 
-Nueve. Casi todas por la misma razón: registran una sola posición, o la registran de
+Once. Casi todas por la misma razón: registran una sola posición, o la registran de
 segunda mano.
 
 | Página | Qué le falta | Dónde puede estar |
@@ -106,6 +113,8 @@ segunda mano.
 | [[moralismo-legal]] | La voz de Fletcher | No está en el corpus |
 | [[criminologia-del-curso-de-vida]] | Los autores del enfoque | Blanco (2011), tanda 3; Gottfredson y Hirschi, tanda 4 |
 | [[violencia-en-el-noviazgo]] | Una fuente de violencia de género | La bibliografía de S3.3, cuando llegue su programa |
+| [[regimenes-armados-microescala]] | Una segunda fuente que use o discuta el modelo, y un caso chileno | Arias (2006) en `Gobernanza criminal y territorio`, que es del mismo autor; los dos Zeballos, en la tanda 6 |
+| [[cultura-callejera]] | Una segunda fuente, y algo que no sea Nueva York en los ochenta | Nada identificado; Salazar (1991), sobre Medellín, está en la bibliografía de S2.4 y falta en el corpus |
 
 ## Contradicciones sin resolver
 
@@ -122,7 +131,7 @@ segunda mano.
 
 ## Tensiones registradas
 
-Veintidós, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
+Treinta, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
 resuelven. Tres podrían moverse con fuentes que ya tienen tanda:
 
 - **El estatus del control en la prevención** (tensión 3), con Gottfredson y Hirschi en la
@@ -159,7 +168,9 @@ Salió de la auditoría del 27-09-2026. No bloquea nada.
 
 - [ ] **Módulo 5 de S1.1**, sobre teoría de la tensión y delitos de cuello blanco: ninguna
       fuente primaria. Faltan Merton, los dos Sutherland y Lamnek. Baratta (2004) lo
-      cubre de segunda mano, en la tanda 3
+      cubre de segunda mano, en la tanda 3. Bourgois (2010) agrega una mención más de
+      segunda mano: en una nota dice que Merton hizo su mismo argumento en los años
+      treinta (nota 9, p. 395). No reemplaza a Merton
 - [ ] **Criminología feminista**, objetivo específico de S1.1: falta Renzetti (2013)
 - [ ] **Gibson y Krahn (2013)**, *Handbook of life course criminology*, pedido por S1.1
 - [ ] **Breaking Rules** (Wikström y otros, 2012), donde están el diseño y los análisis

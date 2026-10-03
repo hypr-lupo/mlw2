@@ -1,13 +1,13 @@
 ---
 title: Policía comunitaria
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-09-27
+actualizado: 2026-10-02
 ---
 
 # Policía comunitaria
@@ -45,6 +45,14 @@ Las Unidades de Policía Pacificadora de Rio de Janeiro intentaron transformar l
 El texto menciona en el mismo lugar otros intentos de reformar y democratizar los aparatos de seguridad en la región, y las «zonas futuro» del gobierno de Iván Duque en Colombia, que preveían presencia integral del Estado y consulta a las poblaciones locales pero cuyos aspectos no coercitivos no llegaron a concretarse [^ext-8].
 
 El patrón que deja es distinto del que describe Sampson. Allí el problema era construir legitimidad; aquí el modelo se implementó, mostró resultados y **se revirtió**. Lo que falta explicar no es por qué no funciona, sino por qué no se sostiene. Ver [[mano-dura-y-militarizacion]], que es la política a la que se volvió.
+
+**Lo que agrega Arias.** Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]], que estudió Rocinha antes y después de la ocupación. Su balance es más severo que el de Albarracín, y da dos respuestas a la pregunta de por qué no se sostiene.
+
+- **Los resultados iniciales eran en parte previos.** La ciudad de Rio tuvo una caída del 30 % de los homicidios en los cinco años posteriores a 2008, pero la tendencia venía de una década antes [^ext-35]. Las UPP se iniciaron cuando los homicidios ya bajaban, y redujeron la violencia en varias favelas [^ext-36].
+- **Se rutinizaron.** Al expandirse, las unidades se parecieron cada vez más al resto de la policía en corrupción y violencia [^ext-36]. En Rocinha la ocupación abrió espacio a la sociedad civil, pero en 2013 policías detuvieron y torturaron a más de veinte residentes, y el albañil Amarildo de Souza desapareció. Un coronel reconoció que parte del éxito de las UPP se debía a la complicidad entre policías y pandillas [^ext-37]. En 2015 se supo que muchos oficiales a cargo de unidades operaban rackets de extorsión sobre traficantes y comerciantes [^ext-35].
+- **Ocuparon a unos y no a otros.** De 37 favelas con UPP, sólo una tenía milícia, y fue la que se hizo conocida por la tortura de periodistas [^ext-35]. La política se dirigió contra las pandillas de la droga, no contra los grupos que integran policías. Ver [[gobernanza-criminal]].
+
+**Y aun así la recomienda.** En la conclusión, Arias propone para los grupos organizados que compiten con el Estado una mejor investigación y la ocupación territorial progresiva, como las UPP [^ext-38]. No es una contradicción si se lee con su modelo: la ocupación sirve frente a un tipo de régimen, la gobernanza dividida, y no frente a los grupos ligados al Estado, donde lo que corresponde es la anticorrupción [^ext-38]. Pero quien cite el libro para respaldar o para descartar las UPP tiene que citar las dos cosas. Ver [[regimenes-armados-microescala]].
 
 ## Qué le pide una guía operativa
 
@@ -122,6 +130,7 @@ Donde la policía es recibida con desconfianza —barrios de minorías étnicas,
 - [[vanderschueren-prevencion-del-delito]] — proximidad frente a comunitaria, el Plan Cuadrante y el MICC
 - [[prevencion-del-delito]] — la prevención disuasiva de las rondas frente a la prevención «real»
 - [[tudela-analisis-criminal]] — la ineficacia del patrullaje a pie y aleatorio
+- [[arias-empresas-criminales-y-gobernanza]] — las UPP vistas desde Rocinha: tendencia previa, rutinización, y una ocupación que casi no tocó a las milícias
 
 El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía de proximidad**, junto con el debate sobre legitimidad policial. La bibliografía que lo cubriría —Vanderschueren, García y Quezada (2026)— no está en el corpus. Desde el 26-09-2026 el módulo tiene además los capítulos de Frey y Guajardo sobre Carabineros, con la distinción entre proximidad y policía comunitaria.
 
@@ -161,6 +170,10 @@ El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía d
 [^ext-32]: **Extraído** — [[tudela-analisis-criminal]], p. 147, sobre Karn (2013).
 [^ext-33]: **Extraído** — [[tudela-analisis-criminal]], p. 148.
 [^ext-34]: **Extraído** — [[tudela-analisis-criminal]], p. 146.
+[^ext-35]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], conclusión, pp. 239-240, y nota 1.
+[^ext-36]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 2, p. 69.
+[^ext-37]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 3, pp. 98-99.
+[^ext-38]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], conclusión, p. 250.
 [^inf-1]: **Inferido** (confianza 0.6) — Guajardo no cita a Sampson. La coincidencia es de esta wiki.
 [^inf-2]: **Inferido** (confianza 0.6) — convergencia construida por esta wiki entre [[sampson-vecindario-y-comunidad]], p. 243, y [[tudela-analisis-criminal]], p. 147. Tudela no cita a Sampson.
 [^amb-1]: **Ambiguo** — Frey lo llama Modelo de «Integración» Carabineros Comunidad (cap. V, p. 133); Guajardo y las conclusiones, de «Interacción» (cap. VI, p. 154; conclusiones, p. 385).

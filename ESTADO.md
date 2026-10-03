@@ -1,28 +1,29 @@
 # Estado del despliegue
 
-**Generado:** 2026-09-27 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
+**Generado:** 2026-10-02 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 111 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 113 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 98 | 88.3 % |
+| `pendiente` | 98 | 86.7 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 13 | 11.7 % |
+| `completo` | 15 | 13.3 % |
 
 ## Por cumulo
 
 | Cumulo | Total | pendiente | fase1 | fase2 | completo |
 |---|---:|---:|---:|---:|---:|
+| (fuera de INVENTARIO.md) | 1 | 1 | 0 | 0 | 0 |
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
 | Bibliografía S1.1, consulta y complementaria | 12 | 11 | 0 | 0 | 1 |
-| Explicación del delito | 4 | 4 | 0 | 0 | 0 |
-| Gobernanza criminal y territorio | 6 | 5 | 0 | 0 | 1 |
+| Explicación del delito | 5 | 4 | 0 | 0 | 1 |
+| Gobernanza criminal y territorio | 6 | 4 | 0 | 0 | 2 |
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
 | Institucionalidad y política de prevención en Chile | 6 | 5 | 0 | 0 | 1 |
 | Integrados desde el programa del curso (05-09-2026) | 9 | 6 | 0 | 0 | 3 |
@@ -38,13 +39,14 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 ## Anomalias
 
-*Ninguna.*
+- inventario desactualizado: `2017 - Arias - empresas criminales y gobernanza en amlat.pdf` esta en raw/sources/ pero no en INVENTARIO.md
 
 ## Verificacion bibliografica pendiente
 
 Estas fichas no se citan hasta cotejarlas contra el documento.
 
 - [[adams-violencia-cronica]]
+- [[arias-empresas-criminales-y-gobernanza]]
 - [[gardner-prohibir-inmoralidades]]
 - [[onu-habitat-guia-barrios]]
 - [[programa-magister-uah]]
@@ -54,6 +56,10 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 ## Detalle por documento
 
+
+### (fuera de INVENTARIO.md)
+
+- `pendiente` — 2017 - Arias - empresas criminales y gobernanza en amlat.pdf
 
 ### Amenaza y securitización
 
@@ -102,6 +108,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf
 - `pendiente` — 2002 - Pavarini - Control y dominación, teorías criminológicas burguesas y proyecto hegemónico.pdf
 - `pendiente` — 2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf
+- `completo` — 2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf
 - `pendiente` — 2016 - Felson y Eckert - El delito y la vida cotidiana.pdf
 
 ### Gobernanza criminal y territorio
@@ -110,7 +117,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2012 - Garzón Vergara - La rebelión de las redes criminales, el crimen organizado en América Latina.pdf
 - `pendiente` — 2015 - Salinero - El crimen organizado en Chile, aproximación criminológica al perfil del delincuente.pdf
 - `completo` — 2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf
-- `pendiente` — 2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf
+- `completo` — 2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf
 - `pendiente` — 2024 - Campana y Meneghini - El desplazamiento del crimen organizado en comunidades locales.pdf
 
 ### Ingreso sin clasificar

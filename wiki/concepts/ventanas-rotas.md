@@ -1,13 +1,13 @@
 ---
 title: Ventanas rotas y tolerancia cero
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-10-02
 ---
 
 # Ventanas rotas y tolerancia cero
@@ -65,6 +65,14 @@ Sigue en borrador por una razón: ninguna de las tres fuentes defiende la teorí
 >
 > **La teoría llegó después que la lista.** Añadido el 26-09-2026. En la versión de 2010 de la guía, [[vanderschueren-guia-prevencion-barrios]], el mismo inventario —pasajes sin salida, espacios sin iluminación, muros ciegos, sitios eriazos— se funda en otra cosa: esos elementos **impiden el control visual** sobre las viviendas y el uso del espacio público [^ext-9]. Es la lógica de la vigilancia natural, que la guía asocia después a la prevención situacional y al CPTED [^ext-10], y la teoría de las ventanas rotas no aparece en ningún lugar del texto. La lista puede sostenerse sin el supuesto que Sampson refuta, y la contradicción recae sobre la justificación que se le añadió en 2020. Pero la versión de 2010 no queda del todo fuera: agrega que esos elementos, junto con el deterioro físico, favorecen los delitos [^ext-9]. Y su bibliografía incluye un estudio de Sampson y Raudenbush (1999) sobre el desorden en barrios urbanos [^ext-11], los mismos autores de la investigación que Sampson cita, con fecha 2001, para declarar espuria la relación [^ext-1]. El cuerpo de la guía no la discute.
 
+**Nueva York, vista desde el barrio.** Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]], cuyo prefacio de 2002 y cuyo epílogo tratan la tolerancia cero de Giuliani, que el autor llama aplicación de la teoría de Kelling y Coles (1996) [^ext-12].
+
+- **Qué se hizo.** Arresto indiscriminado por delitos contra la calidad de vida: mendigos, limpiaparabrisas, evasores del metro, jóvenes vestidos con ropa de hip hop. La policía creció en más de 7.000 agentes, hasta 40.000, mientras la salud y la educación entraban en austeridad, y aumentó la brutalidad policial contra minorías [^ext-12].
+- **Qué dice de la caída del delito.** No fue excepcional frente a ciudades que no criminalizaron la indigencia; bajó menos en los estados donde más creció el encarcelamiento; ya venía bajando antes de 1994; y el auge económico y la demografía pesaron más que los métodos policiales [^ext-13]. Todo esto es de segunda mano, de prensa y de Blumstein y Wallman (2000).
+- **Qué vio en el tribunal.** En sus notas de 2001-2002, los casos de marihuana se anulaban porque las pruebas de laboratorio eran caras. La campaña contra los delitos menores terminó, sin quererlo, despenalizando de hecho la marihuana [^ext-14].
+
+Es una cuarta voz crítica, y sigue sin haber una defensora: Kelling y Coles (1996) no están en el corpus. Bourgois y Weisburd y otros no chocan, porque hablan de escalas distintas: uno de la tendencia de una ciudad, los otros de barrios y puntos calientes [^inf-1]. Y Bourgois no aporta evidencia propia sobre el efecto del desorden en el delito, que es el primer piso del argumento: aporta el segundo, el político, desde el barrio que recibió la política.
+
 **Corroboración lateral, no confrontación.** [[mano-dura-y-militarizacion]] reúne evidencia latinoamericana que apunta en la misma dirección que el segundo piso del argumento de Sampson —el político—, desde una literatura y un continente distintos. No es una discusión de ventanas rotas: mano dura y tolerancia cero son familias de política emparentadas pero no la misma, y esa página no toca el primer piso, que es el empírico. Vale como convergencia, no como confirmación.
 
 ## Relacionado
@@ -77,6 +85,7 @@ Sigue en borrador por una razón: ninguna de las tres fuentes defiende la teorí
 - [[policia-de-puntos-calientes]] — el patrullaje focalizado, con el que no debe confundirse
 - [[weisburd-el-lugar-importa]] — fuente de la formulación y del balance de evidencia
 - [[vanderschueren-guia-prevencion-barrios]] — la versión de 2010 de la guía, donde la lista se funda en el control visual y no en esta teoría
+- [[bourgois-en-busca-de-respeto]] — la tolerancia cero de Giuliani vista desde East Harlem
 
 ---
 
@@ -91,3 +100,7 @@ Sigue en borrador por una razón: ninguna de las tres fuentes defiende la teorí
 [^ext-9]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], primera parte, sección II.A.2, p. 24.
 [^ext-10]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 3, sección 3.5.B, p. 74.
 [^ext-11]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], bibliografía, p. 105.
+[^ext-12]: **Extraído** — [[bourgois-en-busca-de-respeto]], prefacio a la 2.ª ed., pp. 27-28.
+[^ext-13]: **Extraído** — [[bourgois-en-busca-de-respeto]], prefacio a la 2.ª ed., p. 28, sobre The New York Times (2000) y Blumstein y Wallman (2000).
+[^ext-14]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a la 2.ª ed., pp. 360-362.
+[^inf-1]: **Inferido** (confianza 0.7) — comparación entre las escalas de [[bourgois-en-busca-de-respeto]] y [[weisburd-el-lugar-importa]]. Ninguno discute al otro.
