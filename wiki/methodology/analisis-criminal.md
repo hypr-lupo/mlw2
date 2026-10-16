@@ -1,13 +1,13 @@
 ---
 title: Análisis criminal
 type: method
-sources: ["2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf"]
+sources: ["2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-27
-actualizado: 2026-09-27
+actualizado: 2026-10-16
 ---
 
 # Análisis criminal
@@ -57,6 +57,8 @@ La tesis del artículo es que el analista debe pasar de gestionar información a
 
 **El obstáculo es institucional.** Las autoridades policiales son reacias a reconocer que se evalúa poco, y confunden evaluación con control de gestión. El conocimiento nuevo pone en cuestión la autoridad basada en la experiencia [^ext-11]. Tudela distingue experiencia y tradición, que llama capital valórico, de la capacidad de corregir las estrategias, que llama capital de conocimiento [^ext-12].
 
+**Lo que muestra un mapeo regional.** Añadido el 16-10-2026 al ingerir [[srur-observatorios-del-delito]]. Los observatorios, que Tudela pone entre quienes pueden hacer análisis, rara vez llegan a la primera etapa. En 2014, la mayoría de los 66 mapeados se limitaba a presentar los datos de la policía, sin analizarlos [^ext-17]. Uno de cada cuatro no hacía ningún análisis [^ext-18]. Y faltaban los datos que el ciclo necesita: el 45 % no podía determinar la hora de los hechos, y el 40 % no registraba el día, el lugar ni el arma [^ext-19]. El estudio no cita a Tudela, ni Tudela al estudio [^inf-2]. Ver [[observatorios-del-delito]].
+
 ## Qué teoría usa
 
 El análisis criminal se inscribe en lo que Tilley y Laycock (2010) llaman un cambio de paradigma: de preguntar por el origen de la delincuencia a preguntar por los patrones, las oportunidades, las rutinas de víctimas e infractores y las tácticas validadas [^ext-13]. Su propósito es generar información útil para prevenir, «en lugar de» entender a los infractores. Sus teorías principales son la oportunidad y la elección racional, además de las redes y las actividades rutinarias [^ext-14].
@@ -76,6 +78,7 @@ Tudela cita como ejemplos publicados los del Departamento OS9 de Carabineros y d
 ## Relacionado
 
 - [[tudela-analisis-criminal]] — fuente
+- [[observatorios-del-delito]] — las instituciones que deberían hacer este análisis, y lo que les falta
 - [[analisis-espacial-del-delito]] — el mapeo, una de sus herramientas principales, y sus problemas propios
 - [[evaluacion-de-programas]] — el paso final del ciclo
 - [[policia-de-puntos-calientes]] — la estrategia a la que más directamente sirve
@@ -101,4 +104,8 @@ Tudela cita como ejemplos publicados los del Departamento OS9 de Carabineros y d
 [^ext-14]: **Extraído** — [[tudela-analisis-criminal]], p. 144.
 [^ext-15]: **Extraído** — [[tudela-analisis-criminal]], pp. 144-145 y nota 3.
 [^ext-16]: **Extraído** — [[tudela-analisis-criminal]], p. 146.
+[^ext-17]: **Extraído** — [[srur-observatorios-del-delito]], p. 43.
+[^ext-18]: **Extraído** — [[srur-observatorios-del-delito]], p. 39.
+[^ext-19]: **Extraído** — [[srur-observatorios-del-delito]], p. 37.
 [^inf-1]: **Inferido** (confianza 0.6) — contraste propio entre [[tudela-analisis-criminal]], p. 144, y lo que registran [[teoria-accion-situacional]], sección «Leída desde la prevención», y [[desplazamiento-y-difusion]], sección «Una posición contraria». Tudela no discute la TAS ni al cap. I del libro de 2021.
+[^inf-2]: **Inferido** (confianza 0.8) — la correspondencia entre la tesis de Tudela y el mapeo es de esta wiki.

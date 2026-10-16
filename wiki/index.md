@@ -9,9 +9,9 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 63 páginas · 19 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
+**Estado:** 65 páginas · 20 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
-fuera del orden · **tanda 2 en curso desde el 16-10-2026**, con tres de sus seis obras
+fuera del orden · **tanda 2 en curso desde el 16-10-2026**, con cuatro de sus seis obras
 ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
 
 ## Conceptos
@@ -126,10 +126,11 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
 
 - [[analisis-criminal]] — el oficio del analista: siete tipos, un ciclo de ocho pasos y
   el paso de gestionar información a gestionar conocimiento; y su elección teórica por la
-  oportunidad (1 fuente)
+  oportunidad; y los observatorios que rara vez llegan a analizar (2 fuentes)
 - [[analisis-espacial-del-delito]] — autocorrelación, falacia ecológica, unidad
   modificable y efecto de borde; sitio y situación; técnicas de predicción; y contar
-  delitos no es contar víctimas (2 fuentes)
+  delitos no es contar víctimas; y los datos de lugar y hora que faltan en la región
+  (3 fuentes)
 - [[diagnostico-barrial]] — muestreo por tipología en vez de censo de barrios, y la
   exigencia de comparabilidad en el tiempo; el riesgo de promediar por barrio; y un
   diagnóstico participativo en el barrio vulnerado y de expertos en el crítico; una
@@ -144,11 +145,15 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
 - [[evaluacion-de-programas]] — no basta saber qué funciona, sino por qué; evidencia,
   implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; el
   mismo diagnóstico desde la violencia en el noviazgo; dos sentidos de «por qué»; y la
-  tensión leída como complementación de métodos (5 fuentes)
+  tensión leída como complementación de métodos; y las instituciones del dato, que
+  tampoco se evalúan (6 fuentes)
 - [[medicion-de-la-victimizacion]] — qué mide una encuesta de victimización y para qué:
   cifra oscura, prevalencia e incidencia, percepción en tres aspectos; la ENUSC y su
-  rediseño de 2023; el instrumento mueve la cifra; y lo que la encuesta oficial no mide
-  (2 fuentes)
+  rediseño de 2023; el instrumento mueve la cifra; lo que la encuesta oficial no mide; y
+  quién produce el dato en la región (3 fuentes)
+- [[observatorios-del-delito]] — qué son y qué muestra un mapeo de 66 en la región:
+  jóvenes, locales, sin plan ni evaluación, espejos de datos policiales; tipologías; y por
+  qué lo más violento es lo que menos responde (2 fuentes)
 - [[operacionalizacion]] — del concepto al índice, definición nominal y operacional,
   validez y confiabilidad; y tres casos de la wiki: eficacia colectiva, violencia en el
   noviazgo y violencia crónica; el otro sentido de categoría; y el experimento de la ENUSC
@@ -188,6 +193,9 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
   institucional del programa
 - [[sampson-vecindario-y-comunidad]] — Sampson, 2006. Obligatoria de S1.1,
   módulo 3. Primera del núcleo ancla
+- [[srur-observatorios-del-delito]] — Srur (ed.), 2014. Documento para discusión del BID
+  sobre observatorios del crimen y la violencia. Bibliografía de S1.2. Ingesta parcial:
+  sólo las pp. 26-45, el mapeo. Cuarta de la tanda 2
 - [[tudela-analisis-criminal]] — Tudela, 2015. Artículo de reflexión del docente de
   S1.2, desde la Fundación Paz Ciudadana. Su evidencia sobre puntos calientes viene de
   Weisburd. Quinta y última de la tanda 1

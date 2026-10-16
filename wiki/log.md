@@ -8,6 +8,35 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-16] ingesta | Srur (ed.) (2014), ¿Qué observan los que observan el delito?, pp. 26-45
+
+**Cuarta obra de la tanda 2, en la misma sesión. Primera ingesta parcial de la wiki**, por
+mandato de [[purpose]]: sólo las pp. 26-45 que pide `programa/S1.2`.
+
+- Ficha creada: [[srur-observatorios-del-delito]]. Documento para discusión del BID, de
+  octubre de 2014, editado por Srur con Dammert, Gutiérrez, Martin, Paternain y Peña.
+  `truncado: true` y `verificacion_bibliografica: pendiente`, por el año del programa.
+- Páginas creadas (1): [[observatorios-del-delito]], en `medicion-y-metodo`.
+- Páginas actualizadas (4):
+  · [[analisis-criminal]]: los observatorios rara vez llegan a analizar, y les faltan los
+    datos que el ciclo necesita;
+  · [[analisis-espacial-del-delito]]: la hora, el lugar y el software que faltan en la
+    región;
+  · [[medicion-de-la-victimizacion]]: quién produce el dato en la región;
+  · [[evaluacion-de-programas]]: las instituciones del dato tampoco se evalúan.
+  · Más [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: 0 nuevas entre fuentes. La convergencia de la evaluación se
+  extiende. La página nueva registra el sesgo de no respuesta del mapeo y el carácter
+  autodeclarado de sus logros.
+- En revisión: 1 ítem nuevo (el resto de Srur) y 2 enmiendas (ley de concentración y obras
+  colectivas). La cola pasa a 33.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-10-16-srur-observatorios-del-delito.md`.
+- Notas: el `MANIFIESTO.json` lleva un campo `alcance` con el tramo ingerido. `ESTADO.md`
+  la cuenta como completa, porque `scripts/estado.py` no lee ese campo. Las tablas, cuadros
+  y gráficos de las pp. 26-45 son imágenes sin texto. Dos cifras no calzan entre el resumen
+  y el capítulo. Toca 6 páginas de contenido, ficha incluida.
+
 ## [2026-10-16] ingesta | INE (2023), Actualización metodológica de la medición de victimización y percepción de inseguridad
 
 **Tercera obra de la tanda 2, en la misma sesión. Primera fuente estadística oficial de la

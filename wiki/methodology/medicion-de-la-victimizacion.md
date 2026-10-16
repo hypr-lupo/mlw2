@@ -1,7 +1,7 @@
 ---
 title: Medición de la victimización
 type: method
-sources: ["2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf"]
+sources: ["2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -80,6 +80,10 @@ En 2022 el INE aplicó dos formularios a 5.000 viviendas de 44 comunas. La mitad
 
 **Las dos fuentes llegan a reglas parecidas.** La ENUSC entrega al informante una tarjeta con la definición de cada delito. La tarjeta define por la conducta y con palabras de uso común, como «cogoteo» o «lanzazo» [^ext-29]. Fija además una ventana de doce meses [^ext-30]. Es preguntar por la conducta y no por la etiqueta, como pide la revisión [^inf-2]. Ninguna de las dos cita a la otra. Ver [[operacionalizacion]].
 
+## Quién produce el dato en la región
+
+Añadido el 16-10-2026 al ingerir [[srur-observatorios-del-delito]]. En 2014, sólo el 29 % de los observatorios de la región producía información propia, casi siempre encuestas [^ext-33]. El resto dependía de la policía y la justicia [^ext-34]. Las encuestas propias eran esporádicas, porque su costo excede lo que los observatorios pueden sostener [^ext-35]. El estudio advierte además que una encuesta hecha sin las buenas prácticas internacionales no asegura la comparabilidad [^ext-35]. Para la extorsión, la principal fuente eran las encuestas de victimización [^ext-34]. Ver [[observatorios-del-delito]].
+
 ## Lo que queda fuera
 
 - **Los delitos que más subieron.** Entre 2016 y 2021, los registros policiales muestran alzas en abusos sexuales, violaciones, homicidios y violencia intrafamiliar. La ENUSC tradicional no los medía [^ext-31].
@@ -111,6 +115,7 @@ Los dos principios son la comparabilidad y la precisión de la medición [^ext-1
 - [[eficacia-colectiva]]: la medida oficial de la acción de los vecinos
 - [[enfoques-cuantitativo-y-cualitativo]]: pruebas cualitativas al servicio de una encuesta
 - [[violencia-en-el-noviazgo]]: lo que la encuesta oficial no mide
+- [[observatorios-del-delito]]: quién produce el dato en la región
 
 ---
 
@@ -146,6 +151,9 @@ Los dos principios son la comparabilidad y la precisión de la medición [^ext-1
 [^ext-30]: **Extraído** — [[ine-medicion-victimizacion]], p. 45.
 [^ext-31]: **Extraído** — [[ine-medicion-victimizacion]], pp. 17-18.
 [^ext-32]: **Extraído** — [[ine-medicion-victimizacion]], tabla 8, p. 29, y tabla 16, p. 43.
+[^ext-33]: **Extraído** — [[srur-observatorios-del-delito]], p. 36 y nota 54.
+[^ext-34]: **Extraído** — [[srur-observatorios-del-delito]], p. 38.
+[^ext-35]: **Extraído** — [[srur-observatorios-del-delito]], p. 43 y nota 56.
 [^inf-1]: **Inferido** (confianza 0.8) — correspondencia propia entre [[ine-medicion-victimizacion]], tabla 12, y [[batthyany-metodologia-investigacion]], p. 70. Ninguna cita a la otra.
 [^inf-2]: **Inferido** (confianza 0.7) — el informe justifica la tarjeta por el recuerdo y la carga del informante, no por la etiqueta. La correspondencia con la revisión es de esta wiki.
 [^inf-3]: **Inferido** (confianza 0.7) — contraste propio entre [[miedo-social]] y [[ine-medicion-victimizacion]], pp. 16-18. El informe no afirma que la brecha se deba a los delitos no medidos: sólo pone los dos datos uno al lado del otro.

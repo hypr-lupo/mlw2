@@ -114,6 +114,13 @@
       "bytes": 1492695,
       "ingerido": "2026-10-16",
       "ficha": "wiki/sources/ine-medicion-victimizacion.md"
+    },
+    "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf": {
+      "sha256": "3f8aaa8efc8583dd033d10187a4d048172fed23bb3927616363de289f608df41",
+      "bytes": 8004670,
+      "ingerido": "2026-10-16",
+      "ficha": "wiki/sources/srur-observatorios-del-delito.md",
+      "alcance": "parcial: pp. 26-45 (PDF 29-48), más índice, resumen ejecutivo e introducción"
     }
   }
 }

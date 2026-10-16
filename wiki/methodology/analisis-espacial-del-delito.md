@@ -1,7 +1,7 @@
 ---
 title: Análisis espacial del delito
 type: method
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1]
 procedencia: fuentes
@@ -59,7 +59,7 @@ Una aplicación distinta: el **campo de visión de las cámaras**. Para evaluar 
 
 ## Límites
 
-- **Los datos van atrás de los métodos.** La calidad de los datos policiales era suficiente hace una década y hoy las técnicas nuevas la superan [^ext-22].
+- **Los datos van atrás de los métodos.** La calidad de los datos policiales era suficiente hace una década y hoy las técnicas nuevas la superan [^ext-22]. En América Latina el atraso es mayor. En 2014, el 45 % de los observatorios de la región no podía determinar la hora de los hechos, el 40 % no registraba el lugar, y el 31,5 % no tenía software para georreferenciar [^ext-27]. Ver [[observatorios-del-delito]].
 - **Faltan evaluaciones de las técnicas.** Muchos las adoptan sin conocer sus ventajas y límites [^ext-22].
 - **Los datos sociales llegan en unidades grandes.** Los datos del censo suelen publicarse en unidades mayores que la calle, lo que empuja a agregar hacia arriba [^ext-23].
 - **La visión cualitativa también cuenta.** Reducir situaciones complejas a puntos en un mapa pierde información. Hay propuestas de SIG cualitativo y de métodos mixtos [^ext-24].
@@ -76,6 +76,7 @@ Una aplicación distinta: el **campo de visión de las cámaras**. Para evaluar 
 - [[diagnostico-barrial]] — un método que agrega por barrio; el riesgo del promedio se aplica a él
 - [[policia-de-puntos-calientes]] — la práctica que más usa estas técnicas
 - [[batthyany-metodologia-investigacion]] — segunda fuente sobre la falacia ecológica
+- [[observatorios-del-delito]] — los datos de lugar y hora que faltan en la región
 - [[diseno-de-investigacion]] — unidades de análisis, eventos y personas, y la falacia ecológica en general
 
 **Pendiente de contraste.** Batthyány y Cabrera (2011) entró el 16-10-2026 y sólo toca la falacia ecológica. Falta el capítulo de Boba sobre estadísticas delictuales en Tudela (2010), que entra en la tanda 2.
@@ -108,4 +109,5 @@ Una aplicación distinta: el **campo de visión de las cámaras**. Para evaluar 
 [^ext-24]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 97-98.
 [^ext-25]: **Extraído** — [[batthyany-metodologia-investigacion]], pp. 70-71, sobre Galtung (1966).
 [^ext-26]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 70.
+[^ext-27]: **Extraído** — [[srur-observatorios-del-delito]], p. 37, y resumen ejecutivo, p. 6.
 [^inf-1]: **Inferido** (confianza 0.8) — aplicación propia del ejemplo escolar del manual a los registros policiales. El manual no habla de delito.

@@ -14,11 +14,11 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 
 Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026, con la
 ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con las de Batthyány y Cabrera
-(2011) y el INE (2023). Agrupa los ítems abiertos por lo que los
+(2011), el INE (2023) y Srur (2014). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**32 abiertos.**
+**33 abiertos.**
 
-**A. Sólo esperan una decisión del autor (9).** Se pueden resolver hoy.
+**A. Sólo esperan una decisión del autor (10).** Se pueden resolver hoy.
 
 | Ítem | Acción | Qué hay que decidir |
 |---|---|---|
@@ -31,6 +31,7 @@ destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
 | `[fuente]` «Violencia como lenguaje» en el archivo de Bourgois | `preguntar` | Qué significa. Si es una unidad de curso, la ficha puede ganar un `curso` |
 | `[fuente]` Autoría del informe del INE (2023) | `preguntar` | Si la SPD figura como autora, como pide la nota de `programa/S1.2`, o sólo el INE, como dice el documento |
 | `[entidad]` ENUSC | `preguntar` | Si merece página propia y con qué `subtipo`. Ninguno de los cinco calza con una encuesta oficial |
+| `[ingesta]` El resto de Srur (2014) | `preguntar` | Si se ingiere lo que el programa no pide: genealogía, enfoques, casos de Quito y Panamá y modelo de madurez |
 
 **B. Esperan una verificación bibliográfica fuera del corpus (8).** Cada ítem trae su
 consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos evaluados.
@@ -72,7 +73,7 @@ ingesta se cumple.
 | `[concepto]` Capital cultural | Bourdieu (2002), pedido por S2.4 y ausente del corpus |
 | `[concepto]` Violencia contra las mujeres en la pareja y la familia | La bibliografía de S3.3, cuando llegue su programa |
 
-**Qué adelanta cada tanda.** Lo que queda de la 2 destraba o adelanta dos ítems; la 3, dos;
+**Qué adelanta cada tanda.** Lo que queda de la 2 destraba o adelanta dos ítems, y Srur no destrabó ninguno; la 3, dos;
 la 4, dos; la 5, tres; la 6, cuatro. PADS+ pasó de la 2 a la 3 el 16-10-2026, y medición de
 la victimización se resolvió ese día.
 
@@ -327,6 +328,12 @@ la victimización se resolvió ese día.
       la concentración. Anuncia que la ENUSC 2023 buscaría representatividad comunal (p. 20).
       Eso permitiría comparar comunas, no microlugares, que es la escala de la ley. Quedan
       Srur (2014) y el capítulo de Boba.
+      **Enmienda 16-10-2026** (ingesta de [[srur-observatorios-del-delito]]): el mapeo no trae
+      ningún estudio de concentración. Sí muestra por qué es difícil hacerlo en la región: en
+      2014, el 45 % de los observatorios no podía determinar la hora de los hechos, el 40 % no
+      registraba el lugar y el 31,5 % no tenía software para georreferenciar (pp. 35-37).
+      Antes de buscar el estudio en Chile, conviene preguntar si existen los datos. Queda el
+      capítulo de Boba.
 
 - [ ] **[alcance]** Zúñiga Núñez (2013) es, sobre todo, teoría del Estado.
       [[zuniga-civilizacion-y-derechos-humanos]] entró el 26-09-2026 por decisión
@@ -486,6 +493,9 @@ la victimización se resolvió ese día.
       ítem y la generosidad de las secciones «Relacionado». No es urgente con un solo
       campo y 51 páginas; conviene repetir el diagnóstico con 100. Ver
       `despliegue/auditoria/2026-09-27-auditoria.md`.
+      **Enmienda 16-10-2026** (ingesta de [[srur-observatorios-del-delito]]): Srur (ed.) (2014)
+      no atribuye capítulos a autores y entró sólo en un tramo, de modo que no agrava el
+      problema. Quedan Tudela (ed.) (2010) y Minayo y otros (2023).
 
 - [ ] **[fuente]** Estado legal de la violencia en el pololeo después de 2019 —
       [[valdivia-violencia-en-el-noviazgo]] describe una ley de femicidio que excluye a las
@@ -580,6 +590,16 @@ la victimización se resolvió ese día.
       Qué decidir: si merece página propia y con qué `subtipo`. Ninguno de los cinco
       admitidos calza con una operación estadística, y llevaría `vigencia`. Conviene
       decidirlo cuando entre una fuente con resultados de la ENUSC, que el corpus no tiene.
+
+- [ ] **[ingesta]** El resto de Srur (ed.) (2014) — [[srur-observatorios-del-delito]] entró
+      sólo en las pp. 26-45, que son las que pide `programa/S1.2`. Quedan fuera la
+      genealogía del cap. 1, con las dos olas y los tres enfoques, los casos de Quito y
+      Panamá, el modelo de madurez y las preguntas para evaluar observatorios del cap. 3, y
+      el cuestionario del anexo II.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-10-16
+      Qué decidir: si se completa y cuándo. El cap. 3 importaría si el trabajo de grado o el
+      trabajo grupal de S1.1 recae sobre un observatorio municipal. El manifiesto registra
+      el alcance parcial, para que la ingesta incremental no dé la obra por completa.
 
 ## Resueltos
 

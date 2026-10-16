@@ -1,7 +1,7 @@
 ---
 title: Evaluación de programas de prevención
 type: method
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1, s1-2]
 procedencia: fuentes
@@ -107,6 +107,8 @@ Añadido el 27-09-2026 al ingerir [[valdivia-violencia-en-el-noviazgo]], una rev
 
 Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los estados con políticas más estrictas tienen menor prevalencia de violencia en parejas adolescentes (Hoefer y otros, 2015) [^ext-27]. La revisión la presenta como una asociación, junto a otras dos: el ingreso medio y el partido que gobierna. No es, en lo que reporta, el efecto medido de una política [^inf-3]. Ver [[violencia-en-el-noviazgo]].
 
+**Y en las instituciones del dato.** Añadido el 16-10-2026. Un mapeo de 66 observatorios latinoamericanos encontró que sólo el 30 % hacía evaluación institucional, y el 37,5 % planeación estratégica [^ext-34]. Su resumen concluye que hay más consenso político que evidencia sobre su utilidad [^ext-35]. Ver [[observatorios-del-delito]].
+
 ## Dos ideas de evidencia
 
 > [!warning] La tensión que esta página no resuelve
@@ -141,6 +143,7 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 - [[weisburd-el-lugar-importa]] — el estándar experimental
 - [[enfoques-cuantitativo-y-cualitativo]] — explicar y comprender, y la complementación de métodos
 - [[diseno-de-investigacion]] — el diseño evaluativo como uno de cinco tipos de diseño
+- [[observatorios-del-delito]] — las instituciones del dato, que tampoco se evalúan
 
 **Por confrontar.** CIPC (2015), en la tanda 2, si trae evaluaciones. Batthyány y Cabrera (2011) entró el 16-10-2026 y no trata diseños de impacto. Tudela (2015) entró el 27-09-2026.
 
@@ -179,6 +182,8 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 [^ext-31]: **Extraído** — [[tudela-analisis-criminal]], pp. 144 y 146.
 [^ext-32]: **Extraído** — [[batthyany-metodologia-investigacion]], pp. 33-34.
 [^ext-33]: **Extraído** — [[batthyany-metodologia-investigacion]], cuadro 3, p. 76, y cuadro 4, p. 80, sobre Corbetta (2007).
+[^ext-34]: **Extraído** — [[srur-observatorios-del-delito]], p. 35.
+[^ext-35]: **Extraído** — [[srur-observatorios-del-delito]], resumen ejecutivo, p. 6.
 [^inf-1]: **Inferido** (confianza 0.7) — lectura propia al comparar las tres fuentes. Ninguna discute a las otras. Tudela no cita a Weisburd ni a la guía.
 [^inf-2]: **Inferido** (confianza 0.7) — contraste entre las conclusiones, el cap. VII y el estándar del cap. II, nota 3. No es un juicio sobre la política, sino sobre lo que el libro demuestra de ella.
 [^inf-3]: **Inferido** (confianza 0.7) — la revisión da el hallazgo por comprobado sin discutir si es causal. El estudio de Hoefer y otros no está en el corpus.

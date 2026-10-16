@@ -9,7 +9,7 @@ sources: []
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
 **Al 16-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden y la
-tanda 2 en curso.** Diecinueve fuentes de 118, sesenta y tres páginas, **siete de ocho
+tanda 2 en curso.** Veinte fuentes de 118, sesenta y cinco páginas, **siete de ocho
 clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
@@ -93,6 +93,15 @@ bajaba. El piloto del INE muestra que el instrumento mueve la cifra, con dos for
 2,73 puntos de diferencia. Y el informe deja ver lo que la encuesta no mide: los delitos
 que más subieron en los registros, y la violencia de pareja. Describe un diseño previsto,
 no el aplicado, y por eso su ficha lleva `vigencia: incierto`.
+
+**Y quién produce el dato en la región.** [[srur-observatorios-del-delito]], un estudio del
+BID de 2014, entró sólo en las pp. 26-45, que son las que pide el programa: un mapeo de 66
+observatorios del crimen y la violencia. Nace [[observatorios-del-delito]]. El retrato es de
+instituciones jóvenes, locales y pobres, que en su mayoría presentan los datos de la policía
+sin analizarlos, y a las que les faltan la hora y el lugar de los hechos. Eso pone en
+perspectiva a [[analisis-criminal]] y a [[analisis-espacial-del-delito]]: lo que prescriben
+necesita datos que en la región a menudo no existen. Y el mapeo tiene su propio sesgo: los
+observatorios de los lugares más violentos son los que menos respondieron.
 
 ## Siete respuestas a la misma pregunta
 
@@ -302,8 +311,9 @@ inventario. Ver [[ventanas-rotas]].
   cuestión. Ver [[autocontrol-y-disuasion]].
 - **La evaluación.** Tudela desde la prevención del delito y Valdivia-Peralta y otros desde
   la violencia en el noviazgo llegan al mismo diagnóstico: en Chile los programas y las
-  campañas no se evalúan, y la evidencia viene de países de altos ingresos. Ver
-  [[evaluacion-de-programas]].
+  campañas no se evalúan, y la evidencia viene de países de altos ingresos. Srur y otros lo
+  extienden a las instituciones que producen el dato: sólo el 30 % de los observatorios
+  de la región se evalúa. Ver [[evaluacion-de-programas]].
 - **La medición.** Valdivia-Peralta y otros desde la violencia en el noviazgo, y un manual
   de metodología desde la sociología, llegan al mismo problema con la misma palabra.
   Preguntar si alguien vivió violencia deja la definición a cada encuestado. Ninguno cita
@@ -350,6 +360,8 @@ inventario. Ver [[ventanas-rotas]].
 - **Leer una cifra oficial de victimización.** [[medicion-de-la-victimizacion]]: qué cuenta
   la prevalencia y qué la incidencia, por qué la serie se corta en 2023, y qué delitos no
   entran en la encuesta.
+- **Revisar qué registra un observatorio.** [[observatorios-del-delito]]: día, hora, lugar,
+  arma, móvil y relación entre víctima y agresor, y si analiza o sólo presenta.
 
 Las cuatro primeras vienen sobre todo del equipo del docente del ramo: dos guías que
 cuentan como una, y el libro de 2021, en parte de los mismos autores. Las tres últimas,
@@ -426,8 +438,8 @@ dirección. Elegirla o no es decisión del autor.
 Hasta el 27-11-2026 manda el **orden por calendario** fijado en [[purpose]]: seis
 tandas, cada una cerrada antes de la clase que la usa. La tanda 1 quedó cerrada el
 27-09. La tanda 2 debía cerrar el 10-10 y empezó el 16-10 con Batthyány y Cabrera (2011).
-Vives Varela y Hamui Sutton (2021) y el INE (2023) entraron el mismo día. Quedan Srur
-(2014), pp. 26-45, el capítulo de Boba en Tudela (ed.) (2010) y CIPC (2015). La tanda 3 vence el mismo 16-10. El autor
+Vives Varela y Hamui Sutton (2021), el INE (2023) y Srur (2014), en sus pp. 26-45, entraron
+el mismo día. Quedan el capítulo de Boba en Tudela (ed.) (2010) y CIPC (2015). La tanda 3 vence el mismo 16-10. El autor
 decidió ese día mantener el orden: la 3 va después de terminar la 2. Después de la sexta
 vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.

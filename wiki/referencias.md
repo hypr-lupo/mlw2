@@ -82,6 +82,13 @@ pp. 235-247). Fundación Democracia y Gobierno Local. (Obra original publicada e
 2004 en *New Economy*, pp. 106-113)
 → [[sampson-vecindario-y-comunidad]] · verificación bibliográfica pendiente
 
+Srur, J. (Ed.). (2014). *¿Qué observan los que observan el delito? Pasado, presente y
+futuro de los observatorios del crimen y la violencia en América Latina y el Caribe*
+(Documento para discusión IDB-DP-364). Banco Interamericano de Desarrollo.
+→ [[srur-observatorios-del-delito]] · **verificación bibliográfica pendiente**: el programa
+la fecha en 2015 y la portada en octubre de 2014 · escriben Dammert, Gutiérrez, Martin,
+Paternain y Peña, sin capítulos atribuidos · **ingesta parcial**: sólo las pp. 26-45
+
 Tudela, P. (2015). Análisis criminal, proactividad y desarrollo de estrategias policiales
 basadas en la evidencia. *Revista Criminalidad, 57*(1), 137-152.
 → [[tudela-analisis-criminal]] · verificada contra la portada, que da la forma de cita ·
@@ -164,7 +171,7 @@ el documento, no por inferencia.
 | Ferrajoli, *Derecho y razón* | 2008, Trotta | 1995 |
 | Baratta, *Criminología crítica* | 1986, Siglo XXI | 2004, reimpresión argentina |
 | Pavarini, *Control y dominación* | 1981, subtítulo «proyecto fascista de orden» | 2002, subtítulo «proyecto hegemónico» |
-| Srur, *¿Qué observan los que observan el delito?* | 2015 | octubre de 2014 |
+| Srur, *¿Qué observan los que observan el delito?* | 2015 | octubre de 2014. Ingerida el 16-10-2026 sólo en las pp. 26-45 |
 | Sampson, *Vecindario y comunidad* | 2006 | traducción sin año declarado de un original de 2004 |
 | Adams, *La violencia crónica y su reproducción* | 2017 | 2017, pero el documento no declara fecha y no cita nada posterior a 2011 |
 | Garland, *La cultura del control* | 2005, traducción Gedisa | **resuelta el 12-09-2026**: llegó la Gedisa 2005; el archivo de 2001 es el original en inglés |
