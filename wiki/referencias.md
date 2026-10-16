@@ -54,6 +54,13 @@ corpus tiene la versión de autor, que pide no citar desde ella; falta el rango 
 páginas de la revista · obra en inglés sin traducción · comentario a Fletcher, *The
 Grammar of Criminal Law*, citado como inédito
 
+Instituto Nacional de Estadísticas. (2023). *Proyecto de actualización metodológica de la
+medición de victimización y percepción de inseguridad. Informe metodológico*.
+→ [[ine-medicion-victimizacion]] · **verificación bibliográfica pendiente**: `programa/S1.2`
+pide incluir a la Subsecretaría de Prevención del Delito como autora, y la portada nombra
+sólo al INE · documenta el diseño previsto para la ENUSC 2023, no el aplicado: citar las
+cifras con su año
+
 Ley 21.675. (2024). *Estatuye medidas para prevenir, sancionar y erradicar la violencia
 en contra de las mujeres, en razón de su género*. Diario Oficial de la República de
 Chile, 14 de junio de 2024. Texto consolidado de la Biblioteca del Congreso Nacional,

@@ -10,10 +10,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 100 | 85.5 % |
+| `pendiente` | 99 | 84.6 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 17 | 14.5 % |
+| `completo` | 18 | 15.4 % |
 
 ## Por cumulo
 
@@ -27,7 +27,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
 | Institucionalidad y política de prevención en Chile | 6 | 5 | 0 | 0 | 1 |
 | Integrados desde el programa del curso (05-09-2026) | 9 | 4 | 0 | 0 | 5 |
-| Medición e inseguridad | 6 | 6 | 0 | 0 | 0 |
+| Medición e inseguridad | 6 | 5 | 0 | 0 | 1 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
 | Prevención e intervención | 4 | 3 | 0 | 0 | 1 |
 | Sistema penal y Estado de derecho | 8 | 6 | 0 | 0 | 2 |
@@ -52,6 +52,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - [[adams-violencia-cronica]]
 - [[arias-empresas-criminales-y-gobernanza]]
 - [[gardner-prohibir-inmoralidades]]
+- [[ine-medicion-victimizacion]]
 - [[onu-habitat-guia-barrios]]
 - [[programa-magister-uah]]
 - [[sampson-vecindario-y-comunidad]]
@@ -169,7 +170,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2016 - Cámara Arroyo - Principales instrumentos de medición de la peligrosidad criminal.md
 - `pendiente` — 2022 - Luna Pla - El análisis de redes complejas aplicado a grupos de crimen y corrupción.pdf
 - `pendiente` — 2023 - González-Guarda y Salazar-Tobar - Una panorámica de la criminología en Chile, una comunidad científica transitando hacia la profesionalización.pdf
-- `pendiente` — 2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf
+- `completo` — 2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf
 
 ### Núcleo ancla S1.1
 

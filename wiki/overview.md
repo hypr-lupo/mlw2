@@ -9,7 +9,7 @@ sources: []
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
 **Al 16-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden y la
-tanda 2 en curso.** Dieciocho fuentes de 118, sesenta y una páginas, **siete de ocho
+tanda 2 en curso.** Diecinueve fuentes de 118, sesenta y tres páginas, **siete de ocho
 clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
@@ -83,6 +83,16 @@ teórico, saturación y codificación abierta, axial y selectiva. Las dos fuente
 entre sí, y discrepan en algo básico. Para el manual, toda investigación empieza por la
 teoría. Para el artículo, por los datos. Usan además la palabra triangulación en dos
 sentidos distintos.
+
+**Y la primera cifra oficial.** [[ine-medicion-victimizacion]] es el informe metodológico
+del rediseño de la ENUSC 2023, la encuesta oficial de victimización. Nace
+[[medicion-de-la-victimizacion]], que la cola de revisión esperaba desde el 27-09. Tres
+cosas cambian en la wiki. La brecha del temor de [[miedo-social]] tiene ahora su cifra
+nacional: en 2021, el 86,9 % creía que la delincuencia subía mientras la victimización
+bajaba. El piloto del INE muestra que el instrumento mueve la cifra, con dos formularios y
+2,73 puntos de diferencia. Y el informe deja ver lo que la encuesta no mide: los delitos
+que más subieron en los registros, y la violencia de pareja. Describe un diseño previsto,
+no el aplicado, y por eso su ficha lleva `vigencia: incierto`.
 
 ## Siete respuestas a la misma pregunta
 
@@ -259,6 +269,13 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     datos. Los dos textos se matizan, pero sus frases no caben juntas. Ver
     [[teoria-fundamentada]] y [[diseno-de-investigacion]].
 
+**La que abre el INE (2023)**
+
+33. **¿La brecha entre miedo y delito es social o es de la medición?** Adams y los capítulos
+    de Maipú y Peñalolén la explican por los medios, las generaciones y la construcción del
+    otro. El INE trae otra posibilidad: los delitos que más subieron no estaban en la
+    encuesta. No se excluyen. Ver [[miedo-social]] y [[medicion-de-la-victimizacion]].
+
 **La que más va a pesar en el trabajo evaluado de S1.1.**
 [[onu-habitat-guia-barrios]] incorpora la teoría de las ventanas rotas dentro de su
 [[tipologia-barrial]], y [[sampson-vecindario-y-comunidad]] la declara espuria.
@@ -290,7 +307,9 @@ inventario. Ver [[ventanas-rotas]].
 - **La medición.** Valdivia-Peralta y otros desde la violencia en el noviazgo, y un manual
   de metodología desde la sociología, llegan al mismo problema con la misma palabra.
   Preguntar si alguien vivió violencia deja la definición a cada encuestado. Ninguno cita
-  al otro. Ver [[operacionalizacion]].
+  al otro. El INE llega a una regla parecida desde la encuesta oficial: una tarjeta que
+  define cada delito por la conducta. Ver [[operacionalizacion]] y
+  [[medicion-de-la-victimizacion]].
 
 ## Lo que ya puede hacer, y antes no
 
@@ -328,6 +347,9 @@ inventario. Ver [[ventanas-rotas]].
   otros autores y no trata experimentos ni cohortes.
 - **Analizar datos cualitativos.** [[teoria-fundamentada]], desde un artículo de
   presentación: el procedimiento, sin un ejemplo completo del dato a la teoría.
+- **Leer una cifra oficial de victimización.** [[medicion-de-la-victimizacion]]: qué cuenta
+  la prevalencia y qué la incidencia, por qué la serie se corta en 2023, y qué delitos no
+  entran en la encuesta.
 
 Las cuatro primeras vienen sobre todo del equipo del docente del ramo: dos guías que
 cuentan como una, y el libro de 2021, en parte de los mismos autores. Las tres últimas,
@@ -338,7 +360,7 @@ cosas.
 
 El trabajo recae sobre una política municipal o un proyecto de seguridad identificable
 —la misma exigencia de anclaje del [[trabajo-de-grado-profesionalizante]] un semestre
-antes. Las fuentes dan, juntas, dieciséis preguntas que un diagnóstico serio debería poder
+antes. Las fuentes dan, juntas, diecisiete preguntas que un diagnóstico serio debería poder
 responder sobre cualquier intervención. Las formula esta wiki:
 
 - ¿Funciona por el territorio o por quién usa el territorio?
@@ -363,6 +385,8 @@ responder sobre cualquier intervención. Las formula esta wiki:
 - ¿Una tasa de homicidios baja indica seguridad o dominio?
 - ¿La cifra que la justifica cuenta delitos, víctimas o lugares, y la conclusión habla de
   la misma unidad?
+- ¿La cifra de la ENUSC que se cita viene de antes o de después del rediseño de 2023, y se
+  la está comparando con la otra serie?
 
 La primera política municipal chilena documentada en la wiki es la de Peñalolén. Vive
 en la ficha y en [[revision]], a la espera de una fuente que no sea su propia
@@ -391,8 +415,8 @@ dirección. Elegirla o no es decisión del autor.
 - **Contrastar métodos.** `wiki/methodology/` tiene siete páginas y desde el 16-10 una
   sobre diseño de investigación. Sigue sin haber una sobre diseños experimentales,
   cuasiexperimentales o longitudinales: el manual de Batthyány y Cabrera no los trata, y
-  PADS+ espera a Blanco (2011), en la tanda 3. La medición de la victimización espera al
-  informe del INE (2023), en la tanda 2.
+  PADS+ espera a Blanco (2011), en la tanda 3. La medición de la victimización ya tiene
+  página, pero sin resultados de la ENUSC posteriores a 2021.
 - **Clasificar grupos criminales.** No hay `subtipo` de `entity` donde quepan el PCC o
   las milícias. Material de la operación 8. Las milícias ya tienen la segunda fuente que
   su página esperaba; lo único que la bloquea es esto.
@@ -402,8 +426,8 @@ dirección. Elegirla o no es decisión del autor.
 Hasta el 27-11-2026 manda el **orden por calendario** fijado en [[purpose]]: seis
 tandas, cada una cerrada antes de la clase que la usa. La tanda 1 quedó cerrada el
 27-09. La tanda 2 debía cerrar el 10-10 y empezó el 16-10 con Batthyány y Cabrera (2011).
-Vives Varela y Hamui Sutton (2021) entró el mismo día. Quedan INE (2023), Srur (2014), pp.
-26-45, el capítulo de Boba en Tudela (ed.) (2010) y CIPC (2015). La tanda 3 vence el mismo 16-10. El autor
+Vives Varela y Hamui Sutton (2021) y el INE (2023) entraron el mismo día. Quedan Srur
+(2014), pp. 26-45, el capítulo de Boba en Tudela (ed.) (2010) y CIPC (2015). La tanda 3 vence el mismo 16-10. El autor
 decidió ese día mantener el orden: la 3 va después de terminar la 2. Después de la sexta
 vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.

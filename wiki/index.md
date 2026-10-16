@@ -9,9 +9,9 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 61 páginas · 18 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
+**Estado:** 63 páginas · 19 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
-fuera del orden · **tanda 2 en curso desde el 16-10-2026**, con dos de sus seis obras
+fuera del orden · **tanda 2 en curso desde el 16-10-2026**, con tres de sus seis obras
 ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
 
 ## Conceptos
@@ -43,7 +43,7 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
   desplazamiento que no se mide, como los de mercancía y de organización (5 fuentes)
 - [[eficacia-colectiva]] — cohesión más expectativas compartidas de intervenir:
   el mecanismo que media entre desventaja concentrada y violencia; en América Latina,
-  condicionada a la policía (6 fuentes)
+  condicionada a la policía; y una medida oficial con otra definición (7 fuentes)
 - [[exposicion-criminogena]] — el lado entorno: contexto moral, oportunidades y
   fricciones; y el efecto de área condicionado a quién lo use (1 fuente)
 - [[filtro-moral]] — la percepción selectiva de alternativas de acción; por qué la
@@ -61,7 +61,7 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
   vecinos y policía, con evidencia de Boston, Cali y México; y si la focalización la
   erosiona; autoridad frente a acatamiento por temor; la crisis de autonomía de
   Carabineros; la legitimidad como efecto de la eficacia; y la que se transfiere al
-  grupo armado, o se pierde por incompetencia (9 fuentes)
+  grupo armado, o se pierde por incompetencia; y cómo la mediría la ENUSC (10 fuentes)
 - [[mano-dura-y-militarizacion]] — la política dominante de la región, su
   popularidad transversal, la evidencia sobre sus efectos, y México y la edad penal
   desde la prevención; y la mano dura que cohesiona a los grupos y encarcela a los
@@ -71,8 +71,8 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
   (2 fuentes)
 - [[miedo-social]] — el miedo como fenómeno social, y por qué la percepción de
   inseguridad puede ir muy por delante de la violencia registrada; la brecha del temor
-  en Maipú y Peñalolén; la cultura del terror y el miedo bajo un orden armado
-  (4 fuentes)
+  en Maipú y Peñalolén; la cultura del terror y el miedo bajo un orden armado; la cifra
+  nacional de 2021, y si la brecha viene de lo que no se mide (5 fuentes)
 - [[moralismo-legal]] — si la inmoralidad basta para prohibir; prohibir la
   inmoralidad no es imponer la moralidad; el Estado como agente moral (2 fuentes)
 - [[muerte-social]] — ceros sociales, humillación y búsqueda perversa del respeto, y la
@@ -113,7 +113,7 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
 - [[violencia-en-el-noviazgo]] — violencia en parejas jóvenes sin convivencia; por qué
   es invisible en Chile, por qué la cifra depende de la pregunta, y la ley que deja
   fuera el pololeo, y lo que corrigió la Ley 21.675; la etiqueta y la conducta como
-  problema de operacionalización. Borrador (3 fuentes)
+  problema de operacionalización; y lo que la encuesta oficial no mide. Borrador (4 fuentes)
 - [[zona-gris]] — por qué bajo terror crónico casi todos se comportan mal, y por qué
   eso no resulta evidente desde fuera (1 fuente)
 
@@ -137,17 +137,22 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
 - [[diseno-de-investigacion]] — ruptura, estructuración y comprobación; del tema al
   problema, marcos, objetivos, cinco diseños por objetivo, hipótesis, unidades de
   análisis y muestra; lo que un manual de pregrado no trae: experimentos y cohortes; y
-  otra lógica, la del proceso circular (2 fuentes)
+  otra lógica, la del proceso circular; prevalencia e incidencia (3 fuentes)
 - [[enfoques-cuantitativo-y-cualitativo]] — tres paradigmas, explicar o comprender,
   complementación, combinación y triangulación, y seis técnicas con sus límites; el
-  muestreo teórico y otro sentido de triangulación (2 fuentes)
+  muestreo teórico y otro sentido de triangulación; un caso de combinación (3 fuentes)
 - [[evaluacion-de-programas]] — no basta saber qué funciona, sino por qué; evidencia,
   implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; el
   mismo diagnóstico desde la violencia en el noviazgo; dos sentidos de «por qué»; y la
   tensión leída como complementación de métodos (5 fuentes)
+- [[medicion-de-la-victimizacion]] — qué mide una encuesta de victimización y para qué:
+  cifra oscura, prevalencia e incidencia, percepción en tres aspectos; la ENUSC y su
+  rediseño de 2023; el instrumento mueve la cifra; y lo que la encuesta oficial no mide
+  (2 fuentes)
 - [[operacionalizacion]] — del concepto al índice, definición nominal y operacional,
   validez y confiabilidad; y tres casos de la wiki: eficacia colectiva, violencia en el
-  noviazgo y violencia crónica; y el otro sentido de categoría (6 fuentes)
+  noviazgo y violencia crónica; el otro sentido de categoría; y el experimento de la ENUSC
+  (7 fuentes)
 - [[teoria-fundamentada]] — teoría desde los datos: proceso circular, muestreo teórico y
   saturación, codificación abierta, axial y selectiva, triangulación según Cisterna; y si
   se empieza por la teoría o por los datos (2 fuentes)
@@ -170,6 +175,9 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
 - [[gardner-prohibir-inmoralidades]] — Gardner, 2007. Filosofía del derecho penal:
   comentario a Fletcher. Versión de autor que pide citar la de la revista. Fuera del
   orden por calendario
+- [[ine-medicion-victimizacion]] — INE, 2023. Informe metodológico oficial del rediseño de
+  la ENUSC, con un piloto experimental. Bibliografía de S1.2. Primera fuente estadística
+  oficial de la wiki. Tercera de la tanda 2
 - [[ley-21675-violencia-de-genero]] — Ley 21.675, 2024, en su texto vigente al
   22-07-2026. Primera norma de la wiki. Incorpora el pololeo a la violencia
   intrafamiliar; no toca el femicidio. Fuera del orden por calendario

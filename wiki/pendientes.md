@@ -10,9 +10,9 @@ Artefacto operativo para retomar, no registro de lo hecho: la crónica de cada s
 en [[log]]. Se consolidó el 27-09-2026, en la auditoría que cerró la tanda 1; el informe
 está en `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-**Estado al 16-10-2026.** 18 fuentes ingeridas de 118 documentos; 95 pendientes de un
-universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 61 páginas: 11 en borrador.
-Núcleo ancla de S1.1 completo, **tanda 1 cerrada** y **tanda 2 en curso**, con dos de seis
+**Estado al 16-10-2026.** 19 fuentes ingeridas de 118 documentos; 94 pendientes de un
+universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 63 páginas: 11 en borrador.
+Núcleo ancla de S1.1 completo, **tanda 1 cerrada** y **tanda 2 en curso**, con tres de seis
 obras ingeridas. Siete de ocho clústeres poblados;
 `caso-de-grado` sigue vacío a propósito. Cobertura de S1.1: 17 de 32 títulos oficiales en
 el corpus, 53 %. Nada bloquea la ingesta.
@@ -21,7 +21,7 @@ el corpus, 53 %. Nada bloquea la ingesta.
 
 En este orden:
 
-1. **Terminar la tanda 2**, que venció el 10-10. Sigue INE (2023).
+1. **Terminar la tanda 2**, que venció el 10-10. Sigue Srur (2014), pp. 26-45.
    La tanda 3 venció el 16-10 y va después, por decisión del autor del mismo día: se
    mantiene el orden establecido. Ver abajo.
 2. **Decisiones que sólo toma el autor.** Siete, en el grupo A de [[revision]]. La más
@@ -44,11 +44,12 @@ documento por documento lo da `python scripts/estado.py`.
       Ley 21.675 (2024).
 - [x] **Fuera de orden, el 02-10**, por decisión del autor: Arias (2017) y Bourgois
       (2010). Ninguno está en un programa recibido; la tanda 2 no ha empezado.
-- [ ] **Tanda 2, antes del 10-10:** ~~Batthyány y Cabrera (2011)~~ y ~~Vives
-      Varela y Hamui Sutton (2021)~~, ingeridas el 16-10 · INE (2023) · Srur (2014), pp. 26-45 · Tudela
-      (ed.) (2010), sólo el capítulo de Boba · CIPC (2015). Destraba o adelanta tres ítems
-      de la cola: medición de la victimización, Peñalolén y la ley de concentración. PADS+
-      pasó a la tanda 3, porque Batthyány y Cabrera no trata los diseños longitudinales
+- [ ] **Tanda 2, antes del 10-10:** ~~Batthyány y Cabrera (2011)~~, ~~Vives Varela y
+      Hamui Sutton (2021)~~ y ~~INE (2023)~~, ingeridas el 16-10 · Srur (2014), pp. 26-45 ·
+      Tudela (ed.) (2010), sólo el capítulo de Boba · CIPC (2015). El INE destrabó la
+      medición de la victimización. Quedan dos ítems de la cola: Peñalolén y la ley de
+      concentración. PADS+ pasó a la tanda 3, porque Batthyány y Cabrera no trata los
+      diseños longitudinales
 - [ ] **Tanda 3, antes del 16-10:** Baratta (2004), caps. I-II, IV, VII y VIII · Kessler
       (2004) · Blanco (2011)
 - [ ] **Tanda 4, antes del 23-10:** Gottfredson y Hirschi (1990) · Clarke (1997) · Felson
@@ -66,7 +67,7 @@ Después de la tanda 6 vuelve el orden por cúmulos. Pendientes por cúmulo, seg
 |---|---:|---|
 | Bibliografía S1.1, consulta y complementaria | 11 | García-Pablos espera a estar completo |
 | Integrados desde el programa del curso | 4 | Contiene las P1 de S1.2 |
-| Medición e inseguridad | 6 | Contiene P1 de S1.2; ahí está lo que podría dirimir la contradicción de Adams |
+| Medición e inseguridad | 5 | Contiene P1 de S1.2; ahí está lo que podría dirimir la contradicción de Adams |
 | Sistema penal y Estado de derecho | 6 | Contiene P1 de S1.3 |
 | Gobernanza criminal y territorio | 4 | |
 | Institucionalidad y política de prevención en Chile | 5 | Tres normas de la tanda 5, Luneke y Trebilcock (2023) y el comunicado de la ACOT |
@@ -81,19 +82,21 @@ consulta de S1.1**, García-Pablos completo incluido.
 
 ## Cola de revisión
 
-**31 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
+**32 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
 
-- **A. Decisión del autor (7):**
+- **A. Decisión del autor (9):**
   - tesis del anclaje empírico;
   - página de Vanderschueren;
   - alcance de Zúñiga Núñez;
   - subtipo para grupos criminales;
   - milícias de Rio, que ya tienen su segunda fuente y sólo esperan el subtipo;
   - obras colectivas en el modelo de relevancia;
-  - qué significa «Violencia como lenguaje» en el archivo de Bourgois.
+  - qué significa «Violencia como lenguaje» en el archivo de Bourgois;
+  - la autoría del informe del INE (2023), con o sin la SPD;
+  - si la ENUSC merece página propia.
 - **B. Verificación bibliográfica (8):** los años de Sampson, Adams y la guía de 2010; el
   borrador de 2020; Zúñiga Núñez; Gardner; el año y los ISBN de Arias; el femicidio.
-- **C. Una obra del corpus (12):** se destraban con las tandas 2 a 6 y, uno de ellos,
+- **C. Una obra del corpus (11):** se destraban con las tandas 2 a 6 y, uno de ellos,
   después.
 - **D. Una fuente que no está en el corpus o no se ha identificado (4):**
   - Coalición de Diez Puntos;
@@ -110,7 +113,7 @@ segunda mano.
 |---|---|---|
 | [[ventanas-rotas]] | La voz de quien la defiende | Clarke (1997), tanda 4; Wilson y Kelling no están en el corpus |
 | [[policia-comunitaria]] | Una evaluación de un caso exitoso | Nada identificado |
-| [[legitimidad-policial]] | Evidencia chilena medida, no narrada | Nada identificado |
+| [[legitimidad-policial]] | Evidencia chilena medida, no narrada | El instrumento de la ENUSC 2023 ya está en el corpus. Faltan sus resultados |
 | [[debilidad-estatal]] | La voz de sus defensores | Cúmulo `Vínculo Estado-crimen` |
 | [[desorganizacion-social]] | Una fuente primaria de Chicago | García-Pablos completo |
 | [[policia-de-puntos-calientes]] | Una fuente crítica independiente de Weisburd | Nada identificado; Tudela (2015) repite a Weisburd |
@@ -135,7 +138,7 @@ segunda mano.
 
 ## Tensiones registradas
 
-Treinta y dos, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
+Treinta y tres, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
 resuelven. Tres podrían moverse con fuentes que ya tienen tanda:
 
 - **El estatus del control en la prevención** (tensión 3), con Gottfredson y Hirschi en la

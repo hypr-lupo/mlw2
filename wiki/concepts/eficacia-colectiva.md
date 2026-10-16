@@ -1,13 +1,13 @@
 ---
 title: Eficacia colectiva
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-10-16
 ---
 
 # Eficacia colectiva
@@ -94,6 +94,8 @@ Añadido el 26-09-2026 al ingerir [[weisburd-el-lugar-importa]], que hace dos co
 
 **La objeción a la medida.** Braga y Clarke (2014) cuestionan que el voto mida eficacia colectiva, citando a Sampson (2012), que encontró poca correlación entre ambos a nivel de barrio. Weisburd y otros responden que su indicador es distinto: no si alguien votó en la última elección, sino si vota de forma sostenida, lo que indicaría compromiso cívico [^ext-26]. La respuesta la dan los mismos autores cuestionados, y la medida no es la de Sampson, Raudenbush y Earls: al citar resultados de Seattle hay que decir qué se midió [^inf-1].
 
+**Una tercera medida, oficial.** Añadido el 16-10-2026 al ingerir [[ine-medicion-victimizacion]]. La ENUSC 2023 pregunta qué tan probable es que las personas del barrio realicen seis acciones. Las preguntas se basan en la Neighborhood Survey 2005 del Urban Institute, y buscan medir capital social y eficacia colectiva [^ext-30]. El informe define la eficacia colectiva con la Subsecretaría de Prevención del Delito: la capacidad conjunta para actuar y lograr un efecto esperado, con un compromiso activo de la comunidad [^ext-31]. Esa definición no nombra la cohesión, que para Sampson es la mitad del concepto [^inf-3]. La obra de la Subsecretaría está en el corpus, en la tanda 5. Ver [[operacionalizacion]].
+
 **Como base de intervención, sin evidencia todavía.** Los mismos autores admiten que hay poca evidencia sobre la efectividad de prácticas específicas derivadas de esta tradición. Los experimentos para subir la eficacia colectiva en puntos calientes estaban en curso [^ext-27].
 
 > [!warning] Tensión sobre la escala
@@ -163,5 +165,8 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. El l
 [^ext-27]: **Extraído** — [[weisburd-el-lugar-importa]], p. 114 y nota 2 del cap. 6, p. 161.
 [^ext-28]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, p. 45, sobre Arias y Tocornal (2018).
 [^ext-29]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, p. 384.
+[^ext-30]: **Extraído** — [[ine-medicion-victimizacion]], p. 51, sobre Roman y otros (2009).
+[^ext-31]: **Extraído** — [[ine-medicion-victimizacion]], nota 11, p. 40, sobre la Subsecretaría de Prevención del Delito (2021).
 [^inf-1]: **Inferido** (confianza 0.8) — la diferencia entre el indicador de voto y la escala de Sampson, Raudenbush y Earls resulta de comparar esta página con [[sampson-vecindario-y-comunidad]]; el libro no la plantea en estos términos.
 [^inf-2]: **Inferido** (confianza 0.6) — comparación con [[sampson-vecindario-y-comunidad]], pp. 243-244, recogida en [[legitimidad-policial]]. Ni el cap. I ni las conclusiones discuten a Sampson en ese punto.
+[^inf-3]: **Inferido** (confianza 0.7) — contraste entre la definición de la nota 11 del informe y la de [[sampson-vecindario-y-comunidad]]. Falta cotejarla con la obra de la Subsecretaría, que el informe fecha en 2021 y el corpus en 2022.

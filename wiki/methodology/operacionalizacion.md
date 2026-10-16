@@ -1,7 +1,7 @@
 ---
 title: Operacionalización
 type: method
-sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf"]
+sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -75,6 +75,8 @@ Ninguno está en el manual. Esta wiki los ordena con su vocabulario [^inf-1].
 
 **Violencia crónica: especificar en dimensiones.** [[violencia-cronica]] adopta la definición de Pearce, medible en intensidad, espacio y tiempo [^ext-21]. Cada dimensión tiene su umbral. La intensidad, por ejemplo, exige tasas de muerte violenta que al menos dupliquen el promedio de los países de la misma categoría de ingreso [^ext-21]. Adams discute después el indicador más usado, el homicidio. Es visible y genera consenso, pero deja fuera la violencia doméstica, más frecuente y más difícil de cuantificar [^ext-22].
 
+**Victimización: el instrumento mueve la cifra.** Añadido el 16-10-2026. El informe del INE sobre la ENUSC 2023 titula sus tablas «operacionalización conceptual», de la dimensión al indicador [^ext-24]. Y probó el instrumento con un experimento. A la mitad de una muestra le aplicó el formulario antiguo y a la otra mitad el nuevo. La victimización de hogares fue de 22,25 % y de 19,52 %, una diferencia significativa [^ext-25]. El mismo concepto, con dos instrumentos, dio dos cifras que no se pueden comparar. El informe cambia además el sistema de categorías: clasifica los delitos por su naturaleza y no por si hubo violencia [^ext-26]. Ver [[medicion-de-la-victimizacion]].
+
 ## Cita
 
 > "no hay investigación sin definición conceptual y operacional de los conceptos"
@@ -87,10 +89,11 @@ Ninguno está en el manual. Esta wiki los ordena con su vocabulario [^inf-1].
 - [[eficacia-colectiva]], [[violencia-en-el-noviazgo]] y [[violencia-cronica]]: los tres casos
 - [[enfoques-cuantitativo-y-cualitativo]]: la medición es propia del análisis por variables
 - [[teoria-fundamentada]]: la categoría en el otro sentido
+- [[medicion-de-la-victimizacion]]: la operacionalización oficial de la victimización y de la percepción
 - [[miedo-social]]: victimización medida y percepción de inseguridad dan cifras distintas, y definir la violencia sólo por homicidios cambia una conclusión
 - [[analisis-espacial-del-delito]]: la falacia ecológica, el riesgo de las variables colectivas con datos de delito
 
-**Pendiente de contraste.** El informe metodológico del INE (2023) entra en la tanda 2. Trata de la victimización y la percepción de inseguridad. Es la primera operacionalización oficial chilena del corpus.
+**Contraste resuelto el 16-10-2026.** El informe del INE (2023) es la primera operacionalización oficial chilena del corpus. Ver [[medicion-de-la-victimizacion]].
 
 ---
 
@@ -117,6 +120,9 @@ Ninguno está en el manual. Esta wiki los ordena con su vocabulario [^inf-1].
 [^ext-21]: **Extraído** — [[adams-violencia-cronica]], sección I.C.2, p. 12, citando a Pearce (2007, p. 7).
 [^ext-22]: **Extraído** — [[adams-violencia-cronica]], sección I.C.1, p. 11.
 [^ext-23]: **Extraído** — [[vives-varela-teoria-fundamentada]], p. 101, sobre Osses y otros (2006).
+[^ext-24]: **Extraído** — [[ine-medicion-victimizacion]], tablas 7, 10 y 11, pp. 28-31.
+[^ext-25]: **Extraído** — [[ine-medicion-victimizacion]], tabla 1, p. 21, y tabla 6, p. 26.
+[^ext-26]: **Extraído** — [[ine-medicion-victimizacion]], pp. 29-30.
 [^inf-1]: **Inferido** (confianza 0.8) — ninguna de las fuentes de los tres casos usa el vocabulario del manual, y el manual no habla de delito. La lectura cruzada es de esta wiki.
 [^inf-2]: **Inferido** (confianza 0.7) — la nota de Wikström describe una medida basada en lo que observan los residentes y la aplica a áreas. Que sea un promedio de respuestas individuales es la lectura habitual de esa escala, pero el corpus no trae su construcción. Sampson, Raudenbush y Earls (1997) no está en el corpus.
 [^inf-3]: **Inferido** (confianza 0.8) — la revisión de Valdivia-Peralta y otros no cita al manual ni usa los términos definición nominal y operacional. La correspondencia es de esta wiki.

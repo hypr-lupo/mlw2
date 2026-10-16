@@ -13,12 +13,12 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 ## Resumen consolidado
 
 Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026, con la
-ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con la de Batthyány y Cabrera
-(2011). Agrupa los ítems abiertos por lo que los
+ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con las de Batthyány y Cabrera
+(2011) y el INE (2023). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**31 abiertos.**
+**32 abiertos.**
 
-**A. Sólo esperan una decisión del autor (7).** Se pueden resolver hoy.
+**A. Sólo esperan una decisión del autor (9).** Se pueden resolver hoy.
 
 | Ítem | Acción | Qué hay que decidir |
 |---|---|---|
@@ -29,6 +29,8 @@ destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
 | `[esquema]` Las obras colectivas aplanan el modelo de relevancia | `preguntar` | Convivir, excluirlas del cálculo o citar por capítulo |
 | `[entidad]` Milícias de Rio de Janeiro | `crear-pagina` | Nada más que el subtipo: la segunda fuente llegó el 02-10. Se resuelven juntos |
 | `[fuente]` «Violencia como lenguaje» en el archivo de Bourgois | `preguntar` | Qué significa. Si es una unidad de curso, la ficha puede ganar un `curso` |
+| `[fuente]` Autoría del informe del INE (2023) | `preguntar` | Si la SPD figura como autora, como pide la nota de `programa/S1.2`, o sólo el INE, como dice el documento |
+| `[entidad]` ENUSC | `preguntar` | Si merece página propia y con qué `subtipo`. Ninguno de los cinco calza con una encuesta oficial |
 
 **B. Esperan una verificación bibliográfica fuera del corpus (8).** Cada ítem trae su
 consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos evaluados.
@@ -44,13 +46,12 @@ consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos
 | `[fuente]` Estado legal del pololeo | Resuelto en parte con la Ley 21.675; falta el tipo penal de femicidio |
 | `[fuente]` Año e ISBN de Arias | 2016, 2017 o 2018, y los dos ISBN, en el catálogo de la editorial |
 
-**C. Esperan una obra que ya está en el corpus (12).** Se resuelven solos si el orden de
+**C. Esperan una obra que ya está en el corpus (11).** Se resuelven solos si el orden de
 ingesta se cumple.
 
 | Ítem | Acción | Obra que lo destraba | Tanda |
 |---|---|---|---|
 | `[método]` PADS+ | `crear-pagina` | Blanco (2011), si trata los estudios longitudinales. Batthyány y Cabrera (2011) no los trata | 3 |
-| `[método]` Medición de la victimización | `crear-pagina` | INE (2023) | 2 |
 | `[entidad]` Política de seguridad de Peñalolén | `crear-pagina` | CIPC (2015), si la incluye | 2 |
 | `[investigar]` Ley de concentración en una comuna chilena | `investigar` | Metodológicas de la tanda 2; después, las normas de la tanda 5 | 2 y 5 |
 | `[concepto]` Criminalización y selectividad penal | `crear-pagina` | Baratta (2004) | 3 |
@@ -71,8 +72,9 @@ ingesta se cumple.
 | `[concepto]` Capital cultural | Bourdieu (2002), pedido por S2.4 y ausente del corpus |
 | `[concepto]` Violencia contra las mujeres en la pareja y la familia | La bibliografía de S3.3, cuando llegue su programa |
 
-**Qué adelanta cada tanda.** La 2 destraba o adelanta tres ítems; la 3, dos; la 4, dos;
-la 5, tres; la 6, cuatro. PADS+ pasó de la 2 a la 3 el 16-10-2026.
+**Qué adelanta cada tanda.** Lo que queda de la 2 destraba o adelanta dos ítems; la 3, dos;
+la 4, dos; la 5, tres; la 6, cuatro. PADS+ pasó de la 2 a la 3 el 16-10-2026, y medición de
+la victimización se resolvió ese día.
 
 ## Abiertos
 
@@ -321,6 +323,10 @@ la 5, tres; la 6, cuatro. PADS+ pasó de la 2 a la 3 el 16-10-2026.
       guardan eventos, de modo que se usan sin confundir las unidades (p. 70). Ver
       [[diseno-de-investigacion]]. Quedan el INE (2023), Srur (2014) y el capítulo de Boba en
       la tanda 2.
+      **Enmienda 16-10-2026** (ingesta de [[ine-medicion-victimizacion]]): el informe no trata
+      la concentración. Anuncia que la ENUSC 2023 buscaría representatividad comunal (p. 20).
+      Eso permitiría comparar comunas, no microlugares, que es la escala de la ley. Quedan
+      Srur (2014) y el capítulo de Boba.
 
 - [ ] **[alcance]** Zúñiga Núñez (2013) es, sobre todo, teoría del Estado.
       [[zuniga-civilizacion-y-derechos-humanos]] entró el 26-09-2026 por decisión
@@ -481,18 +487,6 @@ la 5, tres; la 6, cuatro. PADS+ pasó de la 2 a la 3 el 16-10-2026.
       campo y 51 páginas; conviene repetir el diagnóstico con 100. Ver
       `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-- [ ] **[método]** «Medición de la victimización» — [[valdivia-violencia-en-el-noviazgo]]
-      muestra con datos chilenos que la prevalencia depende de cómo se pregunta: con la
-      etiqueta, «¿ha vivido violencia?», las cifras son bajas; con conductas concretas, se
-      multiplican. En la encuesta del Injuv de 2012, la violencia física pasa del 7 % al
-      12,3 %. Suma el instrumento, la muestra y la ventana de tiempo. Hoy vive dentro de
-      [[violencia-en-el-noviazgo]].
-      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-27
-      Criterio: crearla con el informe metodológico del INE (2023) sobre la medición de
-      victimización y percepción de inseguridad, en la tanda 2, que es la obra dedicada
-      al asunto. Esta revisión entra como segunda voz, desde otro tipo de violencia.
-      Escribirla ahora sería escribirla desde el ejemplo y no desde el método.
-
 - [ ] **[fuente]** Estado legal de la violencia en el pololeo después de 2019 —
       [[valdivia-violencia-en-el-noviazgo]] describe una ley de femicidio que excluye a las
       parejas que nunca convivieron, y un proyecto de ley en trámite en 2018. Es la causa
@@ -570,7 +564,42 @@ la 5, tres; la 6, cuatro. PADS+ pasó de la 2 a la 3 el 16-10-2026.
       no nazca de una etnografía de Nueva York en los ochenta. El lugar natural es la
       bibliografía de S3.3, cuyo programa no ha llegado.
 
+- [ ] **[fuente]** Autoría del informe del INE (2023) — `programa/S1.2` lo cita a nombre
+      del «Instituto Nacional de Estadísticas y Secretaría de Prevención del Delito», y su
+      nota pide corregir la autoría corporativa para incluir a la SPD. La portada y el
+      encabezado de cada página de [[ine-medicion-victimizacion]] nombran sólo al INE. La
+      SPD figura como socia del proyecto (p. 3), y el organismo es una Subsecretaría.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-10-16
+      Mientras tanto, la ficha queda con `verificacion_bibliografica: pendiente` y cita
+      sólo al INE, como el documento.
+
+- [ ] **[entidad]** ENUSC, la Encuesta Nacional Urbana de Seguridad Ciudadana — el
+      instrumento oficial chileno de victimización, con diecinueve versiones entre 2003 y
+      2022. Hoy vive dentro de [[medicion-de-la-victimizacion]].
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-10-16
+      Qué decidir: si merece página propia y con qué `subtipo`. Ninguno de los cinco
+      admitidos calza con una operación estadística, y llevaría `vigencia`. Conviene
+      decidirlo cuando entre una fuente con resultados de la ENUSC, que el corpus no tiene.
+
 ## Resueltos
+
+- [x] **[método]** «Medición de la victimización» — [[valdivia-violencia-en-el-noviazgo]]
+      muestra con datos chilenos que la prevalencia depende de cómo se pregunta: con la
+      etiqueta, «¿ha vivido violencia?», las cifras son bajas; con conductas concretas, se
+      multiplican. En la encuesta del Injuv de 2012, la violencia física pasa del 7 % al
+      12,3 %. Suma el instrumento, la muestra y la ventana de tiempo. Hoy vive dentro de
+      [[violencia-en-el-noviazgo]].
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-27
+      Criterio: crearla con el informe metodológico del INE (2023) sobre la medición de
+      victimización y percepción de inseguridad, en la tanda 2, que es la obra dedicada
+      al asunto. Esta revisión entra como segunda voz, desde otro tipo de violencia.
+      Escribirla ahora sería escribirla desde el ejemplo y no desde el método.
+      **Resuelto el 16-10-2026 — `crear-pagina`.** Se cumplió el criterio: nace
+      [[medicion-de-la-victimizacion]] con [[ine-medicion-victimizacion]] como fuente
+      principal y [[valdivia-violencia-en-el-noviazgo]] como segunda voz. Las dos llegan a
+      reglas parecidas sin citarse: preguntar por la conducta y no por la etiqueta, y fijar
+      la ventana de tiempo. El informe agrega lo que la encuesta oficial no mide, entre otras
+      cosas la violencia de pareja.
 
 - [x] **[concepto]** Mediación comunitaria — [[vanderschueren-guia-prevencion-barrios]]
       le dedica un tratamiento propio: la experiencia del Balcón de Derechos en las

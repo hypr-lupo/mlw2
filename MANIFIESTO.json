@@ -108,6 +108,12 @@
       "bytes": 537332,
       "ingerido": "2026-10-16",
       "ficha": "wiki/sources/vives-varela-teoria-fundamentada.md"
+    },
+    "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf": {
+      "sha256": "dc88f4b940cd79e3e583b46df677135dfe2624cd4b843b0ef3021620e334e46f",
+      "bytes": 1492695,
+      "ingerido": "2026-10-16",
+      "ficha": "wiki/sources/ine-medicion-victimizacion.md"
     }
   }
 }

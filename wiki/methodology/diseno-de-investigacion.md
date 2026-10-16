@@ -1,7 +1,7 @@
 ---
 title: Diseño de investigación
 type: method
-sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf"]
+sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -97,7 +97,7 @@ Una hipótesis es una respuesta tentativa a la pregunta de investigación. Se de
 
 Las unidades pueden ser individuos, grupos, empresas, países, políticas, leyes o un intervalo de tiempo [^ext-19].
 
-**Eventos o personas.** Contar faltas a la escuela no es contar niños que faltan, porque un niño acumula muchas faltas. Los registros administrativos guardan eventos. Son una buena fuente, pero se analizan sin confundir las unidades [^ext-20]. En delito pasa lo mismo: delitos denunciados, víctimas y lugares son tres unidades distintas [^inf-2]. Ver [[puntos-calientes]].
+**Eventos o personas.** Contar faltas a la escuela no es contar niños que faltan, porque un niño acumula muchas faltas. Los registros administrativos guardan eventos. Son una buena fuente, pero se analizan sin confundir las unidades [^ext-20]. En delito pasa lo mismo: delitos denunciados, víctimas y lugares son tres unidades distintas [^inf-2]. Ver [[puntos-calientes]]. La encuesta oficial chilena lo hace explícito. La prevalencia cuenta personas u hogares victimizados, y la incidencia cuenta hechos [^ext-28]. Ver [[medicion-de-la-victimizacion]].
 
 **Falacia ecológica.** Consiste en concluir que una relación entre variables de un colectivo vale para sus miembros [^ext-21]. Ver [[analisis-espacial-del-delito]].
 
@@ -150,5 +150,6 @@ En la teoría fundamentada el tamaño de la muestra se conoce al final, porque s
 [^ext-25]: **Extraído** — [[vives-varela-teoria-fundamentada]], p. 98, sobre Flick (2004).
 [^ext-26]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 27.
 [^ext-27]: **Extraído** — [[vives-varela-teoria-fundamentada]], p. 100, sobre Martínez-Salgado (2012) y Luckerhoff y Guillemette (2012).
+[^ext-28]: **Extraído** — [[ine-medicion-victimizacion]], tabla 12, p. 31.
 [^inf-1]: **Inferido** (confianza 0.8) — el manual no trata esos diseños. [[evaluacion-de-programas]] los nombra, desde Tudela, pero no los describe como método.
 [^inf-2]: **Inferido** (confianza 0.8) — aplicación propia del ejemplo de la p. 70 a los datos de delito. El manual no habla de delito. [[weisburd-el-lugar-importa]] trabaja con lugares como unidad, y los registros policiales cuentan delitos, no víctimas.

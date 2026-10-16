@@ -1,13 +1,13 @@
 ---
 title: Legitimidad policial
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-10-02
+actualizado: 2026-10-16
 ---
 
 # Legitimidad policial
@@ -87,6 +87,12 @@ Añadido el 27-09-2026 al ingerir [[tudela-analisis-criminal]].
 
 **Dos vías.** Sampson construye la legitimidad desde el trato: justicia procedimental. Tudela, desde el desempeño: eficacia demostrada. No se excluyen, y su propia definición incluye el reconocimiento de la autoridad, que es lo que la justicia procedimental busca producir [^inf-6]. Pero conducen a políticas distintas. Una pide cambiar cómo actúa la policía frente a los vecinos; la otra, medir mejor lo que logra.
 
+## Cómo la mediría la encuesta oficial
+
+Añadido el 16-10-2026 al ingerir [[ine-medicion-victimizacion]]. Esta página espera evidencia chilena medida. El corpus tiene ahora el instrumento, no los resultados.
+
+La ENUSC 2023 pregunta por la confianza y la eficacia de cinco instituciones: Carabineros, PDI, municipio, Fiscalía y tribunales [^ext-33]. Para Carabineros agrega siete afirmaciones. Según el informe, miden tres dimensiones: la coincidencia ética, la neutralidad como parte de la justicia procedimental y la obligación de obedecer, de Tyler [^ext-34]. Una de ellas pregunta si los carabineros tratan peor a los jóvenes [^ext-34]. Es la vía del trato, la de Sampson, y no la del desempeño [^inf-8]. Ver [[medicion-de-la-victimizacion]].
+
 ## Cuando la legitimidad se va a otro lado
 
 Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]] y [[bourgois-en-busca-de-respeto]]. Las secciones anteriores tratan la legitimidad como algo que la policía tiene o pierde ante los vecinos. Estas dos fuentes, desde el barrio, muestran dos situaciones que ese esquema no contempla.
@@ -114,6 +120,7 @@ No se refutan: hablan de objetos distintos. Sampson habla de la cooperación ent
 
 ## Relacionado
 
+- [[medicion-de-la-victimizacion]] — cómo mediría la ENUSC 2023 la confianza en Carabineros
 - [[sampson-vecindario-y-comunidad]] — fuente
 - [[policia-comunitaria]] — el modelo que esta condición habilita, y que fracasa sin ella
 - [[ventanas-rotas]] — la estrategia que la erosiona
@@ -169,3 +176,6 @@ El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como
 [^ext-31]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 3, p. 132.
 [^ext-32]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 1, pp. 58-60.
 [^inf-7]: **Inferido** (confianza 0.75) — contraste entre las dos fuentes. Arias cita a Bourgois como antecedente metodológico, no sobre este punto.
+[^ext-33]: **Extraído** — [[ine-medicion-victimizacion]], pp. 40-41 y 32.
+[^ext-34]: **Extraído** — [[ine-medicion-victimizacion]], p. 49, sobre Abril y otros (2022) y Tyler (2002).
+[^inf-8]: **Inferido** (confianza 0.7) — las afirmaciones miden trato y autoridad. La evaluación de desempeño va en otra pregunta, con diez aspectos del trabajo de Carabineros (p. 49). La correspondencia con las dos vías de esta página es de esta wiki.

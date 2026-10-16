@@ -1,13 +1,13 @@
 ---
 title: Miedo social
 type: concept
-sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf"]
+sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
 cluster: victimizacion-e-inseguridad
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-02
+actualizado: 2026-10-16
 ---
 
 # Miedo social
@@ -65,6 +65,11 @@ Usan el concepto de **empeligrosamiento** (Kessler, 2009). El peligro recae siem
 
 **La convergencia con Adams.** Dos de los tres factores que Adams encontró en Guatemala reaparecen en Chile: los **medios**, en Peñalolén, y el **conflicto intergeneracional**, en Maipú, donde los mayores etiquetan a los jóvenes [^inf-1]. El tercero, la memoria de la guerra, no aparece. Y el empeligrosamiento es la misma construcción del «otro» con que empieza esta página. Son investigaciones independientes, en países distintos, con métodos cualitativos distintos. Es una convergencia real, no una repetición.
 
+**La cifra nacional.** Añadido el 16-10-2026 al ingerir [[ine-medicion-victimizacion]]. En la ENUSC 2021, el 86,9 % percibía que la delincuencia había aumentado en el país, el nivel más alto de la serie. La victimización, en cambio, bajaba [^ext-23]. El informe del INE parte de que victimización y percepción son variables independientes [^ext-24]. Y separa en la percepción un lado emocional, el miedo al delito, y uno cognitivo, el riesgo percibido de ser víctima [^ext-25]. Ver [[medicion-de-la-victimizacion]].
+
+> [!warning] ¿La brecha es social o es de la medición?
+> Las fuentes anteriores explican la brecha por causas sociales: los medios, el conflicto entre generaciones, la construcción del otro. El informe del INE dice que la brecha de 2021 puso en cuestión la forma en que la ENUSC mide [^ext-23]. Y trae un dato que abre otra explicación posible. Entre 2016 y 2021, los registros policiales bajan en hurtos y robos, pero suben en abusos sexuales, violaciones, homicidios y violencia intrafamiliar. La ENUSC tradicional no medía ninguno de esos delitos [^ext-26]. Las dos explicaciones no se excluyen, y ninguna fuente del corpus las pone a prueba juntas [^inf-3].
+
 **Qué hacer con esto.** Las conclusiones del libro separan dos objetivos de la prevención con causas distintas: la victimización y la percepción de inseguridad. La segunda exige una política comunicacional y pedagógica de largo plazo [^ext-15]. Ver [[prevencion-del-delito]].
 
 ## Donde la violencia sí es alta: la cultura del terror
@@ -87,7 +92,7 @@ Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]], qu
 
 Si la percepción de inseguridad puede ser alta donde la violencia registrada es baja, y producir las mismas respuestas —barreras, patrullas, linchamientos—, entonces un diagnóstico que se apoye sólo en tasas de delito describirá mal el problema que una política municipal tendría que atender.
 
-El corpus tiene material sin ingerir que discute exactamente esto: Dammert (2012), *Miedo y delito en América Latina*, y el informe metodológico del INE (2023) sobre la medición de victimización y percepción de inseguridad. Es el cúmulo `Medición e inseguridad`.
+El informe metodológico del INE (2023) entró el 16-10-2026: ver [[medicion-de-la-victimizacion]]. Sigue sin ingerir Dammert (2012), *Miedo y delito en América Latina*, del cúmulo `Medición e inseguridad`.
 
 ## Cita
 
@@ -106,6 +111,7 @@ El corpus tiene material sin ingerir que discute exactamente esto: Dammert (2012
 - [[bourgois-en-busca-de-respeto]] — la cultura del terror en East Harlem
 - [[arias-empresas-criminales-y-gobernanza]] — el miedo bajo un orden armado, donde la violencia aparente es baja
 - [[cultura-callejera]] — lo que impone el tono de la vida pública
+- [[medicion-de-la-victimizacion]] — cómo se mide la percepción, y lo que la encuesta oficial no mide
 
 ---
 
@@ -124,6 +130,10 @@ El corpus tiene material sin ingerir que discute exactamente esto: Dammert (2012
 [^ext-13]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. IX, pp. 235-238.
 [^ext-14]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. IX, p. 240, sobre la ENUSC 2017.
 [^ext-15]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, pp. 380-381.
+[^ext-23]: **Extraído** — [[ine-medicion-victimizacion]], p. 16.
+[^ext-24]: **Extraído** — [[ine-medicion-victimizacion]], p. 6, sobre Kanashiro y otros (2018).
+[^ext-25]: **Extraído** — [[ine-medicion-victimizacion]], pp. 12-13, sobre Fuentealba, Rojas y Barriga (2016) y Reid y otros (2020).
+[^ext-26]: **Extraído** — [[ine-medicion-victimizacion]], pp. 17-18.
 [^inf-1]: **Inferido** (confianza 0.7) — comparación propia entre [[adams-violencia-cronica]], sección II.G, y los caps. VII y VIII. Ninguno de los capítulos cita a Adams.
 [^ext-16]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 1, pp. 60-62.
 [^ext-17]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 1, p. 62, sobre Taussig (1987).
@@ -133,3 +143,4 @@ El corpus tiene material sin ingerir que discute exactamente esto: Dammert (2012
 [^ext-21]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, pp. 129-131.
 [^ext-22]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, p. 115.
 [^inf-2]: **Inferido** (confianza 0.7) — comparación propia entre [[adams-violencia-cronica]], [[bourgois-en-busca-de-respeto]] y [[arias-empresas-criminales-y-gobernanza]]. Ninguno discute a los otros sobre este punto.
+[^inf-3]: **Inferido** (confianza 0.7) — contraste propio. El informe del INE no afirma que la brecha se deba a los delitos no medidos: sólo pone los dos datos uno al lado del otro.

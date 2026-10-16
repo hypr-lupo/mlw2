@@ -8,6 +8,45 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-16] ingesta | INE (2023), Actualización metodológica de la medición de victimización y percepción de inseguridad
+
+**Tercera obra de la tanda 2, en la misma sesión. Primera fuente estadística oficial de la
+wiki.**
+
+- Ficha creada: [[ine-medicion-victimizacion]]. Informe metodológico del rediseño de la
+  ENUSC 2023, fechado en abril de 2023. `vigencia: incierto`: describe el diseño previsto,
+  no el aplicado. `verificacion_bibliografica: pendiente` por la autoría.
+- Páginas creadas (1): [[medicion-de-la-victimizacion]], con el INE como fuente principal y
+  [[valdivia-violencia-en-el-noviazgo]] como segunda voz.
+- Páginas actualizadas (7):
+  · [[miedo-social]]: la cifra nacional de 2021 y la pregunta de si la brecha viene de lo
+    que no se mide;
+  · [[operacionalizacion]]: el experimento de la ENUSC, un concepto con dos instrumentos y
+    dos cifras. Su «Pendiente de contraste» queda resuelto;
+  · [[diseno-de-investigacion]]: prevalencia e incidencia como unidades y eventos;
+  · [[violencia-en-el-noviazgo]]: la encuesta oficial tampoco mide la violencia de pareja;
+  · [[legitimidad-policial]]: cómo mediría la ENUSC 2023 la confianza en Carabineros;
+  · [[eficacia-colectiva]]: una tercera medida, oficial, con una definición de la SPD que no
+    nombra la cohesión;
+  · [[enfoques-cuantitativo-y-cualitativo]]: pruebas cualitativas al servicio de una
+    encuesta.
+  · Más [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: 1 nueva.
+  · **¿La brecha entre miedo y delito es social o es de la medición?** (tensión 33). En
+    [[miedo-social]] y [[medicion-de-la-victimizacion]].
+  · Además, una divergencia de definición de eficacia colectiva, en [[eficacia-colectiva]],
+    a confirmar con la obra de la SPD en la tanda 5.
+- En revisión: 1 ítem resuelto (medición de la victimización), 2 nuevos (autoría del
+  informe y página de la ENUSC) y 1 enmienda (ley de concentración). La cola pasa a 32.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-10-16-ine-medicion-victimizacion.md`.
+- Notas: `programa/S1.2` lo cita a nombre del INE y de la «Secretaría de Prevención del
+  Delito», y pide incluir a la SPD. La portada nombra sólo al INE. El informe tiene
+  marcadores sin completar («xx», «Ver Anexo )») y tres datos ambiguos: la primera encuesta
+  nacional sin cita, dos fechas para la encuesta de Paz Ciudadana y un porcentaje sin
+  signo. La SPD (2021) que cita es probablemente la obra del corpus fechada en 2022. Toca 9
+  páginas de contenido, ficha incluida.
+
 ## [2026-10-16] ingesta | Vives Varela y Hamui Sutton (2021), La codificación y categorización en la teoría fundamentada
 
 **Segunda obra de la tanda 2, en la misma sesión que Batthyány y Cabrera (2011).**

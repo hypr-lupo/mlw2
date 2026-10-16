@@ -1,7 +1,7 @@
 ---
 title: Violencia en el noviazgo
 type: concept
-sources: ["2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2024 - Ministerio de la Mujer y la Equidad de Género - Ley 21.675, estatuye medidas para prevenir, sancionar y erradicar la violencia en contra de las mujeres en razón de su género.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf"]
+sources: ["2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2024 - Ministerio de la Mujer y la Equidad de Género - Ley 21.675, estatuye medidas para prevenir, sancionar y erradicar la violencia en contra de las mujeres en razón de su género.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
 cluster: victimizacion-e-inseguridad
 curso: [s1-2]
 procedencia: fuentes
@@ -25,6 +25,7 @@ La revisión lo atribuye a varias cosas:
 - **Una idea del noviazgo.** Durante décadas se lo vio como preparación para el matrimonio y no como un espacio donde pudiera haber violencia de pareja (Makepeace, 1981). El mundo anglosajón lo reconoció como problema de salud pública a fines de los ochenta [^ext-3].
 - **Los estudios.** En Chile son tesis, artículos e investigación de gobierno, con instrumentos distintos, y se difunden poco en revistas indexadas [^ext-4].
 - **La ley.** Es la causa que el artículo documenta mejor; ver más abajo.
+- **La encuesta oficial.** Añadido el 16-10-2026. La ENUSC tradicional no medía la violencia intrafamiliar [^ext-35]. La ENUSC 2023 agrega el acoso sexual a su lista de delitos, pero tampoco incluye la violencia intrafamiliar ni la de pareja [^ext-36]. Ver [[medicion-de-la-victimizacion]].
 
 Contra la idea de que es una violencia menor, la revisión cita un estudio según el cual su prevalencia no difiere significativamente de la violencia en parejas que conviven o están casadas (Wiersma y otros, 2010) [^ext-5].
 
@@ -54,7 +55,7 @@ En España pasa lo mismo: el 68,7 % de 6.731 jóvenes no se sintió maltratado, 
 
 Por eso la cifra con que el propio artículo abre —51 % de violencia psicológica y 25 % física en Chile [^ext-14]— hay que leerla con cuidado: viene de muestras de universitarios de regiones, no de la serie nacional [^inf-1].
 
-Ver [[revision]]: una página de medición de la victimización espera al informe metodológico del INE (2023), y esta revisión será su segunda voz.
+Desde el 16-10-2026 hay una página de método, [[medicion-de-la-victimizacion]]. Su fuente principal es el informe del INE (2023), y esta revisión es su segunda voz.
 
 ## ¿Violencia de género o violencia mutua?
 
@@ -109,6 +110,7 @@ La revisión pedía una ley que tipificara la violencia en el noviazgo como deli
 - [[evaluacion-de-programas]] — las campañas chilenas sin evaluar y la evidencia concentrada en países de altos ingresos
 - [[ley-21675-violencia-de-genero]] — la ley que en 2024 incorporó el pololeo a la violencia intrafamiliar
 - [[operacionalizacion]] — la etiqueta y la conducta como definición nominal y definición operacional
+- [[medicion-de-la-victimizacion]] — la encuesta oficial, que no mide esta violencia
 
 ---
 
@@ -146,6 +148,8 @@ La revisión pedía una ley que tipificara la violencia en el noviazgo como deli
 [^ext-32]: **Extraído** — [[ley-21675-violencia-de-genero]], arts. 12 y 20, pp. 7 y 10-11.
 [^ext-33]: **Extraído** — [[ley-21675-violencia-de-genero]], art. 54 N°5, pp. 29-30; y arts. 1 y 29, pp. 1 y 16.
 [^ext-34]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 52.
+[^ext-35]: **Extraído** — [[ine-medicion-victimizacion]], p. 18.
+[^ext-36]: **Extraído** — [[ine-medicion-victimizacion]], tabla 8, p. 29, y tabla 16, p. 43.
 [^inf-1]: **Inferido** (confianza 0.8) — comparación entre el resumen y la tabla 2. Ver la ficha.
 [^inf-2]: **Inferido** (confianza 0.6) — lectura propia de los datos que la revisión compila. No es un juicio sobre la violencia de género, sino sobre lo que este artículo demuestra.
 [^inf-3]: **Inferido** (confianza 0.7) — comparación entre la propuesta de [[valdivia-violencia-en-el-noviazgo]], pp. 16 y 20, y el texto de la ley. Que no exista un tipo penal propio se afirma sólo respecto de la Ley 21.675; otra norma podría haberlo creado.

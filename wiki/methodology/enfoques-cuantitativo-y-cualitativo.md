@@ -1,7 +1,7 @@
 ---
 title: Enfoques cuantitativo y cualitativo
 type: method
-sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf"]
+sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -65,6 +65,8 @@ Dentro de la tercera, Bericat distingue dos lógicas [^ext-8]. La de la segregac
 - **Combinación.** Un método se pone al servicio del otro para compensar sus debilidades. Por ejemplo, una encuesta representativa ayuda a corregir el sesgo de los informantes en un trabajo de campo.
 - **Triangulación.** Los dos métodos estudian el mismo aspecto, y se espera que sus resultados converjan.
 
+**Un caso de combinación.** Añadido el 16-10-2026. Para rediseñar la ENUSC, el INE hizo 21 grupos focales, 62 entrevistas cognitivas y 28 observaciones de entrevistas [^ext-15]. Las pruebas cualitativas sirvieron para corregir una encuesta. Por ejemplo, mostraron que la pregunta sobre si uno cree que será víctima produce respuestas por deseabilidad social [^ext-16]. Es la combinación de Bericat: un método al servicio del otro [^inf-1]. Ver [[medicion-de-la-victimizacion]].
+
 **Otro sentido de triangulación.** Añadido el 16-10-2026. [[vives-varela-teoria-fundamentada]] usa la palabra, con Cisterna, para otra cosa: cruzar datos cualitativos entre grupos de participantes, entre instrumentos y con el marco teórico [^ext-14]. Quien triangule tiene que decir en qué sentido. Ver [[teoria-fundamentada]].
 
 ## Técnicas
@@ -94,6 +96,7 @@ Fuente: [^ext-11].
 - [[diseno-de-investigacion]]: el diseño estructurado, que es el que el manual desarrolla
 - [[operacionalizacion]]: la medición, propia del análisis por variables
 - [[teoria-fundamentada]]: un procedimiento de análisis cualitativo, del código a la teoría
+- [[medicion-de-la-victimizacion]]: pruebas cualitativas al servicio de una encuesta oficial
 - [[bourgois-en-busca-de-respeto]]: una observación participante en la cuarta situación de Jorgensen, con sus límites declarados por el propio autor
 - [[diagnostico-barrial]]: la guía de 2010 elige técnicas cualitativas en el barrio crítico y acepta perder representatividad
 - [[evaluacion-de-programas]]: la tensión de las tres ideas de evidencia, leída como una diferencia entre explicar y comprender
@@ -117,3 +120,6 @@ Fuente: [^ext-11].
 [^ext-12]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 88, sobre Jorgensen (1989, p. 12), citado en Corbetta (2007, p. 307).
 [^ext-13]: **Extraído** — [[vives-varela-teoria-fundamentada]], p. 100, sobre Charmaz (2012) y Flick (2004).
 [^ext-14]: **Extraído** — [[vives-varela-teoria-fundamentada]], tabla 3, p. 103, sobre Cisterna (2005).
+[^ext-15]: **Extraído** — [[ine-medicion-victimizacion]], tabla 5, p. 23.
+[^ext-16]: **Extraído** — [[ine-medicion-victimizacion]], pp. 35-36.
+[^inf-1]: **Inferido** (confianza 0.8) — el informe no usa el término de Bericat. La correspondencia es de esta wiki.
