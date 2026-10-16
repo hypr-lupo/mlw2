@@ -14,11 +14,11 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 
 Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026, con la
 ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con las de Batthyány y Cabrera
-(2011), el INE (2023) y Srur (2014). Agrupa los ítems abiertos por lo que los
+(2011), el INE (2023), Srur (2014) y el capítulo de Boba (2010). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**33 abiertos.**
+**34 abiertos.**
 
-**A. Sólo esperan una decisión del autor (10).** Se pueden resolver hoy.
+**A. Sólo esperan una decisión del autor (11).** Se pueden resolver hoy.
 
 | Ítem | Acción | Qué hay que decidir |
 |---|---|---|
@@ -32,6 +32,7 @@ destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
 | `[fuente]` Autoría del informe del INE (2023) | `preguntar` | Si la SPD figura como autora, como pide la nota de `programa/S1.2`, o sólo el INE, como dice el documento |
 | `[entidad]` ENUSC | `preguntar` | Si merece página propia y con qué `subtipo`. Ninguno de los cinco calza con una encuesta oficial |
 | `[ingesta]` El resto de Srur (2014) | `preguntar` | Si se ingiere lo que el programa no pide: genealogía, enfoques, casos de Quito y Panamá y modelo de madurez |
+| `[ingesta]` El resto de Tudela (ed.) (2010) | `preguntar` | Si se ingieren los cinco capítulos que el programa no pide, entre ellos uno sobre el Ministerio Público chileno |
 
 **B. Esperan una verificación bibliográfica fuera del corpus (8).** Cada ítem trae su
 consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos evaluados.
@@ -73,7 +74,7 @@ ingesta se cumple.
 | `[concepto]` Capital cultural | Bourdieu (2002), pedido por S2.4 y ausente del corpus |
 | `[concepto]` Violencia contra las mujeres en la pareja y la familia | La bibliografía de S3.3, cuando llegue su programa |
 
-**Qué adelanta cada tanda.** Lo que queda de la 2 destraba o adelanta dos ítems, y Srur no destrabó ninguno; la 3, dos;
+**Qué adelanta cada tanda.** Lo que queda de la 2, el CIPC (2015), destraba o adelanta dos ítems. Srur y Boba no destrabaron ninguno; la 3, dos;
 la 4, dos; la 5, tres; la 6, cuatro. PADS+ pasó de la 2 a la 3 el 16-10-2026, y medición de
 la victimización se resolvió ese día.
 
@@ -334,6 +335,10 @@ la victimización se resolvió ese día.
       registraba el lugar y el 31,5 % no tenía software para georreferenciar (pp. 35-37).
       Antes de buscar el estudio en Chile, conviene preguntar si existen los datos. Queda el
       capítulo de Boba.
+      **Enmienda 16-10-2026** (ingesta de [[tudela-ed-analisis-delictual]]): el capítulo de Boba
+      cierra las metodológicas de la tanda 2 sin un estudio chileno. Aporta dos piezas para
+      diseñarlo: contar por fecha de ocurrencia y no de denuncia, y dividir por los blancos y no
+      por la población (pp. 84 y 92). Quedan el CIPC (2015) y las normas de la tanda 5.
 
 - [ ] **[alcance]** Zúñiga Núñez (2013) es, sobre todo, teoría del Estado.
       [[zuniga-civilizacion-y-derechos-humanos]] entró el 26-09-2026 por decisión
@@ -496,6 +501,9 @@ la victimización se resolvió ese día.
       **Enmienda 16-10-2026** (ingesta de [[srur-observatorios-del-delito]]): Srur (ed.) (2014)
       no atribuye capítulos a autores y entró sólo en un tramo, de modo que no agrava el
       problema. Quedan Tudela (ed.) (2010) y Minayo y otros (2023).
+      **Enmienda 16-10-2026** (ingesta de [[tudela-ed-analisis-delictual]]): el libro entró con un
+      solo capítulo, de autora identificada. Tampoco agrava el problema. Queda Minayo y otros
+      (2023).
 
 - [ ] **[fuente]** Estado legal de la violencia en el pololeo después de 2019 —
       [[valdivia-violencia-en-el-noviazgo]] describe una ley de femicidio que excluye a las
@@ -600,6 +608,18 @@ la victimización se resolvió ese día.
       Qué decidir: si se completa y cuándo. El cap. 3 importaría si el trabajo de grado o el
       trabajo grupal de S1.1 recae sobre un observatorio municipal. El manifiesto registra
       el alcance parcial, para que la ingesta incremental no dé la obra por completa.
+
+- [ ] **[ingesta]** El resto de Tudela (ed.) (2010) — [[tudela-ed-analisis-delictual]] entró
+      sólo en el capítulo de Boba, que es el que pide `programa/S1.2`. Quedan cinco: Tilley y
+      Laycock sobre la ciencia del delito, uno sobre los fundamentos del análisis delictual,
+      otro sobre sus conceptos básicos, uno sobre investigación aplicada para resolver delitos
+      y otro sobre los desafíos del Ministerio Público chileno.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-10-16
+      Qué decidir: si se ingieren y cuándo. El de conceptos básicos presenta, citando a Boba
+      (2005), la elección racional, la teoría de patrones y las actividades rutinarias, que
+      son las teorías de la oportunidad que espera otro ítem de esta cola. El del Ministerio
+      Público es la primera fuente chilena sobre la fiscalía. El manifiesto registra el
+      alcance parcial.
 
 ## Resueltos
 

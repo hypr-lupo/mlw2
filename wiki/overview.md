@@ -9,7 +9,7 @@ sources: []
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
 **Al 16-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden y la
-tanda 2 en curso.** Veinte fuentes de 118, sesenta y cinco páginas, **siete de ocho
+tanda 2 en curso.** Veintiuna fuentes de 118, sesenta y siete páginas, **siete de ocho
 clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
@@ -102,6 +102,15 @@ sin analizarlos, y a las que les faltan la hora y el lugar de los hechos. Eso po
 perspectiva a [[analisis-criminal]] y a [[analisis-espacial-del-delito]]: lo que prescriben
 necesita datos que en la región a menudo no existen. Y el mapeo tiene su propio sesgo: los
 observatorios de los lugares más violentos son los que menos respondieron.
+
+**Y cómo leer una cifra policial.** Del libro que Tudela editó en 2010,
+[[tudela-ed-analisis-delictual]], entró sólo el capítulo de Rachel Boba, que es el que pide
+el programa. Nace [[estadisticas-delictuales]]. Las denuncias, los arrestos y las llamadas
+por servicio miden cosas distintas; un delito tiene dos fechas; la tasa debe dividir por el
+blanco; y los registros no son una muestra, de modo que no permiten generalizar. Es un texto
+de 2004 sobre Estados Unidos, y lo que se transfiere es el razonamiento. Completa además una
+pieza que el manual de metodología no traía: comparar un grupo que recibe una intervención
+con otro que no, antes y después.
 
 ## Siete respuestas a la misma pregunta
 
@@ -292,7 +301,7 @@ Weisburd y otros declaran la evidencia mixta. La versión de 2010 fundaba la mis
 en el control visual. Lo discutible es la justificación añadida en 2020, más que el
 inventario. Ver [[ventanas-rotas]].
 
-**Cinco convergencias, que valen tanto como las tensiones.**
+**Seis convergencias, que valen tanto como las tensiones.**
 
 - **La mano dura.** Sampson desde la tolerancia cero, Albarracín desde la literatura
   latinoamericana y el libro de 2021 desde la prevención llegan a lo mismo: la
@@ -314,6 +323,9 @@ inventario. Ver [[ventanas-rotas]].
   campañas no se evalúan, y la evidencia viene de países de altos ingresos. Srur y otros lo
   extienden a las instituciones que producen el dato: sólo el 30 % de los observatorios
   de la región se evalúa. Ver [[evaluacion-de-programas]].
+- **El registro no es el delito.** El INE desde la encuesta y Boba desde los datos policiales
+  parten de la misma advertencia: lo denunciado es una parte, no aleatoria, de lo ocurrido.
+  Ver [[medicion-de-la-victimizacion]] y [[estadisticas-delictuales]].
 - **La medición.** Valdivia-Peralta y otros desde la violencia en el noviazgo, y un manual
   de metodología desde la sociología, llegan al mismo problema con la misma palabra.
   Preguntar si alguien vivió violencia deja la definición a cada encuestado. Ninguno cita
@@ -362,6 +374,8 @@ inventario. Ver [[ventanas-rotas]].
   entran en la encuesta.
 - **Revisar qué registra un observatorio.** [[observatorios-del-delito]]: día, hora, lugar,
   arma, móvil y relación entre víctima y agresor, y si analiza o sólo presenta.
+- **Leer críticamente una cifra policial.** [[estadisticas-delictuales]]: qué fuente es, qué
+  fecha cuenta, qué denominador usa y si el «significativo» viene de una prueba.
 
 Las cuatro primeras vienen sobre todo del equipo del docente del ramo: dos guías que
 cuentan como una, y el libro de 2021, en parte de los mismos autores. Las tres últimas,
@@ -438,8 +452,8 @@ dirección. Elegirla o no es decisión del autor.
 Hasta el 27-11-2026 manda el **orden por calendario** fijado en [[purpose]]: seis
 tandas, cada una cerrada antes de la clase que la usa. La tanda 1 quedó cerrada el
 27-09. La tanda 2 debía cerrar el 10-10 y empezó el 16-10 con Batthyány y Cabrera (2011).
-Vives Varela y Hamui Sutton (2021), el INE (2023) y Srur (2014), en sus pp. 26-45, entraron
-el mismo día. Quedan el capítulo de Boba en Tudela (ed.) (2010) y CIPC (2015). La tanda 3 vence el mismo 16-10. El autor
+Vives Varela y Hamui Sutton (2021), el INE (2023), Srur (2014) en sus pp. 26-45 y el capítulo
+de Boba en Tudela (ed.) (2010) entraron el mismo día. Queda el CIPC (2015). La tanda 3 vence el mismo 16-10. El autor
 decidió ese día mantener el orden: la 3 va después de terminar la 2. Después de la sexta
 vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.

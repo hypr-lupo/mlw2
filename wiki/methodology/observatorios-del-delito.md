@@ -1,7 +1,7 @@
 ---
 title: Observatorios del delito
 type: method
-sources: ["2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf"]
+sources: ["2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -47,6 +47,8 @@ El estudio identificó 198 observatorios y encontró contacto con 155. Les envi�
 - sólo la mitad tiene el móvil o la relación entre víctima y agresor
 - el 31,5 % no tiene software para georreferenciar [^ext-15]
 
+**Un matiz sobre la hora.** No toda hora que falta es un déficit del sistema. En los delitos sin testigos, como el robo en casas o el hurto, la hora no se conoce y sólo cabe registrar un intervalo [^ext-23]. El mapeo no distingue la hora que no se registró de la que no se puede conocer [^inf-4]. Ver [[estadisticas-delictuales]].
+
 **Analizan poco.** Uno de cada cuatro no hace ningún análisis. Sólo uno de cada tres analiza cada mes o con más frecuencia [^ext-16].
 
 ## Tipologías
@@ -87,6 +89,7 @@ Tudela (2015) nombra a los observatorios entre quienes pueden hacer análisis cr
 - [[medicion-de-la-victimizacion]]: la encuesta, la fuente propia que pocos pueden sostener
 - [[evaluacion-de-programas]]: las instituciones del dato tampoco se evalúan
 - [[diseno-de-investigacion]]: asociación y causalidad en el hallazgo del comité
+- [[estadisticas-delictuales]]: cómo se interpretan los datos que estos observatorios presentan
 
 ---
 
@@ -112,6 +115,8 @@ Tudela (2015) nombra a los observatorios entre quienes pueden hacer análisis cr
 [^ext-20]: **Extraído** — [[srur-observatorios-del-delito]], p. 45.
 [^ext-21]: **Extraído** — [[tudela-analisis-criminal]], pp. 141 y 143.
 [^ext-22]: **Extraído** — [[tudela-analisis-criminal]], resumen, p. 137, y pp. 138-139.
+[^ext-23]: **Extraído** — [[tudela-ed-analisis-delictual]], p. 84.
 [^inf-1]: **Inferido** (confianza 0.7) — el texto pide reflexionar sobre el dato, pero no saca esta consecuencia para la representatividad del mapeo.
 [^inf-2]: **Inferido** (confianza 0.8) — lectura propia con la distinción entre hipótesis de asociación y de causalidad de [[batthyany-metodologia-investigacion]], p. 48. El estudio habla de una «relación positiva» y no la presenta como causal.
 [^inf-3]: **Inferido** (confianza 0.8) — Tudela no cita el estudio, y el estudio no cita a Tudela. La correspondencia es de esta wiki.
+[^inf-4]: **Inferido** (confianza 0.7) — combina [[srur-observatorios-del-delito]], p. 37, con [[tudela-ed-analisis-delictual]], p. 84.

@@ -1,7 +1,7 @@
 ---
 title: Diseño de investigación
 type: method
-sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
+sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -70,7 +70,7 @@ El manual clasifica los diseños **por su objetivo**, no por su estructura [^ext
 | Predictivo | Anunciar el comportamiento futuro de variables, a partir de estudios de correlación |
 | Evaluativo | Evaluar el resultado de un fenómeno, por ejemplo una política contra la violencia |
 
-**Lo que el manual no trae.** No distingue diseños experimentales, cuasiexperimentales, transversales o longitudinales. El diseño evaluativo ocupa un párrafo [^ext-13]. Para leer una evaluación de impacto o un estudio de cohorte hace falta otra fuente [^inf-1]. Ver [[evaluacion-de-programas]].
+**Lo que el manual no trae.** No distingue diseños experimentales, cuasiexperimentales, transversales o longitudinales. El diseño evaluativo ocupa un párrafo [^ext-13]. Para leer una evaluación de impacto o un estudio de cohorte hace falta otra fuente [^inf-1]. Ver [[evaluacion-de-programas]]. Desde el 16-10-2026 la wiki tiene una pieza de ese diseño. El capítulo de Boba explica cómo comparar un grupo que recibe una intervención con otro que no, antes y después, y advierte que en los casos policiales la asignación casi nunca es al azar [^ext-29]. Ver [[estadisticas-delictuales]].
 
 ## Hipótesis
 
@@ -101,7 +101,7 @@ Las unidades pueden ser individuos, grupos, empresas, países, políticas, leyes
 
 **Falacia ecológica.** Consiste en concluir que una relación entre variables de un colectivo vale para sus miembros [^ext-21]. Ver [[analisis-espacial-del-delito]].
 
-**Población y muestra.** La población es el conjunto de unidades que se estudia, en un espacio y un tiempo [^ext-22]. La muestra es el subconjunto que se observa. En los estudios cuantitativos, la muestra probabilística es la que permite inferir a la población y calcular márgenes de error [^ext-23].
+**Población y muestra.** La población es el conjunto de unidades que se estudia, en un espacio y un tiempo [^ext-22]. La muestra es el subconjunto que se observa. En los estudios cuantitativos, la muestra probabilística es la que permite inferir a la población y calcular márgenes de error [^ext-23]. Los delitos denunciados no lo son: son un subconjunto parcial y no aleatorio de todos los delitos, y no permiten generalizar [^ext-30].
 
 En la teoría fundamentada el tamaño de la muestra se conoce al final, porque se muestrea según lo que piden las categorías. Eso suele trabar la aprobación de los protocolos ante los comités de evaluación [^ext-27]. Ver [[teoria-fundamentada]].
 
@@ -116,6 +116,7 @@ En la teoría fundamentada el tamaño de la muestra se conoce al final, porque s
 - [[operacionalizacion]]: el marco operativo de la estructuración
 - [[enfoques-cuantitativo-y-cualitativo]]: el diseño estructurado y el emergente
 - [[teoria-fundamentada]]: un proceso circular que empieza por los datos
+- [[estadisticas-delictuales]]: los registros policiales como muestra no aleatoria
 - [[evaluacion-de-programas]]: lo que el diseño evaluativo deja sin tratar
 - [[trabajo-de-grado-profesionalizante]]: otro criterio para justificar una investigación
 - [[analisis-espacial-del-delito]]: la falacia ecológica con datos de delito
@@ -151,5 +152,7 @@ En la teoría fundamentada el tamaño de la muestra se conoce al final, porque s
 [^ext-26]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 27.
 [^ext-27]: **Extraído** — [[vives-varela-teoria-fundamentada]], p. 100, sobre Martínez-Salgado (2012) y Luckerhoff y Guillemette (2012).
 [^ext-28]: **Extraído** — [[ine-medicion-victimizacion]], tabla 12, p. 31.
+[^ext-29]: **Extraído** — [[tudela-ed-analisis-delictual]], pp. 101-103 y figura 4-4.
+[^ext-30]: **Extraído** — [[tudela-ed-analisis-delictual]], pp. 99-100.
 [^inf-1]: **Inferido** (confianza 0.8) — el manual no trata esos diseños. [[evaluacion-de-programas]] los nombra, desde Tudela, pero no los describe como método.
 [^inf-2]: **Inferido** (confianza 0.8) — aplicación propia del ejemplo de la p. 70 a los datos de delito. El manual no habla de delito. [[weisburd-el-lugar-importa]] trabaja con lugares como unidad, y los registros policiales cuentan delitos, no víctimas.

@@ -9,9 +9,9 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 65 páginas · 20 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
+**Estado:** 67 páginas · 21 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
-fuera del orden · **tanda 2 en curso desde el 16-10-2026**, con cuatro de sus seis obras
+fuera del orden · **tanda 2 en curso desde el 16-10-2026**, con cinco de sus seis obras
 ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
 
 ## Conceptos
@@ -126,11 +126,11 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
 
 - [[analisis-criminal]] — el oficio del analista: siete tipos, un ciclo de ocho pasos y
   el paso de gestionar información a gestionar conocimiento; y su elección teórica por la
-  oportunidad; y los observatorios que rara vez llegan a analizar (2 fuentes)
+  oportunidad; y los observatorios que rara vez llegan a analizar (3 fuentes)
 - [[analisis-espacial-del-delito]] — autocorrelación, falacia ecológica, unidad
   modificable y efecto de borde; sitio y situación; técnicas de predicción; y contar
   delitos no es contar víctimas; y los datos de lugar y hora que faltan en la región
-  (3 fuentes)
+  (4 fuentes)
 - [[diagnostico-barrial]] — muestreo por tipología en vez de censo de barrios, y la
   exigencia de comparabilidad en el tiempo; el riesgo de promediar por barrio; y un
   diagnóstico participativo en el barrio vulnerado y de expertos en el crítico; una
@@ -138,26 +138,29 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
 - [[diseno-de-investigacion]] — ruptura, estructuración y comprobación; del tema al
   problema, marcos, objetivos, cinco diseños por objetivo, hipótesis, unidades de
   análisis y muestra; lo que un manual de pregrado no trae: experimentos y cohortes; y
-  otra lógica, la del proceso circular; prevalencia e incidencia (3 fuentes)
+  otra lógica, la del proceso circular; prevalencia e incidencia (4 fuentes)
 - [[enfoques-cuantitativo-y-cualitativo]] — tres paradigmas, explicar o comprender,
   complementación, combinación y triangulación, y seis técnicas con sus límites; el
   muestreo teórico y otro sentido de triangulación; un caso de combinación (3 fuentes)
+- [[estadisticas-delictuales]] — cómo contar e interpretar delitos desde los registros
+  policiales: tres fuentes y sus sesgos, dos fechas, reglas de conteo, tasas por blanco,
+  y por qué los registros no son una muestra (3 fuentes)
 - [[evaluacion-de-programas]] — no basta saber qué funciona, sino por qué; evidencia,
   implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; el
   mismo diagnóstico desde la violencia en el noviazgo; dos sentidos de «por qué»; y la
   tensión leída como complementación de métodos; y las instituciones del dato, que
-  tampoco se evalúan (6 fuentes)
+  tampoco se evalúan (7 fuentes)
 - [[medicion-de-la-victimizacion]] — qué mide una encuesta de victimización y para qué:
   cifra oscura, prevalencia e incidencia, percepción en tres aspectos; la ENUSC y su
   rediseño de 2023; el instrumento mueve la cifra; lo que la encuesta oficial no mide; y
-  quién produce el dato en la región (3 fuentes)
+  quién produce el dato en la región (4 fuentes)
 - [[observatorios-del-delito]] — qué son y qué muestra un mapeo de 66 en la región:
   jóvenes, locales, sin plan ni evaluación, espejos de datos policiales; tipologías; y por
-  qué lo más violento es lo que menos responde (2 fuentes)
+  qué lo más violento es lo que menos responde (3 fuentes)
 - [[operacionalizacion]] — del concepto al índice, definición nominal y operacional,
   validez y confiabilidad; y tres casos de la wiki: eficacia colectiva, violencia en el
   noviazgo y violencia crónica; el otro sentido de categoría; y el experimento de la ENUSC
-  (7 fuentes)
+  (8 fuentes)
 - [[teoria-fundamentada]] — teoría desde los datos: proceso circular, muestreo teórico y
   saturación, codificación abierta, axial y selectiva, triangulación según Cisterna; y si
   se empieza por la teoría o por los datos (2 fuentes)
@@ -199,6 +202,9 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
 - [[tudela-analisis-criminal]] — Tudela, 2015. Artículo de reflexión del docente de
   S1.2, desde la Fundación Paz Ciudadana. Su evidencia sobre puntos calientes viene de
   Weisburd. Quinta y última de la tanda 1
+- [[tudela-ed-analisis-delictual]] — Tudela (ed.), 2010. Libro de la Fundación Paz
+  Ciudadana y la IACA. Ingesta parcial: sólo el capítulo de Boba sobre estadísticas y datos
+  delictuales, de 2004 y sobre Estados Unidos. Bibliografía de S1.2. Quinta de la tanda 2
 - [[valdivia-violencia-en-el-noviazgo]] — Valdivia-Peralta y otros, 2019. Obligatoria
   de la clase 4 de S1.2. Revisión narrativa de prevalencias, no investigación primaria;
   la cifra de su resumen viene de muestras de universitarios. Cuarta de la tanda 1

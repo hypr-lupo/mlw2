@@ -121,6 +121,13 @@
       "ingerido": "2026-10-16",
       "ficha": "wiki/sources/srur-observatorios-del-delito.md",
       "alcance": "parcial: pp. 26-45 (PDF 29-48), más índice, resumen ejecutivo e introducción"
+    },
+    "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf": {
+      "sha256": "0e7e8e6b504c1b6a51bcfb4da491f5c18c7a25d5b1ee098bff2ed26c6a107747",
+      "bytes": 4974187,
+      "ingerido": "2026-10-16",
+      "ficha": "wiki/sources/tudela-ed-analisis-delictual.md",
+      "alcance": "parcial: cap. de Boba, pp. 81-105 (PDF 83-107), más índice e introducción del editor"
     }
   }
 }

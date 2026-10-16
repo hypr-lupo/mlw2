@@ -1,7 +1,7 @@
 ---
 title: Medición de la victimización
 type: method
-sources: ["2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf"]
+sources: ["2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -19,6 +19,8 @@ Cómo se mide cuántas personas sufren delitos y cuántas se sienten inseguras, 
 Su objetivo de origen es detectar los delitos que no se denuncian y que por eso no están en las cifras oficiales [^ext-1]. Ese resto se llama **cifra oscura**: los delitos no denunciados o no investigados, que no figuran en ninguna estadística [^ext-2].
 
 La diferencia con los registros es de método. En un registro policial, la denuncia es una constante: todo lo registrado fue denunciado. En una encuesta, la denuncia es una variable que se mide, junto con los motivos para no denunciar [^ext-2]. Por eso la encuesta complementa los registros administrativos y no los reemplaza [^ext-2].
+
+**Lo mismo, desde el registro.** Añadido el 16-10-2026. Boba llega a la misma advertencia desde los datos policiales: las denuncias muestran los delitos conocidos por la policía, y la cifra negra pesa más en la violación, la violencia intrafamiliar y las drogas [^ext-36]. Agrega un límite de la encuesta nacional de Estados Unidos: su muestra no alcanza para lo local, apenas unas 75 personas en una ciudad de 150.000. Por eso muchas policías hacen su propia encuesta [^ext-37]. La ENUSC 2023 busca resolver ese límite con representatividad comunal [^inf-4]. Ver [[estadisticas-delictuales]].
 
 La encuesta define los delitos por la experiencia de quien los sufre, no por el código penal de cada país. Eso permite comparar países [^ext-3]. Según el informe, este foco en la víctima se consolidó en los años setenta, por influencia de la teoría feminista y de la victimología [^ext-1].
 
@@ -116,6 +118,7 @@ Los dos principios son la comparabilidad y la precisión de la medición [^ext-1
 - [[enfoques-cuantitativo-y-cualitativo]]: pruebas cualitativas al servicio de una encuesta
 - [[violencia-en-el-noviazgo]]: lo que la encuesta oficial no mide
 - [[observatorios-del-delito]]: quién produce el dato en la región
+- [[estadisticas-delictuales]]: el dato de registro, frente al de encuesta
 
 ---
 
@@ -154,6 +157,9 @@ Los dos principios son la comparabilidad y la precisión de la medición [^ext-1
 [^ext-33]: **Extraído** — [[srur-observatorios-del-delito]], p. 36 y nota 54.
 [^ext-34]: **Extraído** — [[srur-observatorios-del-delito]], p. 38.
 [^ext-35]: **Extraído** — [[srur-observatorios-del-delito]], p. 43 y nota 56.
+[^ext-36]: **Extraído** — [[tudela-ed-analisis-delictual]], p. 83.
+[^ext-37]: **Extraído** — [[tudela-ed-analisis-delictual]], p. 86.
 [^inf-1]: **Inferido** (confianza 0.8) — correspondencia propia entre [[ine-medicion-victimizacion]], tabla 12, y [[batthyany-metodologia-investigacion]], p. 70. Ninguna cita a la otra.
 [^inf-2]: **Inferido** (confianza 0.7) — el informe justifica la tarjeta por el recuerdo y la carga del informante, no por la etiqueta. La correspondencia con la revisión es de esta wiki.
 [^inf-3]: **Inferido** (confianza 0.7) — contraste propio entre [[miedo-social]] y [[ine-medicion-victimizacion]], pp. 16-18. El informe no afirma que la brecha se deba a los delitos no medidos: sólo pone los dos datos uno al lado del otro.
+[^inf-4]: **Inferido** (confianza 0.7) — el informe del INE justifica la representatividad comunal por las necesidades de la política pública (p. 18), no por el argumento de Boba. La correspondencia es de esta wiki.

@@ -8,6 +8,39 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-16] ingesta | Tudela (ed.) (2010), Análisis delictual, capítulo de Boba
+
+**Quinta obra de la tanda 2, en la misma sesión. Segunda ingesta parcial**, por mandato de
+[[purpose]]: sólo el capítulo de Rachel Boba, «Interpretando estadísticas y datos
+delictuales», pp. 81-105, que es el que pide `programa/S1.2`.
+
+- Ficha creada: [[tudela-ed-analisis-delictual]]. Libro de la Fundación Paz Ciudadana y la
+  IACA, agosto de 2010. El capítulo es la traducción de un texto de 2004, y los editores
+  advierten que sus datos policiales son de Estados Unidos. `truncado: true` y
+  `verificacion_bibliografica: verificado`. El slug se distingue de [[tudela-analisis-criminal]].
+- Páginas creadas (1): [[estadisticas-delictuales]], en `medicion-y-metodo`.
+- Páginas actualizadas (7):
+  · [[analisis-espacial-del-delito]]: las dos fechas de un delito y la tasa por blanco. Su
+    «Pendiente de contraste» queda resuelto;
+  · [[analisis-criminal]]: el segundo paso del ciclo, los datos del analista;
+  · [[medicion-de-la-victimizacion]]: la misma advertencia desde el registro, y el límite
+    local de una encuesta nacional;
+  · [[diseno-de-investigacion]]: el grupo de comparación antes y después, y los registros
+    como muestra no aleatoria;
+  · [[evaluacion-de-programas]]: el estándar mínimo que faltó en Peñalolén;
+  · [[operacionalizacion]]: niveles de medición y categorías en el análisis delictual;
+  · [[observatorios-del-delito]]: no toda hora que falta es un déficit del sistema.
+  · Más [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: 0 nuevas. Una convergencia nueva con el INE: el registro no
+  es el delito.
+- En revisión: 1 ítem nuevo (el resto del libro) y 2 enmiendas (ley de concentración y obras
+  colectivas). La cola pasa a 34.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-10-16-tudela-ed-analisis-delictual.md`.
+- Notas: el `MANIFIESTO.json` lleva el campo `alcance`. Los diagramas de dispersión de las
+  pp. 103-104 traen etiquetas que no calzan con su número, y la explicación de la figura 4-4
+  cruza los nombres de los grupos. Toca 9 páginas de contenido, ficha incluida.
+
 ## [2026-10-16] ingesta | Srur (ed.) (2014), ¿Qué observan los que observan el delito?, pp. 26-45
 
 **Cuarta obra de la tanda 2, en la misma sesión. Primera ingesta parcial de la wiki**, por

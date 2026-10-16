@@ -1,7 +1,7 @@
 ---
 title: Análisis criminal
 type: method
-sources: ["2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf"]
+sources: ["2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -49,6 +49,8 @@ Ocho pasos [^ext-7]:
 7. desarrollar la estrategia;
 8. evaluar las acciones y retroalimentar.
 
+**El segundo paso, visto de cerca.** Añadido el 16-10-2026 al ingerir [[tudela-ed-analisis-delictual]]. El capítulo de Boba, del libro que editó el mismo Tudela en 2010, trata de los datos con que trabaja el analista. Usa tres fuentes: delitos denunciados, arrestos y llamadas por servicio. Cada una mide otra cosa, y las llamadas son una mala medida del delito [^ext-20]. La autora pide no tomar nunca los registros policiales al pie de la letra [^ext-21]. Ver [[estadisticas-delictuales]].
+
 El último paso es el que Tudela considera nuevo. Tradicionalmente el análisis termina en el informe; él propone que termine en la evaluación de lo que hizo la institución con ese informe [^ext-8]. Ver [[evaluacion-de-programas]].
 
 ## De la información al conocimiento
@@ -79,6 +81,7 @@ Tudela cita como ejemplos publicados los del Departamento OS9 de Carabineros y d
 
 - [[tudela-analisis-criminal]] — fuente
 - [[observatorios-del-delito]] — las instituciones que deberían hacer este análisis, y lo que les falta
+- [[estadisticas-delictuales]] — los datos del analista y cómo interpretarlos
 - [[analisis-espacial-del-delito]] — el mapeo, una de sus herramientas principales, y sus problemas propios
 - [[evaluacion-de-programas]] — el paso final del ciclo
 - [[policia-de-puntos-calientes]] — la estrategia a la que más directamente sirve
@@ -107,5 +110,7 @@ Tudela cita como ejemplos publicados los del Departamento OS9 de Carabineros y d
 [^ext-17]: **Extraído** — [[srur-observatorios-del-delito]], p. 43.
 [^ext-18]: **Extraído** — [[srur-observatorios-del-delito]], p. 39.
 [^ext-19]: **Extraído** — [[srur-observatorios-del-delito]], p. 37.
+[^ext-20]: **Extraído** — [[tudela-ed-analisis-delictual]], pp. 83-91.
+[^ext-21]: **Extraído** — [[tudela-ed-analisis-delictual]], p. 105.
 [^inf-1]: **Inferido** (confianza 0.6) — contraste propio entre [[tudela-analisis-criminal]], p. 144, y lo que registran [[teoria-accion-situacional]], sección «Leída desde la prevención», y [[desplazamiento-y-difusion]], sección «Una posición contraria». Tudela no discute la TAS ni al cap. I del libro de 2021.
 [^inf-2]: **Inferido** (confianza 0.8) — la correspondencia entre la tesis de Tudela y el mapeo es de esta wiki.

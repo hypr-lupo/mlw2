@@ -42,6 +42,14 @@ imprenta · `programa/S1.2` la cita como «Cabrera, C.»: el documento dice Mari
 manual docente que compila a otros autores: al citar a Corbetta, Galtung, Kerlinger o
 Hernández Sampieri a través de él, verificar el año en el original
 
+Boba, R. (2010). Interpretando estadísticas y datos delictuales. En P. Tudela (Ed.),
+*Análisis delictual: enfoque y metodología para la reducción del delito* (pp. 81-105).
+Fundación Paz Ciudadana e IACA.
+→ [[tudela-ed-analisis-delictual]] · verificada contra la página de créditos y el índice ·
+traducción de un capítulo de 2004 publicado por la IACA · los editores advierten que los
+datos policiales que describe son de Estados Unidos · **ingesta parcial**: sólo este
+capítulo del libro
+
 Bourgois, P. (2010). *En busca de respeto: vendiendo crack en Harlem* (F. Montero
 Castrillo, Trad.). Siglo Veintiuno Editores. (Obra original publicada en 1995)
 → [[bourgois-en-busca-de-respeto]] · verificada contra la página de imprenta · traduce

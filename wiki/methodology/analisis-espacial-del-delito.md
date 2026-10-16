@@ -1,7 +1,7 @@
 ---
 title: Análisis espacial del delito
 type: method
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1]
 procedencia: fuentes
@@ -77,9 +77,10 @@ Una aplicación distinta: el **campo de visión de las cámaras**. Para evaluar 
 - [[policia-de-puntos-calientes]] — la práctica que más usa estas técnicas
 - [[batthyany-metodologia-investigacion]] — segunda fuente sobre la falacia ecológica
 - [[observatorios-del-delito]] — los datos de lugar y hora que faltan en la región
+- [[estadisticas-delictuales]] — las dos fechas de un delito y la tasa por blanco
 - [[diseno-de-investigacion]] — unidades de análisis, eventos y personas, y la falacia ecológica en general
 
-**Pendiente de contraste.** Batthyány y Cabrera (2011) entró el 16-10-2026 y sólo toca la falacia ecológica. Falta el capítulo de Boba sobre estadísticas delictuales en Tudela (2010), que entra en la tanda 2.
+**Contraste del 16-10-2026.** Batthyány y Cabrera (2011) toca la falacia ecológica. El capítulo de Boba en [[tudela-ed-analisis-delictual]] aporta dos insumos de estas técnicas. Todo delito tiene una fecha de denuncia y una de ocurrencia, y en los delitos sin testigos la segunda es un intervalo entre la primera y la última hora posibles [^ext-28]. Ese intervalo es lo que el análisis aorístico necesita [^inf-2]. Y la tasa debe dividir por el blanco, no por la población: robos al comercio por tienda, robos en casas por vivienda [^ext-29]. Es la misma lógica de las pruebas de permutación, que comparan con los blancos que realmente existen [^inf-2]. Ver [[estadisticas-delictuales]].
 
 ---
 
@@ -110,4 +111,7 @@ Una aplicación distinta: el **campo de visión de las cámaras**. Para evaluar 
 [^ext-25]: **Extraído** — [[batthyany-metodologia-investigacion]], pp. 70-71, sobre Galtung (1966).
 [^ext-26]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 70.
 [^ext-27]: **Extraído** — [[srur-observatorios-del-delito]], p. 37, y resumen ejecutivo, p. 6.
+[^ext-28]: **Extraído** — [[tudela-ed-analisis-delictual]], p. 84.
+[^ext-29]: **Extraído** — [[tudela-ed-analisis-delictual]], p. 92.
 [^inf-1]: **Inferido** (confianza 0.8) — aplicación propia del ejemplo escolar del manual a los registros policiales. El manual no habla de delito.
+[^inf-2]: **Inferido** (confianza 0.7) — Boba no nombra el análisis aorístico ni las pruebas de permutación. La correspondencia es de esta wiki.

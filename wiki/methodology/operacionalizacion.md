@@ -1,7 +1,7 @@
 ---
 title: Operacionalización
 type: method
-sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
+sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -48,6 +48,8 @@ El riesgo práctico tiene dos formas. Se sustituye el indicador apropiado por un
 
 Las categorías de una variable deben ser exhaustivas, excluyentes y precisas [^ext-12]. Los niveles de medición forman una escala acumulativa: nominal, ordinal, de intervalo y de razón [^ext-13]. Una escala alta puede convertirse en una baja, nunca al revés. Por eso conviene medir al nivel más alto posible [^ext-13]. Una variable no es cualitativa o cuantitativa por sí misma. Lo decide su sistema de categorías [^ext-13].
 
+**En el análisis delictual.** Añadido el 16-10-2026. La mayoría de las variables con que trabaja un analista son nominales u ordinales. Por eso la media sirve poco, y se usan la moda y la mediana [^ext-27]. Y el sistema de categorías cambia entre agencias: el mismo hecho puede ser hurto en una y robo desde vehículo en otra [^ext-28]. Ver [[estadisticas-delictuales]].
+
 **Otro sentido de «categoría».** Añadido el 16-10-2026. Aquí una categoría es un valor de una variable. En la teoría fundamentada es un concepto que agrupa códigos, construido desde la teoría, desde los datos o desde ambos [^ext-23]. Ver [[teoria-fundamentada]].
 
 ## Tipos de variables
@@ -90,6 +92,7 @@ Ninguno está en el manual. Esta wiki los ordena con su vocabulario [^inf-1].
 - [[enfoques-cuantitativo-y-cualitativo]]: la medición es propia del análisis por variables
 - [[teoria-fundamentada]]: la categoría en el otro sentido
 - [[medicion-de-la-victimizacion]]: la operacionalización oficial de la victimización y de la percepción
+- [[estadisticas-delictuales]]: niveles de medición y categorías en los registros policiales
 - [[miedo-social]]: victimización medida y percepción de inseguridad dan cifras distintas, y definir la violencia sólo por homicidios cambia una conclusión
 - [[analisis-espacial-del-delito]]: la falacia ecológica, el riesgo de las variables colectivas con datos de delito
 
@@ -123,6 +126,8 @@ Ninguno está en el manual. Esta wiki los ordena con su vocabulario [^inf-1].
 [^ext-24]: **Extraído** — [[ine-medicion-victimizacion]], tablas 7, 10 y 11, pp. 28-31.
 [^ext-25]: **Extraído** — [[ine-medicion-victimizacion]], tabla 1, p. 21, y tabla 6, p. 26.
 [^ext-26]: **Extraído** — [[ine-medicion-victimizacion]], pp. 29-30.
+[^ext-27]: **Extraído** — [[tudela-ed-analisis-delictual]], pp. 94-95.
+[^ext-28]: **Extraído** — [[tudela-ed-analisis-delictual]], p. 85.
 [^inf-1]: **Inferido** (confianza 0.8) — ninguna de las fuentes de los tres casos usa el vocabulario del manual, y el manual no habla de delito. La lectura cruzada es de esta wiki.
 [^inf-2]: **Inferido** (confianza 0.7) — la nota de Wikström describe una medida basada en lo que observan los residentes y la aplica a áreas. Que sea un promedio de respuestas individuales es la lectura habitual de esa escala, pero el corpus no trae su construcción. Sampson, Raudenbush y Earls (1997) no está en el corpus.
 [^inf-3]: **Inferido** (confianza 0.8) — la revisión de Valdivia-Peralta y otros no cita al manual ni usa los términos definición nominal y operacional. La correspondencia es de esta wiki.
