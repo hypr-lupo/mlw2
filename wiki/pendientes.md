@@ -10,10 +10,9 @@ Artefacto operativo para retomar, no registro de lo hecho: la crónica de cada s
 en [[log]]. Se consolidó el 27-09-2026, en la auditoría que cerró la tanda 1; el informe
 está en `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-**Estado al 16-10-2026.** 21 fuentes ingeridas de 118 documentos, dos de ellas sólo en parte;
-92 pendientes de un universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 67 páginas: 11 en borrador.
-Núcleo ancla de S1.1 completo, **tanda 1 cerrada** y **tanda 2 en curso**, con cinco de seis
-obras ingeridas. Siete de ocho clústeres poblados;
+**Estado al 16-10-2026.** 22 fuentes ingeridas de 118 documentos, dos de ellas sólo en parte;
+91 pendientes de un universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 69 páginas: 12 en borrador.
+Núcleo ancla de S1.1 completo, **tanda 1 cerrada** y **tanda 2 cerrada** el 16-10. Siete de ocho clústeres poblados;
 `caso-de-grado` sigue vacío a propósito. Cobertura de S1.1: 17 de 32 títulos oficiales en
 el corpus, 53 %. Nada bloquea la ingesta.
 
@@ -21,7 +20,8 @@ el corpus, 53 %. Nada bloquea la ingesta.
 
 En este orden:
 
-1. **Terminar la tanda 2**, que venció el 10-10. Queda el CIPC (2015).
+1. **Tanda 3**, que venció el 16-10: Baratta (2004), caps. I-II, IV, VII y VIII · Kessler
+   (2004) · Blanco (2011). S2.4 empieza el 17-10.
    La tanda 3 venció el 16-10 y va después, por decisión del autor del mismo día: se
    mantiene el orden establecido. Ver abajo.
 2. **Decisiones que sólo toma el autor.** Siete, en el grupo A de [[revision]]. La más
@@ -44,11 +44,11 @@ documento por documento lo da `python scripts/estado.py`.
       Ley 21.675 (2024).
 - [x] **Fuera de orden, el 02-10**, por decisión del autor: Arias (2017) y Bourgois
       (2010). Ninguno está en un programa recibido; la tanda 2 no ha empezado.
-- [ ] **Tanda 2, antes del 10-10:** ~~Batthyány y Cabrera (2011)~~, ~~Vives Varela y
+- [x] **Tanda 2, cerrada el 16-10:** ~~Batthyány y Cabrera (2011)~~, ~~Vives Varela y
       Hamui Sutton (2021)~~, ~~INE (2023)~~, ~~Srur (2014), pp. 26-45~~ y ~~Tudela (ed.)
-      (2010), sólo el capítulo de Boba~~, ingeridas el 16-10 · CIPC (2015). El INE destrabó la
-      medición de la victimización. Quedan dos ítems de la cola: Peñalolén y la ley de
-      concentración. PADS+ pasó a la tanda 3, porque Batthyány y Cabrera no trata los
+      (2010), sólo el capítulo de Boba~~ y ~~CIPC (2015)~~, ingeridas el 16-10. El INE destrabó la
+      medición de la victimización. El CIPC no cumplió el criterio de Peñalolén, que pasa a la
+      tanda 6, y la ley de concentración espera a las normas de la tanda 5. PADS+ pasó a la tanda 3, porque Batthyány y Cabrera no trata los
       diseños longitudinales
 - [ ] **Tanda 3, antes del 16-10:** Baratta (2004), caps. I-II, IV, VII y VIII · Kessler
       (2004) · Blanco (2011)
@@ -66,7 +66,7 @@ Después de la tanda 6 vuelve el orden por cúmulos. Pendientes por cúmulo, seg
 | Cúmulo | Pendientes | Nota |
 |---|---:|---|
 | Bibliografía S1.1, consulta y complementaria | 11 | García-Pablos espera a estar completo |
-| Integrados desde el programa del curso | 3 | Contiene las P1 de S1.2 |
+| Integrados desde el programa del curso | 2 | Contiene las P1 de S1.2 |
 | Medición e inseguridad | 4 | Contiene P1 de S1.2; ahí está lo que podría dirimir la contradicción de Adams |
 | Sistema penal y Estado de derecho | 6 | Contiene P1 de S1.3 |
 | Gobernanza criminal y territorio | 4 | |
@@ -82,9 +82,9 @@ consulta de S1.1**, García-Pablos completo incluido.
 
 ## Cola de revisión
 
-**34 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
+**35 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
 
-- **A. Decisión del autor (11):**
+- **A. Decisión del autor (12):**
   - tesis del anclaje empírico;
   - página de Vanderschueren;
   - alcance de Zúñiga Núñez;
@@ -95,7 +95,8 @@ consulta de S1.1**, García-Pablos completo incluido.
   - la autoría del informe del INE (2023), con o sin la SPD;
   - si la ENUSC merece página propia;
   - si se ingiere el resto de Srur (2014);
-  - si se ingiere el resto de Tudela (ed.) (2010).
+  - si se ingiere el resto de Tudela (ed.) (2010);
+  - si el Plan Cuadrante tiene página propia o es sección de una página de Carabineros.
 - **B. Verificación bibliográfica (8):** los años de Sampson, Adams y la guía de 2010; el
   borrador de 2020; Zúñiga Núñez; Gardner; el año y los ISBN de Arias; el femicidio.
 - **C. Una obra del corpus (11):** se destraban con las tandas 2 a 6 y, uno de ellos,
@@ -108,7 +109,7 @@ consulta de S1.1**, García-Pablos completo incluido.
 
 ## Páginas borrador
 
-Once. Casi todas por la misma razón: registran una sola posición, o la registran de
+Doce. Casi todas por la misma razón: registran una sola posición, o la registran de
 segunda mano.
 
 | Página | Qué le falta | Dónde puede estar |
@@ -122,8 +123,9 @@ segunda mano.
 | [[moralismo-legal]] | La voz de Fletcher | No está en el corpus |
 | [[criminologia-del-curso-de-vida]] | Los autores del enfoque | Blanco (2011), tanda 3; Gottfredson y Hirschi, tanda 4 |
 | [[violencia-en-el-noviazgo]] | Una fuente de violencia de género | La bibliografía de S3.3, cuando llegue su programa |
-| [[regimenes-armados-microescala]] | Una segunda fuente que use o discuta el modelo, y un caso chileno | Arias (2006) en `Gobernanza criminal y territorio`, que es del mismo autor; los dos Zeballos, en la tanda 6 |
+| [[regimenes-armados-microescala]] | Una segunda fuente que use o discuta el modelo, y un caso chileno | Arias (2006) en `Gobernanza criminal y territorio`, que es del mismo autor; los dos Zeballos, en la tanda 6. Santa Tecla, en el CIPC (2015), es un caso compatible, pero el informe no usa el modelo |
 | [[cultura-callejera]] | Una segunda fuente, y algo que no sea Nueva York en los ochenta | Nada identificado; Salazar (1991), sobre Medellín, está en la bibliografía de S2.4 y falta en el corpus |
+| [[buenas-practicas]] | Una fuente que discuta el concepto desde fuera, no que lo use para elegir casos | Nada identificado |
 
 ## Contradicciones sin resolver
 
@@ -140,7 +142,7 @@ segunda mano.
 
 ## Tensiones registradas
 
-Treinta y tres, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
+Treinta y cinco, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
 resuelven. Tres podrían moverse con fuentes que ya tienen tanda:
 
 - **El estatus del control en la prevención** (tensión 3), con Gottfredson y Hirschi en la

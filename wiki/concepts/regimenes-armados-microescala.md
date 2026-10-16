@@ -1,13 +1,13 @@
 ---
 title: Regímenes armados de microescala
 type: concept
-sources: ["2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf"]
+sources: ["2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf"]
 cluster: gobernanza-criminal
 curso: []
 procedencia: fuentes
 estado: borrador
 creado: 2026-10-02
-actualizado: 2026-10-02
+actualizado: 2026-10-16
 ---
 
 # Regímenes armados de microescala
@@ -85,9 +85,16 @@ La política tiene que cambiar porque los grupos se adaptan [^ext-18]. Y destrui
 > [!warning] Una variable o dos
 > [[albarracin-crimen-organizado-america-latina]] resume este libro diciendo que el tipo de relación entre grupos y actores estatales determina el régimen [^ext-19]. El modelo usa dos variables, y la consolidación no se deduce de la relación con el Estado. Quien cite a Arias a través de Albarracín pierde la mitad del modelo.
 
+## Un caso fuera del libro: Santa Tecla
+
+Añadido el 16-10-2026 al ingerir [[cipc-experiencias-exitosas]]. El informe presenta a Santa Tecla, en El Salvador, como buena práctica de política municipal de seguridad. Entre 2005 y 2013 los homicidios bajaron de 92 a 17 [^ext-20]. El mismo informe atribuye esa baja a tres cosas: la política local, el triunfo de la Mara Salvatrucha sobre las otras cinco pandillas que se disputaban el territorio, y la tregua nacional de 2012 a 2014 [^ext-21].
+
+> [!warning] ¿Éxito de la política o del grupo?
+> El CIPC no usa el modelo de Arias. Pero su caso calza con él: un grupo que consolida el control baja la violencia pública [^inf-2]. Citar Santa Tecla como modelo exige decir qué parte de su resultado se debe a la política y qué parte a la consolidación armada, como en Medellín. Ver [[coproduccion-de-seguridad]] y [[buenas-practicas]].
+
 ## Por qué está en borrador
 
-Una sola fuente sostiene el modelo, y lo construye y lo ilustra con los mismos seis barrios. La otra fuente de la página, Albarracín, sólo lo resume. Ninguna fuente del corpus lo pone a prueba en otro lugar, y ningún barrio chileno se ha leído con él.
+Una sola fuente sostiene el modelo, y lo construye y lo ilustra con los mismos seis barrios. La otra fuente de la página, Albarracín, sólo lo resume. Ninguna fuente del corpus lo pone a prueba en otro lugar, y ningún barrio chileno se ha leído con él. Santa Tecla es un caso compatible, no una prueba: el CIPC no mide consolidación ni relación con el Estado.
 
 ## Cita
 
@@ -96,6 +103,7 @@ Una sola fuente sostiene el modelo, y lo construye y lo ilustra con los mismos s
 
 ## Relacionado
 
+- [[cipc-experiencias-exitosas]] — Santa Tecla, un caso compatible con el modelo
 - [[arias-empresas-criminales-y-gobernanza]] — fuente
 - [[gobernanza-criminal]] — la agenda de la que el modelo es una contribución
 - [[gobernanzas-paralelas]] — cómo el grupo produce adhesión en cada barrio
@@ -125,4 +133,7 @@ Una sola fuente sostiene el modelo, y lo construye y lo ilustra con los mismos s
 [^ext-17]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, pp. 108-109, y cap. 1, p. 36.
 [^ext-18]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], conclusión, p. 250.
 [^ext-19]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 13.
+[^ext-20]: **Extraído** — [[cipc-experiencias-exitosas]], p. 63 y figura 17, sobre Interpeace (2014).
+[^ext-21]: **Extraído** — [[cipc-experiencias-exitosas]], pp. 61 y 64.
 [^inf-1]: **Inferido** (confianza 0.75) — consecuencia que se sigue de las dos afirmaciones anteriores del libro, cap. 1, p. 30, y cap. 4, pp. 108-109. El libro no la formula como advertencia sobre el indicador.
+[^inf-2]: **Inferido** (confianza 0.6) — lectura propia del caso con el modelo de [[arias-empresas-criminales-y-gobernanza]]. El informe no clasifica el régimen de Santa Tecla.

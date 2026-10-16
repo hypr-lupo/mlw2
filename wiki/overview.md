@@ -9,7 +9,7 @@ sources: []
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
 **Al 16-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden y la
-tanda 2 en curso.** Veintiuna fuentes de 118, sesenta y siete páginas, **siete de ocho
+tanda 2 cerrada.** Veintidós fuentes de 118, sesenta y nueve páginas, **siete de ocho
 clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
@@ -111,6 +111,15 @@ blanco; y los registros no son una muestra, de modo que no permiten generalizar.
 de 2004 sobre Estados Unidos, y lo que se transfiere es el razonamiento. Completa además una
 pieza que el manual de metodología no traía: comparar un grupo que recibe una intervención
 con otro que no, antes y después.
+
+**Y lo que se presenta como exitoso.** [[cipc-experiencias-exitosas]] cierra la tanda 2. Es
+un informe por encargo sobre diez buenas prácticas en ocho países, exploratorio y con errores
+de hecho. Nace [[buenas-practicas]]. Sólo uno de sus diez casos se apoya en un grupo de
+control. Su caso chileno, Peñalolén, sale de la propia dirección municipal, de modo que la
+wiki tiene ahora dos documentos sobre esa política y una sola voz. Y abre dos tensiones: el
+Plan Cuadrante, que llama «quizás» el más exitoso contra las evaluaciones que el libro de
+2021 reseña, y Santa Tecla, un éxito que el propio informe atribuye en parte a la victoria
+de una pandilla.
 
 ## Siete respuestas a la misma pregunta
 
@@ -217,7 +226,8 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     conclusiones del libro que publica a Tudela afirman, sin evaluación, que Peñalolén
     bajó realmente los delitos. Un manual de metodología no la dirime, porque no trata
     experimentos. Sí permite leer la posición de Tudela como complementación de métodos.
-    Ver [[evaluacion-de-programas]].
+    La buena práctica del CIPC es una cuarta posición. Ver [[evaluacion-de-programas]] y
+    [[buenas-practicas]].
 17. **¿Viaja la eficacia colectiva?** Según Arias y Tocornal (2018), citados de
     segunda mano, no tiene en América Latina el efecto que tiene en Estados Unidos.
     Los editores la condicionan a una policía que ayude y no neutralice. Ver
@@ -293,6 +303,15 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     de Maipú y Peñalolén la explican por los medios, las generaciones y la construcción del
     otro. El INE trae otra posibilidad: los delitos que más subieron no estaban en la
     encuesta. No se excluyen. Ver [[miedo-social]] y [[medicion-de-la-victimizacion]].
+
+**Las dos que abre el CIPC (2015)**
+
+34. **El Plan Cuadrante: ¿el más exitoso o un fracaso?** El CIPC lo llama «quizás» el
+    método policial más exitoso de Chile, sin evaluación. Las evaluaciones de 2012 y 2014
+    que reseña el libro de 2021 lo dan por fallido en su objetivo. Ver [[policia-comunitaria]].
+35. **Santa Tecla: ¿éxito de la política o del grupo?** Una buena práctica cuya baja de
+    homicidios el propio informe atribuye en parte al triunfo de una pandilla y a una tregua.
+    Es lo que el modelo de Arias predice. Ver [[regimenes-armados-microescala]].
 
 **La que más va a pesar en el trabajo evaluado de S1.1.**
 [[onu-habitat-guia-barrios]] incorpora la teoría de las ventanas rotas dentro de su
@@ -376,6 +395,8 @@ inventario. Ver [[ventanas-rotas]].
   arma, móvil y relación entre víctima y agresor, y si analiza o sólo presenta.
 - **Leer críticamente una cifra policial.** [[estadisticas-delictuales]]: qué fuente es, qué
   fecha cuenta, qué denominador usa y si el «significativo» viene de una prueba.
+- **Leer un caso de buena práctica.** [[buenas-practicas]]: quién describe el éxito, si hay
+  comparación, qué otra explicación existe y qué delitos subieron.
 
 Las cuatro primeras vienen sobre todo del equipo del docente del ramo: dos guías que
 cuentan como una, y el libro de 2021, en parte de los mismos autores. Las tres últimas,
@@ -386,7 +407,7 @@ cosas.
 
 El trabajo recae sobre una política municipal o un proyecto de seguridad identificable
 —la misma exigencia de anclaje del [[trabajo-de-grado-profesionalizante]] un semestre
-antes. Las fuentes dan, juntas, diecisiete preguntas que un diagnóstico serio debería poder
+antes. Las fuentes dan, juntas, dieciocho preguntas que un diagnóstico serio debería poder
 responder sobre cualquier intervención. Las formula esta wiki:
 
 - ¿Funciona por el territorio o por quién usa el territorio?
@@ -413,6 +434,7 @@ responder sobre cualquier intervención. Las formula esta wiki:
   la misma unidad?
 - ¿La cifra de la ENUSC que se cita viene de antes o de después del rediseño de 2023, y se
   la está comparando con la otra serie?
+- Si se la presenta como buena práctica, ¿quién la describe, y con qué comparación?
 
 La primera política municipal chilena documentada en la wiki es la de Peñalolén. Vive
 en la ficha y en [[revision]], a la espera de una fuente que no sea su propia
@@ -425,7 +447,7 @@ dirección. Elegirla o no es decisión del autor.
   de Santiago. Varios de sus autores escriben sobre instituciones propias, y ninguna de
   esas descripciones es una evaluación. Sigue sin saberse si la ley de concentración
   vale aquí. Ver [[revision]]. `caso-de-grado` sigue vacío.
-- **Registrar el otro lado.** Once páginas en borrador: [[ventanas-rotas]],
+- **Registrar el otro lado.** Doce páginas en borrador, entre ellas [[buenas-practicas]]: [[ventanas-rotas]],
   [[policia-comunitaria]], [[legitimidad-policial]], [[debilidad-estatal]],
   [[desorganizacion-social]], [[policia-de-puntos-calientes]], [[moralismo-legal]],
   [[criminologia-del-curso-de-vida]], [[violencia-en-el-noviazgo]],
@@ -452,8 +474,10 @@ dirección. Elegirla o no es decisión del autor.
 Hasta el 27-11-2026 manda el **orden por calendario** fijado en [[purpose]]: seis
 tandas, cada una cerrada antes de la clase que la usa. La tanda 1 quedó cerrada el
 27-09. La tanda 2 debía cerrar el 10-10 y empezó el 16-10 con Batthyány y Cabrera (2011).
-Vives Varela y Hamui Sutton (2021), el INE (2023), Srur (2014) en sus pp. 26-45 y el capítulo
-de Boba en Tudela (ed.) (2010) entraron el mismo día. Queda el CIPC (2015). La tanda 3 vence el mismo 16-10. El autor
+Vives Varela y Hamui Sutton (2021), el INE (2023), Srur (2014) en sus pp. 26-45, el capítulo
+de Boba en Tudela (ed.) (2010) y el CIPC (2015) entraron el mismo día, y con ellos la tanda 2
+quedó cerrada, seis días tarde. Sigue la tanda 3: Baratta (2004), Kessler (2004) y Blanco
+(2011). La tanda 3 vence el mismo 16-10. El autor
 decidió ese día mantener el orden: la 3 va después de terminar la 2. Después de la sexta
 vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.

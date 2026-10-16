@@ -128,6 +128,12 @@
       "ingerido": "2026-10-16",
       "ficha": "wiki/sources/tudela-ed-analisis-delictual.md",
       "alcance": "parcial: cap. de Boba, pp. 81-105 (PDF 83-107), más índice e introducción del editor"
+    },
+    "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf": {
+      "sha256": "8563441084b3b20bf63be466dcd3b8f0798e94a9a0fc15ca7c3acb82c7befc37",
+      "bytes": 3201908,
+      "ingerido": "2026-10-16",
+      "ficha": "wiki/sources/cipc-experiencias-exitosas.md"
     }
   }
 }

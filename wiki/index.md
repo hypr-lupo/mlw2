@@ -9,21 +9,23 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 67 páginas · 21 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
+**Estado:** 69 páginas · 22 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
-fuera del orden · **tanda 2 en curso desde el 16-10-2026**, con cinco de sus seis obras
-ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
+fuera del orden · **tanda 2 cerrada el 16-10-2026**; sigue la tanda 3 · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
 
 ## Conceptos
 
 - [[autocontrol-y-disuasion]] — los dos procesos de control de la TAS, y por qué
   sólo son relevantes bajo condición; y cuándo una amenaza es coerción (2 fuentes)
+- [[buenas-practicas]] — experiencias exitosas para adaptar: cómo se arma un banco de
+  buenas prácticas, qué sostiene cada caso, replicar no es copiar, y cuatro preguntas para
+  leer un caso. Borrador (3 fuentes)
 - [[capital-social]] — tres sentidos que no conviene confundir: densidad de vínculos,
   beneficio de pertenecer a una red y capital perverso; escasez o perversión (3 fuentes)
 - [[coproduccion-de-seguridad]] — producir seguridad con la comunidad y no sólo para
   ella; su definición, el puente que hace falta donde el capital comunitario falta, y
   su ausencia en el nivel central chileno; y el grupo armado como tercer coproductor, con
-  Medellín en duda (5 fuentes)
+  Medellín en duda, y Santa Tecla (6 fuentes)
 - [[crimen-organizado]] — el problema de las doscientas definiciones, la salida por el
   objetivo, el comercio ilícito contra el dualismo y la frontera jurídica: empírica,
   de legitimación o normativa; y las empresas criminales territoriales (5 fuentes)
@@ -65,7 +67,7 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
 - [[mano-dura-y-militarizacion]] — la política dominante de la región, su
   popularidad transversal, la evidencia sobre sus efectos, y México y la edad penal
   desde la prevención; y la mano dura que cohesiona a los grupos y encarcela a los
-  pobres (4 fuentes)
+  pobres; y El Salvador en cifras (5 fuentes)
 - [[mediacion-comunitaria]] — diálogo para transformar conflictos, contra la
   mediación penal vertical y la mano dura; sin evaluaciones, y de una sola escuela
   (2 fuentes)
@@ -80,7 +82,7 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
 - [[policia-comunitaria]] — el modelo policial derivado de la eficacia colectiva, las
   UPP de Rio como caso de reversión, la policía como socio y no líder en el barrio
   crítico, y el Plan Cuadrante y el MICC en Chile; y las UPP criticadas y recomendadas
-  a la vez (7 fuentes)
+  a la vez; y el Plan Cuadrante, ¿el más exitoso o un fracaso? (8 fuentes)
 - [[policia-de-puntos-calientes]] — la estrategia policial mejor evaluada: la curva de
   Koper, los metaanálisis y el costo en legitimidad; una segunda fuente que repite a la
   primera (2 fuentes)
@@ -90,10 +92,10 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
 - [[propension-al-delito]] — el lado persona: moral legalmente relevante más
   capacidad de autocontrol, y la aversión al delito (1 fuente)
 - [[puntos-calientes]] — la ley de concentración del delito en microlugares; no son
-  barrios malos, y la TAS los explica de otro modo (2 fuentes)
+  barrios malos, y la TAS los explica de otro modo; en Chile, sólo una cifra comunal (3 fuentes)
 - [[regimenes-armados-microescala]] — consolidación armada y vínculo con el Estado:
   cuatro regímenes de barrio, ninguno necesariamente más seguro, y una política para cada
-  uno. Borrador (2 fuentes)
+  uno; y Santa Tecla, un caso compatible. Borrador (3 fuentes)
 - [[teoria-accion-situacional]] — el delito como acción moral y las causas como
   situacionales; los atributos no son causas; leída como corrección de la prevención
   situacional (3 fuentes)
@@ -149,7 +151,7 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
   implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; el
   mismo diagnóstico desde la violencia en el noviazgo; dos sentidos de «por qué»; y la
   tensión leída como complementación de métodos; y las instituciones del dato, que
-  tampoco se evalúan (7 fuentes)
+  tampoco se evalúan; y la buena práctica como cuarta idea de evidencia (8 fuentes)
 - [[medicion-de-la-victimizacion]] — qué mide una encuesta de victimización y para qué:
   cifra oscura, prevalencia e incidencia, percepción en tres aspectos; la ENUSC y su
   rediseño de 2023; el instrumento mueve la cifra; lo que la encuesta oficial no mide; y
@@ -180,6 +182,10 @@ ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.m
 - [[bourgois-en-busca-de-respeto]] — Bourgois, 2010, traducción de una obra de 1995.
   Etnografía de una red de casas de crack en East Harlem; primera etnografía de la wiki.
   Ningún programa recibido lo nombra. Fuera del orden por calendario
+- [[cipc-experiencias-exitosas]] — CIPC, 2015. Informe por encargo sobre diez buenas
+  prácticas en ocho países, exploratorio y descriptivo, con errores de hecho. Su caso
+  chileno, Peñalolén, sale de la propia dirección. Bibliografía de S1.2. Sexta y última
+  de la tanda 2
 - [[gardner-prohibir-inmoralidades]] — Gardner, 2007. Filosofía del derecho penal:
   comentario a Fletcher. Versión de autor que pide citar la de la revista. Fuera del
   orden por calendario

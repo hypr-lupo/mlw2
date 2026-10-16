@@ -1,7 +1,7 @@
 ---
 title: Evaluación de programas de prevención
 type: method
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1, s1-2]
 procedencia: fuentes
@@ -119,8 +119,10 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 > - **Tudela** queda en medio. Pide evaluaciones independientes y cuasiexperimentales para saber si hubo efecto [^ext-16], pero sostiene que la evaluación comprensiva es más útil para entender la implementación [^ext-17].
 >
 > No se contradicen del todo: responden preguntas distintas. El experimento dice si hubo efecto; la evaluación comprensiva, por qué. La tensión aparece cuando una política se declara exitosa sin ninguna de las dos [^inf-1].
+>
+> **Una cuarta posición, añadida el 16-10-2026: la buena práctica.** [[cipc-experiencias-exitosas]] elige diez experiencias de bancos y concursos de buenas prácticas [^ext-37]. Reconoce que la sistematicidad de sus evaluaciones es uno de sus problemas [^ext-37]. Sólo Milwaukee se apoya en una comparación con distritos de control, con 52 % menos homicidios [^ext-38]. Varios casos no tienen evaluación, según el mismo informe [^ext-39]. Y el informe cita a Sherman (1997) como el hito de la evaluación rigurosa [^ext-40]. Ver [[buenas-practicas]].
 
-**Un caso dentro del mismo libro.** Las conclusiones afirman que Peñalolén logró disminuir realmente los delitos de mayor connotación social [^ext-22]. Lo que el cap. VII ofrece para sostenerlo son los casos policiales de la comuna entre 2014 y 2017, contados por la propia dirección, sin comparación con otras comunas ni con la tendencia regional [^ext-23]. Juzgada con el estándar del cap. II, la afirmación es plausible pero no está demostrada [^inf-2]. Ver [[vanderschueren-prevencion-del-delito]]. El capítulo de Boba da el estándar mínimo que faltó. Para saber si una respuesta cambió algo, se compara antes y después, y con un grupo que no la recibió [^ext-36]. Las cifras de Peñalolén son sólo el antes y el después del grupo que la recibió [^inf-6].
+**Un caso dentro del mismo libro.** Las conclusiones afirman que Peñalolén logró disminuir realmente los delitos de mayor connotación social [^ext-22]. Lo que el cap. VII ofrece para sostenerlo son los casos policiales de la comuna entre 2014 y 2017, contados por la propia dirección, sin comparación con otras comunas ni con la tendencia regional [^ext-23]. Juzgada con el estándar del cap. II, la afirmación es plausible pero no está demostrada [^inf-2]. Ver [[vanderschueren-prevencion-del-delito]]. El capítulo de Boba da el estándar mínimo que faltó. Para saber si una respuesta cambió algo, se compara antes y después, y con un grupo que no la recibió [^ext-36]. Las cifras de Peñalolén son sólo el antes y el después del grupo que la recibió [^inf-6]. El CIPC (2015) también presenta Peñalolén como caso exitoso, con la publicación de la propia dirección y una entrevista a su gerenta, autora del cap. VII [^ext-41]. Es un segundo documento, no una segunda voz [^inf-7].
 
 **Lo que agrega un manual de metodología.** Añadido el 16-10-2026 al ingerir [[batthyany-metodologia-investigacion]]. El manual no dirime la tensión. Trata el diseño evaluativo en un párrafo y no trata diseños experimentales ni cuasiexperimentales [^ext-32]. Sí permite nombrarla. El experimento analiza por variables y busca explicar. La evaluación comprensiva recoge la mirada de los involucrados [^ext-17], y en eso se acerca al análisis por casos, que busca comprender [^ext-33]. La posición de Tudela en 2021 usa el experimento para el efecto y la evaluación comprensiva para la implementación. Es lo que Bericat llama complementación: dos métodos para dos dimensiones del mismo fenómeno, sin buscar que coincidan [^inf-5]. Ver [[enfoques-cuantitativo-y-cualitativo]].
 
@@ -145,6 +147,7 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 - [[diseno-de-investigacion]] — el diseño evaluativo como uno de cinco tipos de diseño
 - [[observatorios-del-delito]] — las instituciones del dato, que tampoco se evalúan
 - [[estadisticas-delictuales]] — la prueba antes y después con un grupo de comparación, y la significancia
+- [[buenas-practicas]] — la buena práctica como cuarta idea de evidencia
 
 **Por confrontar.** CIPC (2015), en la tanda 2, si trae evaluaciones. Batthyány y Cabrera (2011) entró el 16-10-2026 y no trata diseños de impacto. Tudela (2015) entró el 27-09-2026.
 
@@ -186,9 +189,15 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 [^ext-34]: **Extraído** — [[srur-observatorios-del-delito]], p. 35.
 [^ext-35]: **Extraído** — [[srur-observatorios-del-delito]], resumen ejecutivo, p. 6.
 [^ext-36]: **Extraído** — [[tudela-ed-analisis-delictual]], pp. 101-103 y figura 4-4.
+[^ext-37]: **Extraído** — [[cipc-experiencias-exitosas]], sección 1.5, p. 15.
+[^ext-38]: **Extraído** — [[cipc-experiencias-exitosas]], p. 26, sobre Azrael y otros (2013).
+[^ext-39]: **Extraído** — [[cipc-experiencias-exitosas]], pp. 36, 40, 87 y 109.
+[^ext-40]: **Extraído** — [[cipc-experiencias-exitosas]], pp. 21-22, sobre Sherman y otros (1997).
+[^ext-41]: **Extraído** — [[cipc-experiencias-exitosas]], pp. 49-52 y agradecimientos, p. 3.
 [^inf-1]: **Inferido** (confianza 0.7) — lectura propia al comparar las tres fuentes. Ninguna discute a las otras. Tudela no cita a Weisburd ni a la guía.
 [^inf-2]: **Inferido** (confianza 0.7) — contraste entre las conclusiones, el cap. VII y el estándar del cap. II, nota 3. No es un juicio sobre la política, sino sobre lo que el libro demuestra de ella.
 [^inf-3]: **Inferido** (confianza 0.7) — la revisión da el hallazgo por comprobado sin discutir si es causal. El estudio de Hoefer y otros no está en el corpus.
 [^inf-4]: **Inferido** (confianza 0.7) — contraste propio entre [[tudela-analisis-criminal]], p. 144, y [[vanderschueren-prevencion-del-delito]], cap. I, p. 36. Ninguno discute al otro.
 [^inf-5]: **Inferido** (confianza 0.7) — Tudela no usa el término ni cita a Bericat. La correspondencia es de esta wiki, entre [[vanderschueren-prevencion-del-delito]], cap. II, p. 72, y [[batthyany-metodologia-investigacion]], p. 82.
 [^inf-6]: **Inferido** (confianza 0.7) — contraste propio entre [[tudela-ed-analisis-delictual]], pp. 101-103, y [[vanderschueren-prevencion-del-delito]], cap. VII, pp. 172-173. Ninguna de las dos fuentes discute a la otra.
+[^inf-7]: **Inferido** (confianza 0.8) — la gerenta que cita el CIPC, Norma Maray, es la autora del cap. VII de [[vanderschueren-prevencion-del-delito]].

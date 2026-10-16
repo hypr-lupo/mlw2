@@ -10,10 +10,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 97 | 82.9 % |
+| `pendiente` | 96 | 82.1 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 20 | 17.1 % |
+| `completo` | 21 | 17.9 % |
 
 ## Por cumulo
 
@@ -26,7 +26,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Gobernanza criminal y territorio | 6 | 4 | 0 | 0 | 2 |
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
 | Institucionalidad y política de prevención en Chile | 6 | 5 | 0 | 0 | 1 |
-| Integrados desde el programa del curso (05-09-2026) | 9 | 3 | 0 | 0 | 6 |
+| Integrados desde el programa del curso (05-09-2026) | 9 | 2 | 0 | 0 | 7 |
 | Medición e inseguridad | 6 | 4 | 0 | 0 | 2 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
 | Prevención e intervención | 4 | 3 | 0 | 0 | 1 |
@@ -156,7 +156,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 - `completo` — 2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf
 - `completo` — 2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf
-- `pendiente` — 2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf
+- `completo` — 2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf
 - `completo` — 2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf
 - `completo` — 2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf
 - `completo` — 2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf

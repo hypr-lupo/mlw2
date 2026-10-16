@@ -1,13 +1,13 @@
 ---
 title: Mano dura y militarización
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf"]
 cluster: sistema-penal
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-02
+actualizado: 2026-10-16
 ---
 
 # Mano dura y militarización
@@ -93,6 +93,16 @@ Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]] y [
 
 **Y en América Latina, una tesis sin datos.** En el prefacio de 2010, Bourgois sostiene que la tolerancia cero y la mano dura crearon en América Latina las condiciones para la expansión del crack [^ext-28]. Converge con Arias, pero el texto no trae evidencia para la región: es una opinión del autor, no un hallazgo de su etnografía.
 
+## El Salvador, en cifras
+
+Añadido el 16-10-2026 al ingerir [[cipc-experiencias-exitosas]]. El informe documenta la política de mano dura y súper mano dura que El Salvador aplicó desde 2003 contra las maras [^ext-29].
+
+- **Los homicidios subieron.** Tras el plan de 2003, la tasa creció hasta su máximo en 2009 [^ext-30].
+- **Se detuvo sin pruebas.** Bajo la Ley Antimaras se capturó a 19.275 personas, y el 84 % fue absuelto. La Corte Suprema declaró la ley inconstitucional en 2004 [^ext-31].
+- **La cárcel organizó a las maras.** El encarcelamiento de los pandilleros fortaleció su capacidad de organizar la extorsión desde las cárceles. Se calcula que el 60 % de las extorsiones se planifica allí [^ext-32].
+
+Es la misma conclusión de Arias, desde otra fuente: la mano dura cohesiona a los grupos [^inf-2]. El informe agrega que la baja de homicidios de 2012 y 2013 vino de la tregua entre pandillas, no de la represión [^ext-33].
+
 ## Cita
 
 > "el enemigo debe ser eliminado y no es sujeto de derechos"
@@ -100,6 +110,7 @@ Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]] y [
 
 ## Relacionado
 
+- [[cipc-experiencias-exitosas]] — la mano dura de El Salvador, en cifras
 - [[albarracin-crimen-organizado-america-latina]] — fuente
 - [[debilidad-estatal]] — el diagnóstico del que esta política se sigue
 - [[gobernanza-criminal]] — por qué, si actores estatales construyen crimen organizado, reforzar la coerción puede reforzar el problema
@@ -134,6 +145,11 @@ Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]] y [
 [^ext-16]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, p. 264.
 [^ext-17]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, p. 388.
 [^ext-18]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, p. 51; cap. VI, p. 143; cap. VII, p. 168; y conclusiones, p. 387.
+[^ext-29]: **Extraído** — [[cipc-experiencias-exitosas]], sección 5.1.1, pp. 54-55.
+[^ext-30]: **Extraído** — [[cipc-experiencias-exitosas]], p. 59 y figura 15.
+[^ext-31]: **Extraído** — [[cipc-experiencias-exitosas]], p. 55, sobre FESPAD (2004).
+[^ext-32]: **Extraído** — [[cipc-experiencias-exitosas]], p. 60, sobre Andrade (2015) y Banco Mundial (2012).
+[^ext-33]: **Extraído** — [[cipc-experiencias-exitosas]], p. 59, sobre Fundaungo (2014).
 [^inf-1]: **Inferido** (confianza 0.7) — las conclusiones atribuyen la afirmación a «uno de los artículos», que es el cap. X. Ese capítulo argumenta desde teorías y estudios extranjeros, no desde una evaluación de las medidas chilenas.
 [^ext-19]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, p. 35, sobre Cruz, Moncada, y Arias y Ungar.
 [^ext-20]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, p. 36.
@@ -145,3 +161,4 @@ Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]] y [
 [^ext-26]: **Extraído** — [[bourgois-en-busca-de-respeto]], prefacio a la 2.ª ed., p. 29.
 [^ext-27]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a esta edición (2010), p. 372.
 [^ext-28]: **Extraído** — [[bourgois-en-busca-de-respeto]], prefacio a esta edición (2010), p. 19.
+[^inf-2]: **Inferido** (confianza 0.7) — el CIPC no cita a Arias. La convergencia es de esta wiki.

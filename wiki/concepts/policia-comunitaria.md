@@ -1,13 +1,13 @@
 ---
 title: Policía comunitaria
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-10-02
+actualizado: 2026-10-16
 ---
 
 # Policía comunitaria
@@ -54,6 +54,8 @@ El patrón que deja es distinto del que describe Sampson. Allí el problema era 
 
 **Y aun así la recomienda.** En la conclusión, Arias propone para los grupos organizados que compiten con el Estado una mejor investigación y la ocupación territorial progresiva, como las UPP [^ext-38]. No es una contradicción si se lee con su modelo: la ocupación sirve frente a un tipo de régimen, la gobernanza dividida, y no frente a los grupos ligados al Estado, donde lo que corresponde es la anticorrupción [^ext-38]. Pero quien cite el libro para respaldar o para descartar las UPP tiene que citar las dos cosas. Ver [[regimenes-armados-microescala]].
 
+**Lo que agrega el CIPC.** Añadido el 16-10-2026. [[cipc-experiencias-exitosas]] llega a un balance parecido al de Arias desde otro estudio. Cano y otros (2012) compararon los homicidios en las comunidades con UPP con los del resto de la ciudad, y encontraron una baja marcada [^ext-40]. El componente social nunca tuvo objetivos ni calendario financiero, y los robos y la extorsión no bajaron [^ext-40]. Esa alza puede deberse a que se denuncia más bajo control policial [^ext-40]. Las UPP se concentraron cerca de las zonas turísticas y comerciales, y dejaron de lado zonas con más homicidios [^ext-41].
+
 ## Qué le pide una guía operativa
 
 Añadido el 12-09-2026 al ingerir [[onu-habitat-guia-barrios]], que dedica un capítulo a la relación entre policía y barrio y la organiza en cuatro asuntos: criterios de legitimidad policial, enfoque de proximidad y comunitario, prevención situacional y función policial a nivel barrial, y gestión de problemas en barrios [^ext-9].
@@ -96,6 +98,9 @@ La distinción coincide con la tesis de Sampson de más arriba: lo que cuenta es
 
 Guajardo llega a lo mismo: el plan sólo logró una distribución territorial del servicio operativo [^ext-26]. Las conclusiones del libro son más duras. El plan fracasó en su objetivo y hoy es sólo una división territorial que no implica necesariamente patrullaje [^ext-27].
 
+> [!warning] Contradicción entre fuentes: ¿el más exitoso o un fracaso?
+> Añadido el 16-10-2026. [[cipc-experiencias-exitosas]] llama al Plan Cuadrante «quizás» el método de intervención policial más exitoso de Chile, sin citar evaluación [^ext-39]. Las evaluaciones que reseña [[vanderschueren-prevencion-del-delito]] son de 2012 y 2014, anteriores al informe, y concluyen lo contrario [^ext-25]. El mismo informe dice que Carabineros goza de respeto y aceptación, citando un estudio de 2003 [^ext-39]. Las dos fuentes tampoco coinciden en el año de inicio del plan [^amb-2].
+
 **El MICC y el Plan Cuadrante 2.0.** Tras sucesivas recomendaciones de la Dipres, Carabineros pilotó en 2012 un modelo de trabajo con la comunidad que adapta la policía orientada a problemas [^ext-28]. En 2015 el Plan Cuadrante 2.0, inicialmente sólo en la Región Metropolitana, sumó oficinas de análisis criminal y ese modelo, el MICC [^ext-29] [^amb-1]. Cada comisaría debería tener una Oficina de Integración Comunitaria: un encargado, un apoyo técnico de ciencias sociales y delegados de cuadrante, que son cabos o sargentos [^ext-29].
 
 Los obstáculos que Guajardo identifica son de institución, no de diseño [^ext-30]:
@@ -122,6 +127,7 @@ Donde la policía es recibida con desconfianza —barrios de minorías étnicas,
 
 ## Relacionado
 
+- [[cipc-experiencias-exitosas]] — el Plan Cuadrante leído al revés, y las UPP desde Cano y otros
 - [[sampson-vecindario-y-comunidad]] — fuente
 - [[eficacia-colectiva]] — la teoría de la que el modelo se deriva
 - [[legitimidad-policial]] — su condición de posibilidad
@@ -174,6 +180,10 @@ El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía d
 [^ext-36]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 2, p. 69.
 [^ext-37]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 3, pp. 98-99.
 [^ext-38]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], conclusión, p. 250.
+[^ext-39]: **Extraído** — [[cipc-experiencias-exitosas]], p. 43, sobre Frühling (2003).
+[^ext-40]: **Extraído** — [[cipc-experiencias-exitosas]], pp. 107-108 y figura 35, sobre Cano y otros (2012) y Ramsey (2014).
+[^ext-41]: **Extraído** — [[cipc-experiencias-exitosas]], p. 107, sobre Cano y otros (2012, p. 29).
 [^inf-1]: **Inferido** (confianza 0.6) — Guajardo no cita a Sampson. La coincidencia es de esta wiki.
 [^inf-2]: **Inferido** (confianza 0.6) — convergencia construida por esta wiki entre [[sampson-vecindario-y-comunidad]], p. 243, y [[tudela-analisis-criminal]], p. 147. Tudela no cita a Sampson.
 [^amb-1]: **Ambiguo** — Frey lo llama Modelo de «Integración» Carabineros Comunidad (cap. V, p. 133); Guajardo y las conclusiones, de «Interacción» (cap. VI, p. 154; conclusiones, p. 385).
+[^amb-2]: **Ambiguo** — [[cipc-experiencias-exitosas]], p. 43, dice que se implementa «desde 1998 en Santiago». Esta página, desde [[vanderschueren-prevencion-del-delito]], lo fecha desde 2000.

@@ -14,11 +14,11 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 
 Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026, con la
 ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con las de Batthyány y Cabrera
-(2011), el INE (2023), Srur (2014) y el capítulo de Boba (2010). Agrupa los ítems abiertos por lo que los
+(2011), el INE (2023), Srur (2014), el capítulo de Boba (2010) y el CIPC (2015). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**34 abiertos.**
+**35 abiertos.**
 
-**A. Sólo esperan una decisión del autor (11).** Se pueden resolver hoy.
+**A. Sólo esperan una decisión del autor (12).** Se pueden resolver hoy.
 
 | Ítem | Acción | Qué hay que decidir |
 |---|---|---|
@@ -33,6 +33,7 @@ destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
 | `[entidad]` ENUSC | `preguntar` | Si merece página propia y con qué `subtipo`. Ninguno de los cinco calza con una encuesta oficial |
 | `[ingesta]` El resto de Srur (2014) | `preguntar` | Si se ingiere lo que el programa no pide: genealogía, enfoques, casos de Quito y Panamá y modelo de madurez |
 | `[ingesta]` El resto de Tudela (ed.) (2010) | `preguntar` | Si se ingieren los cinco capítulos que el programa no pide, entre ellos uno sobre el Ministerio Público chileno |
+| `[entidad]` Plan Cuadrante, y quizá Carabineros | `crear-pagina` | El criterio se cumple en la letra desde el 16-10: el CIPC (2015) lo describe desde fuera, pero en un párrafo y en contra de las evaluaciones. Queda decidir si es página de programa o sección de una página de Carabineros |
 
 **B. Esperan una verificación bibliográfica fuera del corpus (8).** Cada ítem trae su
 consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos evaluados.
@@ -54,14 +55,14 @@ ingesta se cumple.
 | Ítem | Acción | Obra que lo destraba | Tanda |
 |---|---|---|---|
 | `[método]` PADS+ | `crear-pagina` | Blanco (2011), si trata los estudios longitudinales. Batthyány y Cabrera (2011) no los trata | 3 |
-| `[entidad]` Política de seguridad de Peñalolén | `crear-pagina` | CIPC (2015), si la incluye | 2 |
-| `[investigar]` Ley de concentración en una comuna chilena | `investigar` | Metodológicas de la tanda 2; después, las normas de la tanda 5 | 2 y 5 |
+| `[entidad]` Política de seguridad de Peñalolén | `crear-pagina` | Luneke y Trebilcock (2023), si la trata. El CIPC (2015) la incluye, pero desde la misma voz | 6 |
+| `[investigar]` Ley de concentración en una comuna chilena | `investigar` | Las normas de la tanda 5. Las metodológicas de la tanda 2 no traen el estudio | 5 |
+| `[concepto]` Articulación nacional y local de la seguridad | `crear-pagina` | Ley 21.802 y Decreto 96 (PNSP) | 5 |
 | `[concepto]` Criminalización y selectividad penal | `crear-pagina` | Baratta (2004) | 3 |
 | `[concepto]` Control social informal | `crear-pagina` | Gottfredson y Hirschi (1990) | 4 |
 | `[concepto]` Teorías de la oportunidad | `crear-pagina` | Clarke (1997); Felson y Eckert (2016) | 4 |
 | `[entidad]` Quiero mi Barrio | `crear-pagina` | SPD (2022); Luneke y Trebilcock (2023) | 5 y 6 |
 | `[concepto]` Seguridad ciudadana y seguridad humana | `crear-pagina` | Decreto 96 (PNSP); Luneke y Trebilcock (2023) | 5 y 6 |
-| `[entidad]` Plan Cuadrante, y quizá Carabineros | `crear-pagina` | Luneke y Trebilcock (2023) | 6 |
 | `[concepto]` Principio de daño y Estado de derecho | `crear-pagina` | Ferrajoli (1995) | 6 |
 | `[contradicción]` Legado del conflicto armado | `preguntar` | Dammert (2012), cúmulo `Medición e inseguridad` | después de la 6 |
 
@@ -74,9 +75,9 @@ ingesta se cumple.
 | `[concepto]` Capital cultural | Bourdieu (2002), pedido por S2.4 y ausente del corpus |
 | `[concepto]` Violencia contra las mujeres en la pareja y la familia | La bibliografía de S3.3, cuando llegue su programa |
 
-**Qué adelanta cada tanda.** Lo que queda de la 2, el CIPC (2015), destraba o adelanta dos ítems. Srur y Boba no destrabaron ninguno; la 3, dos;
-la 4, dos; la 5, tres; la 6, cuatro. PADS+ pasó de la 2 a la 3 el 16-10-2026, y medición de
-la victimización se resolvió ese día.
+**Qué adelanta cada tanda.** La 2 cerró el 16-10-2026: resolvió medición de la victimización y
+pasó PADS+ a la 3. El CIPC no cumplió el criterio de Peñalolén, que pasa a la 6. La 3 destraba o
+adelanta dos ítems; la 4, dos; la 5, cuatro; la 6, cuatro.
 
 ## Abiertos
 
@@ -339,6 +340,10 @@ la victimización se resolvió ese día.
       cierra las metodológicas de la tanda 2 sin un estudio chileno. Aporta dos piezas para
       diseñarlo: contar por fecha de ocurrencia y no de denuncia, y dividir por los blancos y no
       por la población (pp. 84 y 92). Quedan el CIPC (2015) y las normas de la tanda 5.
+      **Enmienda 16-10-2026** (ingesta de [[cipc-experiencias-exitosas]]): el informe trae la única cifra chilena de
+      concentración del corpus, tomada del plan nacional de 2014: el 82 % de las denuncias en
+      74 comunas urbanas (p. 44). Es concentración entre comunas, no en microlugares, y no
+      responde la pregunta. Quedan las normas de la tanda 5.
 
 - [ ] **[alcance]** Zúñiga Núñez (2013) es, sobre todo, teoría del Estado.
       [[zuniga-civilizacion-y-derechos-humanos]] entró el 26-09-2026 por decisión
@@ -462,6 +467,12 @@ la victimización se resolvió ese día.
       opción evita una página de programa con una sola fuente y agrupa lo que hoy está
       repartido entre [[policia-comunitaria]], [[legitimidad-policial]] y
       [[analisis-criminal]]. El criterio de la segunda fuente vale para ambas.
+      **Enmienda 16-10-2026** (ingesta de [[cipc-experiencias-exitosas]]): primera fuente fuera del libro de 2021 que
+      describe el plan, y lo contradice. Lo llama «quizás» el método policial más exitoso de
+      Chile, sin citar evaluación, y lo fecha desde 1998 (p. 43). La contradicción quedó en
+      [[policia-comunitaria]]. El criterio se cumple en la letra, pero la fuente pesa poco: es
+      un párrafo. La decisión pasa al grupo A: página de programa, o sección de una página
+      de Carabineros.
 
 - [ ] **[entidad]** «Política de seguridad de Peñalolén» — la primera política
       municipal chilena de la wiki, con doce años documentados: unidad en 2005, dirección
@@ -475,6 +486,12 @@ la victimización se resolvió ese día.
       no se sabe aún si la incluye. Lleva `subtipo: politica` y `vigencia`. Es el tipo
       de política identificable sobre la que puede anclarse el trabajo evaluado de S1.1.
       Elegirla o no es decisión del autor, y la página no la volvería caso de grado.
+      **Enmienda 16-10-2026** (ingesta de [[cipc-experiencias-exitosas]]): el informe incluye Peñalolén como su caso
+      chileno, pero no cumple el criterio. Sus figuras salen de la publicación de 2014 de la
+      propia dirección, y los factores de éxito son los que señaló su gerenta, Norma Maray, la
+      autora del cap. VII (pp. 49-52). Agrega un dato que el libro de 2021 no daba: el Plan
+      Integral de Barrios Seguros trabaja en cinco barrios críticos (p. 47). Candidata
+      siguiente: Luneke y Trebilcock (2023), en la tanda 6, si la trata.
 
 - [ ] **[esquema]** Las obras colectivas aplanan el modelo de relevancia —
       [[vanderschueren-prevencion-del-delito]] está en 16 de las 46 páginas, más de un
@@ -537,6 +554,11 @@ la victimización se resolvió ese día.
       96 de la PNSP, en la tanda 5, y Luneke y Trebilcock (2023), en la tanda 6. Mientras
       tanto, [[coproduccion-de-seguridad]] conserva la oposición entre seguridad pública y
       ciudadana.
+      **Enmienda 16-10-2026** (ingesta de [[cipc-experiencias-exitosas]]): el CIPC da su propia definición de seguridad
+      ciudadana, como un bien colectivo basado en la capacidad de construir convivencia (p. 12).
+      Y registra que la constitución ecuatoriana de 2008 introdujo la seguridad humana como un
+      concepto más amplio (p. 96). No cumple del todo el criterio: Vanderschueren fue uno de
+      los expertos que orientaron el informe (p. 3). Siguen las candidatas de las tandas 5 y 6.
 
 - [ ] **[fuente]** «Violencia como lenguaje» — el archivo de [[bourgois-en-busca-de-respeto]]
       llegó el 02-10-2026 como `bourgois-en-busca-del-respeto -Violencia como lenguaje.pdf`.
@@ -620,6 +642,17 @@ la victimización se resolvió ese día.
       son las teorías de la oportunidad que espera otro ítem de esta cola. El del Ministerio
       Público es la primera fuente chilena sobre la fiscalía. El manifiesto registra el
       alcance parcial.
+
+- [ ] **[concepto]** «Articulación nacional y local de la seguridad» — la tesis de
+      [[cipc-experiencias-exitosas]]: el éxito de una iniciativa local depende de cómo se articulan el centro y el
+      municipio. En Chile, la política se formula en el centro y se implementa en el territorio,
+      con un margen municipal reducido (pp. 42 y 52). La wiki ya lo roza en tres lugares: la
+      ausencia de la coproducción en el nivel central, en [[coproduccion-de-seguridad]]; la
+      pregunta del panorama sobre si el municipio coordina o recibe; y Peñalolén.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-10-16
+      Criterio: crearla con la Ley 21.802, que fortalece la institucionalidad municipal de
+      seguridad, y el Decreto 96 de la política nacional, los dos en la tanda 5. Con el CIPC
+      solo sería la tesis de un informe sobre ocho países.
 
 ## Resueltos
 

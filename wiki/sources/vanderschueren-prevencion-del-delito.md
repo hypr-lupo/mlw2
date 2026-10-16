@@ -15,7 +15,7 @@ procedencia: fuentes
 estado: revisado
 truncado: false
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-10-16
 ---
 
 # Prevención del delito y la violencia (Vanderschueren, Díaz y Guajardo, eds.)
@@ -91,6 +91,8 @@ Ver [[miedo-social]].
 
 No invalida nada; cambia el peso. El cap. VII es un relato desde dentro, no una evaluación.
 
+**Y vuelve en otro informe.** Añadido el 16-10-2026. [[cipc-experiencias-exitosas]] presenta Peñalolén como caso exitoso apoyado en la publicación de 2014 de la dirección y en una entrevista a Maray. Es otro documento, pero no otra voz. Ver [[revision]].
+
 **Qué es evidencia y qué no.** La obra es de reflexión, no de investigación primaria en su mayoría. Hay trabajo de campo propio en tres capítulos:
 
 - cap. VIII: 19 grupos focales en Maipú en 2016 [^ext-26];
@@ -162,6 +164,7 @@ Ver [[prevencion-del-delito]] y [[coproduccion-de-seguridad]].
 
 ## Conexiones con otras fuentes
 
+- [[cipc-experiencias-exitosas]] — Peñalolén desde la misma voz, y el Plan Cuadrante leído al revés. Contradicción registrada en [[policia-comunitaria]].
 - [[vanderschueren-guia-prevencion-barrios]] y [[onu-habitat-guia-barrios]] — de los mismos autores. El cap. I y las conclusiones continúan su línea; donde coinciden no son confirmaciones independientes. El cap. VII cita la guía de barrios con el año 2011 [^ext-43]. Ver [[revision]].
 - [[adams-violencia-cronica]] — el cap. XII la usa para México y la cita con el año 2012 [^ext-44]. Ver [[revision]].
 - [[weisburd-el-lugar-importa]] — la otra idea de evidencia y la otra posición sobre el desplazamiento.

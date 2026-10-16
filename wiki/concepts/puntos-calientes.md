@@ -1,13 +1,13 @@
 ---
 title: Puntos calientes y ley de concentración del delito
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-10-16
 ---
 
 # Puntos calientes y ley de concentración del delito
@@ -62,7 +62,7 @@ En el único estudio que modela ambas familias juntas, en Seattle, los mayores e
 ## Límites de la regularidad
 
 - **Puede ser una regla estadística y no social.** Si fuera una ley social en el sentido de Durkheim, deberían existir ciudades donde la concentración se rompe en momentos de crisis. No se han encontrado, y los autores reconocen que eso abre la posibilidad de una regularidad puramente estadística, como las de Pareto [^ext-22].
-- **No está probada en contextos como el chileno.** Los estudios vienen de ciudades de ingresos altos y sin crisis. Los propios autores señalan los países de ingreso bajo y las ciudades en crisis como la línea de investigación pendiente [^ext-22]. Cualquier focalización en una comuna chilena descansa sobre una regularidad que no se ha verificado aquí [^inf-1].
+- **No está probada en contextos como el chileno.** Los estudios vienen de ciudades de ingresos altos y sin crisis. Los propios autores señalan los países de ingreso bajo y las ciudades en crisis como la línea de investigación pendiente [^ext-22]. Cualquier focalización en una comuna chilena descansa sobre una regularidad que no se ha verificado aquí [^inf-1]. Lo único chileno del corpus es una concentración comunal: el 82 % de las denuncias en 74 comunas urbanas, según el plan nacional de 2014, citado por el CIPC [^ext-24]. Es otra escala, y no dice nada de calles [^inf-2].
 - **Depende de la medida y la unidad.** La ley se define para una medida y una unidad dadas. Cambiar el tipo de delito, la fuente de datos o la unidad cambia las cifras [^ext-2].
 - **Los que la usan no siempre la entienden.** En una encuesta a 176 policías estadounidenses, el 57 % consideraba «puntos calientes» a barrios enteros [^ext-23].
 
@@ -73,6 +73,7 @@ En el único estudio que modela ambas familias juntas, en Seattle, los mayores e
 
 ## Relacionado
 
+- [[cipc-experiencias-exitosas]] — la concentración chilena a escala comunal
 - [[weisburd-el-lugar-importa]] — fuente principal
 - [[teoria-accion-situacional]] y [[exposicion-criminogena]] — la explicación rival del mecanismo
 - [[policia-de-puntos-calientes]] — la práctica que se apoya en esta regularidad
@@ -106,4 +107,6 @@ En el único estudio que modela ambas familias juntas, en Seattle, los mayores e
 [^ext-21]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 70-71 y 148.
 [^ext-22]: **Extraído** — [[weisburd-el-lugar-importa]], p. 143.
 [^ext-23]: **Extraído** — [[weisburd-el-lugar-importa]], p. 154, sobre Koper (2014).
+[^ext-24]: **Extraído** — [[cipc-experiencias-exitosas]], p. 44, sobre el Plan Nacional de Seguridad Pública 2014-2018.
 [^inf-1]: **Inferido** (confianza 0.8) — el libro no menciona Chile. La inferencia combina su advertencia sobre contextos no estudiados (p. 143) con el hecho de que ningún estudio del libro es chileno.
+[^inf-2]: **Inferido** (confianza 0.8) — la ley de concentración se define para microlugares. Una concentración entre comunas es compatible con cualquier distribución dentro de ellas.

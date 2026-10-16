@@ -1,13 +1,13 @@
 ---
 title: Coproducción de seguridad
 type: concept
-sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf"]
+sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-02
+actualizado: 2026-10-16
 ---
 
 # Coproducción de seguridad
@@ -95,6 +95,8 @@ Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]]. La
 > [!warning] Medellín: ¿buen caso o paz armada?
 > [[vanderschueren-prevencion-del-delito]] cita a Medellín, junto con Bogotá, entre los mejores casos latinoamericanos de coordinación municipal [^ext-19]. Arias no discute la coordinación municipal, pero sí el resultado que la hace parecer exitosa. Atribuye la caída de los homicidios entre 2002 y 2007 a la expulsión de la guerrilla y al control que la red paramilitar de Diego Murillo estableció con apoyo estatal, no al deterioro de los grupos armados [^ext-33]. Tras la extradición de Murillo en 2008, los homicidios volvieron a subir. Para la caída posterior a 2010 reconoce la inversión y el trabajo policial, pero también un pacto de 2013 entre dos organizaciones criminales que se repartieron territorios [^ext-34]. Citar a Medellín como modelo exige decir qué parte de su resultado se debe a la política y qué parte a la consolidación armada.
 
+**Santa Tecla, el mismo problema.** Añadido el 16-10-2026. [[cipc-experiencias-exitosas]] presenta a Santa Tecla como buena práctica de participación comunitaria y coordinación local. Y atribuye parte de la baja de sus homicidios al triunfo de una pandilla y a la tregua nacional [^ext-35]. Ver [[regimenes-armados-microescala]] y [[buenas-practicas]].
+
 ## Cita
 
 > "la multiplicidad de agencias de intervención a menudo no está preparada"
@@ -102,6 +104,7 @@ Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]]. La
 
 ## Relacionado
 
+- [[cipc-experiencias-exitosas]] — Santa Tecla, coproducción y consolidación armada a la vez
 - [[onu-habitat-guia-barrios]] — fuente
 - [[vanderschueren-guia-prevencion-barrios]] — fuente de la definición
 - [[capital-social]] — el puente que la coproducción necesita donde el capital comunitario falta
@@ -141,6 +144,7 @@ Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]]. La
 [^ext-23]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. VII, p. 181.
 [^ext-24]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. II, p. 73.
 [^ext-25]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. XII, pp. 300-301, sobre Ruiz y otros, en Díaz y otros (2014, p. 39).
+[^ext-35]: **Extraído** — [[cipc-experiencias-exitosas]], pp. 61-64.
 [^inf-1]: **Inferido** (confianza 0.6) — el capítulo no dice que la coproducción fracasara; dice que no bastaba. La lectura de que el paso a la seguridad humana amplía y no reemplaza la coproducción es propia.
 [^ext-26]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, p. 207.
 [^ext-27]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 7, p. 208.

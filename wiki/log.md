@@ -8,6 +8,40 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-16] ingesta | CIPC (2015), Experiencias exitosas en prevención de la criminalidad en América Latina
+
+**Sexta y última obra de la tanda 2, que queda cerrada seis días tarde.** Sigue la tanda 3.
+
+- Ficha creada: [[cipc-experiencias-exitosas]]. Informe del CIPC por encargo de la Cámara de
+  Comercio de Bogotá, diciembre de 2015, escrito en cinco meses y declarado exploratorio.
+  Diez casos en ocho países. `verificacion_bibliografica: verificado`.
+- Páginas creadas (1): [[buenas-practicas]], en `prevencion`, en borrador.
+- Páginas actualizadas (7):
+  · [[evaluacion-de-programas]]: la buena práctica como cuarta idea de evidencia, y
+    Peñalolén desde la misma voz;
+  · [[policia-comunitaria]]: la contradicción sobre el Plan Cuadrante, y las UPP desde Cano
+    y otros (2012);
+  · [[mano-dura-y-militarizacion]]: El Salvador en cifras;
+  · [[regimenes-armados-microescala]]: Santa Tecla, un caso compatible con el modelo;
+  · [[coproduccion-de-seguridad]]: Santa Tecla junto a Medellín;
+  · [[puntos-calientes]]: la única cifra chilena de concentración, a escala comunal;
+  · [[vanderschueren-prevencion-del-delito]]: Peñalolén vuelve en otro informe.
+  · Más [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: 2 nuevas.
+  · **El Plan Cuadrante: ¿el más exitoso o un fracaso?** (tensión 34), contradicción entre
+    fuentes. En [[policia-comunitaria]] y en la ficha.
+  · **Santa Tecla: ¿éxito de la política o del grupo?** (tensión 35). En
+    [[regimenes-armados-microescala]].
+  · La tensión 16, de las ideas de evidencia, suma una cuarta posición.
+- En revisión: 1 ítem nuevo (articulación nacional y local) y 4 enmiendas (Peñalolén, Plan
+  Cuadrante, ley de concentración, seguridad ciudadana y humana). Peñalolén no cumple el
+  criterio y pasa a la tanda 6. El Plan Cuadrante pasa al grupo A. La cola pasa a 35.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-10-16-cipc-experiencias-exitosas.md`.
+- Notas: el informe trae errores de hecho que la ficha lista, entre ellos la diferencia entre
+  hurto y robo invertida y dos tasas de homicidio de Quito para el mismo año. La gerenta de
+  Peñalolén figura como Maray y como Garay. Toca 9 páginas de contenido, ficha incluida.
+
 ## [2026-10-16] ingesta | Tudela (ed.) (2010), Análisis delictual, capítulo de Boba
 
 **Quinta obra de la tanda 2, en la misma sesión. Segunda ingesta parcial**, por mandato de

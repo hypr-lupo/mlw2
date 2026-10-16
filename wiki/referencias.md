@@ -56,6 +56,14 @@ Castrillo, Trad.). Siglo Veintiuno Editores. (Obra original publicada en 1995)
 la 2.ª edición en inglés (Cambridge University Press, 2003) y agrega un prefacio y un
 epílogo de 2010 · trabajo de campo de 1985 a 1990
 
+Centro Internacional para la Prevención de la Criminalidad. (2015). *Informe, experiencias
+exitosas en prevención de la criminalidad en América Latina. Una perspectiva territorial de
+las políticas públicas de seguridad ciudadana en América Latina*. CIPC.
+→ [[cipc-experiencias-exitosas]] · verificada contra la portada y los créditos · coordinó y
+redactó Salvador David Hernández Latorre · **informe por encargo, exploratorio**, con
+errores de hecho: verificar cada dato antes de citarlo · el caso de Peñalolén sale de la
+propia dirección municipal
+
 Gardner, J. (2007). Prohibiting immoralities. *Cardozo Law Review, 28*, 2613.
 → [[gardner-prohibir-inmoralidades]] · **verificación bibliográfica pendiente**: el
 corpus tiene la versión de autor, que pide no citar desde ella; falta el rango de
