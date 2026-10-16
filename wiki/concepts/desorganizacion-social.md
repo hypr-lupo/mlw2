@@ -25,11 +25,11 @@ La teoría nace en la Escuela de Chicago. Toma la idea de conciencia colectiva d
 
 ## Las versiones posteriores
 
-| Versión | Mecanismo | Referencia citada |
-|---|---|---|
-| **Teoría sistémica** | Redes de amistad, parentesco y asociaciones que permiten al barrio regular lo que ocurre dentro de sus límites | Berry y Kasarda (1977); Bursik y Grasmick (1993); evidencia de Sampson y Groves (1989) |
-| **Eficacia colectiva** | Cohesión entre vecinos unida a su disposición a intervenir por el bien común | Sampson y otros (1997) |
-| **Ventanas rotas** | El desorden visible le indica a los vecinos que nadie interviene, eso debilita el control informal y el delito sube en espiral | Wilson y Kelling (1982) |
+| Versión                | Mecanismo                                                                                                                      | Referencia citada                                                                      |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| **Teoría sistémica**   | Redes de amistad, parentesco y asociaciones que permiten al barrio regular lo que ocurre dentro de sus límites                 | Berry y Kasarda (1977); Bursik y Grasmick (1993); evidencia de Sampson y Groves (1989) |
+| **Eficacia colectiva** | Cohesión entre vecinos unida a su disposición a intervenir por el bien común                                                   | Sampson y otros (1997)                                                                 |
+| **Ventanas rotas**     | El desorden visible le indica a los vecinos que nadie interviene, eso debilita el control informal y el delito sube en espiral | Wilson y Kelling (1982)                                                                |
 
 Las tres conservan la idea de Shaw y McKay de que la estabilidad residencial es la base de las redes que sostienen el control social [^ext-4]. Weisburd y otros ubican expresamente la [[eficacia-colectiva]] como extensión de la teoría sistémica [^ext-4], y las [[ventanas-rotas]] como una variante que pone el desorden, y no la pobreza o la rotación, como lo que erosiona el control [^ext-5].
 
