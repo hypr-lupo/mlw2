@@ -1,7 +1,7 @@
 ---
 title: Diseño de investigación
 type: method
-sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf"]
+sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -25,6 +25,8 @@ Investigar es construir evidencia empírica a partir de la teoría, con reglas d
 3. **Comprobación.** Aplicar esas herramientas para contrastar las hipótesis. Relevar la información, analizarla y presentar los resultados.
 
 La ruptura viene de Bourdieu, Chamboredon y Passeron. Para ellos, la familiaridad con el mundo social es el principal obstáculo del sociólogo [^ext-4]. La respuesta es la **vigilancia epistemológica**: someter cada técnica y cada concepto a un examen continuo de los límites de su validez [^ext-4].
+
+**Otra lógica: el proceso circular.** Añadido el 16-10-2026. La teoría fundamentada no avanza por momentos sucesivos. Recoge y analiza a la vez, y deja que el análisis decida qué datos buscar [^ext-24]. Parte de los datos y no de los supuestos teóricos [^ext-25]. Eso choca con el principio del manual de que toda investigación científica se inicia con la teoría [^ext-26]. La tensión está en [[teoria-fundamentada]].
 
 ## Del tema al problema
 
@@ -101,6 +103,8 @@ Las unidades pueden ser individuos, grupos, empresas, países, políticas, leyes
 
 **Población y muestra.** La población es el conjunto de unidades que se estudia, en un espacio y un tiempo [^ext-22]. La muestra es el subconjunto que se observa. En los estudios cuantitativos, la muestra probabilística es la que permite inferir a la población y calcular márgenes de error [^ext-23].
 
+En la teoría fundamentada el tamaño de la muestra se conoce al final, porque se muestrea según lo que piden las categorías. Eso suele trabar la aprobación de los protocolos ante los comités de evaluación [^ext-27]. Ver [[teoria-fundamentada]].
+
 ## Cita
 
 > "toda investigación científica se inicia con la teoría"
@@ -111,6 +115,7 @@ Las unidades pueden ser individuos, grupos, empresas, países, políticas, leyes
 - [[batthyany-metodologia-investigacion]]: fuente
 - [[operacionalizacion]]: el marco operativo de la estructuración
 - [[enfoques-cuantitativo-y-cualitativo]]: el diseño estructurado y el emergente
+- [[teoria-fundamentada]]: un proceso circular que empieza por los datos
 - [[evaluacion-de-programas]]: lo que el diseño evaluativo deja sin tratar
 - [[trabajo-de-grado-profesionalizante]]: otro criterio para justificar una investigación
 - [[analisis-espacial-del-delito]]: la falacia ecológica con datos de delito
@@ -141,5 +146,9 @@ Las unidades pueden ser individuos, grupos, empresas, países, políticas, leyes
 [^ext-21]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 70, sobre Galtung (1966).
 [^ext-22]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 71.
 [^ext-23]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 73.
+[^ext-24]: **Extraído** — [[vives-varela-teoria-fundamentada]], p. 99.
+[^ext-25]: **Extraído** — [[vives-varela-teoria-fundamentada]], p. 98, sobre Flick (2004).
+[^ext-26]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 27.
+[^ext-27]: **Extraído** — [[vives-varela-teoria-fundamentada]], p. 100, sobre Martínez-Salgado (2012) y Luckerhoff y Guillemette (2012).
 [^inf-1]: **Inferido** (confianza 0.8) — el manual no trata esos diseños. [[evaluacion-de-programas]] los nombra, desde Tudela, pero no los describe como método.
 [^inf-2]: **Inferido** (confianza 0.8) — aplicación propia del ejemplo de la p. 70 a los datos de delito. El manual no habla de delito. [[weisburd-el-lugar-importa]] trabaja con lugares como unidad, y los registros policiales cuentan delitos, no víctimas.

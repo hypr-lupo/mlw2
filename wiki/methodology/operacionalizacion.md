@@ -1,7 +1,7 @@
 ---
 title: Operacionalización
 type: method
-sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf"]
+sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -48,6 +48,8 @@ El riesgo práctico tiene dos formas. Se sustituye el indicador apropiado por un
 
 Las categorías de una variable deben ser exhaustivas, excluyentes y precisas [^ext-12]. Los niveles de medición forman una escala acumulativa: nominal, ordinal, de intervalo y de razón [^ext-13]. Una escala alta puede convertirse en una baja, nunca al revés. Por eso conviene medir al nivel más alto posible [^ext-13]. Una variable no es cualitativa o cuantitativa por sí misma. Lo decide su sistema de categorías [^ext-13].
 
+**Otro sentido de «categoría».** Añadido el 16-10-2026. Aquí una categoría es un valor de una variable. En la teoría fundamentada es un concepto que agrupa códigos, construido desde la teoría, desde los datos o desde ambos [^ext-23]. Ver [[teoria-fundamentada]].
+
 ## Tipos de variables
 
 **Por su función** [^ext-14]. La variable independiente es la supuesta causa. La dependiente es el efecto. Las intervinientes entran en la relación y la especifican, la condicionan o la anulan:
@@ -84,6 +86,7 @@ Ninguno está en el manual. Esta wiki los ordena con su vocabulario [^inf-1].
 - [[diseno-de-investigacion]]: el lugar de la operacionalización en el proceso
 - [[eficacia-colectiva]], [[violencia-en-el-noviazgo]] y [[violencia-cronica]]: los tres casos
 - [[enfoques-cuantitativo-y-cualitativo]]: la medición es propia del análisis por variables
+- [[teoria-fundamentada]]: la categoría en el otro sentido
 - [[miedo-social]]: victimización medida y percepción de inseguridad dan cifras distintas, y definir la violencia sólo por homicidios cambia una conclusión
 - [[analisis-espacial-del-delito]]: la falacia ecológica, el riesgo de las variables colectivas con datos de delito
 
@@ -113,6 +116,7 @@ Ninguno está en el manual. Esta wiki los ordena con su vocabulario [^inf-1].
 [^ext-20]: **Extraído** — [[valdivia-violencia-en-el-noviazgo]], p. 10, sobre Injuv (2012).
 [^ext-21]: **Extraído** — [[adams-violencia-cronica]], sección I.C.2, p. 12, citando a Pearce (2007, p. 7).
 [^ext-22]: **Extraído** — [[adams-violencia-cronica]], sección I.C.1, p. 11.
+[^ext-23]: **Extraído** — [[vives-varela-teoria-fundamentada]], p. 101, sobre Osses y otros (2006).
 [^inf-1]: **Inferido** (confianza 0.8) — ninguna de las fuentes de los tres casos usa el vocabulario del manual, y el manual no habla de delito. La lectura cruzada es de esta wiki.
 [^inf-2]: **Inferido** (confianza 0.7) — la nota de Wikström describe una medida basada en lo que observan los residentes y la aplica a áreas. Que sea un promedio de respuestas individuales es la lectura habitual de esa escala, pero el corpus no trae su construcción. Sampson, Raudenbush y Earls (1997) no está en el corpus.
 [^inf-3]: **Inferido** (confianza 0.8) — la revisión de Valdivia-Peralta y otros no cita al manual ni usa los términos definición nominal y operacional. La correspondencia es de esta wiki.

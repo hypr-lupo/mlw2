@@ -102,6 +102,12 @@
       "bytes": 2696387,
       "ingerido": "2026-10-16",
       "ficha": "wiki/sources/batthyany-metodologia-investigacion.md"
+    },
+    "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf": {
+      "sha256": "7d2d0aff408a7e97ce6fe3d13ddaab75a3f51e9977c7d2d5e167def1c4a4e899",
+      "bytes": 537332,
+      "ingerido": "2026-10-16",
+      "ficha": "wiki/sources/vives-varela-teoria-fundamentada.md"
     }
   }
 }

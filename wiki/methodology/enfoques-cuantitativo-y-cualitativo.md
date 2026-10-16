@@ -1,7 +1,7 @@
 ---
 title: Enfoques cuantitativo y cualitativo
 type: method
-sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf"]
+sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -49,6 +49,8 @@ Fuente: [^ext-5].
 
 En el enfoque cualitativo, lo que importa es el significado que los participantes dan al problema. No importa el que le dan los investigadores ni la literatura [^ext-6].
 
+**Cómo se decide la muestra cualitativa.** Añadido el 16-10-2026. El manual sólo dice que no es estadísticamente representativa. [[vives-varela-teoria-fundamentada]] agrega un criterio, el muestreo teórico. Se eligen casos nuevos según lo que piden las categorías, hasta que ya no aparece nada nuevo [^ext-13]. Ver [[teoria-fundamentada]].
+
 ## ¿Se pueden combinar?
 
 Corbetta registra tres posturas [^ext-7]:
@@ -62,6 +64,8 @@ Dentro de la tercera, Bericat distingue dos lógicas [^ext-8]. La de la segregac
 - **Complementación.** Los dos métodos estudian dimensiones distintas del mismo fenómeno. No se busca que coincidan, y el informe suele tener dos partes.
 - **Combinación.** Un método se pone al servicio del otro para compensar sus debilidades. Por ejemplo, una encuesta representativa ayuda a corregir el sesgo de los informantes en un trabajo de campo.
 - **Triangulación.** Los dos métodos estudian el mismo aspecto, y se espera que sus resultados converjan.
+
+**Otro sentido de triangulación.** Añadido el 16-10-2026. [[vives-varela-teoria-fundamentada]] usa la palabra, con Cisterna, para otra cosa: cruzar datos cualitativos entre grupos de participantes, entre instrumentos y con el marco teórico [^ext-14]. Quien triangule tiene que decir en qué sentido. Ver [[teoria-fundamentada]].
 
 ## Técnicas
 
@@ -89,12 +93,13 @@ Fuente: [^ext-11].
 - [[batthyany-metodologia-investigacion]]: fuente
 - [[diseno-de-investigacion]]: el diseño estructurado, que es el que el manual desarrolla
 - [[operacionalizacion]]: la medición, propia del análisis por variables
+- [[teoria-fundamentada]]: un procedimiento de análisis cualitativo, del código a la teoría
 - [[bourgois-en-busca-de-respeto]]: una observación participante en la cuarta situación de Jorgensen, con sus límites declarados por el propio autor
 - [[diagnostico-barrial]]: la guía de 2010 elige técnicas cualitativas en el barrio crítico y acepta perder representatividad
 - [[evaluacion-de-programas]]: la tensión de las tres ideas de evidencia, leída como una diferencia entre explicar y comprender
 - [[analisis-espacial-del-delito]]: las propuestas de SIG cualitativo y de métodos mixtos
 
-**Pendiente de contraste.** Vives Varela y Hamui Sutton (2021), sobre codificación en la teoría fundamentada, entra en la tanda 2. Será la primera fuente sobre el análisis cualitativo como procedimiento.
+**Contraste resuelto el 16-10-2026.** Vives Varela y Hamui Sutton (2021) trae el primer procedimiento de análisis cualitativo de la wiki. Ver [[teoria-fundamentada]].
 
 ---
 
@@ -110,3 +115,5 @@ Fuente: [^ext-11].
 [^ext-10]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 85 y cuadro 5, sobre Cea D'Ancona (1996, p. 220).
 [^ext-11]: **Extraído** — [[batthyany-metodologia-investigacion]], pp. 86-93, sobre Corbetta (2007), Cea D'Ancona (1996), Valles (2000) y Delgado y Gutiérrez (1999).
 [^ext-12]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 88, sobre Jorgensen (1989, p. 12), citado en Corbetta (2007, p. 307).
+[^ext-13]: **Extraído** — [[vives-varela-teoria-fundamentada]], p. 100, sobre Charmaz (2012) y Flick (2004).
+[^ext-14]: **Extraído** — [[vives-varela-teoria-fundamentada]], tabla 3, p. 103, sobre Cisterna (2005).

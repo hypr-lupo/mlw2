@@ -9,7 +9,7 @@ sources: []
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
 **Al 16-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden y la
-tanda 2 en curso.** Diecisiete fuentes de 118, cincuenta y nueve páginas, **siete de ocho
+tanda 2 en curso.** Dieciocho fuentes de 118, sesenta y una páginas, **siete de ocho
 clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
@@ -63,7 +63,7 @@ destrucción de quienes participan. Entre los dos tocan veinte páginas, fichas 
 cambian son [[legitimidad-policial]], [[miedo-social]] y [[mano-dura-y-militarizacion]],
 que ahora tienen el barrio además de la estadística.
 
-**La última ingesta trae el método.** [[batthyany-metodologia-investigacion]] es un manual
+**Las dos últimas ingestas traen el método.** [[batthyany-metodologia-investigacion]] es un manual
 docente de metodología de la Universidad de la República, que compila a Sautu, Corbetta,
 Briones y otros. Es la primera obra de la tanda 2 y el primer texto metodológico general de
 la wiki. Nacen tres páginas de método: [[diseno-de-investigacion]], [[operacionalizacion]] y
@@ -75,6 +75,14 @@ concepto. Y la proyección por tipología de [[diagnostico-barrial]] no declara 
 al azar que la sostendría. Lo que el manual no trae pesa tanto como lo que trae: ni
 experimentos ni cohortes, de modo que no dirime la tensión de evidencia ni da todavía la
 página de PADS+.
+
+La acompaña [[vives-varela-teoria-fundamentada]], un artículo de revisión de una revista
+de educación médica de la UNAM, leído en la misma clase de S1.2. Trae el primer
+procedimiento de análisis cualitativo de la wiki, [[teoria-fundamentada]]: muestreo
+teórico, saturación y codificación abierta, axial y selectiva. Las dos fuentes no se citan
+entre sí, y discrepan en algo básico. Para el manual, toda investigación empieza por la
+teoría. Para el artículo, por los datos. Usan además la palabra triangulación en dos
+sentidos distintos.
 
 ## Siete respuestas a la misma pregunta
 
@@ -244,6 +252,13 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     caso. No se oponen del todo: el manual admite temas por encargo de un municipio. La
     diferencia está en qué valida el resultado. Ver [[trabajo-de-grado-profesionalizante]].
 
+**La que abre Vives Varela y Hamui Sutton**
+
+32. **¿Se empieza por la teoría?** El manual de Batthyány y Cabrera dice que toda
+    investigación científica se inicia con la teoría. La teoría fundamentada parte de los
+    datos. Los dos textos se matizan, pero sus frases no caben juntas. Ver
+    [[teoria-fundamentada]] y [[diseno-de-investigacion]].
+
 **La que más va a pesar en el trabajo evaluado de S1.1.**
 [[onu-habitat-guia-barrios]] incorpora la teoría de las ventanas rotas dentro de su
 [[tipologia-barrial]], y [[sampson-vecindario-y-comunidad]] la declara espuria.
@@ -311,6 +326,8 @@ inventario. Ver [[ventanas-rotas]].
   [[diseno-de-investigacion]], [[operacionalizacion]] y
   [[enfoques-cuantitativo-y-cualitativo]]. Vienen de un manual de pregrado que compila a
   otros autores y no trata experimentos ni cohortes.
+- **Analizar datos cualitativos.** [[teoria-fundamentada]], desde un artículo de
+  presentación: el procedimiento, sin un ejemplo completo del dato a la teoría.
 
 Las cuatro primeras vienen sobre todo del equipo del docente del ramo: dos guías que
 cuentan como una, y el libro de 2021, en parte de los mismos autores. Las tres últimas,
@@ -385,8 +402,8 @@ dirección. Elegirla o no es decisión del autor.
 Hasta el 27-11-2026 manda el **orden por calendario** fijado en [[purpose]]: seis
 tandas, cada una cerrada antes de la clase que la usa. La tanda 1 quedó cerrada el
 27-09. La tanda 2 debía cerrar el 10-10 y empezó el 16-10 con Batthyány y Cabrera (2011).
-Quedan Vives Varela y Hamui Sutton (2021), INE (2023), Srur (2014), pp. 26-45, el capítulo
-de Boba en Tudela (ed.) (2010) y CIPC (2015). La tanda 3 vence el mismo 16-10. El autor
+Vives Varela y Hamui Sutton (2021) entró el mismo día. Quedan INE (2023), Srur (2014), pp.
+26-45, el capítulo de Boba en Tudela (ed.) (2010) y CIPC (2015). La tanda 3 vence el mismo 16-10. El autor
 decidió ese día mantener el orden: la 3 va después de terminar la 2. Después de la sexta
 vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.

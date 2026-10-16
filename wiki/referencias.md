@@ -116,6 +116,13 @@ el corpus la registra además sólo a nombre de Vanderschueren · **antecedente 
 de la guía de ONU-Hábitat y Guadalajara (2020)**: donde ambas dicen lo mismo, conviene
 citar ésta, que es la publicada, una vez verificada
 
+Vives Varela, T. y Hamui Sutton, L. (2021). La codificación y categorización en la teoría
+fundamentada, un método para el análisis de los datos cualitativos. *Investigación en
+Educación Médica, 10*(40), 97-104. https://doi.org/10.22201/fm.20075057e.2021.40.21367
+→ [[vives-varela-teoria-fundamentada]] · verificada contra la primera página del artículo ·
+`programa/S1.2` omite el subtítulo · artículo de revisión: al citar a Charmaz, Flick o
+Cisterna, ir al original
+
 Weisburd, D., Eck, J. E., Braga, A. A., Telep, C. W., Cave, B., Bowers, K.,
 Bruinsma, G., Gill, C., Groff, E. R., Hibdon, J., Hinkle, J. C., Johnson, S. D.,
 Lawton, B., Lum, C., Ratcliffe, J. H., Rengert, G. F., Taniguchi, T., y Yang, S.-M.

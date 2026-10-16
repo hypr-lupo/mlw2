@@ -8,6 +8,35 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-16] ingesta | Vives Varela y Hamui Sutton (2021), La codificación y categorización en la teoría fundamentada
+
+**Segunda obra de la tanda 2, en la misma sesión que Batthyány y Cabrera (2011).**
+
+- Ficha creada: [[vives-varela-teoria-fundamentada]]. Artículo de revisión de
+  *Investigación en Educación Médica*, de la UNAM. `verificacion_bibliografica: verificado`
+  contra la primera página.
+- Páginas creadas (1): [[teoria-fundamentada]], en `medicion-y-metodo`.
+- Páginas actualizadas (3):
+  · [[enfoques-cuantitativo-y-cualitativo]]: el muestreo teórico y otro sentido de
+    triangulación. Su «Pendiente de contraste» queda resuelto;
+  · [[diseno-de-investigacion]]: el proceso circular y la muestra que se conoce al final;
+  · [[operacionalizacion]]: el otro sentido de categoría.
+  · Más [[index]], [[referencias]], [[overview]] y [[pendientes]].
+- Contradicciones y tensiones: 1 nueva.
+  · **¿Se empieza por la teoría?** (tensión 32), frente a Batthyány y Cabrera. En
+    [[teoria-fundamentada]] y [[diseno-de-investigacion]].
+  · Además, dos sentidos de triangulación, Bericat y Cisterna. Es un uso doble de la
+    palabra, no una contradicción.
+- En revisión: 0 ítems nuevos. Ningún ítem abierto dependía de esta obra. La cola sigue en
+  31.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-10-16-vives-varela-teoria-fundamentada.md`.
+- Notas: `programa/S1.2` omite el subtítulo del artículo. Las conclusiones remiten a Gibbs
+  con el número de referencia de Cisterna. No hay nada de criminología: los ejemplos son de
+  educación médica. La Escuela de Chicago aparece como origen de la sociología cualitativa,
+  no como ecología urbana, y no se enlazó a [[desorganizacion-social]]. Toca 5 páginas de
+  contenido, ficha incluida.
+
 ## [2026-10-16] ingesta | Batthyány y Cabrera (2011), Metodología de la investigación en Ciencias Sociales
 
 **Primera obra de la tanda 2, que debía cerrar el 10-10 y no había empezado.** La tanda 3

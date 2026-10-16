@@ -10,9 +10,9 @@ Artefacto operativo para retomar, no registro de lo hecho: la crónica de cada s
 en [[log]]. Se consolidó el 27-09-2026, en la auditoría que cerró la tanda 1; el informe
 está en `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-**Estado al 16-10-2026.** 17 fuentes ingeridas de 118 documentos; 96 pendientes de un
-universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 59 páginas: 11 en borrador.
-Núcleo ancla de S1.1 completo, **tanda 1 cerrada** y **tanda 2 en curso**, con una de seis
+**Estado al 16-10-2026.** 18 fuentes ingeridas de 118 documentos; 95 pendientes de un
+universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 61 páginas: 11 en borrador.
+Núcleo ancla de S1.1 completo, **tanda 1 cerrada** y **tanda 2 en curso**, con dos de seis
 obras ingeridas. Siete de ocho clústeres poblados;
 `caso-de-grado` sigue vacío a propósito. Cobertura de S1.1: 17 de 32 títulos oficiales en
 el corpus, 53 %. Nada bloquea la ingesta.
@@ -21,7 +21,7 @@ el corpus, 53 %. Nada bloquea la ingesta.
 
 En este orden:
 
-1. **Terminar la tanda 2**, que venció el 10-10. Sigue Vives Varela y Hamui Sutton (2021).
+1. **Terminar la tanda 2**, que venció el 10-10. Sigue INE (2023).
    La tanda 3 venció el 16-10 y va después, por decisión del autor del mismo día: se
    mantiene el orden establecido. Ver abajo.
 2. **Decisiones que sólo toma el autor.** Siete, en el grupo A de [[revision]]. La más
@@ -44,8 +44,8 @@ documento por documento lo da `python scripts/estado.py`.
       Ley 21.675 (2024).
 - [x] **Fuera de orden, el 02-10**, por decisión del autor: Arias (2017) y Bourgois
       (2010). Ninguno está en un programa recibido; la tanda 2 no ha empezado.
-- [ ] **Tanda 2, antes del 10-10:** ~~Batthyány y Cabrera (2011)~~, ingerida el 16-10 ·
-      Vives Varela y Hamui Sutton (2021) · INE (2023) · Srur (2014), pp. 26-45 · Tudela
+- [ ] **Tanda 2, antes del 10-10:** ~~Batthyány y Cabrera (2011)~~ y ~~Vives
+      Varela y Hamui Sutton (2021)~~, ingeridas el 16-10 · INE (2023) · Srur (2014), pp. 26-45 · Tudela
       (ed.) (2010), sólo el capítulo de Boba · CIPC (2015). Destraba o adelanta tres ítems
       de la cola: medición de la victimización, Peñalolén y la ley de concentración. PADS+
       pasó a la tanda 3, porque Batthyány y Cabrera no trata los diseños longitudinales
@@ -65,7 +65,7 @@ Después de la tanda 6 vuelve el orden por cúmulos. Pendientes por cúmulo, seg
 | Cúmulo | Pendientes | Nota |
 |---|---:|---|
 | Bibliografía S1.1, consulta y complementaria | 11 | García-Pablos espera a estar completo |
-| Integrados desde el programa del curso | 5 | Contiene las P1 de S1.2 |
+| Integrados desde el programa del curso | 4 | Contiene las P1 de S1.2 |
 | Medición e inseguridad | 6 | Contiene P1 de S1.2; ahí está lo que podría dirimir la contradicción de Adams |
 | Sistema penal y Estado de derecho | 6 | Contiene P1 de S1.3 |
 | Gobernanza criminal y territorio | 4 | |
@@ -135,7 +135,7 @@ segunda mano.
 
 ## Tensiones registradas
 
-Treinta y una, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
+Treinta y dos, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
 resuelven. Tres podrían moverse con fuentes que ya tienen tanda:
 
 - **El estatus del control en la prevención** (tensión 3), con Gottfredson y Hirschi en la

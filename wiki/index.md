@@ -9,10 +9,10 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 59 páginas · 17 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
+**Estado:** 61 páginas · 18 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
-fuera del orden · **tanda 2 en curso desde el 16-10-2026**, con Batthyány y Cabrera (2011)
-como primera fuente · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
+fuera del orden · **tanda 2 en curso desde el 16-10-2026**, con dos de sus seis obras
+ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
 
 ## Conceptos
 
@@ -136,18 +136,21 @@ como primera fuente · siete de ocho clústeres poblados · ver [[pendientes]] y
   proyección por tipología sin base probabilística declarada (4 fuentes)
 - [[diseno-de-investigacion]] — ruptura, estructuración y comprobación; del tema al
   problema, marcos, objetivos, cinco diseños por objetivo, hipótesis, unidades de
-  análisis y muestra; lo que un manual de pregrado no trae: experimentos y cohortes
-  (1 fuente)
+  análisis y muestra; lo que un manual de pregrado no trae: experimentos y cohortes; y
+  otra lógica, la del proceso circular (2 fuentes)
 - [[enfoques-cuantitativo-y-cualitativo]] — tres paradigmas, explicar o comprender,
-  complementación, combinación y triangulación, y seis técnicas con sus límites
-  (1 fuente)
+  complementación, combinación y triangulación, y seis técnicas con sus límites; el
+  muestreo teórico y otro sentido de triangulación (2 fuentes)
 - [[evaluacion-de-programas]] — no basta saber qué funciona, sino por qué; evidencia,
   implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; el
   mismo diagnóstico desde la violencia en el noviazgo; dos sentidos de «por qué»; y la
   tensión leída como complementación de métodos (5 fuentes)
 - [[operacionalizacion]] — del concepto al índice, definición nominal y operacional,
   validez y confiabilidad; y tres casos de la wiki: eficacia colectiva, violencia en el
-  noviazgo y violencia crónica (5 fuentes)
+  noviazgo y violencia crónica; y el otro sentido de categoría (6 fuentes)
+- [[teoria-fundamentada]] — teoría desde los datos: proceso circular, muestreo teórico y
+  saturación, codificación abierta, axial y selectiva, triangulación según Cisterna; y si
+  se empieza por la teoría o por los datos (2 fuentes)
 
 ## Fuentes
 
@@ -190,6 +193,9 @@ como primera fuente · siete de ocho clústeres poblados · ver [[pendientes]] y
   2021. Libro colectivo de Ediciones UAH, arbitrado. Bibliografía de S1.1 y, por el
   capítulo de Tudela, de la clase 1 de S1.2. Varios autores escriben sobre
   instituciones de las que forman parte. Tercera de la tanda 1
+- [[vives-varela-teoria-fundamentada]] — Vives Varela y Hamui Sutton, 2021. Artículo de
+  revisión de una revista de educación médica de la UNAM. Bibliografía de S1.2. Segunda de
+  la tanda 2
 - [[weisburd-el-lugar-importa]] — Weisburd y otros, 2016. No es bibliografía oficial;
   sostiene el módulo 3 de S1.1 por contenido. Primera de la tanda 1
 - [[wikstrom-por-que-se-delinque]] — Wikström, 2017. Obligatoria de S1.1,
