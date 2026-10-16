@@ -8,6 +8,50 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-16] ingesta | Batthyány y Cabrera (2011), Metodología de la investigación en Ciencias Sociales
+
+**Primera obra de la tanda 2, que debía cerrar el 10-10 y no había empezado.** La tanda 3
+vence hoy. El autor decidió mantener el orden establecido: la 3 va después de terminar la 2.
+
+- Ficha creada: [[batthyany-metodologia-investigacion]]. Manual docente del ciclo inicial de
+  la Facultad de Ciencias Sociales de la Universidad de la República, Montevideo, que
+  compila a otros autores. `verificacion_bibliografica: verificado` contra la portada y la
+  página de imprenta.
+- Páginas creadas (3): [[diseno-de-investigacion]], [[operacionalizacion]] y
+  [[enfoques-cuantitativo-y-cualitativo]], las tres en `medicion-y-metodo`.
+- Páginas actualizadas (7):
+  · [[evaluacion-de-programas]]: el manual no dirime las tres ideas de evidencia, pero
+    permite leer a Tudela como complementación de métodos;
+  · [[diagnostico-barrial]]: la proyección por tipología sin selección al azar declarada, y
+    la renuncia a la representatividad como límite general de las técnicas de casos;
+  · [[analisis-espacial-del-delito]]: segunda fuente sobre la falacia ecológica, y contar
+    delitos no es contar víctimas;
+  · [[violencia-en-el-noviazgo]]: la etiqueta y la conducta como definición nominal y
+    operacional;
+  · [[trabajo-de-grado-profesionalizante]]: otro criterio de validez, el del vacío de
+    conocimiento;
+  · [[eficacia-colectiva]] y [[bourgois-en-busca-de-respeto]], sólo con retroenlace.
+  · Más [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: 1 nueva y 2 enmendadas.
+  · **Qué justifica investigar** (tensión 31). En [[trabajo-de-grado-profesionalizante]].
+  · **El promedio del barrio** (tensión 8) gana un segundo argumento. En
+    [[diagnostico-barrial]].
+  · **Tres ideas de evidencia** (tensión 16) queda sin dirimir. En
+    [[evaluacion-de-programas]].
+  · Una convergencia nueva, la de la medición, con Valdivia-Peralta y otros.
+- En revisión: 0 ítems nuevos y 3 enmiendas. PADS+ no se crea: el manual no trata el
+  diseño longitudinal de cohorte, y el criterio pasa a Blanco (2011), tanda 3. La ley de
+  concentración y el capital cultural siguen sin fuente. La cola sigue en 31.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-10-16-batthyany-metodologia-investigacion.md`.
+- Notas: `programa/S1.2` cita «Cabrera, C.». El documento dice Mariana Cabrera, y la obra
+  es de coordinadoras. Registrado en [[referencias]] y en la ficha, sin tocar
+  `programa/`. Las citas internas del manual tienen años que no calzan con su
+  bibliografía, y hay una errata: el positivismo nace en el «siglo xxi». Ninguna obra del
+  manual habla de delito. Merton aparece una vez, por las teorías de alcance medio, y se
+  anotó en el vacío del módulo 5 para que no se lea como cobertura. Toca 11 páginas de
+  contenido, ficha incluida.
+
 ## [2026-10-02] ingesta | Bourgois (2010), En busca de respeto. Vendiendo crack en Harlem
 
 **Ingesta fuera del orden por calendario, por decisión del autor, en la misma sesión que

@@ -8,9 +8,9 @@ sources: []
 
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
-**Al 02-10-2026: núcleo ancla completo, tanda 1 cerrada y dos ingestas fuera de
-orden.** Dieciséis fuentes de 118, cincuenta y cinco páginas, **siete de ocho clústeres
-poblados**. Las
+**Al 16-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden y la
+tanda 2 en curso.** Diecisiete fuentes de 118, cincuenta y nueve páginas, **siete de ocho
+clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
 por decisión del autor, un proyecto de tesis de Derecho inédito, Zúñiga Núñez (2013),
@@ -20,7 +20,7 @@ La guía que prescribe tiene genealogía. La *Guía para la prevención en barri
 ONU-Hábitat y la UAH publicaron hacia 2010, [[vanderschueren-guia-prevencion-barrios]],
 es su versión anterior: la de 2020 la reproduce casi textualmente sin citarla.
 
-**La última ingesta trae Chile.** [[vanderschueren-prevencion-del-delito]] es un libro
+**El libro de 2021 trae Chile.** [[vanderschueren-prevencion-del-delito]] es un libro
 colectivo arbitrado, gestado en el propio magíster, con quince capítulos. Por primera
 vez la wiki tiene material chileno de primera mano sobre varios temas:
 
@@ -50,7 +50,7 @@ queda por verificar.
 propuesta de que evalúe las estrategias de su propia institución. Su evidencia sobre
 policía viene de Weisburd y otros, así que no confirma a esa fuente: la repite desde Chile.
 
-**La última ingesta mira el barrio desde dentro.** Entraron el 02-10, fuera del orden y por
+**Las ingestas del 02-10 miran el barrio desde dentro.** Entraron el 02-10, fuera del orden y por
 decisión del autor, dos libros que ningún programa recibido nombra.
 [[arias-empresas-criminales-y-gobernanza]] estudia seis barrios de Rio, Kingston y
 Medellín y propone los [[regimenes-armados-microescala]]: el orden de un barrio depende de
@@ -62,6 +62,19 @@ respuesta a la exclusión que da un lugar a la dignidad y a la vez organiza la
 destrucción de quienes participan. Entre los dos tocan veinte páginas, fichas incluidas, y las que más
 cambian son [[legitimidad-policial]], [[miedo-social]] y [[mano-dura-y-militarizacion]],
 que ahora tienen el barrio además de la estadística.
+
+**La última ingesta trae el método.** [[batthyany-metodologia-investigacion]] es un manual
+docente de metodología de la Universidad de la República, que compila a Sautu, Corbetta,
+Briones y otros. Es la primera obra de la tanda 2 y el primer texto metodológico general de
+la wiki. Nacen tres páginas de método: [[diseno-de-investigacion]], [[operacionalizacion]] y
+[[enfoques-cuantitativo-y-cualitativo]]. Lo más útil no está en sus ejemplos, que son de
+sociología, sino en lo que permite nombrar en páginas que ya existían. La etiqueta y la
+conducta en [[violencia-en-el-noviazgo]] son una definición nominal y una operacional. Las
+dos medidas de [[eficacia-colectiva]] son dos definiciones operacionales de un mismo
+concepto. Y la proyección por tipología de [[diagnostico-barrial]] no declara la selección
+al azar que la sostendría. Lo que el manual no trae pesa tanto como lo que trae: ni
+experimentos ni cohortes, de modo que no dirime la tensión de evidencia ni da todavía la
+página de PADS+.
 
 ## Siete respuestas a la misma pregunta
 
@@ -130,8 +143,9 @@ excepción parcial: toman posición frente a Sampson y Wikström.
    muestran que dentro de un barrio de alto delito la mayoría de las calles tiene poco.
    Ver [[eficacia-colectiva]] y [[desorganizacion-social]].
 8. **El promedio del barrio.** Proyectar el diagnóstico por tipo de barrio puede
-   ocultar los puntos calientes. La proyección es un añadido de 2020. Ver
-   [[diagnostico-barrial]].
+   ocultar los puntos calientes. La proyección es un añadido de 2020. Desde el 16-10,
+   un segundo argumento: la guía no dice que elija los barrios al azar, y sin eso la
+   proyección no tiene base probabilística. Ver [[diagnostico-barrial]].
 9. **Focalización y legitimidad.** Pueden ser ciertos a la vez el daño de las tácticas
    agresivas y la falta de evidencia de daño por la presencia focalizada. Ver
    [[legitimidad-policial]] y [[policia-de-puntos-calientes]].
@@ -165,7 +179,9 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     Weisburd juzga por experimentos. Tudela pide evaluaciones independientes y
     cuasiexperimentales para el efecto, y comprensivas para la implementación. Y las
     conclusiones del libro que publica a Tudela afirman, sin evaluación, que Peñalolén
-    bajó realmente los delitos. Ver [[evaluacion-de-programas]].
+    bajó realmente los delitos. Un manual de metodología no la dirime, porque no trata
+    experimentos. Sí permite leer la posición de Tudela como complementación de métodos.
+    Ver [[evaluacion-de-programas]].
 17. **¿Viaja la eficacia colectiva?** Según Arias y Tocornal (2018), citados de
     segunda mano, no tiene en América Latina el efecto que tiene en Estados Unidos.
     Los editores la condicionan a una policía que ayude y no neutralice. Ver
@@ -221,6 +237,13 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     generación, una estrategia con estatus que fracasó cuando cerraron las fábricas. Ver
     [[prevencion-del-delito]].
 
+**La que abre Batthyány y Cabrera**
+
+31. **Qué justifica investigar.** Para un manual de metodología, el vacío de
+    conocimiento, aunque sea práctico. Para el Magíster, la utilidad demostrable sobre un
+    caso. No se oponen del todo: el manual admite temas por encargo de un municipio. La
+    diferencia está en qué valida el resultado. Ver [[trabajo-de-grado-profesionalizante]].
+
 **La que más va a pesar en el trabajo evaluado de S1.1.**
 [[onu-habitat-guia-barrios]] incorpora la teoría de las ventanas rotas dentro de su
 [[tipologia-barrial]], y [[sampson-vecindario-y-comunidad]] la declara espuria.
@@ -228,7 +251,7 @@ Weisburd y otros declaran la evidencia mixta. La versión de 2010 fundaba la mis
 en el control visual. Lo discutible es la justificación añadida en 2020, más que el
 inventario. Ver [[ventanas-rotas]].
 
-**Cuatro convergencias, que valen tanto como las tensiones.**
+**Cinco convergencias, que valen tanto como las tensiones.**
 
 - **La mano dura.** Sampson desde la tolerancia cero, Albarracín desde la literatura
   latinoamericana y el libro de 2021 desde la prevención llegan a lo mismo: la
@@ -249,6 +272,10 @@ inventario. Ver [[ventanas-rotas]].
   la violencia en el noviazgo llegan al mismo diagnóstico: en Chile los programas y las
   campañas no se evalúan, y la evidencia viene de países de altos ingresos. Ver
   [[evaluacion-de-programas]].
+- **La medición.** Valdivia-Peralta y otros desde la violencia en el noviazgo, y un manual
+  de metodología desde la sociología, llegan al mismo problema con la misma palabra.
+  Preguntar si alguien vivió violencia deja la definición a cada encuestado. Ninguno cita
+  al otro. Ver [[operacionalizacion]].
 
 ## Lo que ya puede hacer, y antes no
 
@@ -280,6 +307,10 @@ inventario. Ver [[ventanas-rotas]].
   hay, qué inseguridad produce cada uno y qué política le corresponde.
 - **Explicar la violencia juvenil desde la calle.** [[cultura-callejera]], con la
   advertencia de que viene de Nueva York en los ochenta.
+- **Diseñar una investigación y operacionalizar sus conceptos.**
+  [[diseno-de-investigacion]], [[operacionalizacion]] y
+  [[enfoques-cuantitativo-y-cualitativo]]. Vienen de un manual de pregrado que compila a
+  otros autores y no trata experimentos ni cohortes.
 
 Las cuatro primeras vienen sobre todo del equipo del docente del ramo: dos guías que
 cuentan como una, y el libro de 2021, en parte de los mismos autores. Las tres últimas,
@@ -290,7 +321,7 @@ cosas.
 
 El trabajo recae sobre una política municipal o un proyecto de seguridad identificable
 —la misma exigencia de anclaje del [[trabajo-de-grado-profesionalizante]] un semestre
-antes. Las fuentes dan, juntas, quince preguntas que un diagnóstico serio debería poder
+antes. Las fuentes dan, juntas, dieciséis preguntas que un diagnóstico serio debería poder
 responder sobre cualquier intervención. Las formula esta wiki:
 
 - ¿Funciona por el territorio o por quién usa el territorio?
@@ -313,6 +344,8 @@ responder sobre cualquier intervención. Las formula esta wiki:
 - ¿Hay en el territorio un grupo armado consolidado, y qué relación tiene con quienes
   ejecutan la intervención?
 - ¿Una tasa de homicidios baja indica seguridad o dominio?
+- ¿La cifra que la justifica cuenta delitos, víctimas o lugares, y la conclusión habla de
+  la misma unidad?
 
 La primera política municipal chilena documentada en la wiki es la de Peñalolén. Vive
 en la ficha y en [[revision]], a la espera de una fuente que no sea su propia
@@ -338,9 +371,11 @@ dirección. Elegirla o no es decisión del autor.
   tanda 3; Gottfredson y Hirschi (1990) en la tanda 4.
 - **Hablar de criminalización desde sus autores.** Baratta (2004) en la tanda 3;
   Ferrajoli en la tanda 6.
-- **Contrastar métodos.** `wiki/methodology/` tiene cuatro páginas, ninguna sobre diseño
-  de investigación. La medición de la victimización espera al informe del INE (2023), y el
-  diseño, a Batthyány y Cabrera (2011), los dos en la tanda 2.
+- **Contrastar métodos.** `wiki/methodology/` tiene siete páginas y desde el 16-10 una
+  sobre diseño de investigación. Sigue sin haber una sobre diseños experimentales,
+  cuasiexperimentales o longitudinales: el manual de Batthyány y Cabrera no los trata, y
+  PADS+ espera a Blanco (2011), en la tanda 3. La medición de la victimización espera al
+  informe del INE (2023), en la tanda 2.
 - **Clasificar grupos criminales.** No hay `subtipo` de `entity` donde quepan el PCC o
   las milícias. Material de la operación 8. Las milícias ya tienen la segunda fuente que
   su página esperaba; lo único que la bloquea es esto.
@@ -349,9 +384,11 @@ dirección. Elegirla o no es decisión del autor.
 
 Hasta el 27-11-2026 manda el **orden por calendario** fijado en [[purpose]]: seis
 tandas, cada una cerrada antes de la clase que la usa. La tanda 1 quedó cerrada el
-27-09. Sigue la tanda 2, que cierra el 10-10: Batthyány y Cabrera (2011), Vives Varela y
-Hamui Sutton (2021), INE (2023), Srur (2014), pp. 26-45, el capítulo de Boba en Tudela (ed.)
-(2010) y CIPC (2015). Después de la sexta vuelve el orden por cúmulos.
+27-09. La tanda 2 debía cerrar el 10-10 y empezó el 16-10 con Batthyány y Cabrera (2011).
+Quedan Vives Varela y Hamui Sutton (2021), INE (2023), Srur (2014), pp. 26-45, el capítulo
+de Boba en Tudela (ed.) (2010) y CIPC (2015). La tanda 3 vence el mismo 16-10. El autor
+decidió ese día mantener el orden: la 3 va después de terminar la 2. Después de la sexta
+vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.
 Arias (2017) y Bourgois (2010) entraron fuera de ese orden el 02-10, por decisión del
-autor. Ningún documento de la tanda 2 está ingerido, y su cierre es el 10-10.
+autor.

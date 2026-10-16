@@ -1,13 +1,13 @@
 ---
 title: Análisis espacial del delito
 type: method
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-10-16
 ---
 
 # Análisis espacial del delito
@@ -25,6 +25,8 @@ Los autores insisten en que el método sin teoría deja a las instituciones en e
 **1. Autocorrelación espacial.** Ocurre cuando el delito en un área hace más o menos probable el delito en el área contigua. Con datos de delito es casi siempre positiva: los lugares cercanos se parecen [^ext-3]. Para la estadística clásica es un problema, porque viola el supuesto de independencia. Para el mapeo es la base, porque la interpolación que produce un mapa de calor depende de ella [^ext-4]. Un modelo con un término espacial mostró que el robo de autos en una cuadra depende de las características de esa cuadra y también de las de las cuadras que la rodean [^ext-4].
 
 **2. Falacia ecológica.** Robinson (1950) mostró que una correlación entre áreas no dice nada seguro sobre los individuos. A nivel de estados de EE. UU., la relación entre inmigración y alfabetización era fuerte y positiva; a nivel individual, era pequeña y negativa [^ext-5]. La crítica vale también para los estudios de microlugar si intentan concluir algo sobre personas y no sobre lugares [^ext-5].
+
+Añadido el 16-10-2026. [[batthyany-metodologia-investigacion]] la define con Galtung (1966): concluir que una relación entre variables de un colectivo vale para sus miembros [^ext-25]. Su ejemplo es escolar. Que las escuelas con más niños pobres tengan más ausentismo no prueba que los niños pobres falten más [^ext-25]. Agrega un error vecino, el de confundir unidades de evento con unidades de persona: contar faltas no es contar niños que faltan [^ext-26]. Con datos policiales pasa lo mismo, porque contar delitos no es contar víctimas ni lugares [^inf-1]. Ver [[diseno-de-investigacion]].
 
 **3. Problema de la unidad espacial modificable.** Los resultados cambian según la unidad en que se agregan los datos: por la escala —manzanas contra comunas— y por cómo se trazan los límites [^ext-6]. Los límites administrativos, pensados para otros fines, casi nunca separan lo que el delito separa [^ext-6]. En Vancouver, cuanto más pequeña la unidad, más estable resultó la concentración del delito en cinco años (Andresen y Malleson, 2011) [^ext-7]. La recomendación es recolectar los datos en la unidad más pequeña posible: después se pueden agregar, pero no al revés [^ext-8].
 
@@ -73,8 +75,10 @@ Una aplicación distinta: el **campo de visión de las cámaras**. Para evaluar 
 - [[puntos-calientes]] — lo que estas técnicas identifican
 - [[diagnostico-barrial]] — un método que agrega por barrio; el riesgo del promedio se aplica a él
 - [[policia-de-puntos-calientes]] — la práctica que más usa estas técnicas
+- [[batthyany-metodologia-investigacion]] — segunda fuente sobre la falacia ecológica
+- [[diseno-de-investigacion]] — unidades de análisis, eventos y personas, y la falacia ecológica en general
 
-**Pendiente de contraste.** Las metodológicas de S1.2 están en el corpus sin ingerir, entre ellas el capítulo de Boba sobre estadísticas delictuales en Tudela (2010), que entra en la tanda 2.
+**Pendiente de contraste.** Batthyány y Cabrera (2011) entró el 16-10-2026 y sólo toca la falacia ecológica. Falta el capítulo de Boba sobre estadísticas delictuales en Tudela (2010), que entra en la tanda 2.
 
 ---
 
@@ -102,3 +106,6 @@ Una aplicación distinta: el **campo de visión de las cámaras**. Para evaluar 
 [^ext-22]: **Extraído** — [[weisburd-el-lugar-importa]], p. 111.
 [^ext-23]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 9 y 152.
 [^ext-24]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 97-98.
+[^ext-25]: **Extraído** — [[batthyany-metodologia-investigacion]], pp. 70-71, sobre Galtung (1966).
+[^ext-26]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 70.
+[^inf-1]: **Inferido** (confianza 0.8) — aplicación propia del ejemplo escolar del manual a los registros policiales. El manual no habla de delito.

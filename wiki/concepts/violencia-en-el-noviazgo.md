@@ -1,13 +1,13 @@
 ---
 title: Violencia en el noviazgo
 type: concept
-sources: ["2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2024 - Ministerio de la Mujer y la Equidad de Género - Ley 21.675, estatuye medidas para prevenir, sancionar y erradicar la violencia en contra de las mujeres en razón de su género.pdf"]
+sources: ["2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2024 - Ministerio de la Mujer y la Equidad de Género - Ley 21.675, estatuye medidas para prevenir, sancionar y erradicar la violencia en contra de las mujeres en razón de su género.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf"]
 cluster: victimizacion-e-inseguridad
 curso: [s1-2]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-27
-actualizado: 2026-09-27
+actualizado: 2026-10-16
 ---
 
 # Violencia en el noviazgo
@@ -43,6 +43,8 @@ Buena parte de esa dispersión la produce la medición. La revisión deja ver cu
 | Casanueva y Molina (2008) | 13,5 % | 52,1 % [^ext-10] |
 
 En España pasa lo mismo: el 68,7 % de 6.731 jóvenes no se sintió maltratado, atemorizado ni atrapado en su relación, pero una cuarta parte respondió que sí a alguna de esas situaciones (López-Cepero y otros, 2015) [^ext-11].
+
+**El mismo problema, dicho en general.** Añadido el 16-10-2026. Un manual de metodología usa el mismo ejemplo para explicar por qué toda investigación necesita una definición nominal y una operacional. Si se pregunta a alguien si fue víctima de violencia, responde según su propia definición [^ext-34]. La pregunta por conductas es una definición operacional explícita, y la pregunta por la etiqueta deja la definición a cada encuestado [^inf-5]. Ver [[operacionalizacion]].
 
 **2. El instrumento.** Unas escalas preguntan por la violencia ejercida, como la CTS-2; otras por la sufrida, como la de Vizcarra y Póo. Casi ningún estudio chileno informa las propiedades psicométricas de lo que usa [^ext-12].
 
@@ -106,6 +108,7 @@ La revisión pedía una ley que tipificara la violencia en el noviazgo como deli
 - [[valdivia-violencia-en-el-noviazgo]] — fuente
 - [[evaluacion-de-programas]] — las campañas chilenas sin evaluar y la evidencia concentrada en países de altos ingresos
 - [[ley-21675-violencia-de-genero]] — la ley que en 2024 incorporó el pololeo a la violencia intrafamiliar
+- [[operacionalizacion]] — la etiqueta y la conducta como definición nominal y definición operacional
 
 ---
 
@@ -142,7 +145,9 @@ La revisión pedía una ley que tipificara la violencia en el noviazgo como deli
 [^ext-31]: **Extraído** — [[ley-21675-violencia-de-genero]], art. 6 N°2, p. 2.
 [^ext-32]: **Extraído** — [[ley-21675-violencia-de-genero]], arts. 12 y 20, pp. 7 y 10-11.
 [^ext-33]: **Extraído** — [[ley-21675-violencia-de-genero]], art. 54 N°5, pp. 29-30; y arts. 1 y 29, pp. 1 y 16.
+[^ext-34]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 52.
 [^inf-1]: **Inferido** (confianza 0.8) — comparación entre el resumen y la tabla 2. Ver la ficha.
 [^inf-2]: **Inferido** (confianza 0.6) — lectura propia de los datos que la revisión compila. No es un juicio sobre la violencia de género, sino sobre lo que este artículo demuestra.
 [^inf-3]: **Inferido** (confianza 0.7) — comparación entre la propuesta de [[valdivia-violencia-en-el-noviazgo]], pp. 16 y 20, y el texto de la ley. Que no exista un tipo penal propio se afirma sólo respecto de la Ley 21.675; otra norma podría haberlo creado.
 [^inf-4]: **Inferido** (confianza 0.7) — lectura de la estructura de la ley, que no discute la relación entre sus dos capas.
+[^inf-5]: **Inferido** (confianza 0.8) — la revisión de Valdivia-Peralta y otros no usa los términos del manual, y el manual no habla de violencia en el noviazgo. La correspondencia es de esta wiki.

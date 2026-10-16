@@ -1,32 +1,32 @@
 # Estado del despliegue
 
-**Generado:** 2026-10-02 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
+**Generado:** 2026-10-16 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 113 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 117 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 98 | 86.7 % |
+| `pendiente` | 101 | 86.3 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 15 | 13.3 % |
+| `completo` | 16 | 13.7 % |
 
 ## Por cumulo
 
 | Cumulo | Total | pendiente | fase1 | fase2 | completo |
 |---|---:|---:|---:|---:|---:|
-| (fuera de INVENTARIO.md) | 1 | 1 | 0 | 0 | 0 |
+| (fuera de INVENTARIO.md) | 5 | 5 | 0 | 0 | 0 |
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
 | Bibliografía S1.1, consulta y complementaria | 12 | 11 | 0 | 0 | 1 |
 | Explicación del delito | 5 | 4 | 0 | 0 | 1 |
 | Gobernanza criminal y territorio | 6 | 4 | 0 | 0 | 2 |
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
 | Institucionalidad y política de prevención en Chile | 6 | 5 | 0 | 0 | 1 |
-| Integrados desde el programa del curso (05-09-2026) | 9 | 6 | 0 | 0 | 3 |
+| Integrados desde el programa del curso (05-09-2026) | 9 | 5 | 0 | 0 | 4 |
 | Medición e inseguridad | 6 | 6 | 0 | 0 | 0 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
 | Prevención e intervención | 4 | 3 | 0 | 0 | 1 |
@@ -40,6 +40,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 ## Anomalias
 
 - inventario desactualizado: `2017 - Arias - empresas criminales y gobernanza en amlat.pdf` esta en raw/sources/ pero no en INVENTARIO.md
+- inventario desactualizado: `ADAMS_La_Violencia_Cronica_su_reproduccion_WWilson_IntCenter.pdf.pdf` esta en raw/sources/ pero no en INVENTARIO.md
+- inventario desactualizado: `GU_A_DE_BARRIOS_ESPA_OL.pdf` esta en raw/sources/ pero no en INVENTARIO.md
+- inventario desactualizado: `Guia_de_barrios_WEB.pdf` esta en raw/sources/ pero no en INVENTARIO.md
+- inventario desactualizado: `sampson_vecindario_ycomunidad_ef_colectiva.pdf` esta en raw/sources/ pero no en INVENTARIO.md
 
 ## Verificacion bibliografica pendiente
 
@@ -60,6 +64,10 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 ### (fuera de INVENTARIO.md)
 
 - `pendiente` — 2017 - Arias - empresas criminales y gobernanza en amlat.pdf
+- `pendiente` — ADAMS_La_Violencia_Cronica_su_reproduccion_WWilson_IntCenter.pdf.pdf
+- `pendiente` — GU_A_DE_BARRIOS_ESPA_OL.pdf
+- `pendiente` — Guia_de_barrios_WEB.pdf
+- `pendiente` — sampson_vecindario_ycomunidad_ef_colectiva.pdf
 
 ### Amenaza y securitización
 
@@ -145,7 +153,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 ### Integrados desde el programa del curso (05-09-2026)
 
 - `pendiente` — 2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf
-- `pendiente` — 2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf
+- `completo` — 2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf
 - `pendiente` — 2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf
 - `completo` — 2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf
 - `completo` — 2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf

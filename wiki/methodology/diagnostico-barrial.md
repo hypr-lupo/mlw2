@@ -1,13 +1,13 @@
 ---
 title: Diagnóstico barrial
 type: method
-sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf"]
+sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-10-16
 ---
 
 # Diagnóstico barrial
@@ -69,6 +69,15 @@ El argumento que la guía extrae de esa experiencia es de factibilidad: haber re
 
 Lo que la guía **no** ofrece es la validación: no hay comparación con un diagnóstico hecho de otro modo, ni medida de qué tan bien la tipología predijo lo que se encontró. «Verificar la factibilidad» no es «verificar la validez» [^inf-2].
 
+## Contraste con un manual de metodología
+
+Añadido el 16-10-2026 al ingerir [[batthyany-metodologia-investigacion]], el primer texto metodológico general de la wiki. Dos puntos.
+
+- **La proyección no tiene base probabilística declarada.** En los estudios cuantitativos, la muestra probabilística es la que permite inferir a la población y calcular márgenes de error [^ext-20]. La guía de 2020 elige barrios representativos de cada tipo y proyecta sus resultados a la categoría [^ext-3]. No dice que los elija al azar. Si no lo hace, la proyección descansa en el juicio de quien eligió, no en la teoría de la probabilidad [^inf-5].
+- **La renuncia del barrio crítico tiene nombre.** El manual registra la falta de generalización como límite de las técnicas de casos: la observación participante, la historia de vida y el grupo de discusión [^ext-21]. La guía de 2010 acepta ese límite a sabiendas cuando elige técnicas cualitativas para el barrio crítico [^ext-16]. Ver [[enfoques-cuantitativo-y-cualitativo]].
+
+El manual describe también el punto de partida del método: un municipio que encarga un diagnóstico, y la necesidad de traducir esa demanda en un tema de investigación [^ext-22]. Ver [[diseno-de-investigacion]].
+
 ## Cita
 
 > "debe generar antecedentes comparables en el tiempo"
@@ -82,12 +91,14 @@ Lo que la guía **no** ofrece es la validación: no hay comparación con un diag
 - [[coproduccion-de-seguridad]] — uno de los fines declarados del diagnóstico
 - [[miedo-social]] — por qué un diagnóstico apoyado sólo en tasas de delito describe mal el problema: la percepción de inseguridad puede ir muy por delante de la violencia registrada
 - [[violencia-cronica]] — la categoría donde el diagnóstico es más difícil
+- [[diseno-de-investigacion]] — población, muestra y el tema que nace de una demanda
+- [[enfoques-cuantitativo-y-cualitativo]] — los límites de las técnicas que la guía elige para el barrio crítico
 - [[analisis-espacial-del-delito]] — el otro método de la wiki, que trabaja a escala de calle
 - [[puntos-calientes]] — lo que la escala barrial puede ocultar
 - [[ventanas-rotas]] — el supuesto que arrastra el relevamiento del deterioro físico, y por qué la versión de 2010 no lo necesitaba
 - [[capital-social]] — su perversión es lo que vuelve impracticable el diagnóstico participativo en un barrio crítico
 
-**Pendiente de contraste.** Hasta el 26-09-2026 era el único método que la wiki registraba, y viene de una guía operativa, no de un texto metodológico. Ahora la acompaña [[analisis-espacial-del-delito]]. El cúmulo `Medición e inseguridad` y las nueve metodológicas de S1.2 están en el corpus sin ingerir: Tudela sobre análisis delictual, el informe metodológico del INE sobre victimización y percepción, Batthyány y Cabrera, Minayo. Hasta entonces no tiene con qué compararse en su propio terreno, que es el diagnóstico de un territorio. Ver [[pendientes]].
+**Pendiente de contraste.** Hasta el 26-09-2026 era el único método que la wiki registraba, y viene de una guía operativa. Ahora lo acompañan [[analisis-espacial-del-delito]] y, desde el 16-10-2026, las páginas de método que salen de Batthyány y Cabrera. Falta un texto sobre diagnóstico de un territorio: el informe metodológico del INE sobre victimización y percepción, en la tanda 2, y Minayo, Deslandes y Gomes (2023). Ver [[pendientes]].
 
 ---
 
@@ -110,7 +121,11 @@ Lo que la guía **no** ofrece es la validación: no hay comparación con un diag
 [^ext-17]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 2, sección 2.1.2, p. 39.
 [^ext-18]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 2, sección 2.3, p. 43.
 [^ext-19]: **Extraído** — [[vanderschueren-guia-prevencion-barrios]], capítulo 2, secciones 2.2, 2.4.3 y 2.5, pp. 42, 47 y 51, sobre Lynch (1960).
+[^ext-20]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 73.
+[^ext-21]: **Extraído** — [[batthyany-metodologia-investigacion]], pp. 89, 92 y 93, sobre Corbetta (2007) y Valles (2000).
+[^ext-22]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 20.
 [^inf-1]: **Inferido** (confianza 0.8) — consecuencia lógica del diseño de muestreo que la guía describe. El texto declara la proyección por categoría pero no discute sus supuestos ni sus límites.
 [^inf-2]: **Inferido** (confianza 0.8) — la guía afirma haber «verificado la utilidad del enfoque y la factibilidad de su implementación», y no presenta ninguna medida de validez. La distinción entre ambas cosas es lectura propia.
 [^inf-3]: **Inferido** (confianza 0.7) — combina el diseño de muestreo de [[onu-habitat-guia-barrios]] con la evidencia de variación calle a calle de [[weisburd-el-lugar-importa]]. Ninguna de las dos fuentes plantea la consecuencia.
 [^inf-4]: **Inferido** (confianza 0.8) — la guía declara el límite de representatividad para las herramientas cualitativas y la inutilidad de las cuantitativas en barrios críticos. Que eso deje sin diagnóstico representativo al tipo de barrio que más lo necesita es lectura propia.
+[^inf-5]: **Inferido** (confianza 0.6) — contraste propio entre [[onu-habitat-guia-barrios]], p. 56, y [[batthyany-metodologia-investigacion]], p. 73. La guía podría elegir los barrios al azar dentro de cada tipo sin decirlo. Si lo hace, la proyección valdría para la tipología, no para cada barrio.

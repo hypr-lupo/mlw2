@@ -12,8 +12,9 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 
 ## Resumen consolidado
 
-Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, y el 02-10-2026, con la
-ingesta de Arias (2017) y Bourgois (2010). Agrupa los ítems abiertos por lo que los
+Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026, con la
+ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con la de Batthyány y Cabrera
+(2011). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
 **31 abiertos.**
 
@@ -48,7 +49,7 @@ ingesta se cumple.
 
 | Ítem | Acción | Obra que lo destraba | Tanda |
 |---|---|---|---|
-| `[método]` PADS+ | `crear-pagina` | Batthyány y Cabrera (2011) | 2 |
+| `[método]` PADS+ | `crear-pagina` | Blanco (2011), si trata los estudios longitudinales. Batthyány y Cabrera (2011) no los trata | 3 |
 | `[método]` Medición de la victimización | `crear-pagina` | INE (2023) | 2 |
 | `[entidad]` Política de seguridad de Peñalolén | `crear-pagina` | CIPC (2015), si la incluye | 2 |
 | `[investigar]` Ley de concentración en una comuna chilena | `investigar` | Metodológicas de la tanda 2; después, las normas de la tanda 5 | 2 y 5 |
@@ -70,8 +71,8 @@ ingesta se cumple.
 | `[concepto]` Capital cultural | Bourdieu (2002), pedido por S2.4 y ausente del corpus |
 | `[concepto]` Violencia contra las mujeres en la pareja y la familia | La bibliografía de S3.3, cuando llegue su programa |
 
-**Qué adelanta cada tanda.** La 2 destraba o adelanta cuatro ítems; la 3, uno; la 4, dos;
-la 5, tres; la 6, cuatro.
+**Qué adelanta cada tanda.** La 2 destraba o adelanta tres ítems; la 3, dos; la 4, dos;
+la 5, tres; la 6, cuatro. PADS+ pasó de la 2 a la 3 el 16-10-2026.
 
 ## Abiertos
 
@@ -184,6 +185,15 @@ la 5, tres; la 6, cuatro.
       investigación: tratan de evaluación de programas y de análisis policial.
       `wiki/methodology/` tiene ahora cuatro páginas, pero ninguna sobre diseño. El
       criterio espera a Batthyány y Cabrera (2011), en la tanda 2.
+      **Enmienda 16-10-2026** (ingesta de [[batthyany-metodologia-investigacion]]): el
+      criterio se cumple en la letra y no en el fondo. El manual da vocabulario para dos
+      rasgos de PADS+. Uno, las varias unidades de análisis, individuos y áreas pequeñas, con
+      variables colectivas construidas desde respuestas individuales. Otro, la combinación de
+      técnicas. Pero no trata el diseño longitudinal de cohorte, que es el rasgo central de
+      PADS+, ni los escenarios experimentales. Con él, la página sería todavía una ficha de
+      estudio con vocabulario prestado. Propuesta: mover el criterio a Blanco (2011), en la
+      tanda 3, si trata los estudios longitudinales. Las piezas que sí sirven ya están en
+      [[diseno-de-investigacion]] y [[operacionalizacion]].
 
 - [ ] **[esquema]** Los grupos criminales no tienen dónde caber — un grupo como el
       PCC, las milícias de Rio o un cartel no encaja en ninguno de los cinco
@@ -304,6 +314,13 @@ la 5, tres; la 6, cuatro.
       después afuera. Una página hecha desde búsqueda web iría a `wiki/synthesis/`
       con `procedencia: mixta`, y no se citaría en un trabajo evaluado sin sustituirla
       por los estudios originales.
+      **Enmienda 16-10-2026** (ingesta de [[batthyany-metodologia-investigacion]]): la
+      primera metodológica de la tanda 2 no trae ningún estudio de concentración. Aporta
+      dos piezas para diseñarlo, no para responderlo. Hay que elegir la unidad de análisis,
+      porque delitos, lugares y víctimas no son la misma. Y los registros administrativos
+      guardan eventos, de modo que se usan sin confundir las unidades (p. 70). Ver
+      [[diseno-de-investigacion]]. Quedan el INE (2023), Srur (2014) y el capítulo de Boba en
+      la tanda 2.
 
 - [ ] **[alcance]** Zúñiga Núñez (2013) es, sobre todo, teoría del Estado.
       [[zuniga-civilizacion-y-derechos-humanos]] entró el 26-09-2026 por decisión
@@ -536,6 +553,10 @@ la 5, tres; la 6, cuatro.
       Acción propuesta: `crear-pagina` · Origen: ingesta 2026-10-02
       Criterio: crearla con una fuente que lo defina, no que lo use. Bourdieu (2002) está
       en la bibliografía de S2.4 y falta en el corpus.
+      **Enmienda 16-10-2026** (ingesta de [[batthyany-metodologia-investigacion]]): una
+      tercera fuente cita a Bourdieu (2002), *La distinción*, que es el título que pide S2.4.
+      Lo hace de segunda mano, por la relación entre gusto, capital escolar y origen social
+      (p. 15). No define capital cultural. El criterio no se cumple.
 
 - [ ] **[concepto]** «Violencia contra las mujeres en la pareja y la familia» — tres
       fuentes la tratan desde ángulos que no se tocan. [[valdivia-violencia-en-el-noviazgo]]

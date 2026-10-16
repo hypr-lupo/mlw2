@@ -9,10 +9,10 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 55 páginas · 16 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
-tanda 1 cerrada el 27-09-2026; sigue la tanda 2 · Arias (2017) y Bourgois (2010) entraron
-el 02-10-2026 fuera del orden · siete de ocho clústeres poblados · ver [[pendientes]] y
-`ESTADO.md`.
+**Estado:** 59 páginas · 17 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
+tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
+fuera del orden · **tanda 2 en curso desde el 16-10-2026**, con Batthyány y Cabrera (2011)
+como primera fuente · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
 
 ## Conceptos
 
@@ -102,7 +102,8 @@ el 02-10-2026 fuera del orden · siete de ocho clústeres poblados · ver [[pend
   pregunta entre barrio vulnerado y crítico; y por qué un programa rinde distinto
   según el barrio (3 fuentes)
 - [[trabajo-de-grado-profesionalizante]] — criterio de admisibilidad del trabajo
-  final: utilidad demostrable sobre un caso real, no aporte al conocimiento (1 fuente)
+  final: utilidad demostrable sobre un caso real, no aporte al conocimiento; y el criterio
+  del vacío de conocimiento de un manual de metodología (2 fuentes)
 - [[ventanas-rotas]] — espuria para la obligatoria del ramo, mixta para la
   criminología del lugar, e incorporada por la guía del trabajo evaluado en 2020, no
   en 2010; y la tolerancia cero de Giuliani vista desde East Harlem (5 fuentes)
@@ -111,7 +112,8 @@ el 02-10-2026 fuera del orden · siete de ocho clústeres poblados · ver [[pend
   la tasa baja que oculta el dominio armado (5 fuentes)
 - [[violencia-en-el-noviazgo]] — violencia en parejas jóvenes sin convivencia; por qué
   es invisible en Chile, por qué la cifra depende de la pregunta, y la ley que deja
-  fuera el pololeo, y lo que corrigió la Ley 21.675. Borrador (2 fuentes)
+  fuera el pololeo, y lo que corrigió la Ley 21.675; la etiqueta y la conducta como
+  problema de operacionalización. Borrador (3 fuentes)
 - [[zona-gris]] — por qué bajo terror crónico casi todos se comportan mal, y por qué
   eso no resulta evidente desde fuera (1 fuente)
 
@@ -126,15 +128,26 @@ el 02-10-2026 fuera del orden · siete de ocho clústeres poblados · ver [[pend
   el paso de gestionar información a gestionar conocimiento; y su elección teórica por la
   oportunidad (1 fuente)
 - [[analisis-espacial-del-delito]] — autocorrelación, falacia ecológica, unidad
-  modificable y efecto de borde; sitio y situación; técnicas de predicción (1 fuente)
+  modificable y efecto de borde; sitio y situación; técnicas de predicción; y contar
+  delitos no es contar víctimas (2 fuentes)
 - [[diagnostico-barrial]] — muestreo por tipología en vez de censo de barrios, y la
   exigencia de comparabilidad en el tiempo; el riesgo de promediar por barrio; y un
-  diagnóstico participativo en el barrio vulnerado y de expertos en el crítico
-  (3 fuentes)
+  diagnóstico participativo en el barrio vulnerado y de expertos en el crítico; una
+  proyección por tipología sin base probabilística declarada (4 fuentes)
+- [[diseno-de-investigacion]] — ruptura, estructuración y comprobación; del tema al
+  problema, marcos, objetivos, cinco diseños por objetivo, hipótesis, unidades de
+  análisis y muestra; lo que un manual de pregrado no trae: experimentos y cohortes
+  (1 fuente)
+- [[enfoques-cuantitativo-y-cualitativo]] — tres paradigmas, explicar o comprender,
+  complementación, combinación y triangulación, y seis técnicas con sus límites
+  (1 fuente)
 - [[evaluacion-de-programas]] — no basta saber qué funciona, sino por qué; evidencia,
   implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; el
-  mismo diagnóstico desde la violencia en el noviazgo; y dos sentidos de «por qué»
-  (4 fuentes)
+  mismo diagnóstico desde la violencia en el noviazgo; dos sentidos de «por qué»; y la
+  tensión leída como complementación de métodos (5 fuentes)
+- [[operacionalizacion]] — del concepto al índice, definición nominal y operacional,
+  validez y confiabilidad; y tres casos de la wiki: eficacia colectiva, violencia en el
+  noviazgo y violencia crónica (5 fuentes)
 
 ## Fuentes
 
@@ -145,6 +158,9 @@ el 02-10-2026 fuera del orden · siete de ocho clústeres poblados · ver [[pend
 - [[arias-empresas-criminales-y-gobernanza]] — Arias, 2017. Política comparada sobre seis
   barrios de Rio, Kingston y Medellín. Ningún programa recibido lo nombra. Fuera del
   orden por calendario
+- [[batthyany-metodologia-investigacion]] — Batthyány y Cabrera (coords.), 2011. Manual
+  docente de metodología de la Universidad de la República, que compila a otros autores.
+  Bibliografía de S1.2. Primera de la tanda 2
 - [[bourgois-en-busca-de-respeto]] — Bourgois, 2010, traducción de una obra de 1995.
   Etnografía de una red de casas de crack en East Harlem; primera etnografía de la wiki.
   Ningún programa recibido lo nombra. Fuera del orden por calendario

@@ -114,6 +114,7 @@ Tres años y medio de residencia en East Harlem [^ext-25]. Observación particip
 - [[arias-empresas-criminales-y-gobernanza]] — lo cita como ejemplo temprano del enfoque de microescala. Tensión sobre la relación entre policía y mercado ilícito registrada en [[legitimidad-policial]].
 - [[sampson-vecindario-y-comunidad]] y [[weisburd-el-lugar-importa]] — la crítica a la tolerancia cero, desde otra posición. Registrado en [[ventanas-rotas]].
 - [[vanderschueren-prevencion-del-delito]] — los factores de riesgo de Hein (2004) y la criminología del curso de vida. Tensiones registradas en [[prevencion-del-delito]] y [[criminologia-del-curso-de-vida]].
+- [[batthyany-metodologia-investigacion]] — un manual de metodología que describe en general la observación participante y sus límites. Ver [[enfoques-cuantitativo-y-cualitativo]].
 
 **Merton, de segunda mano.** Una nota de la conclusión dice que Merton propuso el mismo argumento en los años treinta, en su estudio sobre la estructura social y la anomia [^ext-35]. Merton es uno de los vacíos declarados del corpus, de modo que la afirmación no se puede contrastar. Ver [[pendientes]].
 

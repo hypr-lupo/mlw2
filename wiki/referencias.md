@@ -35,6 +35,13 @@ el PDF trae el año 2017 en la página de derechos, 2016 en el catálogo de la e
 2018 en la primera edición en rústica; ISBN ilegible · obra en inglés sin traducción · el
 corpus omite «y el Caribe» en el título
 
+Batthyány, K. y Cabrera, M. (Coords.). (2011). *Metodología de la investigación en
+Ciencias Sociales. Apuntes para un curso inicial*. Universidad de la República.
+→ [[batthyany-metodologia-investigacion]] · verificada contra la portada y la página de
+imprenta · `programa/S1.2` la cita como «Cabrera, C.»: el documento dice Mariana Cabrera ·
+manual docente que compila a otros autores: al citar a Corbetta, Galtung, Kerlinger o
+Hernández Sampieri a través de él, verificar el año en el original
+
 Bourgois, P. (2010). *En busca de respeto: vendiendo crack en Harlem* (F. Montero
 Castrillo, Trad.). Siglo Veintiuno Editores. (Obra original publicada en 1995)
 → [[bourgois-en-busca-de-respeto]] · verificada contra la página de imprenta · traduce
@@ -149,3 +156,4 @@ el documento, no por inferencia.
 | Garland, *La cultura del control* | 2005, traducción Gedisa | **resuelta el 12-09-2026**: llegó la Gedisa 2005; el archivo de 2001 es el original en inglés |
 | ONU-Hábitat y Guadalajara, *Guía en seguridad y prevención de barrios* | 2020 | 2020, pero la portada declara «Borrador avanzado»: confirmar si hay versión final |
 | Vanderschueren, Díaz y Guajardo (eds.), *Prevención del delito y la violencia* | 2021, tres editores | 2021, coincide. La presentación de la clase 1 de S1.2 cita la obra contenedora a nombre de «F. Vanderschueren (Ed.)», un solo editor |
+| Batthyány y Cabrera (coords.), *Metodología de la investigación en Ciencias Sociales* | 2011, «Batthyány, K. y Cabrera, C.» | 2011, coincide. El documento dice Mariana Cabrera y las presenta como coordinadoras. Se cita por el documento |

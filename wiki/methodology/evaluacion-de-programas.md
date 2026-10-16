@@ -1,13 +1,13 @@
 ---
 title: Evaluación de programas de prevención
 type: method
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1, s1-2]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-09-27
+actualizado: 2026-10-16
 ---
 
 # Evaluación de programas de prevención
@@ -120,6 +120,8 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 
 **Un caso dentro del mismo libro.** Las conclusiones afirman que Peñalolén logró disminuir realmente los delitos de mayor connotación social [^ext-22]. Lo que el cap. VII ofrece para sostenerlo son los casos policiales de la comuna entre 2014 y 2017, contados por la propia dirección, sin comparación con otras comunas ni con la tendencia regional [^ext-23]. Juzgada con el estándar del cap. II, la afirmación es plausible pero no está demostrada [^inf-2]. Ver [[vanderschueren-prevencion-del-delito]].
 
+**Lo que agrega un manual de metodología.** Añadido el 16-10-2026 al ingerir [[batthyany-metodologia-investigacion]]. El manual no dirime la tensión. Trata el diseño evaluativo en un párrafo y no trata diseños experimentales ni cuasiexperimentales [^ext-32]. Sí permite nombrarla. El experimento analiza por variables y busca explicar. La evaluación comprensiva recoge la mirada de los involucrados [^ext-17], y en eso se acerca al análisis por casos, que busca comprender [^ext-33]. La posición de Tudela en 2021 usa el experimento para el efecto y la evaluación comprensiva para la implementación. Es lo que Bericat llama complementación: dos métodos para dos dimensiones del mismo fenómeno, sin buscar que coincidan [^inf-5]. Ver [[enfoques-cuantitativo-y-cualitativo]].
+
 ## Cita
 
 > "Los responsables de la ejecución de proyectos actúan a ciegas, guiados por la intuición"
@@ -137,8 +139,10 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 - [[tudela-analisis-criminal]] — el mismo autor en 2015: el obstáculo policial y el método de Sherman
 - [[analisis-criminal]] — la evaluación como último paso del ciclo del analista
 - [[weisburd-el-lugar-importa]] — el estándar experimental
+- [[enfoques-cuantitativo-y-cualitativo]] — explicar y comprender, y la complementación de métodos
+- [[diseno-de-investigacion]] — el diseño evaluativo como uno de cinco tipos de diseño
 
-**Por confrontar.** Las metodológicas de S1.2 en la tanda 2 —Batthyány y Cabrera (2011), CIPC (2015)— y el Tudela (2015) de la tanda 1.
+**Por confrontar.** CIPC (2015), en la tanda 2, si trae evaluaciones. Batthyány y Cabrera (2011) entró el 16-10-2026 y no trata diseños de impacto. Tudela (2015) entró el 27-09-2026.
 
 ---
 
@@ -173,7 +177,10 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 [^ext-29]: **Extraído** — [[tudela-analisis-criminal]], p. 140.
 [^ext-30]: **Extraído** — [[tudela-analisis-criminal]], p. 148, sobre Sherman (2013a, 2013b).
 [^ext-31]: **Extraído** — [[tudela-analisis-criminal]], pp. 144 y 146.
+[^ext-32]: **Extraído** — [[batthyany-metodologia-investigacion]], pp. 33-34.
+[^ext-33]: **Extraído** — [[batthyany-metodologia-investigacion]], cuadro 3, p. 76, y cuadro 4, p. 80, sobre Corbetta (2007).
 [^inf-1]: **Inferido** (confianza 0.7) — lectura propia al comparar las tres fuentes. Ninguna discute a las otras. Tudela no cita a Weisburd ni a la guía.
 [^inf-2]: **Inferido** (confianza 0.7) — contraste entre las conclusiones, el cap. VII y el estándar del cap. II, nota 3. No es un juicio sobre la política, sino sobre lo que el libro demuestra de ella.
 [^inf-3]: **Inferido** (confianza 0.7) — la revisión da el hallazgo por comprobado sin discutir si es causal. El estudio de Hoefer y otros no está en el corpus.
 [^inf-4]: **Inferido** (confianza 0.7) — contraste propio entre [[tudela-analisis-criminal]], p. 144, y [[vanderschueren-prevencion-del-delito]], cap. I, p. 36. Ninguno discute al otro.
+[^inf-5]: **Inferido** (confianza 0.7) — Tudela no usa el término ni cita a Bericat. La correspondencia es de esta wiki, entre [[vanderschueren-prevencion-del-delito]], cap. II, p. 72, y [[batthyany-metodologia-investigacion]], p. 82.

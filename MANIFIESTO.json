@@ -96,6 +96,12 @@
       "bytes": 17635322,
       "ingerido": "2026-10-02",
       "ficha": "wiki/sources/bourgois-en-busca-de-respeto.md"
+    },
+    "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf": {
+      "sha256": "3e5042f00ecb5bb9ddb2fd6b4ad519ac4f1ff20c403e2c1c4460171fc6945038",
+      "bytes": 2696387,
+      "ingerido": "2026-10-16",
+      "ficha": "wiki/sources/batthyany-metodologia-investigacion.md"
     }
   }
 }

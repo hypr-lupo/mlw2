@@ -1,13 +1,13 @@
 ---
 title: Trabajo de grado profesionalizante
 type: concept
-sources: ["2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md"]
+sources: ["2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf"]
 cluster: marco-institucional
 curso: [s4, sem]
 procedencia: fuentes
 estado: revisado
 creado: 2026-08-29
-actualizado: 2026-09-12
+actualizado: 2026-10-16
 ---
 
 # Trabajo de grado profesionalizante
@@ -34,9 +34,18 @@ El documento fija el criterio pero no operacionaliza qué cuenta como vinculaci�
 
 Tampoco establece si las tres modalidades admiten el mismo tipo de marco teórico ni con qué extensión. La segunda modalidad es la única que nombra explícitamente la relación entre teoría y práctica.
 
+## Otro criterio de validez
+
+Añadido el 16-10-2026 al ingerir [[batthyany-metodologia-investigacion]]. Un manual de metodología de pregrado justifica la investigación de otro modo. El problema refleja un vacío de conocimiento, práctico, teórico o ambos, y la investigación se justifica como aporte al conocimiento [^ext-5]. El folleto del Magíster valida el trabajo por su utilidad sobre un caso y rechaza la investigación academicista [^ext-3].
+
+No es una oposición completa. El manual admite el vacío práctico, el de una situación que interesa conocer para intervenir o monitorear [^ext-5]. Admite también que el tema nazca de la demanda de un ministerio o un municipio [^ext-6]. La diferencia está en qué valida el resultado. Para el manual, el conocimiento producido. Para el programa, el uso demostrable sobre el caso [^inf-2].
+
+**Qué se sigue para el diseño.** De los cinco tipos de diseño del manual, el evaluativo es el más cercano a la primera modalidad del programa, que pide evaluar procesos o resultados [^inf-3]. El manual le dedica un párrafo [^ext-7]. Ver [[diseno-de-investigacion]] y [[evaluacion-de-programas]].
+
 ## Relacionado
 
 - [[magister-prevencion-uah]] — programa que define este trabajo y su calendario
+- [[diseno-de-investigacion]] — el criterio del vacío de conocimiento, frente al de la utilidad
 - [[eficacia-colectiva]] — el trabajo evaluado de S1.1 recae sobre una política municipal o un proyecto de seguridad identificable: la misma exigencia de anclaje, un semestre antes y en grupo. Añadido el 12-09-2026 al ingerir [[sampson-vecindario-y-comunidad]].
 - La confrontación entre esta exigencia y el marco conceptual heredado de la memoria previa es una posición del autor, no de la fuente. Se resuelve en una página `tesis-` y está registrada en [[pendientes]].
 
@@ -46,4 +55,9 @@ Tampoco establece si las tres modalidades admiten el mismo tipo de marco teóric
 [^ext-2]: **Extraído** — [[programa-magister-uah]], modalidad 1.
 [^ext-3]: **Extraído** — [[programa-magister-uah]], modalidad 2.
 [^ext-4]: **Extraído** — [[programa-magister-uah]], modalidad 3.
+[^ext-5]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 22.
+[^ext-6]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 20.
+[^ext-7]: **Extraído** — [[batthyany-metodologia-investigacion]], p. 34.
 [^inf-1]: **Inferido** (confianza 0.7) — el folleto es un documento de difusión; la operacionalización de los criterios de evaluación suele residir en el programa del seminario, que no está en el corpus.
+[^inf-2]: **Inferido** (confianza 0.7) — contraste propio. El manual no conoce el programa, y el programa no cita al manual.
+[^inf-3]: **Inferido** (confianza 0.7) — correspondencia propia entre [[programa-magister-uah]], modalidad 1, y [[batthyany-metodologia-investigacion]], p. 34.
