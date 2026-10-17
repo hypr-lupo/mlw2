@@ -147,6 +147,12 @@
       "bytes": 10110743,
       "ingerido": "2026-10-16",
       "ficha": "wiki/sources/kessler-delito-amateur.md"
+    },
+    "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf": {
+      "sha256": "7ea8a04627bdd7af81f9f2246ce6a8169a9917a2f581f47aa4eaf7ed19c8b9d0",
+      "bytes": 320188,
+      "ingerido": "2026-10-17",
+      "ficha": "wiki/sources/blanco-curso-de-vida.md"
     }
   }
 }

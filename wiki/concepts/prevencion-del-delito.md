@@ -1,13 +1,13 @@
 ---
 title: Prevención del delito
 type: concept
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Prevención del delito
@@ -73,6 +73,8 @@ El libro no se pone de acuerdo sobre el enfoque que organiza buena parte de la p
 
 La tensión es interna al libro y ninguno de los capítulos discute a los otros. Ver [[criminologia-del-curso-de-vida]], que es el marco del que el enfoque de factores de riesgo toma su base empírica.
 
+**Desde el enfoque de origen.** Añadido el 17-10-2026 al ingerir [[blanco-curso-de-vida]]. El cap. IV apoya los factores de riesgo en la criminología del desarrollo. Pero el enfoque del curso de vida se propuso, entre otras cosas, replantear las preguntas en términos de trayectorias y patrones, en vez de cadenas causales [^ext-35]. Leer un factor de riesgo como causa usa el enfoque contra su propio propósito. Eso apoya la lectura del cap. I, el factor de riesgo como límite [^inf-4].
+
 **Una crítica desde fuera.** Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]], una etnografía de East Harlem que no discute este libro pero sí el enfoque.
 
 - **Como individualización.** Los estudios del «niño en riesgo» concluyen que el carácter se fija en la primera infancia y que presenciar violencia basta para traumatizar. Según esas teorías, dice Bourgois, la mayor parte de East Harlem debería ser sociópata. Su objeción es que el determinismo psicológico deja fuera el contexto político, económico y cultural, y que sus muestras sobrerrepresentan a familias blancas de clase media [^ext-27].
@@ -121,6 +123,7 @@ Las conclusiones separan lo que la definición de Naciones Unidas junta: la prev
 - [[bourgois-en-busca-de-respeto]] — la crítica etnográfica a los factores de riesgo y a los programas centrados en la actitud
 - [[ideologia-de-la-defensa-social]] — Romagnosi, los sustitutivos penales y el principio de prevención
 - [[delito-amateur]] — la deserción que sigue al robo
+- [[blanco-curso-de-vida]] — trayectorias en vez de cadenas causales
 
 **Por confrontar.** La prevención situacional tiene su obra fundacional en el corpus: Clarke (1997), en la tanda 4. La comunitaria, en las orientaciones técnicas de la Subsecretaría de Prevención del Delito (2022), en la tanda 5.
 
@@ -160,7 +163,9 @@ Las conclusiones separan lo que la definición de Naciones Unidas junta: la prev
 [^ext-32]: **Extraído** — [[baratta-criminologia-critica]], cap. I, pp. 27-28 y 33.
 [^ext-33]: **Extraído** — [[baratta-criminologia-critica]], cap. II, pp. 36-37, y cap. VII, p. 89.
 [^ext-34]: **Extraído** — [[kessler-delito-amateur]], cap. 7, pp. 215-216.
+[^ext-35]: **Extraído** — [[blanco-curso-de-vida]], p. 9, sobre George (2006).
 [^amb-1]: **Ambiguo** — el cap. IV (p. 102) y el cap. VI (pp. 146-147) atribuyen a Brantingham y Faust (1976) definiciones distintas de la prevención primaria. El IV la define por la población destinataria, siguiendo al Foro de Expertos de 2004; el VI, por las condiciones del ambiente que dan oportunidades al delito. El libro no nota la diferencia. La obra original no está en el corpus; no se resuelve por inferencia.
 [^inf-1]: **Inferido** (confianza 0.65) — contraste entre Hein (2004), en [[vanderschueren-prevencion-del-delito]], cap. IV, y [[bourgois-en-busca-de-respeto]], cap. 4. Bourgois no discute el enfoque de factores de riesgo con ese nombre.
 [^inf-2]: **Inferido** (confianza 0.7) — Baratta no discute la prevención comunitaria ni la situacional. La distinción la hace esta wiki con las dos concepciones del cap. I de [[vanderschueren-prevencion-del-delito]].
 [^inf-3]: **Inferido** (confianza 0.6) — Kessler habla de sus casos, no de una muestra representativa.
+[^inf-4]: **Inferido** (confianza 0.6) — Blanco no discute los factores de riesgo. La lectura es de esta wiki.

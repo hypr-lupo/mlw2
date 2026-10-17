@@ -9,9 +9,9 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 76 páginas · 24 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
+**Estado:** 78 páginas · 25 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
-fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde el 16-10-2026, con dos de sus tres obras ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
+fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-10-2026**; sigue la tanda 4 · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
 
 ## Conceptos
 
@@ -40,8 +40,8 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde e
   dos voces más, una que la resume y otra que pide criminalizar (6 fuentes)
 - [[criminologia-del-curso-de-vida]] — trayectorias, puntos de inflexión y
   desistimiento; el autocontrol temprano pesa pero no está sellado; y trayectorias de
-  East Harlem donde también el empleo ilegal ordena; y desde Buenos Aires. Borrador
-  (3 fuentes)
+  East Harlem donde también el empleo ilegal ordena; y desde Buenos Aires; contrastada
+  con el enfoque de origen, cinco principios. Borrador (4 fuentes)
 - [[cultura-callejera]] — la respuesta a la exclusión que da un foro propio a la
   dignidad y a la vez organiza la destrucción de quienes participan; contra la cultura
   de la pobreza; y Merton, de segunda mano; ¿contracultura o suspensión del juicio?
@@ -112,7 +112,8 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde e
   primera (2 fuentes)
 - [[prevencion-del-delito]] — dos concepciones, tres clasificaciones que no calzan,
   factores de riesgo como base o límite, y una crítica etnográfica; por qué el éxito de
-  la prevención no se ve; Romagnosi, y lo que el etiquetamiento niega (4 fuentes)
+  la prevención no se ve; Romagnosi, y lo que el etiquetamiento niega; trayectorias en vez
+  de cadenas causales (5 fuentes)
 - [[propension-al-delito]] — el lado persona: moral legalmente relevante más
   capacidad de autocontrol, y la aversión al delito (1 fuente)
 - [[puntos-calientes]] — la ley de concentración del delito en microlugares; no son
@@ -167,10 +168,14 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde e
   otra lógica, la del proceso circular; prevalencia e incidencia (4 fuentes)
 - [[enfoques-cuantitativo-y-cualitativo]] — tres paradigmas, explicar o comprender,
   complementación, combinación y triangulación, y seis técnicas con sus límites; el
-  muestreo teórico y otro sentido de triangulación; un caso de combinación (3 fuentes)
+  muestreo teórico y otro sentido de triangulación; un caso de combinación; la metodología
+  mixta en el curso de vida (4 fuentes)
 - [[estadisticas-delictuales]] — cómo contar e interpretar delitos desde los registros
   policiales: tres fuentes y sus sesgos, dos fechas, reglas de conteo, tasas por blanco,
   y por qué los registros no son una muestra; y lo que el registro selecciona (4 fuentes)
+- [[estudios-longitudinales]] — prospectivo y retrospectivo; la cohorte y el problema de
+  separar edad, período y cohorte; cinco estudios, de Oakland a PADS+; qué permiten ver, y
+  por qué en Chile no hay (4 fuentes)
 - [[evaluacion-de-programas]] — no basta saber qué funciona, sino por qué; evidencia,
   implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; el
   mismo diagnóstico desde la violencia en el noviazgo; dos sentidos de «por qué»; y la
@@ -206,6 +211,9 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde e
 - [[batthyany-metodologia-investigacion]] — Batthyány y Cabrera (coords.), 2011. Manual
   docente de metodología de la Universidad de la República, que compila a otros autores.
   Bibliografía de S1.2. Primera de la tanda 2
+- [[blanco-curso-de-vida]] — Blanco, 2011. Revisión sociodemográfica del enfoque del curso de
+  vida: orígenes, tres conceptos y cinco principios. Bibliografía de S1.1. Tercera y última
+  de la tanda 3
 - [[bourgois-en-busca-de-respeto]] — Bourgois, 2010, traducción de una obra de 1995.
   Etnografía de una red de casas de crack en East Harlem; primera etnografía de la wiki.
   Ningún programa recibido lo nombra. Fuera del orden por calendario

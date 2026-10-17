@@ -1,6 +1,6 @@
 # Estado del despliegue
 
-**Generado:** 2026-10-16 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
+**Generado:** 2026-10-17 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
@@ -10,10 +10,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 94 | 80.3 % |
+| `pendiente` | 93 | 79.5 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 23 | 19.7 % |
+| `completo` | 24 | 20.5 % |
 
 ## Por cumulo
 
@@ -21,7 +21,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 |---|---:|---:|---:|---:|---:|
 | (fuera de INVENTARIO.md) | 5 | 5 | 0 | 0 | 0 |
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
-| Bibliografía S1.1, consulta y complementaria | 12 | 10 | 0 | 0 | 2 |
+| Bibliografía S1.1, consulta y complementaria | 12 | 9 | 0 | 0 | 3 |
 | Explicación del delito | 5 | 3 | 0 | 0 | 2 |
 | Gobernanza criminal y territorio | 6 | 4 | 0 | 0 | 2 |
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
@@ -107,7 +107,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2004 - Wacquant - Las cárceles de la miseria.pdf
 - `pendiente` — 2005 - Garland - La cultura del control, crimen y orden social en la sociedad contemporánea (traducción Gedisa de Sozzo).pdf
 - `pendiente` — 2007 - Alda y Beliz (eds.) - ¿Cuál es la salida, la agenda inconclusa de la seguridad ciudadana.pdf
-- `pendiente` — 2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf
+- `completo` — 2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf
 - `pendiente` — 2016 - Bergman - Drogas, narcotráfico y poder en América Latina.pdf
 - `completo` — 2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf
 - `pendiente` — 2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf

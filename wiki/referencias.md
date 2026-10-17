@@ -50,6 +50,12 @@ imprenta · `programa/S1.2` la cita como «Cabrera, C.»: el documento dice Mari
 manual docente que compila a otros autores: al citar a Corbetta, Galtung, Kerlinger o
 Hernández Sampieri a través de él, verificar el año en el original
 
+Blanco, M. (2011). El enfoque del curso de vida: orígenes y desarrollo. *Revista
+Latinoamericana de Población, 5*(8), 5-31.
+→ [[blanco-curso-de-vida]] · verificada contra la portada de Redalyc · coincide con lo que pide
+`programa/S1.1` · revisión sociodemográfica, no criminológica: citar a Elder, Ryder o Laub y
+Sampson por su obra
+
 Boba, R. (2010). Interpretando estadísticas y datos delictuales. En P. Tudela (Ed.),
 *Análisis delictual: enfoque y metodología para la reducción del delito* (pp. 81-105).
 Fundación Paz Ciudadana e IACA.

@@ -1,13 +1,13 @@
 ---
 title: Criminología del desarrollo y del curso de vida
 type: concept
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-26
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Criminología del desarrollo y del curso de vida
@@ -15,7 +15,7 @@ actualizado: 2026-10-16
 Enfoque que explica el delito como parte de una trayectoria vital y no como un hecho aislado. Según el cap. X de [[vanderschueren-prevencion-del-delito]], de Germán Díaz, ha sido el marco más fructífero de las últimas décadas para entender la delincuencia infanto-juvenil, sobre todo gracias a estudios longitudinales [^ext-1].
 
 > [!note] Página en borrador
-> Todo lo que sigue es exposición de segunda mano: un capítulo que reseña a los autores del enfoque, ninguno de ellos en el corpus. La obra que el corpus tiene sobre el enfoque del curso de vida en general es Blanco (2011), que el propio capítulo cita y que entra en la tanda 3. Cuando llegue, esta página se contrasta con ella.
+> Todo lo que sigue es exposición de segunda mano: un capítulo que reseña a los autores del enfoque, ninguno de ellos en el corpus. Desde el 17-10 el enfoque general se contrasta con [[blanco-curso-de-vida]], que es sociodemografía y no criminología. Ver «El enfoque de origen». Sampson y Laub siguen fuera del corpus.
 
 ## Qué lo distingue
 
@@ -35,6 +35,24 @@ Tres ejes organizadores, tomados de Elder (1985) y de Blanco (2011) [^ext-4]:
 - **Punto de inflexión** (*turning point*). Un evento que cambia la dirección del curso de vida.
 
 Y un cuarto principio: el **momento** (*timing*). Un mismo evento repercute de modo distinto según la edad a la que ocurre. El capítulo afirma que quien empieza a delinquir antes de los 15 años tiene más probabilidades de persistir, pero deja la cita sin completar [^ext-6].
+
+## El enfoque de origen
+
+Añadido el 17-10-2026 al ingerir [[blanco-curso-de-vida]], la revisión que el cap. X cita. El enfoque no nació en la criminología, sino en la sociodemografía y la historia de la familia. Lo fundaron Elder, con *Children of the Great Depression* (1974), y Hareven [^ext-41]. Su pregunta es cómo los eventos históricos y los cambios sociales configuran las vidas individuales y las cohortes [^ext-42].
+
+**Contrastado con el cap. X.** Los tres conceptos coinciden [^ext-43]. Pero el enfoque tiene cinco principios, y el cap. X sólo nombra el *timing*, como si fuera un cuarto [^ext-44]:
+
+1. **Desarrollo a lo largo del tiempo.** Para entender un momento hay que conocer lo que lo precedió.
+2. **Tiempo y lugar.** Cada vida está incrustada en tiempos históricos y lugares concretos.
+3. ***Timing*.** El mismo evento pesa distinto según cuándo ocurre. De aquí sale el estudio de la acumulación de ventajas y desventajas.
+4. **Vidas interconectadas.** Las vidas se viven en redes, y la transición de uno es también la de otros.
+5. **Libre albedrío.** Las personas eligen, dentro de una estructura de oportunidades que cambia con la historia.
+
+El cap. X trae la idea del quinto, como interdependencia de agencia y estructura [^ext-2]. Los de tiempo y lugar y de vidas interconectadas no aparecen. Y las tres fases de la conducta delictiva, activación, agravación y desistencia, son de la criminología: Blanco no las menciona [^inf-3].
+
+**Trayectorias, no cadenas causales.** Uno de los propósitos del enfoque fue replantear las preguntas. En vez de cadenas causales, trayectorias y patrones [^ext-45]. Eso pesa en la tensión sobre los factores de riesgo. Ver [[prevencion-del-delito]].
+
+**En criminología, «al parecer».** Blanco cita a Laub y Sampson (2003) como ejemplo de un uso que, dice, parece exitoso, y no lo discute [^ext-46]. Ver [[estudios-longitudinales]], para los datos que el enfoque necesita.
 
 ## Contra el autocontrol fijado temprano
 
@@ -124,6 +142,8 @@ El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
 - [[cultura-callejera]] — el contexto en que esas trayectorias se forman
 - [[delito-amateur]] — trayectorias que van del amateurismo a la profesionalidad, o al desistimiento
 - [[etiquetamiento]] — la teoría que la curva de edad contradice
+- [[blanco-curso-de-vida]] — el enfoque general, desde la sociodemografía
+- [[estudios-longitudinales]] — los datos que el enfoque necesita
 
 **Por confrontar.** Blanco (2011), en la tanda 3, y Gottfredson y Hirschi (1990), en la tanda 4: la voz de la teoría que este enfoque discute.
 
@@ -164,6 +184,7 @@ El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
 [^ext-32]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a esta edición (2010), pp. 368-369.
 [^ext-33]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a la 2.ª ed., pp. 353-354.
 [^inf-2]: **Inferido** (confianza 0.6) — lectura de los dos casos de [[bourgois-en-busca-de-respeto]] contra el desistimiento por vínculos sociales que expone esta página. Bourgois no usa el concepto de punto de inflexión.
+[^inf-3]: **Inferido** (confianza 0.8) — comparando el cap. X de [[vanderschueren-prevencion-del-delito]] con [[blanco-curso-de-vida]], pp. 12-15.
 [^ext-34]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a esta edición (2010), pp. 367-368 y 372.
 [^ext-35]: **Extraído** — [[kessler-delito-amateur]], anexo, pp. 282-283, sobre Sampson y Laub (1993).
 [^ext-36]: **Extraído** — [[kessler-delito-amateur]], cap. 1, p. 24, sobre Sampson y Laub (1993) y Farrington (1992).
@@ -171,3 +192,9 @@ El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
 [^ext-38]: **Extraído** — [[kessler-delito-amateur]], cap. 6, p. 176.
 [^ext-39]: **Extraído** — [[kessler-delito-amateur]], cap. 7, pp. 215-216.
 [^ext-40]: **Extraído** — [[kessler-delito-amateur]], cap. 3, p. 64, y anexo, p. 275.
+[^ext-41]: **Extraído** — [[blanco-curso-de-vida]], pp. 10-12.
+[^ext-42]: **Extraído** — [[blanco-curso-de-vida]], pp. 5-6.
+[^ext-43]: **Extraído** — [[blanco-curso-de-vida]], pp. 12-13.
+[^ext-44]: **Extraído** — [[blanco-curso-de-vida]], pp. 14-15.
+[^ext-45]: **Extraído** — [[blanco-curso-de-vida]], p. 9, sobre George (2006).
+[^ext-46]: **Extraído** — [[blanco-curso-de-vida]], p. 20.

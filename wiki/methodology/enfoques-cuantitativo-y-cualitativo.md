@@ -1,13 +1,13 @@
 ---
 title: Enfoques cuantitativo y cualitativo
 type: method
-sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
+sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
 estado: revisado
 creado: 2026-10-16
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Enfoques cuantitativo y cualitativo
@@ -69,6 +69,8 @@ Dentro de la tercera, Bericat distingue dos lógicas [^ext-8]. La de la segregac
 
 **Otro sentido de triangulación.** Añadido el 16-10-2026. [[vives-varela-teoria-fundamentada]] usa la palabra, con Cisterna, para otra cosa: cruzar datos cualitativos entre grupos de participantes, entre instrumentos y con el marco teórico [^ext-14]. Quien triangule tiene que decir en qué sentido. Ver [[teoria-fundamentada]].
 
+**En el curso de vida.** Añadido el 17-10-2026 al ingerir [[blanco-curso-de-vida]]. El enfoque trabajó sobre todo con datos cuantitativos, pero desde Giele y Elder (1998) reivindica también los cualitativos: entrevistas en profundidad, historias de vida, biografías [^ext-17]. Un ejemplo mexicano: el entrelazamiento de cuatro trayectorias de mujeres de sectores medios, estudiado con una encuesta biográfica y con entrevistas semiestructuradas [^ext-18]. Ver [[estudios-longitudinales]].
+
 ## Técnicas
 
 **Fuentes primarias y secundarias.** La fuente primaria la produce el investigador. La secundaria la produjeron otros: datos de organismos públicos, estadísticas, informes e investigaciones [^ext-10]. La secundaria cuesta menos y cubre más tiempo y más casos. Pero el investigador no controla cómo se produjo el dato, y un cambio en el registro limita las comparaciones en el tiempo [^ext-10].
@@ -101,6 +103,7 @@ Fuente: [^ext-11].
 - [[diagnostico-barrial]]: la guía de 2010 elige técnicas cualitativas en el barrio crítico y acepta perder representatividad
 - [[evaluacion-de-programas]]: la tensión de las tres ideas de evidencia, leída como una diferencia entre explicar y comprender
 - [[analisis-espacial-del-delito]]: las propuestas de SIG cualitativo y de métodos mixtos
+- [[estudios-longitudinales]] — la metodología mixta en el curso de vida
 
 **Contraste resuelto el 16-10-2026.** Vives Varela y Hamui Sutton (2021) trae el primer procedimiento de análisis cualitativo de la wiki. Ver [[teoria-fundamentada]].
 
@@ -122,4 +125,6 @@ Fuente: [^ext-11].
 [^ext-14]: **Extraído** — [[vives-varela-teoria-fundamentada]], tabla 3, p. 103, sobre Cisterna (2005).
 [^ext-15]: **Extraído** — [[ine-medicion-victimizacion]], tabla 5, p. 23.
 [^ext-16]: **Extraído** — [[ine-medicion-victimizacion]], pp. 35-36.
+[^ext-17]: **Extraído** — [[blanco-curso-de-vida]], pp. 19-20.
+[^ext-18]: **Extraído** — [[blanco-curso-de-vida]], p. 19, sobre Pacheco y Blanco (2002) y Blanco y Pacheco (2009).
 [^inf-1]: **Inferido** (confianza 0.8) — el informe no usa el término de Bericat. La correspondencia es de esta wiki.

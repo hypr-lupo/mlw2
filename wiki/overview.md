@@ -8,8 +8,8 @@ sources: []
 
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
-**Al 16-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden, la
-tanda 2 cerrada y la 3 en curso.** Veinticuatro fuentes de 118, setenta y seis páginas, **siete de ocho
+**Al 17-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden y las
+tandas 2 y 3 cerradas.** Veinticinco fuentes de 118, setenta y ocho páginas, **siete de ocho
 clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
@@ -139,6 +139,13 @@ ni salir. La etiqueta no aparece entre pares, sí en la familia y la escuela. La
 una banda más. Y abre dos tensiones: con Bourgois, sobre si hay una contracultura, y con el
 etiquetamiento, sobre si la etiqueta fija la carrera.
 
+**Y el enfoque de origen.** [[blanco-curso-de-vida]] cierra la tanda 3 el 17-10. Es una
+revisión sociodemográfica del curso de vida, no criminológica. Sirvió para contrastar
+[[criminologia-del-curso-de-vida]], que lo usaba de segunda mano: el enfoque tiene cinco
+principios y no uno, y nació para pensar en trayectorias en vez de cadenas causales. Con
+ella nace [[estudios-longitudinales]], la primera página de diseño longitudinal de la wiki,
+con PADS+ como uno de sus casos.
+
 ## Siete respuestas a la misma pregunta
 
 Las fuentes teóricas explican por qué la violencia se concentra donde se concentra, y
@@ -161,7 +168,8 @@ intervenga.
 **En la trayectoria.** El cap. X de [[vanderschueren-prevencion-del-delito]]: la
 [[criminologia-del-curso-de-vida]] explica el delito como fase de una vida, con puntos
 de inflexión que pueden torcerla. El autocontrol temprano pesa, pero no está sellado.
-La página está en borrador: es una reseña, y Blanco (2011) llega en la tanda 3.
+La página sigue en borrador: desde el 17-10 se contrasta con el enfoque de origen,
+[[blanco-curso-de-vida]], pero Sampson y Laub siguen fuera del corpus.
 
 **En el Estado.** [[albarracin-crimen-organizado-america-latina]]: el crimen organizado
 existe también por la cooperación deliberada de actores estatales. Ver
@@ -258,7 +266,8 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     [[eficacia-colectiva]] y [[legitimidad-policial]].
 18. **Factores de riesgo: base o límite.** Un capítulo los pone de base de la
     prevención chilena, otro advierte que no son causas y un tercero critica el
-    instrumento que los mide. Ver [[prevencion-del-delito]].
+    instrumento que los mide. Blanco agrega que el enfoque de origen cambió las cadenas
+    causales por trayectorias. Ver [[prevencion-del-delito]].
 19. **¿Coproducir es prevenir?** Tudela: revitalizar la comunidad no es prevenir el
     delito. Peñalolén: la cohesión es la mejor estrategia preventiva, y aun así en 2018
     juzgó insuficiente la coproducción y pasó a la seguridad humana. Y los editores
@@ -452,6 +461,8 @@ inventario. Ver [[ventanas-rotas]].
   comparación, qué otra explicación existe y qué delitos subieron.
 - **Preguntar quién fue seleccionado.** [[criminalizacion-y-selectividad-penal]]: quién
   define, con qué estereotipos, y qué delitos quedan bajo la cifra negra.
+- **Leer un estudio longitudinal.** [[estudios-longitudinales]]: prospectivo o
+  retrospectivo, la cohorte, y qué permite ver que una encuesta transversal no.
 - **Hablar de quienes roban, desde ellos.** [[delito-amateur]]: cómo alternan trabajo y
   robo, qué grupos forman y cómo ven a la policía. Buenos Aires, 1999.
 
@@ -516,15 +527,16 @@ dirección. Elegirla o no es decisión del autor.
   [[debilidad-estatal]] suman críticos, pero siguen sin un defensor.
 - **Hablar de las teorías de la oportunidad desde sus autores.** Clarke (1997) y Felson
   y Eckert (2016) entran en la tanda 4.
-- **Hablar del curso de vida y del autocontrol desde sus autores.** Blanco (2011) en la
-  tanda 3; Gottfredson y Hirschi (1990) en la tanda 4.
+- **Hablar del curso de vida y del autocontrol desde sus autores.** Blanco (2011) entró el
+  17-10, pero es una revisión sociodemográfica: Sampson y Laub no están en el corpus.
+  Gottfredson y Hirschi (1990) llegan en la tanda 4.
 - **Hablar de la tensión y del cuello blanco desde sus autores.** Merton y Sutherland no
   están en el corpus. Baratta (2004), que entró el 16-10, los trae de segunda mano. El
   derecho penal simbólico sigue sin voz crítica. Ferrajoli llega en la tanda 6.
-- **Contrastar métodos.** `wiki/methodology/` tiene siete páginas y desde el 16-10 una
-  sobre diseño de investigación. Sigue sin haber una sobre diseños experimentales,
-  cuasiexperimentales o longitudinales: el manual de Batthyány y Cabrera no los trata, y
-  PADS+ espera a Blanco (2011), en la tanda 3. La medición de la victimización ya tiene
+- **Contrastar métodos.** `wiki/methodology/` tiene doce páginas, con una sobre diseño
+  de investigación y, desde el 17-10, una sobre estudios longitudinales. Siguen sin página
+  los diseños experimentales y cuasiexperimentales: el manual de Batthyány y Cabrera no
+  los trata. La medición de la victimización ya tiene
   página, pero sin resultados de la ENUSC posteriores a 2021.
 - **Clasificar grupos criminales.** No hay `subtipo` de `entity` donde quepan el PCC o
   las milícias. Material de la operación 8. Las milícias ya tienen la segunda fuente que
@@ -540,7 +552,8 @@ de Boba en Tudela (ed.) (2010) y el CIPC (2015) entraron el mismo día, y con el
 quedó cerrada, seis días tarde. Sigue la tanda 3: Baratta (2004), Kessler (2004) y Blanco
 (2011). La tanda 3 vence el mismo 16-10. El autor
 decidió ese día mantener el orden: la 3 va después de terminar la 2. Baratta (2004) la abrió
-ese mismo día, en sus caps. I-II, IV, VII y VIII, y Kessler (2004) la siguió. Queda Blanco (2011). Después de la sexta
+ese mismo día, en sus caps. I-II, IV, VII y VIII, y Kessler (2004) la siguió. Blanco (2011) la cerró el 17-10, un día tarde. Sigue la tanda 4:
+Gottfredson y Hirschi (1990), Clarke (1997) y Felson y Eckert (2016), antes del 23-10. Después de la sexta
 vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.
 Arias (2017) y Bourgois (2010) entraron fuera de ese orden el 02-10, por decisión del

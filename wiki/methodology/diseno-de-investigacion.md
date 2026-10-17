@@ -7,7 +7,7 @@ curso: [s1-2]
 procedencia: fuentes
 estado: revisado
 creado: 2026-10-16
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Diseño de investigación
@@ -70,7 +70,7 @@ El manual clasifica los diseños **por su objetivo**, no por su estructura [^ext
 | Predictivo | Anunciar el comportamiento futuro de variables, a partir de estudios de correlación |
 | Evaluativo | Evaluar el resultado de un fenómeno, por ejemplo una política contra la violencia |
 
-**Lo que el manual no trae.** No distingue diseños experimentales, cuasiexperimentales, transversales o longitudinales. El diseño evaluativo ocupa un párrafo [^ext-13]. Para leer una evaluación de impacto o un estudio de cohorte hace falta otra fuente [^inf-1]. Ver [[evaluacion-de-programas]]. Desde el 16-10-2026 la wiki tiene una pieza de ese diseño. El capítulo de Boba explica cómo comparar un grupo que recibe una intervención con otro que no, antes y después, y advierte que en los casos policiales la asignación casi nunca es al azar [^ext-29]. Ver [[estadisticas-delictuales]].
+**Lo que el manual no trae.** No distingue diseños experimentales, cuasiexperimentales, transversales o longitudinales. El diseño evaluativo ocupa un párrafo [^ext-13]. Para leer una evaluación de impacto o un estudio de cohorte hace falta otra fuente [^inf-1]. Ver [[evaluacion-de-programas]]. Desde el 16-10-2026 la wiki tiene una pieza de ese diseño. El capítulo de Boba explica cómo comparar un grupo que recibe una intervención con otro que no, antes y después, y advierte que en los casos policiales la asignación casi nunca es al azar [^ext-29]. Ver [[estadisticas-delictuales]]. Desde el 17-10-2026, los diseños longitudinales tienen página propia: [[estudios-longitudinales]].
 
 ## Hipótesis
 
@@ -121,6 +121,7 @@ En la teoría fundamentada el tamaño de la muestra se conoce al final, porque s
 - [[trabajo-de-grado-profesionalizante]]: otro criterio para justificar una investigación
 - [[analisis-espacial-del-delito]]: la falacia ecológica con datos de delito
 - [[diagnostico-barrial]]: un diagnóstico por encargo de un municipio, que es el caso del tema que nace de una demanda
+- [[estudios-longitudinales]] — el diseño que el manual no trae
 
 ---
 

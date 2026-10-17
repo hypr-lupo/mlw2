@@ -14,9 +14,9 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 
 Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026, con la
 ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con las de Batthyány y Cabrera
-(2011), el INE (2023), Srur (2014), el capítulo de Boba (2010), el CIPC (2015), Baratta (2004) y Kessler (2004). Agrupa los ítems abiertos por lo que los
+(2011), el INE (2023), Srur (2014), el capítulo de Boba (2010), el CIPC (2015), Baratta (2004) y Kessler (2004), y el 17-10-2026, con la de Blanco (2011). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**37 abiertos.**
+**36 abiertos.**
 
 **A. Sólo esperan una decisión del autor (13).** Se pueden resolver hoy.
 
@@ -50,12 +50,11 @@ consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos
 | `[fuente]` Estado legal del pololeo | Resuelto en parte con la Ley 21.675; falta el tipo penal de femicidio |
 | `[fuente]` Año e ISBN de Arias | 2016, 2017 o 2018, y los dos ISBN, en el catálogo de la editorial |
 
-**C. Esperan una obra que ya está en el corpus (11).** Se resuelven solos si el orden de
+**C. Esperan una obra que ya está en el corpus (10).** Se resuelven solos si el orden de
 ingesta se cumple.
 
 | Ítem | Acción | Obra que lo destraba | Tanda |
 |---|---|---|---|
-| `[método]` PADS+ | `crear-pagina` | Blanco (2011), si trata los estudios longitudinales. Batthyány y Cabrera (2011) no los trata | 3 |
 | `[entidad]` Política de seguridad de Peñalolén | `crear-pagina` | Luneke y Trebilcock (2023), si la trata. El CIPC (2015) la incluye, pero desde la misma voz | 6 |
 | `[investigar]` Ley de concentración en una comuna chilena | `investigar` | Las normas de la tanda 5. Las metodológicas de la tanda 2 no traen el estudio | 5 |
 | `[concepto]` Articulación nacional y local de la seguridad | `crear-pagina` | Ley 21.802 y Decreto 96 (PNSP) | 5 |
@@ -78,10 +77,9 @@ ingesta se cumple.
 | `[concepto]` Criminalidad de cuello blanco | Sutherland, pedido por S1.1 y ausente del corpus |
 
 **Qué adelanta cada tanda.** La 2 cerró el 16-10-2026: resolvió medición de la victimización y
-pasó PADS+ a la 3. El CIPC no cumplió el criterio de Peñalolén, que pasa a la 6. La 3 resolvió
-el 16-10 criminalización y selectividad penal, con Baratta. Kessler no destrabó ninguno. Le
-queda PADS+, con Blanco. La 4
-destraba dos ítems; la 5, cuatro; la 6, cuatro.
+pasó PADS+ a la 3. El CIPC no cumplió el criterio de Peñalolén, que pasa a la 6. La 3 cerró el
+17-10-2026: resolvió criminalización y selectividad penal, con Baratta, y PADS+, con Blanco.
+Kessler no destrabó ninguno. La 4 destraba dos ítems; la 5, cuatro; la 6, cuatro.
 
 ## Abiertos
 
@@ -182,32 +180,6 @@ destraba dos ítems; la 5, cuatro; la 6, cuatro.
       Criterio: crearla si una segunda fuente la retoma. Con una sola mención y
       siendo un caso de Boston de los noventa, no hay peso analítico para página
       propia y sí riesgo de poblar el grafo con casos no chilenos.
-
-- [ ] **[método]** PADS+, estudio del desarrollo de adolescentes y jóvenes adultos
-      de Peterborough — 716 jóvenes seguidos desde los 12 años, retención del 97 %,
-      diario espacio-temporal, escenarios aleatorios y dos encuestas de comunidad
-      pequeña. Es el primer diseño de investigación completo que entra al corpus y
-      `wiki/methodology/` sigue vacía.
-      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-12
-      Criterio: crearla cuando entre la primera fuente metodológica de S1.2 —Tudela,
-      Batthyány y Cabrera, Minayo— con la que contrastarlo. Escribirla ahora
-      produciría una ficha de estudio, no una página de método. Nota: el diseño
-      completo está en Wikström y otros (2012), *Breaking Rules*, que no está en el
-      corpus.
-      **Enmienda 27-09-2026:** entraron dos fuentes de Tudela —el cap. II del libro de
-      2021 y su artículo de 2015 sobre análisis criminal— y ninguna trae diseño de
-      investigación: tratan de evaluación de programas y de análisis policial.
-      `wiki/methodology/` tiene ahora cuatro páginas, pero ninguna sobre diseño. El
-      criterio espera a Batthyány y Cabrera (2011), en la tanda 2.
-      **Enmienda 16-10-2026** (ingesta de [[batthyany-metodologia-investigacion]]): el
-      criterio se cumple en la letra y no en el fondo. El manual da vocabulario para dos
-      rasgos de PADS+. Uno, las varias unidades de análisis, individuos y áreas pequeñas, con
-      variables colectivas construidas desde respuestas individuales. Otro, la combinación de
-      técnicas. Pero no trata el diseño longitudinal de cohorte, que es el rasgo central de
-      PADS+, ni los escenarios experimentales. Con él, la página sería todavía una ficha de
-      estudio con vocabulario prestado. Propuesta: mover el criterio a Blanco (2011), en la
-      tanda 3, si trata los estudios longitudinales. Las piezas que sí sirven ya están en
-      [[diseno-de-investigacion]] y [[operacionalizacion]].
 
 - [ ] **[esquema]** Los grupos criminales no tienen dónde caber — un grupo como el
       PCC, las milícias de Rio o un cartel no encaja en ninguno de los cinco
@@ -684,6 +656,40 @@ destraba dos ítems; la 5, cuatro; la 6, cuatro.
       ítem sobre el resto de Baratta.
 
 ## Resueltos
+
+- [x] **[método]** PADS+, estudio del desarrollo de adolescentes y jóvenes adultos
+      de Peterborough — 716 jóvenes seguidos desde los 12 años, retención del 97 %,
+      diario espacio-temporal, escenarios aleatorios y dos encuestas de comunidad
+      pequeña. Es el primer diseño de investigación completo que entra al corpus y
+      `wiki/methodology/` sigue vacía.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-12
+      Criterio: crearla cuando entre la primera fuente metodológica de S1.2 —Tudela,
+      Batthyány y Cabrera, Minayo— con la que contrastarlo. Escribirla ahora
+      produciría una ficha de estudio, no una página de método. Nota: el diseño
+      completo está en Wikström y otros (2012), *Breaking Rules*, que no está en el
+      corpus.
+      **Enmienda 27-09-2026:** entraron dos fuentes de Tudela —el cap. II del libro de
+      2021 y su artículo de 2015 sobre análisis criminal— y ninguna trae diseño de
+      investigación: tratan de evaluación de programas y de análisis policial.
+      `wiki/methodology/` tiene ahora cuatro páginas, pero ninguna sobre diseño. El
+      criterio espera a Batthyány y Cabrera (2011), en la tanda 2.
+      **Enmienda 16-10-2026** (ingesta de [[batthyany-metodologia-investigacion]]): el
+      criterio se cumple en la letra y no en el fondo. El manual da vocabulario para dos
+      rasgos de PADS+. Uno, las varias unidades de análisis, individuos y áreas pequeñas, con
+      variables colectivas construidas desde respuestas individuales. Otro, la combinación de
+      técnicas. Pero no trata el diseño longitudinal de cohorte, que es el rasgo central de
+      PADS+, ni los escenarios experimentales. Con él, la página sería todavía una ficha de
+      estudio con vocabulario prestado. Propuesta: mover el criterio a Blanco (2011), en la
+      tanda 3, si trata los estudios longitudinales. Las piezas que sí sirven ya están en
+      [[diseno-de-investigacion]] y [[operacionalizacion]].
+      **Resuelto el 17-10-2026 — `crear-pagina`, reformulado.** Blanco (2011) trata los
+      estudios longitudinales en general: prospectivos y retrospectivos, su costo, la
+      cohorte y el problema de separar edad, período y cohorte (pp. 6-10). No trata a PADS+.
+      Con ella, con Wikström, con el seguimiento de Moffitt del libro de 2021 y con el estudio
+      de Cambridge que resume Kessler nace [[estudios-longitudinales]], una página de
+      método con PADS+ como uno de sus casos. Es lo que el ítem pedía desde el inicio: una
+      página de método, no una ficha de estudio. El diseño completo de PADS+ sigue en
+      *Breaking Rules*, fuera del corpus.
 
 - [x] **[concepto]** Criminalización y selectividad penal — criminalización primaria y
       secundaria, selectividad del sistema penal, derecho penal simbólico. Hoy sólo

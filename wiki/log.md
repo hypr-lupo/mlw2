@@ -8,6 +8,34 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-17] ingesta | Blanco (2011), El enfoque del curso de vida: orígenes y desarrollo
+
+**Tercera y última obra de la tanda 3, que queda cerrada un día tarde.** Sigue la tanda 4:
+Gottfredson y Hirschi (1990), Clarke (1997) y Felson y Eckert (2016), antes del 23-10.
+
+- Ficha creada: [[blanco-curso-de-vida]]. Artículo de la *Revista Latinoamericana de
+  Población*, 2011, el mismo que pide el programa de S1.1. `verificacion_bibliografica:
+  verificado`. Ingesta completa.
+- Páginas creadas (1): [[estudios-longitudinales]], en `medicion-y-metodo`, con Blanco,
+  Wikström, el libro de 2021 y Kessler.
+- Páginas actualizadas (4):
+  · [[criminologia-del-curso-de-vida]]: el enfoque de origen, contrastado con el cap. X;
+  · [[enfoques-cuantitativo-y-cualitativo]]: la metodología mixta en el curso de vida;
+  · [[prevencion-del-delito]]: trayectorias en vez de cadenas causales;
+  · [[diseno-de-investigacion]]: un enlace al diseño que el manual no traía.
+  · Más [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: ninguna nueva. La tensión 18, factores de riesgo como base o
+  límite, suma que el enfoque de origen cambió las cadenas causales por trayectorias.
+  [[criminologia-del-curso-de-vida]] registra que el cap. X redujo los cinco principios del
+  enfoque a uno.
+- En revisión: 1 resuelto (PADS+, `crear-pagina`, reformulado como página de estudios
+  longitudinales). La cola pasa a 36.
+- Análisis de fase 1 persistido en `despliegue/fase1/2026-10-17-blanco-curso-de-vida.md`.
+- Notas: es una revisión sociodemográfica, no criminológica, y declara que no evalúa lo que
+  cita. [[criminologia-del-curso-de-vida]] sigue en borrador: Sampson y Laub no están en el
+  corpus. `grafo.py` marcó un enlace faltante, entre estudios longitudinales y prevención, y
+  se agregó. Toca 6 páginas de contenido, ficha incluida.
+
 ## [2026-10-16] ingesta | Kessler (2004), Sociología del delito amateur
 
 **Segunda obra de la tanda 3.** Ingesta completa: introducción, ocho capítulos, conclusión y
