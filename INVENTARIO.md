@@ -1,6 +1,6 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 02-10-2026 · **Total:** 118 documentos · **703 MB**
+**Fecha:** 17-10-2026 · **Total:** 119 documentos · **703 MB**
 
 > **Nomenclatura normalizada el 12-09-2026.** Los 114 documentos siguen ya el
 > patrón `año - autor - título`; no queda ninguno fuera de convención. Sin año
@@ -300,7 +300,9 @@ Alimenta: S3.E4.
 | 2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf | 0.7 | `c87e377d5d6e` |
 | 2023 - Minayo, Deslandes y Gomes - Investigación social, teoría, método y creatividad.pdf | 7.8 | `28cc6ea65da8` |
 
-## Programas oficiales y malla · 6 doc.
+## Programas oficiales y malla · 7 doc.
+
+El programa de S2.4 de la promoción 2023 quedó reemplazado el 17-10-2026 por el vigente, de 2026. Se conserva para comparar las dos versiones. Ver `programa/S2.4`.
 
 
 | Documento | MB | MD5 |
@@ -309,6 +311,7 @@ Alimenta: S3.E4.
 | 2025 - Universidad Alberto Hurtado - Programa del curso, Metodología para la medición y análisis del delito.pdf | 0.3 | `543db059c1b8` |
 | 2025 - Universidad Alberto Hurtado - Programa del curso, Sistema penal, política criminal y Estado de derecho.pdf | 0.1 | `1c31c6bed0ea` |
 | 2026 - Universidad Alberto Hurtado - Horario, cohorte 2026, segundo semestre.pdf | 0.2 | `d682a5d2d7d9` |
+| 2026 - Universidad Alberto Hurtado - Programa del curso, Abordaje de la violencia y delincuencia adolescente y juvenil.pdf | 0.3 | `eccfe14e7da3` |
 | 2026 - Universidad Alberto Hurtado - Programa del curso, Introducción a la criminología y aspectos teóricos de la prevención del delito y la violencia (síntesis).md | 0.0 | `f6258904c24f` |
 | 2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md | 0.0 | `65150a2e467f` |
 

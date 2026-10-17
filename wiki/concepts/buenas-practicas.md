@@ -3,11 +3,11 @@ title: Buenas prácticas en prevención
 type: concept
 sources: ["2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf"]
 cluster: prevencion
-curso: [s1-1, s1-2]
+curso: [s1-1, s1-2, s2-4]
 procedencia: fuentes
 estado: borrador
 creado: 2026-10-16
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Buenas prácticas en prevención

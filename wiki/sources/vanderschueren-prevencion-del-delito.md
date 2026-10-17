@@ -10,12 +10,12 @@ idioma_fuente: es
 apa: "Vanderschueren, F., Díaz, G., y Guajardo, C. (Eds.). (2021). *Prevención del delito y la violencia: reflexiones desde la academia y los territorios*. Ediciones Universidad Alberto Hurtado."
 verificacion_bibliografica: verificado
 cluster: prevencion
-curso: [s1-1, s1-2]
+curso: [s1-1, s1-2, s2-4]
 procedencia: fuentes
 estado: revisado
 truncado: false
 creado: 2026-09-26
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Prevención del delito y la violencia (Vanderschueren, Díaz y Guajardo, eds.)
@@ -178,6 +178,7 @@ Capa posterior y reversible. Vaciarla no cambia nada de lo anterior.
 - **S1.1.** Figura en la bibliografía restante de `programa/S1.1`, cuyo docente es el primer editor.
 - **S1.2.** La presentación de la clase 1 cita el cap. II de Tudela, con la obra contenedora a nombre de «F. Vanderschueren (Ed.)», un solo editor donde son tres.
 - **S2.3.** El corpus preliminar le atribuye además este ramo, cuyo programa no se ha recibido y no pondera.
+- **S2.4.** Desde el 17-10-2026, el cap. X es bibliografía obligatoria del programa vigente. Lo escribe el docente del ramo, Germán Díaz Urrutia.
 
 Entra en la tanda 1 del orden por calendario.
 

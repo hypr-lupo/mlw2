@@ -3,7 +3,7 @@ title: Teoría general del delito (bajo autocontrol)
 type: concept
 sources: ["1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: explicacion-del-delito
-curso: [s1-1]
+curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-10-17

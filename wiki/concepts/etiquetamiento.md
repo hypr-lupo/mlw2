@@ -3,7 +3,7 @@ title: Etiquetamiento (labelling approach)
 type: concept
 sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: explicacion-del-delito
-curso: [s1-1, s1-3]
+curso: [s1-1, s1-3, s2-4]
 procedencia: fuentes
 estado: borrador
 creado: 2026-10-16

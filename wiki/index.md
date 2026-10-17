@@ -246,7 +246,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   la ENUSC, con un piloto experimental. Bibliografía de S1.2. Primera fuente estadística
   oficial de la wiki. Tercera de la tanda 2
 - [[kessler-delito-amateur]] — Kessler, 2004. Sociología de jóvenes que roban con violencia
-  en Buenos Aires, 53 entrevistas de 1999. Bibliografía de S1.1 y de S2.4. Segunda de la
+  en Buenos Aires, 53 entrevistas de 1999. Bibliografía de S1.1. S2.4 pide una reseña del libro. Segunda de la
   tanda 3
 - [[ley-21675-violencia-de-genero]] — Ley 21.675, 2024, en su texto vigente al
   22-07-2026. Primera norma de la wiki. Incorpora el pololeo a la violencia
@@ -275,7 +275,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   de ONU-Hábitat (2020). Segunda de la tanda 1 y primera fuente con casos chilenos
 - [[vanderschueren-prevencion-del-delito]] — Vanderschueren, Díaz y Guajardo (eds.),
   2021. Libro colectivo de Ediciones UAH, arbitrado. Bibliografía de S1.1 y, por el
-  capítulo de Tudela, de la clase 1 de S1.2. Varios autores escriben sobre
+  capítulo de Tudela, de la clase 1 de S1.2. Su cap. X es obligatoria de S2.4. Varios autores escriben sobre
   instituciones de las que forman parte. Tercera de la tanda 1
 - [[vives-varela-teoria-fundamentada]] — Vives Varela y Hamui Sutton, 2021. Artículo de
   revisión de una revista de educación médica de la UNAM. Bibliografía de S1.2. Segunda de

@@ -179,7 +179,8 @@ núcleo ancla, los dos siguientes el 13-09-2026 al agnosticar la ingesta, y el c
   Ley 21.730, el comunicado de la ACOT y González-Guarda y Salazar-Tobar (2023) quedan
   como contexto, al fondo; el comunicado pierde vigencia rápido.
   **Tres cosas quedan abiertas:**
-  · los programas vigentes de S2.4 y S1.3: sin ellos, su bibliografía propia no pondera;
+  · el programa vigente de S1.3: sin él, su bibliografía propia no pondera. El de S2.4
+    llegó el 17-10-2026;
   · si Vozmediano y San Juan sale de la cuarentena para cubrir el módulo 4, sobre
     urbanismo (09-10), que no tiene otra obra en el corpus;
   · conseguir Canales (2006) y Miranda y Gac (2020) para la clase 4 de S1.2 (03-10).
@@ -210,14 +211,14 @@ grado, un semestre antes.
 
 *Transversales, prioridad 1.* **Garland (2001/2005)** es el único título presente en
 el corpus que aparece en dos programas oficiales —consulta en S1.1, bibliografía en
-S1.3— y es por eso la bisagra. El otro que se repite, Kessler (2004) en S1.1 y S2.4,
-falta. **García-Pablos de Molina (2003)** cubriría como manual el arco
+S1.3— y es por eso la bisagra. El otro que se repetía, Kessler (2004), lo pedían S1.1 y el
+programa de 2023 de S2.4. El vigente de S2.4 pide una reseña de él. **García-Pablos de Molina (2003)** cubriría como manual el arco
 teórico completo que el objetivo específico de S1.1 enuncia, pero el corpus sólo tiene
 la segunda mitad y por eso queda en espera: ver el ajuste de orden más arriba. La **Guía ONU-Hábitat y Guadalajara (2020)** operacionaliza
 el trabajo evaluado de S1.1. **Blanco (2011)** funda el enfoque de curso de vida, que
-S1.1 pide en el módulo 6 y S2.4 en la sesión III. **Gottfredson y Hirschi (1990)**
+S1.1 pide en el módulo 6 y S2.4 en el módulo III. **Gottfredson y Hirschi (1990)**
 sostiene el control social del módulo 6. **Vanderschueren, Díaz y Guajardo (2021)**,
-del propio docente del ramo ancla, alimenta S1.1 y S2.3.
+del propio docente del ramo ancla, alimenta S1.1 y S2.3. Su cap. X es obligatoria de S2.4.
 
 *Metodológicas, prioridad 2.* Las nueve de S1.2 presentes en el corpus. No fundan
 teoría, pero las dos evaluaciones del ramo —análisis crítico de una investigación
@@ -228,13 +229,13 @@ con ellas, y son el puente operativo al trabajo de grado.
 de un ramo en curso —P1 en la ficha de `programa/`— sobre el material de reserva.
 Los ramos en curso son S1.1, S1.2, S1.3 y S2.4.
 
-**Programas vigentes.** Al 12-09-2026 sólo se tienen los programas vigentes de **S1.1
-y S1.2**. Los de S1.3 y S2.4 que están en el corpus son de promociones anteriores
-—octubre de 2025 y promoción 2023— y sus fichas quedaron marcadas
-`programa_vigente: no`. Mientras no lleguen las versiones de esta cohorte, su
+**Programas vigentes.** Al 12-09-2026 sólo se tenían los programas vigentes de **S1.1
+y S1.2**. El 17-10-2026 llegó el de **S2.4**, que reemplaza al de la promoción 2023. El
+de S1.3 que está en el corpus es de octubre de 2025, y su ficha sigue marcada
+`programa_vigente: no`. Mientras no llegue su versión de esta cohorte, su
 bibliografía no pondera y sus faltantes no se persiguen: conseguir títulos contra un
 programa caduco es trabajo que puede perderse. **La bibliografía faltante que importa
-es la de S1.1 y S1.2**, y sólo ésa.
+es la de S1.1, S1.2 y S2.4**, y sólo ésa.
 
 **Vacíos conocidos.** No se disimulan con lo que hay cerca:
 
@@ -246,10 +247,12 @@ es la de S1.1 y S1.2**, y sólo ésa.
   con material de crimen organizado.
 - **Criminología feminista**, objetivo específico declarado de S1.1: falta Renzetti
   (2013), el único título que la cubre.
-- **S2.4** es un ramo en curso con **un solo** documento de su bibliografía oficial en
-  el corpus: Kessler (2004), que también pide S1.1. Blanco (2011) cubre el enfoque de
-  curso de vida de su sesión III, aunque no está en su bibliografía. Empieza el 17-10 y
-  su programa vigente todavía no llega.
+- **S2.4** es un ramo en curso con **un solo** título de su bibliografía vigente en el
+  corpus, de 46: el cap. X de Vanderschueren, Díaz y Guajardo (2021), de su propio
+  docente. Su módulo I, sobre juventudes, no tiene ninguna obra en el corpus. Kessler
+  (2004), Blanco (2011) y Gottfredson y Hirschi (1990) cubren el módulo III por
+  contenido, sin estar en su bibliografía. Empezó el 17-10, y su programa vigente llegó
+  ese día.
 
 **Contaminación de citación.** Es el error más costoso de este proyecto y el que
 motivó la purga del 05-09-2026. Ninguna afirmación del autor puede reaparecer con

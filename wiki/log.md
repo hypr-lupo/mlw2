@@ -8,6 +8,35 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-17] programa | S2.4, Abordaje de la violencia y delincuencia adolescente y juvenil
+
+**Llegó el programa vigente de S2.4**, que reemplaza al de la promoción 2023. No declara año.
+El PDF se generó el 10-10-2026 y cita cuatro obras de 2026.
+
+- Corpus: el PDF entra a `raw/sources/` como `2026 - Universidad Alberto Hurtado - Programa
+  del curso, Abordaje de la violencia y delincuencia adolescente y juvenil.pdf`, en el
+  cúmulo de programas, que pasa a 7 documentos. El de 2023 se conserva. No se registra en
+  `MANIFIESTO.json`: los programas se integran por excepción, no se ingieren.
+- `programa/S2.4` reescrita: `programa_vigente: sí`. Cinco módulos, 9 obligatorias, 35
+  complementarias y 2 leyes. Sólo una está en el corpus: Díaz Urrutia (2021), el cap. X de
+  [[vanderschueren-prevencion-del-delito]], ya ingerido.
+- Cambios frente a 2023: Kessler (2004) sale de la bibliografía y entra una reseña de él,
+  de Brizuela (2014). La prueba pasa de individual a duplas, con 30 % y 70 %. Hay un módulo
+  nuevo sobre Chile, con la Responsabilidad Penal Adolescente.
+- Capa `curso`: S2.4 se agrega a once páginas que tratan contenidos que el programa nombra,
+  y a dos fichas: [[vanderschueren-prevencion-del-delito]], por bibliografía, y
+  [[gottfredson-hirschi-teoria-general]], por contenido. Ninguna afirmación cambia.
+- Actualizadas: las fichas de [[kessler-delito-amateur]] y [[blanco-curso-de-vida]], que
+  citaban el programa de 2023; [[muerte-social]], que decía ser lo único del corpus para el
+  ramo; [[index]], [[referencias]], [[overview]], [[pendientes]], `purpose.md`,
+  `programa/S1.1` e `INVENTARIO.md`.
+- En revisión: una enmienda al ítem de capital cultural. La del 16-10 confundió *La
+  distinción* con el capítulo de Bourdieu que pide S2.4. El criterio no cambia.
+- Notas: es el ramo en curso con menos corpus, 1 de 46 títulos. El módulo I, sobre
+  juventudes, no tiene ninguna obra. Según la regla de `purpose.md`, con el programa
+  vigente sus faltantes ya importan: quedan listados en [[pendientes]]. Las notas de
+  `trabajos/` para S2.4 no se tocaron.
+
 ## [2026-10-17] ingesta | Gottfredson y Hirschi (1990), A general theory of crime
 
 **Primera obra de la tanda 4.** Ingesta completa: prefacio y doce capítulos. Siguen Clarke

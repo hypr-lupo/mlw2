@@ -77,7 +77,7 @@ El curso de vida es un enfoque teórico-metodológico. Estudia cómo los eventos
 
 Capa posterior y reversible. Vaciarla no cambia nada de lo anterior.
 
-Bibliografía de S1.1, Introducción a la criminología, para el módulo 6. Cubre además, por contenido, la sesión sobre curso de vida de S2.4, aunque no está en su bibliografía. Tercera y última obra de la tanda 3 del orden por calendario de [[purpose]].
+Bibliografía de S1.1, Introducción a la criminología, para el módulo 6. Cubre además, por contenido, el curso de vida del módulo III de S2.4, aunque no está en su bibliografía. Tercera y última obra de la tanda 3 del orden por calendario de [[purpose]].
 
 ---
 

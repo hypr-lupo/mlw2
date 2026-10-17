@@ -521,6 +521,11 @@ informal, y le queda uno, las teorías de la oportunidad. La 5 destraba cuatro, 
       tercera fuente cita a Bourdieu (2002), *La distinción*, que es el título que pide S2.4.
       Lo hace de segunda mano, por la relación entre gusto, capital escolar y origen social
       (p. 15). No define capital cultural. El criterio no se cumple.
+      **Enmienda 17-10-2026** (programa vigente de S2.4): el programa pide como obligatoria
+      Bourdieu (2002), «La "juventud" no es más que una palabra», en *Sociología y cultura*,
+      Grijalbo. No es *La distinción*: la enmienda anterior confundió los dos títulos. Por su
+      título, el capítulo trata la juventud, y queda abierto si define el capital cultural.
+      Sigue fuera del corpus. El criterio no cambia.
 
 - [ ] **[concepto]** «Violencia contra las mujeres en la pareja y la familia» — tres
       fuentes la tratan desde ángulos que no se tocan. [[valdivia-violencia-en-el-noviazgo]]

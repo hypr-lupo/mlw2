@@ -99,7 +99,7 @@ cifras con su año
 
 Kessler, G. (2004). *Sociología del delito amateur*. Paidós.
 → [[kessler-delito-amateur]] · verificada contra la página de créditos · coincide con lo que
-piden los programas de S1.1 y S2.4 · el PDF omite las páginas en blanco: citar por la página
+piden el programa de S1.1 y el de 2023 de S2.4; el vigente de S2.4 pide una reseña de Brizuela (2014) · el PDF omite las páginas en blanco: citar por la página
 impresa · las teorías del anexo son de segunda mano: citar a Merton, Becker o Hirschi por su
 obra
 
@@ -158,7 +158,8 @@ Alberto Hurtado.
 → [[vanderschueren-prevencion-del-delito]] · verificada contra la página de créditos
 (ISBN 978-956-357-291-9, 1.ª ed. abril de 2021) y contra `programa/S1.1` · **libro
 colectivo arbitrado**: los capítulos se citan por su autor, con esta obra como
-contenedora; así, Tudela (2021), pp. 57-76, que pide la clase 1 de S1.2 · varios
+contenedora; así, Tudela (2021), pp. 57-76, que pide la clase 1 de S1.2, y Díaz Urrutia (2021),
+pp. 247-270, obligatoria de S2.4 · varios
 autores describen instituciones de las que forman parte: el cap. VII sobre Peñalolén es
 de su directora
 

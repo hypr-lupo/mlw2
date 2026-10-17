@@ -14,7 +14,7 @@ curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-10-16
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Sociología del delito amateur (Kessler)
@@ -87,7 +87,7 @@ Los jóvenes que roban en los barrios populares de Buenos Aires a fines de los n
 
 Capa posterior y reversible. Vaciarla no cambia nada de lo anterior.
 
-Bibliografía de S1.1, Introducción a la criminología, y de S2.4, Violencia y delincuencia juvenil, según un programa de una cohorte anterior. Es el único título compartido entre los dos ramos. Segunda obra de la tanda 3 del orden por calendario de [[purpose]].
+Bibliografía de S1.1, Introducción a la criminología. El programa de 2023 de S2.4, Violencia y delincuencia juvenil, también lo pedía. El vigente, recibido el 17-10-2026, pide en su lugar una reseña del libro, de Brizuela (2014), que no está en el corpus. Por eso conserva S2.4 en `curso`, por contenido. Segunda obra de la tanda 3 del orden por calendario de [[purpose]].
 
 ---
 

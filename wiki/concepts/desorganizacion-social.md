@@ -3,7 +3,7 @@ title: Desorganización social
 type: concept
 sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: explicacion-del-delito
-curso: [s1-1]
+curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-26

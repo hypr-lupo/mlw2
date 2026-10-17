@@ -10,7 +10,7 @@ idioma_fuente: en
 apa: "Gottfredson, M. R. y Hirschi, T. (1990). *A general theory of crime*. Stanford University Press."
 verificacion_bibliografica: verificado
 cluster: explicacion-del-delito
-curso: [s1-1]
+curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: revisado
 truncado: false
@@ -86,7 +86,7 @@ Los autores quieren unir dos tradiciones. De la escuela clásica toman la idea d
 
 Capa posterior y reversible. Vaciarla no cambia nada de lo anterior.
 
-Bibliografía restante de S1.1, Introducción a la criminología, no obligatoria. [[purpose]] le asigna el control social del módulo 6. Primera obra de la tanda 4 del orden por calendario.
+Bibliografía restante de S1.1, Introducción a la criminología, no obligatoria. [[purpose]] le asigna el control social del módulo 6. Cubre además, por contenido, el autocontrol del módulo III de S2.4, aunque no está en su bibliografía. Primera obra de la tanda 4 del orden por calendario.
 
 ---
 

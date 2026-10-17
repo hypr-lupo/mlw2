@@ -588,6 +588,9 @@ dirección. Elegirla o no es decisión del autor.
   los diseños experimentales y cuasiexperimentales. Gottfredson y Hirschi dan la jerarquía,
   en una sección de [[diseno-de-investigacion]], pero no un procedimiento. La medición de la victimización ya tiene
   página, pero sin resultados de la ENUSC posteriores a 2021.
+- **Hablar de juventudes.** El programa vigente de S2.4 llegó el 17-10, y su módulo I, sobre
+  la juventud como construcción social, no tiene ninguna obra en el corpus. Faltan Bourdieu,
+  Duarte Quapper y Reguillo. Sólo uno de los 46 títulos del ramo está ingerido.
 - **Clasificar grupos criminales.** No hay `subtipo` de `entity` donde quepan el PCC o
   las milícias. Material de la operación 8. Las milícias ya tienen la segunda fuente que
   su página esperaba; lo único que la bloquea es esto.

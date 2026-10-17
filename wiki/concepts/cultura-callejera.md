@@ -3,7 +3,7 @@ title: Cultura callejera
 type: concept
 sources: ["2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: explicacion-del-delito
-curso: []
+curso: [s2-4]
 procedencia: fuentes
 estado: borrador
 creado: 2026-10-02

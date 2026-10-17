@@ -126,7 +126,7 @@ segunda mano.
 | [[criminologia-del-curso-de-vida]] | Los autores criminológicos del enfoque, como Sampson y Laub | No están en el corpus. Blanco (2011), ya ingerida, da el enfoque general. Gottfredson y Hirschi, ingerida el 17-10, da la crítica, sin la respuesta de Sampson y Laub |
 | [[violencia-en-el-noviazgo]] | Una fuente de violencia de género | La bibliografía de S3.3, cuando llegue su programa |
 | [[regimenes-armados-microescala]] | Una segunda fuente que use o discuta el modelo, y un caso chileno | Arias (2006) en `Gobernanza criminal y territorio`, que es del mismo autor; los dos Zeballos, en la tanda 6. Santa Tecla, en el CIPC (2015), es un caso compatible, pero el informe no usa el modelo |
-| [[cultura-callejera]] | Una fuente que encuentre la misma cultura fuera de Nueva York en los ochenta | Kessler (2004), en Buenos Aires, no la encuentra: ver la tensión 39. Nada identificado; Salazar (1991), sobre Medellín, está en la bibliografía de S2.4 y falta en el corpus |
+| [[cultura-callejera]] | Una fuente que encuentre la misma cultura fuera de Nueva York en los ochenta | Kessler (2004), en Buenos Aires, no la encuentra: ver la tensión 39. Nada identificado; Salazar (1991), sobre Medellín, estaba en el programa de 2023 de S2.4, y el vigente no lo pide |
 | [[buenas-practicas]] | Una fuente que discuta el concepto desde fuera, no que lo use para elegir casos | Nada identificado |
 | [[anomia]] | Durkheim y Merton de primera mano | No están en el corpus. Lamnek, pedido por S1.1, tampoco. Los caps. V y VI de Baratta, sin ingerir, traen las subculturas |
 | [[etiquetamiento]] | Becker, Lemert y Sack de primera mano | No están en el corpus. Lamnek, pedido por S1.1, tampoco |
@@ -188,18 +188,26 @@ Salió de la auditoría del 27-09-2026. No bloquea nada.
       lo nombra, pero sólo por las teorías de alcance medio (p. 27): no toca la tensión ni
       la anomia
 - [ ] **Criminología feminista**, objetivo específico de S1.1: falta Renzetti (2013)
-- [ ] **Gibson y Krahn (2013)**, *Handbook of life course criminology*, pedido por S1.1
+- [ ] **Gibson y Krahn (2013)**, *Handbook of life course criminology*, pedido por S1.1 y,
+      como Gibson y Krohn, por S2.4
 - [ ] **Breaking Rules** (Wikström y otros, 2012), donde están el diseño y los análisis
       completos de PADS+
 - [ ] **El tipo penal de femicidio vigente**, para cerrar el estado legal del pololeo
-- [ ] **S2.4 y S1.3** tienen programas de promociones anteriores, marcados
-      `programa_vigente: no`. Sus faltantes no se persiguen hasta que lleguen las versiones
-      de esta cohorte; eso incluye el Zaffaroni que pide S1.3
+- [ ] **S2.4**, programa vigente recibido el 17-10-2026: 45 de sus 46 títulos faltan, y
+      ocho de ellos son obligatorios. Bourdieu (2002), Brizuela (2014), Duarte Quapper
+      (2012), Fundación Paréntesis (2015), Matza (2014), Otamendi (2019), Reguillo (2000) y
+      UNICEF Chile. Duarte Quapper y Otamendi son de acceso abierto, y las Leyes 20.084 y
+      21.527 están en la BCN. El módulo I, sobre juventudes, no tiene ninguna obra en el
+      corpus. Ver `programa/S2.4`
+- [ ] **S1.3** tiene un programa de una promoción anterior, marcado
+      `programa_vigente: no`. Sus faltantes no se persiguen hasta que llegue la versión de
+      esta cohorte; eso incluye el Zaffaroni que pide
 
 ## Programas de curso por solicitar
 
 Doce de las dieciséis fichas de `programa/` siguen en `programa_recibido: no`. Los cuatro
-ramos en curso —S1.1, S1.2, S1.3 y S2.4— ya tienen el suyo. Los siguientes que importarán
+ramos en curso —S1.1, S1.2, S1.3 y S2.4— ya tienen el suyo, y S2.4 tiene el vigente desde
+el 17-10. Falta el vigente de S1.3. Los siguientes que importarán
 son el del Seminario de Trabajo de Grado, donde debería estar la operacionalización que el
 folleto no da, y el de S3.3, para la violencia de género. Ver
 [[trabajo-de-grado-profesionalizante]].

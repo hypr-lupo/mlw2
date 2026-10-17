@@ -3,7 +3,7 @@ title: Control social informal
 type: concept
 sources: ["1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
 cluster: explicacion-del-delito
-curso: [s1-1]
+curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-10-17

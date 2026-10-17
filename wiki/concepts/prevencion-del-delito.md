@@ -3,7 +3,7 @@ title: Prevención del delito
 type: concept
 sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: prevencion
-curso: [s1-1]
+curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26

@@ -3,7 +3,7 @@ title: Autocontrol y disuasión
 type: concept
 sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: explicacion-del-delito
-curso: [s1-1]
+curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12

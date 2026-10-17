@@ -3,11 +3,11 @@ title: Muerte social y ceros sociales
 type: concept
 sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
 cluster: victimizacion-e-inseguridad
-curso: [s1-1]
+curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-02
+actualizado: 2026-10-17
 ---
 
 # Muerte social y ceros sociales
@@ -58,7 +58,7 @@ Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]], una etnograf
 
 ## Por qué esta página importa más de lo que parece
 
-Es hoy **lo único que el corpus ofrece para S2.4**, «Violencia y delincuencia juvenil», ramo en curso cuyo programa está recibido y que no tiene ningún documento de su bibliografía oficial en el corpus. Ver [[pendientes]].
+Toca el módulo II de S2.4, «Violencia y delincuencia juvenil», sobre jóvenes como víctimas y victimarios. El programa vigente llegó el 17-10-2026, y sólo uno de sus 46 títulos está en el corpus. Ver [[pendientes]].
 
 No lo sustituye: Adams no es bibliografía de ese ramo y su tratamiento de la juventud es un apartado dentro de una reseña regional más amplia. Pero da un marco con el que leer el vacío mientras se consigue el material.
 
