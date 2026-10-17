@@ -8,6 +8,45 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-16] ingesta | Kessler (2004), Sociología del delito amateur
+
+**Segunda obra de la tanda 3.** Ingesta completa: introducción, ocho capítulos, conclusión y
+anexo. Queda Blanco (2011).
+
+- Ficha creada: [[kessler-delito-amateur]]. Primera edición de Paidós, 2004, la misma que
+  piden los programas. `verificacion_bibliografica: verificado`. El PDF omite las páginas en
+  blanco entre capítulos: se cita la página impresa, reconstruida con los números del libro.
+- Páginas creadas (1): [[delito-amateur]], en `explicacion-del-delito`, revisada: es el
+  concepto del autor desde su propio campo.
+- Páginas actualizadas (12):
+  · [[autocontrol-y-disuasion]]: la disuasión desde el campo;
+  · [[teoria-accion-situacional]]: la ley que no obliga;
+  · [[etiquetamiento]]: puesto a prueba en Buenos Aires;
+  · [[anomia]]: una segunda exposición de Merton;
+  · [[cultura-callejera]]: la contracultura que Kessler no encuentra;
+  · [[criminologia-del-curso-de-vida]]: el desistimiento, desde Buenos Aires;
+  · [[legitimidad-policial]]: la policía vista desde quienes roban;
+  · [[mano-dura-y-militarizacion]]: la represión que escala;
+  · [[miedo-social]]: el temor que ordena el barrio;
+  · [[criminalizacion-y-selectividad-penal]]: una tercera posición sobre la cifra negra;
+  · [[prevencion-del-delito]]: la deserción que sigue al robo;
+  · [[bourgois-en-busca-de-respeto]]: una conexión.
+  · Más [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: 2 nuevas.
+  · **¿Contracultura o suspensión del juicio?** (tensión 39), entre Bourgois y Kessler, que
+    se distingue explícitamente. En [[delito-amateur]] y [[cultura-callejera]].
+  · **¿La etiqueta fija la carrera?** (tensión 40). En [[etiquetamiento]] y
+    [[criminologia-del-curso-de-vida]].
+  · La tensión 30, sobre la deserción escolar, suma a Kessler: la deserción viene después
+    del robo.
+- En revisión: 1 ítem nuevo (subculturas delictivas, deriva y neutralización, `crear-pagina`,
+  que depende del resto de Baratta) y 2 enmiendas (teorías de la oportunidad y control
+  social informal). La cola pasa a 37.
+- Análisis de fase 1 persistido en `despliegue/fase1/2026-10-16-kessler-delito-amateur.md`.
+- Notas: el campo es de Buenos Aires en 1999, con una muestra no aleatoria y siete mujeres
+  de 53. Las teorías del anexo son de segunda mano. `grafo.py` no marca enlaces faltantes
+  para las páginas nuevas. Toca 14 páginas de contenido, ficha incluida.
+
 ## [2026-10-16] ingesta | Baratta (2004), Criminología crítica y crítica del derecho penal, caps. I-II, IV, VII y VIII
 
 **Primera obra de la tanda 3, que venció hoy.** Ingesta parcial, según [[purpose]]: pp. 21-43,

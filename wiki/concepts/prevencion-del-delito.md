@@ -1,7 +1,7 @@
 ---
 title: Prevención del delito
 type: concept
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -81,6 +81,8 @@ La tensión es interna al libro y ninguno de los capítulos discute a los otros.
 
 Su propuesta va en dirección contraria a la focalización: emparejar los servicios públicos de los barrios pobres con los de los suburbios, con guarderías gratuitas, salud universal y financiamiento escolar equitativo [^ext-31]. Es una posición del autor, no un resultado de su etnografía.
 
+**Una tercera voz sobre la deserción.** Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]]. Entre jóvenes que roban en Buenos Aires, la deserción escolar viene después de empezar a robar, no antes [^ext-34]. Si fuera así en general, la deserción marcaría un proceso ya iniciado, más que su causa [^inf-3]. Ver [[delito-amateur]].
+
 ## Dos paradojas
 
 El cap. XIII, escrito sobre el extremismo violento, formula dos paradojas que valen para cualquier prevención [^ext-22]:
@@ -118,6 +120,7 @@ Las conclusiones separan lo que la definición de Naciones Unidas junta: la prev
 - [[tipologia-barrial]] — la prevención diferenciada por tipo de barrio en las guías de los mismos autores
 - [[bourgois-en-busca-de-respeto]] — la crítica etnográfica a los factores de riesgo y a los programas centrados en la actitud
 - [[ideologia-de-la-defensa-social]] — Romagnosi, los sustitutivos penales y el principio de prevención
+- [[delito-amateur]] — la deserción que sigue al robo
 
 **Por confrontar.** La prevención situacional tiene su obra fundacional en el corpus: Clarke (1997), en la tanda 4. La comunitaria, en las orientaciones técnicas de la Subsecretaría de Prevención del Delito (2022), en la tanda 5.
 
@@ -156,6 +159,8 @@ Las conclusiones separan lo que la definición de Naciones Unidas junta: la prev
 [^ext-31]: **Extraído** — [[bourgois-en-busca-de-respeto]], conclusión, pp. 338-339.
 [^ext-32]: **Extraído** — [[baratta-criminologia-critica]], cap. I, pp. 27-28 y 33.
 [^ext-33]: **Extraído** — [[baratta-criminologia-critica]], cap. II, pp. 36-37, y cap. VII, p. 89.
+[^ext-34]: **Extraído** — [[kessler-delito-amateur]], cap. 7, pp. 215-216.
 [^amb-1]: **Ambiguo** — el cap. IV (p. 102) y el cap. VI (pp. 146-147) atribuyen a Brantingham y Faust (1976) definiciones distintas de la prevención primaria. El IV la define por la población destinataria, siguiendo al Foro de Expertos de 2004; el VI, por las condiciones del ambiente que dan oportunidades al delito. El libro no nota la diferencia. La obra original no está en el corpus; no se resuelve por inferencia.
 [^inf-1]: **Inferido** (confianza 0.65) — contraste entre Hein (2004), en [[vanderschueren-prevencion-del-delito]], cap. IV, y [[bourgois-en-busca-de-respeto]], cap. 4. Bourgois no discute el enfoque de factores de riesgo con ese nombre.
 [^inf-2]: **Inferido** (confianza 0.7) — Baratta no discute la prevención comunitaria ni la situacional. La distinción la hace esta wiki con las dos concepciones del cap. I de [[vanderschueren-prevencion-del-delito]].
+[^inf-3]: **Inferido** (confianza 0.6) — Kessler habla de sus casos, no de una muestra representativa.

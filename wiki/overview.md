@@ -9,7 +9,7 @@ sources: []
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
 **Al 16-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden, la
-tanda 2 cerrada y la 3 en curso.** Veintitrés fuentes de 118, setenta y cuatro páginas, **siete de ocho
+tanda 2 cerrada y la 3 en curso.** Veinticuatro fuentes de 118, setenta y seis páginas, **siete de ocho
 clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
@@ -130,6 +130,15 @@ anomia llega de segunda mano: Merton sigue faltando. Y abre tres tensiones. Con 
 la pregunta misma. Con Boba y el INE, sobre qué es la cifra negra. Y con Bourgois, sobre si
 explicar el delito de los pobres lo critica o lo confirma.
 
+**Y quienes roban, desde Buenos Aires.** [[kessler-delito-amateur]] es la segunda de la tanda 3
+y la primera sociología de la wiki hecha con quienes delinquen en América Latina: 53 jóvenes
+que robaron con violencia en el conurbano, entrevistados en 1999. Nace [[delito-amateur]]:
+jóvenes que alternan trabajo precario y robo, y para quienes el dinero vale por su uso y no
+por su origen. El libro pone a prueba varias páginas a la vez. La disuasión no decide entrar
+ni salir. La etiqueta no aparece entre pares, sí en la familia y la escuela. La policía es
+una banda más. Y abre dos tensiones: con Bourgois, sobre si hay una contracultura, y con el
+etiquetamiento, sobre si la etiqueta fija la carrera.
+
 ## Siete respuestas a la misma pregunta
 
 Las fuentes teóricas explican por qué la violencia se concentra donde se concentra, y
@@ -163,7 +172,8 @@ qué orden se forma. Ver [[regimenes-armados-microescala]].
 **En la cultura.** [[bourgois-en-busca-de-respeto]]: la exclusión de la economía legal
 produce una [[cultura-callejera]] que busca respeto y termina destruyendo a sus
 participantes. La concentración de pobreza que la hace posible la produjeron políticas
-urbanas, no la ecología del barrio. Ver [[desorganizacion-social]].
+urbanas, no la ecología del barrio. Ver [[desorganizacion-social]]. En Buenos Aires,
+[[kessler-delito-amateur]] no encuentra esa cultura. Ver [[delito-amateur]].
 
 **En la condición.** [[adams-violencia-cronica]]: la [[violencia-cronica]] es condición
 y no episodio, y sus efectos —[[miedo-social]], [[zona-gris]], [[muerte-social]]— la
@@ -294,8 +304,8 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     crack ordenó vidas que el empleo legal no ordenó. Ver
     [[criminologia-del-curso-de-vida]].
 30. **¿Qué significa la deserción escolar?** Un factor de riesgo para Hein; durante una
-    generación, una estrategia con estatus que fracasó cuando cerraron las fábricas. Ver
-    [[prevencion-del-delito]].
+    generación, una estrategia con estatus que fracasó cuando cerraron las fábricas. Kessler
+    agrega que, en sus casos, la deserción viene después del robo. Ver [[prevencion-del-delito]].
 
 **La que abre Batthyány y Cabrera**
 
@@ -342,6 +352,17 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     pone la causa en la economía política, que es lo que Baratta echa de menos. Ver [[anomia]]
     y [[cultura-callejera]].
 
+**Las dos que abre Kessler (2004)**
+
+39. **¿Contracultura o suspensión del juicio?** Bourgois encuentra en Harlem una cultura
+    callejera que da respeto contra la cultura que excluye. Kessler no la encuentra en Buenos
+    Aires: el trabajo sigue dando respeto, y la provisión es una suspensión del juicio que
+    comparten también quienes no roban. Ver [[delito-amateur]] y [[cultura-callejera]].
+40. **¿La etiqueta fija la carrera?** Para Lemert, según Baratta, la reacción consolida la
+    identidad desviada. Kessler recoge la crítica de la curva de edad y no encuentra etiqueta
+    entre pares, aunque sí en la familia y la escuela. Ver [[etiquetamiento]] y
+    [[criminologia-del-curso-de-vida]].
+
 **La que más va a pesar en el trabajo evaluado de S1.1.**
 [[onu-habitat-guia-barrios]] incorpora la teoría de las ventanas rotas dentro de su
 [[tipologia-barrial]], y [[sampson-vecindario-y-comunidad]] la declara espuria.
@@ -366,7 +387,8 @@ inventario. Ver [[ventanas-rotas]].
   miedo donde un grupo armado manda. Ver [[miedo-social]].
 - **La amenaza.** Gardner desde la filosofía del derecho y Wikström desde la
   criminología coinciden en que la amenaza no opera sobre quien ya tiene resuelta la
-  cuestión. Ver [[autocontrol-y-disuasion]].
+  cuestión. Kessler llega a algo parecido desde entrevistas: el cálculo de costos no decide
+  entrar ni salir del delito. Ver [[autocontrol-y-disuasion]].
 - **La evaluación.** Tudela desde la prevención del delito y Valdivia-Peralta y otros desde
   la violencia en el noviazgo llegan al mismo diagnóstico: en Chile los programas y las
   campañas no se evalúan, y la evidencia viene de países de altos ingresos. Srur y otros lo
@@ -430,6 +452,8 @@ inventario. Ver [[ventanas-rotas]].
   comparación, qué otra explicación existe y qué delitos subieron.
 - **Preguntar quién fue seleccionado.** [[criminalizacion-y-selectividad-penal]]: quién
   define, con qué estereotipos, y qué delitos quedan bajo la cifra negra.
+- **Hablar de quienes roban, desde ellos.** [[delito-amateur]]: cómo alternan trabajo y
+  robo, qué grupos forman y cómo ven a la policía. Buenos Aires, 1999.
 
 Las cuatro primeras vienen sobre todo del equipo del docente del ramo: dos guías que
 cuentan como una, y el libro de 2021, en parte de los mismos autores. Las tres últimas,
@@ -440,7 +464,7 @@ cosas.
 
 El trabajo recae sobre una política municipal o un proyecto de seguridad identificable
 —la misma exigencia de anclaje del [[trabajo-de-grado-profesionalizante]] un semestre
-antes. Las fuentes dan, juntas, diecinueve preguntas que un diagnóstico serio debería poder
+antes. Las fuentes dan, juntas, veinte preguntas que un diagnóstico serio debería poder
 responder sobre cualquier intervención. Las formula esta wiki:
 
 - ¿Funciona por el territorio o por quién usa el territorio?
@@ -469,6 +493,7 @@ responder sobre cualquier intervención. Las formula esta wiki:
   la está comparando con la otra serie?
 - Si se la presenta como buena práctica, ¿quién la describe, y con qué comparación?
 - ¿La población que atiende es la que delinque, o la que el sistema penal seleccionó?
+- ¿Supone que quienes roban forman una subcultura cerrada, o que alternan trabajo y robo?
 
 La primera política municipal chilena documentada en la wiki es la de Peñalolén. Vive
 en la ficha y en [[revision]], a la espera de una fuente que no sea su propia
@@ -515,7 +540,7 @@ de Boba en Tudela (ed.) (2010) y el CIPC (2015) entraron el mismo día, y con el
 quedó cerrada, seis días tarde. Sigue la tanda 3: Baratta (2004), Kessler (2004) y Blanco
 (2011). La tanda 3 vence el mismo 16-10. El autor
 decidió ese día mantener el orden: la 3 va después de terminar la 2. Baratta (2004) la abrió
-ese mismo día, en sus caps. I-II, IV, VII y VIII. Siguen Kessler (2004) y Blanco (2011). Después de la sexta
+ese mismo día, en sus caps. I-II, IV, VII y VIII, y Kessler (2004) la siguió. Queda Blanco (2011). Después de la sexta
 vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.
 Arias (2017) y Bourgois (2010) entraron fuera de ese orden el 02-10, por decisión del

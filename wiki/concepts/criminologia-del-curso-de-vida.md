@@ -1,13 +1,13 @@
 ---
 title: Criminología del desarrollo y del curso de vida
 type: concept
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-26
-actualizado: 2026-10-02
+actualizado: 2026-10-16
 ---
 
 # Criminología del desarrollo y del curso de vida
@@ -93,6 +93,15 @@ Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]]. No es un est
 
 **Las instituciones también cortan trayectorias.** En 2010, Primo había renunciado a un empleo de 14,75 dólares la hora cuando empezaron a descontarle una deuda de pensión alimenticia que, además, no llegaba a su hijo; volvió a vender [^ext-32]. Antes, en 2002, lo habían desalojado de la vivienda pública por una condena por posesión [^ext-33]. Y el ejército, uno de los puntos de inflexión de Sampson y Laub, reaparece en el epílogo de 2010 con otro sentido: un juez de menores obligó al hijo de Primo a enrolarse para anular sus cargos, y Bourgois lo lee como el único vehículo legal de redención que el Estado ofrece a esos jóvenes [^ext-34]. Ver [[mano-dura-y-militarizacion]].
 
+## Desde Buenos Aires
+
+Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]]. Tampoco es un estudio longitudinal, pero toma partido por el enfoque. Entre las teorías multifactoriales, Kessler prefiere la del ciclo de vida, con sus puntos de inflexión, a la que supone una personalidad estable [^ext-35]. Y recoge su hallazgo central: los delitos contra la propiedad son sobre todo de jóvenes, y la gran mayoría desiste años después [^ext-36].
+
+- **El desistimiento esperado.** La mayoría de sus entrevistados entrará, en los puntos de inflexión habituales, en una vida adulta precaria [^ext-37].
+- **Un punto de inflexión hacia adentro.** Cuando los padres «se cansan» y dejan de ir a buscarlos a la comisaría, a menudo empieza una trayectoria más comprometida [^ext-38].
+- **Primero el robo, después la deserción.** En sus casos, la deserción escolar viene después de empezar a robar, no antes [^ext-39]. Ver [[prevencion-del-delito]], donde la deserción es un factor de riesgo.
+- **Contra el etiquetamiento.** La curva de edad contradice a las teorías que prevén un compromiso creciente con el delito, por cultura o por etiqueta [^ext-40]. Ver [[etiquetamiento]].
+
 ## En Chile
 
 El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
@@ -113,6 +122,8 @@ El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
 - [[autocontrol-y-disuasion]] — el autocontrol en la teoría de la acción situacional
 - [[bourgois-en-busca-de-respeto]] — trayectorias de desistimiento y recaída seguidas durante veinticinco años
 - [[cultura-callejera]] — el contexto en que esas trayectorias se forman
+- [[delito-amateur]] — trayectorias que van del amateurismo a la profesionalidad, o al desistimiento
+- [[etiquetamiento]] — la teoría que la curva de edad contradice
 
 **Por confrontar.** Blanco (2011), en la tanda 3, y Gottfredson y Hirschi (1990), en la tanda 4: la voz de la teoría que este enfoque discute.
 
@@ -154,3 +165,9 @@ El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
 [^ext-33]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a la 2.ª ed., pp. 353-354.
 [^inf-2]: **Inferido** (confianza 0.6) — lectura de los dos casos de [[bourgois-en-busca-de-respeto]] contra el desistimiento por vínculos sociales que expone esta página. Bourgois no usa el concepto de punto de inflexión.
 [^ext-34]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a esta edición (2010), pp. 367-368 y 372.
+[^ext-35]: **Extraído** — [[kessler-delito-amateur]], anexo, pp. 282-283, sobre Sampson y Laub (1993).
+[^ext-36]: **Extraído** — [[kessler-delito-amateur]], cap. 1, p. 24, sobre Sampson y Laub (1993) y Farrington (1992).
+[^ext-37]: **Extraído** — [[kessler-delito-amateur]], conclusión, pp. 258-259.
+[^ext-38]: **Extraído** — [[kessler-delito-amateur]], cap. 6, p. 176.
+[^ext-39]: **Extraído** — [[kessler-delito-amateur]], cap. 7, pp. 215-216.
+[^ext-40]: **Extraído** — [[kessler-delito-amateur]], cap. 3, p. 64, y anexo, p. 275.

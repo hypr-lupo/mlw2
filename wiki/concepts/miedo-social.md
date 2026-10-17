@@ -1,7 +1,7 @@
 ---
 title: Miedo social
 type: concept
-sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
+sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
 cluster: victimizacion-e-inseguridad
 curso: [s1-1]
 procedencia: fuentes
@@ -88,6 +88,15 @@ Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]], qu
 
 **Tres desacoples distintos.** Adams describe miedo alto con violencia baja, sin grupo dominante. Bourgois, miedo mayor que el peligro real para la mayoría, con violencia alta y concentrada. Arias, violencia baja porque el miedo cambió de objeto: ya no es el asalto sino el grupo que lo impide [^inf-2]. Los tres llevan a la misma advertencia para un diagnóstico, por caminos distintos.
 
+## El temor que ordena el barrio
+
+Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]]. Kessler propone una función del miedo que las otras fuentes no nombran. En los barrios populares del conurbano, la vida local la regulaban los ritmos de la fábrica: horarios, vacaciones, huelgas. Con la crisis del trabajo, el temor ocupa ese lugar. Fija los horarios del hogar, es tema de conversación, separa a los peligrosos de sus víctimas y da origen a la vigilancia vecinal [^ext-27]. Es una hipótesis del autor [^ext-27].
+
+- **La reputación de un lugar.** Una sola muerte basta para que una zona pase a ser peligrosa, sin importar quién mató ni por qué [^ext-28].
+- **Desviación sin delito.** Jóvenes que toman en una esquina se perciben como amenaza por el solo hecho de estar ahí [^ext-29].
+- **El peligro de adentro.** La frontera entre barrio y villa se desdibuja cuando el que roba es el hijo del vecino [^ext-30].
+- **Las cifras de 2000.** En la Ciudad de Buenos Aires, el 93 % consideraba grave o muy grave la inseguridad, y el 90 % creía probable ser víctima [^ext-31].
+
 ## Por qué importa para un diagnóstico local
 
 Si la percepción de inseguridad puede ser alta donde la violencia registrada es baja, y producir las mismas respuestas —barreras, patrullas, linchamientos—, entonces un diagnóstico que se apoye sólo en tasas de delito describirá mal el problema que una política municipal tendría que atender.
@@ -112,6 +121,7 @@ El informe metodológico del INE (2023) entró el 16-10-2026: ver [[medicion-de-
 - [[arias-empresas-criminales-y-gobernanza]] — el miedo bajo un orden armado, donde la violencia aparente es baja
 - [[cultura-callejera]] — lo que impone el tono de la vida pública
 - [[medicion-de-la-victimizacion]] — cómo se mide la percepción, y lo que la encuesta oficial no mide
+- [[delito-amateur]] — el barrio que regula con el temor
 
 ---
 
@@ -142,5 +152,10 @@ El informe metodológico del INE (2023) entró el 16-10-2026: ver [[medicion-de-
 [^ext-20]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, pp. 108-109.
 [^ext-21]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, pp. 129-131.
 [^ext-22]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 4, p. 115.
+[^ext-27]: **Extraído** — [[kessler-delito-amateur]], cap. 8, p. 236, y conclusión, pp. 256-257.
+[^ext-28]: **Extraído** — [[kessler-delito-amateur]], cap. 8, pp. 230-231.
+[^ext-29]: **Extraído** — [[kessler-delito-amateur]], cap. 8, p. 230, sobre Lianos y Douglas (2000).
+[^ext-30]: **Extraído** — [[kessler-delito-amateur]], cap. 8, pp. 227-229 y 256.
+[^ext-31]: **Extraído** — [[kessler-delito-amateur]], cap. 1, p. 26.
 [^inf-2]: **Inferido** (confianza 0.7) — comparación propia entre [[adams-violencia-cronica]], [[bourgois-en-busca-de-respeto]] y [[arias-empresas-criminales-y-gobernanza]]. Ninguno discute a los otros sobre este punto.
 [^inf-3]: **Inferido** (confianza 0.7) — contraste propio. El informe del INE no afirma que la brecha se deba a los delitos no medidos: sólo pone los dos datos uno al lado del otro.

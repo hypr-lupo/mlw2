@@ -10,8 +10,8 @@ Artefacto operativo para retomar, no registro de lo hecho: la crónica de cada s
 en [[log]]. Se consolidó el 27-09-2026, en la auditoría que cerró la tanda 1; el informe
 está en `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-**Estado al 16-10-2026.** 23 fuentes ingeridas de 118 documentos, tres de ellas sólo en parte;
-90 pendientes de un universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 74 páginas: 14 en borrador.
+**Estado al 16-10-2026.** 24 fuentes ingeridas de 118 documentos, tres de ellas sólo en parte;
+89 pendientes de un universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 76 páginas: 14 en borrador.
 Núcleo ancla de S1.1 completo, **tanda 1 cerrada** y **tanda 2 cerrada** el 16-10. Siete de ocho clústeres poblados;
 `caso-de-grado` sigue vacío a propósito. Cobertura de S1.1: 17 de 32 títulos oficiales en
 el corpus, 53 %. Nada bloquea la ingesta.
@@ -20,8 +20,8 @@ el corpus, 53 %. Nada bloquea la ingesta.
 
 En este orden:
 
-1. **Tanda 3**, que venció el 16-10: ~~Baratta (2004), caps. I-II, IV, VII y VIII~~, ingerida
-   el 16-10 · Kessler (2004) · Blanco (2011). S2.4 empieza el 17-10.
+1. **Tanda 3**, que venció el 16-10: ~~Baratta (2004), caps. I-II, IV, VII y VIII~~ y
+   ~~Kessler (2004)~~, ingeridas el 16-10 · Blanco (2011). S2.4 empieza el 17-10.
    La tanda 3 venció el 16-10 y va después, por decisión del autor del mismo día: se
    mantiene el orden establecido. Ver abajo.
 2. **Decisiones que sólo toma el autor.** Trece, en el grupo A de [[revision]]. La más
@@ -50,8 +50,8 @@ documento por documento lo da `python scripts/estado.py`.
       medición de la victimización. El CIPC no cumplió el criterio de Peñalolén, que pasa a la
       tanda 6, y la ley de concentración espera a las normas de la tanda 5. PADS+ pasó a la tanda 3, porque Batthyány y Cabrera no trata los
       diseños longitudinales
-- [ ] **Tanda 3, antes del 16-10:** ~~Baratta (2004), caps. I-II, IV, VII y VIII~~, ingerida
-      el 16-10 · Kessler (2004) · Blanco (2011)
+- [ ] **Tanda 3, antes del 16-10:** ~~Baratta (2004), caps. I-II, IV, VII y VIII~~ y
+      ~~Kessler (2004)~~, ingeridas el 16-10 · Blanco (2011)
 - [ ] **Tanda 4, antes del 23-10:** Gottfredson y Hirschi (1990) · Clarke (1997) · Felson
       y Eckert (2016)
 - [ ] **Tanda 5, antes del 06-11:** Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya (2024) ·
@@ -65,7 +65,7 @@ Después de la tanda 6 vuelve el orden por cúmulos. Pendientes por cúmulo, seg
 
 | Cúmulo | Pendientes | Nota |
 |---|---:|---|
-| Bibliografía S1.1, consulta y complementaria | 11 | García-Pablos espera a estar completo |
+| Bibliografía S1.1, consulta y complementaria | 10 | García-Pablos espera a estar completo |
 | Integrados desde el programa del curso | 2 | Contiene las P1 de S1.2 |
 | Medición e inseguridad | 4 | Contiene P1 de S1.2; ahí está lo que podría dirimir la contradicción de Adams |
 | Sistema penal y Estado de derecho | 6 | Contiene P1 de S1.3 |
@@ -82,7 +82,7 @@ consulta de S1.1**, García-Pablos completo incluido.
 
 ## Cola de revisión
 
-**36 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
+**37 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
 
 - **A. Decisión del autor (13):**
   - tesis del anclaje empírico;
@@ -100,7 +100,7 @@ consulta de S1.1**, García-Pablos completo incluido.
   - si el Plan Cuadrante tiene página propia o es sección de una página de Carabineros.
 - **B. Verificación bibliográfica (8):** los años de Sampson, Adams y la guía de 2010; el
   borrador de 2020; Zúñiga Núñez; Gardner; el año y los ISBN de Arias; el femicidio.
-- **C. Una obra del corpus (10):** se destraban con las tandas 2 a 6 y, uno de ellos,
+- **C. Una obra del corpus (11):** se destraban con las tandas 2 a 6 y, uno de ellos,
   después.
 - **D. Una fuente que no está en el corpus o no se ha identificado (5):**
   - Coalición de Diez Puntos;
@@ -126,7 +126,7 @@ segunda mano.
 | [[criminologia-del-curso-de-vida]] | Los autores del enfoque | Blanco (2011), tanda 3; Gottfredson y Hirschi, tanda 4 |
 | [[violencia-en-el-noviazgo]] | Una fuente de violencia de género | La bibliografía de S3.3, cuando llegue su programa |
 | [[regimenes-armados-microescala]] | Una segunda fuente que use o discuta el modelo, y un caso chileno | Arias (2006) en `Gobernanza criminal y territorio`, que es del mismo autor; los dos Zeballos, en la tanda 6. Santa Tecla, en el CIPC (2015), es un caso compatible, pero el informe no usa el modelo |
-| [[cultura-callejera]] | Una segunda fuente sobre la calle, y algo que no sea Nueva York en los ochenta | Nada identificado; Salazar (1991), sobre Medellín, está en la bibliografía de S2.4 y falta en el corpus |
+| [[cultura-callejera]] | Una fuente que encuentre la misma cultura fuera de Nueva York en los ochenta | Kessler (2004), en Buenos Aires, no la encuentra: ver la tensión 39. Nada identificado; Salazar (1991), sobre Medellín, está en la bibliografía de S2.4 y falta en el corpus |
 | [[buenas-practicas]] | Una fuente que discuta el concepto desde fuera, no que lo use para elegir casos | Nada identificado |
 | [[anomia]] | Durkheim y Merton de primera mano | No están en el corpus. Lamnek, pedido por S1.1, tampoco. Los caps. V y VI de Baratta, sin ingerir, traen las subculturas |
 | [[etiquetamiento]] | Becker, Lemert y Sack de primera mano | No están en el corpus. Lamnek, pedido por S1.1, tampoco |
@@ -146,7 +146,7 @@ segunda mano.
 
 ## Tensiones registradas
 
-Treinta y ocho, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
+Cuarenta, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
 resuelven. Dos podrían moverse con fuentes que ya tienen tanda:
 
 - **El estatus del control en la prevención** (tensión 3), con Gottfredson y Hirschi en la

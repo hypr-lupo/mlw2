@@ -1,7 +1,7 @@
 ---
 title: Anomia y teoría de la tensión
 type: concept
-sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
+sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
@@ -15,7 +15,7 @@ actualizado: 2026-10-16
 Teoría estructural-funcionalista de la desviación, de Durkheim y Merton. Explica el delito por la estructura social y no por rasgos del individuo [^ext-1]. Para Merton, la anomia es una crisis de la estructura cultural. Ocurre cuando hay una fuerte discrepancia entre los fines culturales y las posibilidades, socialmente estructuradas, de alcanzarlos por medios legítimos [^ext-2].
 
 > [!note] Página en borrador, de segunda mano
-> Ni Durkheim ni Merton están en el corpus. La teoría llega reconstruida por [[baratta-criminologia-critica]], que la critica desde una posición propia. Sirve para ubicarla, no para citar a Merton.
+> Ni Durkheim ni Merton están en el corpus. La teoría llega reconstruida por [[baratta-criminologia-critica]], que la critica desde una posición propia. Desde el 16-10, también por [[kessler-delito-amateur]]. Sirve para ubicarla, no para citar a Merton.
 
 ## Tres tesis
 
@@ -70,6 +70,17 @@ Por eso, según Baratta, la teoría sólo explica el delito de los estratos bajo
 > [!warning] ¿Explicar el delito de los pobres lo critica o lo confirma?
 > [[bourgois-en-busca-de-respeto]] explica el delito callejero por la exclusión de la economía legal, y en una nota dice que Merton hizo el mismo argumento [^ext-17]. Baratta diría que una explicación así legitima la imagen del delito como cosa de pobres [^ext-16]. Pero Bourgois pone la causa en la economía política y en las políticas urbanas. Es justo lo que Baratta le reprocha a Merton no haber visto [^inf-1]. Ver [[cultura-callejera]].
 
+## Una segunda exposición
+
+Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]]. Kessler también expone a Merton de segunda mano, en el anexo de su libro, con críticas distintas de las de Baratta:
+
+- **Durkheim y Merton no dicen lo mismo.** En Durkheim, la anomia es la ilimitación de los fines: no se sabe qué esperar. En Merton, la de los medios: se sabe lo que se quiere, no cómo llegar [^ext-18].
+- **Las críticas.** Imprecisión conceptual. No explica el delito de los sectores medios y altos. Ignora los fines no económicos. Y no explica por qué sólo unos pocos bajo tensión delinquen [^ext-19]. Short y Strodtbeck encontraron que roban más quienes ven limitadas sus oportunidades, no quienes tienen aspiraciones altas [^ext-19].
+- **Cloward y Ohlin** cruzaron la tensión con la asociación diferencial: tres subculturas delincuentes, una criminal, una conflictiva y una de retiro [^ext-19].
+- **Sutherland, al revés.** En el cuello blanco, la desviación viene de lo ilimitado de los fines: a mayor acceso a los medios legítimos, mayor posibilidad de violarlos [^ext-20].
+
+Kessler no la descarta: la juzga útil para los casos en que la tensión entre fines y medios se vive de forma subjetiva [^ext-21]. Encuentra uno: un ladrón que empezó en los años cincuenta rechazó el trabajo porque prometía una movilidad demasiado lenta [^ext-22]. Pero sus jóvenes de los noventa no persiguen fines fijados de antemano. Las necesidades se redefinen a medida que el robo da resultado [^ext-23]. Ver [[delito-amateur]].
+
 ## Lo que falta
 
 - **Las fuentes.** Faltan Merton, los dos libros de Sutherland y Lamnek. Esta página no los reemplaza.
@@ -89,6 +100,7 @@ Por eso, según Baratta, la teoría sólo explica el delito de los estratos bajo
 - [[ideologia-de-la-defensa-social]]: la anomia niega el principio del bien y del mal
 - [[criminalizacion-y-selectividad-penal]]: el cuello blanco y la cifra negra
 - [[desorganizacion-social]]: la otra desorganización
+- [[delito-amateur]] — la deriva frente a la anomia, y fines que se redefinen
 
 ---
 
@@ -109,5 +121,11 @@ Por eso, según Baratta, la teoría sólo explica el delito de los estratos bajo
 [^ext-15]: **Extraído** — [[baratta-criminologia-critica]], cap. IV, p. 64.
 [^ext-16]: **Extraído** — [[baratta-criminologia-critica]], cap. IV, pp. 64-65.
 [^ext-17]: **Extraído** — [[bourgois-en-busca-de-respeto]], conclusión, nota 9, p. 395.
+[^ext-18]: **Extraído** — [[kessler-delito-amateur]], anexo, p. 272.
+[^ext-19]: **Extraído** — [[kessler-delito-amateur]], anexo, p. 273, sobre Besnard (1987), Short y Strodtbeck (1965) y Cloward y Ohlin (1960).
+[^ext-20]: **Extraído** — [[kessler-delito-amateur]], anexo, p. 270, sobre Sutherland (1949).
+[^ext-21]: **Extraído** — [[kessler-delito-amateur]], anexo, pp. 273-274.
+[^ext-22]: **Extraído** — [[kessler-delito-amateur]], cap. 4, pp. 95-96.
+[^ext-23]: **Extraído** — [[kessler-delito-amateur]], cap. 4, p. 95.
 [^inf-1]: **Inferido** (confianza 0.6) — combinando [[baratta-criminologia-critica]], p. 64, y [[bourgois-en-busca-de-respeto]]. Baratta no discute a Bourgois, que es posterior. La tensión la formula esta wiki.
 [^inf-2]: **Inferido** (confianza 0.6) — combinando [[baratta-criminologia-critica]], p. 56, y [[desorganizacion-social]]. Ninguna fuente compara las dos nociones.

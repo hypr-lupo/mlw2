@@ -14,9 +14,9 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 
 Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026, con la
 ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con las de Batthyány y Cabrera
-(2011), el INE (2023), Srur (2014), el capítulo de Boba (2010), el CIPC (2015) y Baratta (2004). Agrupa los ítems abiertos por lo que los
+(2011), el INE (2023), Srur (2014), el capítulo de Boba (2010), el CIPC (2015), Baratta (2004) y Kessler (2004). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**36 abiertos.**
+**37 abiertos.**
 
 **A. Sólo esperan una decisión del autor (13).** Se pueden resolver hoy.
 
@@ -50,7 +50,7 @@ consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos
 | `[fuente]` Estado legal del pololeo | Resuelto en parte con la Ley 21.675; falta el tipo penal de femicidio |
 | `[fuente]` Año e ISBN de Arias | 2016, 2017 o 2018, y los dos ISBN, en el catálogo de la editorial |
 
-**C. Esperan una obra que ya está en el corpus (10).** Se resuelven solos si el orden de
+**C. Esperan una obra que ya está en el corpus (11).** Se resuelven solos si el orden de
 ingesta se cumple.
 
 | Ítem | Acción | Obra que lo destraba | Tanda |
@@ -60,6 +60,7 @@ ingesta se cumple.
 | `[investigar]` Ley de concentración en una comuna chilena | `investigar` | Las normas de la tanda 5. Las metodológicas de la tanda 2 no traen el estudio | 5 |
 | `[concepto]` Articulación nacional y local de la seguridad | `crear-pagina` | Ley 21.802 y Decreto 96 (PNSP) | 5 |
 | `[concepto]` Control social informal | `crear-pagina` | Gottfredson y Hirschi (1990) | 4 |
+| `[concepto]` Subculturas delictivas, deriva y neutralización | `crear-pagina` | Baratta (2004), caps. V-VI, si se ingieren. Matza no está en el corpus | según el ítem A del resto de Baratta |
 | `[concepto]` Teorías de la oportunidad | `crear-pagina` | Clarke (1997); Felson y Eckert (2016) | 4 |
 | `[entidad]` Quiero mi Barrio | `crear-pagina` | SPD (2022); Luneke y Trebilcock (2023) | 5 y 6 |
 | `[concepto]` Seguridad ciudadana y seguridad humana | `crear-pagina` | Decreto 96 (PNSP); Luneke y Trebilcock (2023) | 5 y 6 |
@@ -78,7 +79,8 @@ ingesta se cumple.
 
 **Qué adelanta cada tanda.** La 2 cerró el 16-10-2026: resolvió medición de la victimización y
 pasó PADS+ a la 3. El CIPC no cumplió el criterio de Peñalolén, que pasa a la 6. La 3 resolvió
-el 16-10 criminalización y selectividad penal, con Baratta, y le queda PADS+, con Blanco. La 4
+el 16-10 criminalización y selectividad penal, con Baratta. Kessler no destrabó ninguno. Le
+queda PADS+, con Blanco. La 4
 destraba dos ítems; la 5, cuatro; la 6, cuatro.
 
 ## Abiertos
@@ -157,6 +159,11 @@ destraba dos ítems; la 5, cuatro; la 6, cuatro.
       que la mafia italiana mantuvo durante décadas la segregación y el orden de su cuadra
       (pp. 86 y 99-100). El control informal no siempre es la virtud que la eficacia
       colectiva supone. El criterio no cambia.
+      **Enmienda 16-10-2026** (ingesta de [[kessler-delito-amateur]]): una exposición más, de segunda
+      mano. Kessler resume a Hirschi (1969), con el «control virtual» de los padres, y a
+      Gottfredson y Hirschi (1990), con el bajo autocontrol como preferencia por el presente
+      (pp. 150-151 y 270-271). Y registra el giro del control externo al interno. El
+      criterio no cambia: la página nace con la voz de Gottfredson y Hirschi.
 
 - [ ] **[fuente]** Año de edición de Sampson — el corpus y el programa la fechan en
       2006; el texto declara un original de 2004 en *New Economy* y no consigna el
@@ -307,6 +314,11 @@ destraba dos ítems; la 5, cuatro; la 6, cuatro.
       **Enmienda 27-09-2026** (ingesta de [[tudela-analisis-criminal]]): una sexta página
       las invoca. [[analisis-criminal]] las declara, con la elección racional, las teorías
       principales del oficio del analista. El criterio no cambia.
+      **Enmienda 16-10-2026** (ingesta de [[kessler-delito-amateur]]): entra una crítica empírica a la
+      elección racional. En jóvenes que roban en Buenos Aires, el cálculo de costos no
+      decide entrar ni salir del delito, sólo crece dentro de una carrera (pp. 84, 111-112
+      y 261). Ya está en [[autocontrol-y-disuasion]] y [[delito-amateur]]. La página tendrá
+      que registrarla como una voz propia. El criterio no cambia.
 
 - [ ] **[investigar]** ¿Vale la ley de concentración del delito en una comuna
       chilena? [[weisburd-el-lugar-importa]] no reporta ningún estudio de
@@ -660,6 +672,16 @@ destraba dos ítems; la 5, cuatro; la 6, cuatro.
       Criterio: crearla con una obra de Sutherland. Ninguna está en el corpus, y el programa
       de S1.1 pide dos para su módulo 5. Escribirla desde Baratta disimularía el vacío que
       [[purpose]] declara.
+
+- [ ] **[concepto]** «Subculturas delictivas, deriva y neutralización» — Cohen, Miller,
+      Cloward y Ohlin, y la crítica de Matza: una subcultura de la delincuencia que no es una
+      subcultura delincuente. [[kessler-delito-amateur]] las usa a fondo para leer sus casos (pp. 51-53,
+      273), y hoy viven repartidas en [[delito-amateur]], [[anomia]] y [[cultura-callejera]].
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-10-16
+      Criterio: crearla si se ingieren los caps. V y VI de Baratta (2004), que tratan las
+      subculturas y las técnicas de neutralización. Serían dos exposiciones de segunda mano,
+      desde posiciones distintas. Matza, Cohen y Sykes no están en el corpus. Depende del
+      ítem sobre el resto de Baratta.
 
 ## Resueltos
 

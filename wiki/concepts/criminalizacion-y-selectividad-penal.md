@@ -1,7 +1,7 @@
 ---
 title: Criminalización y selectividad penal
 type: concept
-sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
+sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
 cluster: sistema-penal
 curso: [s1-1, s1-3]
 procedencia: fuentes
@@ -68,6 +68,8 @@ Ver [[ideologia-de-la-defensa-social]].
 
 > [!warning] La cifra negra: ¿error de medición o resultado de la selección?
 > [[estadisticas-delictuales]] y [[medicion-de-la-victimizacion]] tratan lo no registrado como una brecha. Boba advierte que lo denunciado es una parte no aleatoria de lo ocurrido, y que no permite generalizar [^ext-15]. El INE mide la «cifra oscura» con una encuesta, desde la víctima [^ext-16]. Para Baratta y Sack la brecha tiene dirección: sigue la estratificación social [^ext-6]. Las tres fuentes coinciden en que el registro no es el delito. Difieren en el remedio. Para las dos primeras, medir mejor. Para Baratta, estudiar a quienes seleccionan [^inf-1].
+>
+> Añadido el 16-10-2026. [[kessler-delito-amateur]] sostiene las dos cosas a la vez. Las encuestas de autorrevelación muestran que los jóvenes de sectores bajos son más aprehendidos y procesados. Pero el robo es en parte una estrategia ante la escasez de ingresos, y es razonable encontrar más personas pobres entre quienes lo cometen, sin causalidad intrínseca [^ext-23]. Y las tendencias del registro valen si el subregistro se mantiene estable [^ext-24].
 
 ## La segunda voz: Zúñiga Núñez
 
@@ -103,6 +105,7 @@ El etiquetamiento describe el poder de una definición como algo que estigmatiza
 - [[zuniga-civilizacion-y-derechos-humanos]]: la segunda voz
 - [[violencia-en-el-noviazgo]]: una voz que pide criminalizar
 - [[anomia]]: el cuello blanco en Merton
+- [[kessler-delito-amateur]]: la selección y la escasez, a la vez
 
 ---
 
@@ -128,5 +131,7 @@ El etiquetamiento describe el poder de una definición como algo que estigmatiza
 [^ext-20]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], p. 113, citando a Zúñiga Núñez (2002).
 [^ext-21]: **Extraído** — [[baratta-criminologia-critica]], cap. VII, pp. 94 y 98.
 [^ext-22]: **Extraído** — [[valdivia-violencia-en-el-noviazgo]], p. 16, sobre Zosky (2010), y p. 20.
+[^ext-23]: **Extraído** — [[kessler-delito-amateur]], introducción, p. 13.
+[^ext-24]: **Extraído** — [[kessler-delito-amateur]], cap. 1, pp. 19-20.
 [^inf-1]: **Inferido** (confianza 0.7) — combinando [[baratta-criminologia-critica]], [[tudela-ed-analisis-delictual]] e [[ine-medicion-victimizacion]]. Ninguna de las tres discute a las otras.
 [^inf-2]: **Inferido** (confianza 0.6) — combinando [[baratta-criminologia-critica]], pp. 84 y 109, con [[valdivia-violencia-en-el-noviazgo]]. Los autores no discuten el etiquetamiento.

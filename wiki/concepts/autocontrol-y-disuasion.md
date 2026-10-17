@@ -1,7 +1,7 @@
 ---
 title: Autocontrol y disuasión
 type: concept
-sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf"]
+sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
@@ -50,6 +50,16 @@ Añadido el 16-10-2026 al ingerir [[baratta-criminologia-critica]]. La disuasió
 
 La escuela clásica atribuye la disuasión a la pena. La TAS la vuelve un proceso de la situación, que sólo opera bajo el principio de relevancia condicional [^inf-2].
 
+## Desde el campo
+
+Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]]. Una sociología de jóvenes que roban en Buenos Aires llega a algo parecido al principio de relevancia condicional, desde entrevistas. Según Kessler, casi todas las políticas argentinas contra el delito descansan en la teoría de la disuasión, que supone un cálculo de costos y beneficios [^ext-10]. Encuentra tres límites:
+
+- **La primera vez casi no hay cálculo.** Para actuar hace falta no pensar en las consecuencias [^ext-11].
+- **Quien cree no tener nada que perder no se disuade.** Subir los costos no le dice nada. Habría que lograr que vea que sí tiene mucho que perder [^ext-12].
+- **Dentro de una carrera, el cálculo crece, pero no decide salir.** La cárcel lleva a tomar más precauciones, no a dejar de robar. Y ante una policía que creen que los quiere matar, lo racional es «jugársela» [^ext-13].
+
+Converge con Wikström y con Gardner: la amenaza opera en un rango estrecho. Pero el mecanismo es otro. En la TAS, la disuasión no opera porque el filtro moral resolvió antes. En Kessler, porque cada escena es corta y no deja ver un futuro donde la sanción pese [^inf-3]. Ver [[delito-amateur]].
+
 ## Dónde reside cada capacidad
 
 La capacidad de ejercer autocontrol es una característica de la persona; la capacidad de imponer sus normas, una característica del entorno [^ext-4].
@@ -79,6 +89,7 @@ Gottfredson y Hirschi (1990) está en el corpus sin ingerir. Hasta entonces esta
 - [[exposicion-criminogena]] — donde vive la capacidad de aplicación del entorno
 - [[moralismo-legal]] — cuándo una amenaza cuenta como coerción, desde la filosofía del derecho
 - [[ideologia-de-la-defensa-social]] — la contramotivación de la escuela clásica
+- [[delito-amateur]] — la disuasión vista desde quienes roban
 
 **Distinto del control social informal de Sampson.** Allí el control social informal es la disposición colectiva de los vecinos a intervenir, y es el mecanismo central que reduce la violencia de un barrio. Aquí la disuasión es un proceso situacional del actor individual ante una norma percibida. Los dos conceptos comparten nombre de familia y no son el mismo. Ver [[eficacia-colectiva]] y [[revision]].
 
@@ -93,5 +104,10 @@ Gottfredson y Hirschi (1990) está en el corpus sin ingerir. Hasta entonces esta
 [^ext-7]: **Extraído** — [[gardner-prohibir-inmoralidades]], §3, p. 17.
 [^ext-8]: **Extraído** — [[baratta-criminologia-critica]], cap. I, p. 23.
 [^ext-9]: **Extraído** — [[baratta-criminologia-critica]], cap. I, p. 28.
+[^ext-10]: **Extraído** — [[kessler-delito-amateur]], cap. 2, pp. 56-58.
+[^ext-11]: **Extraído** — [[kessler-delito-amateur]], cap. 4, pp. 84-88.
+[^ext-12]: **Extraído** — [[kessler-delito-amateur]], cap. 4, pp. 88 y 92.
+[^ext-13]: **Extraído** — [[kessler-delito-amateur]], cap. 4, pp. 105-108 y 111-112.
 [^inf-1]: **Inferido** (confianza 0.6) — la convergencia es lectura de esta wiki. Gardner no cita a Wikström ni discute la disuasión como mecanismo causal.
 [^inf-2]: **Inferido** (confianza 0.7) — combinando [[baratta-criminologia-critica]] y [[wikstrom-por-que-se-delinque]]. Baratta no discute la TAS.
+[^inf-3]: **Inferido** (confianza 0.7) — combinando [[kessler-delito-amateur]] y [[wikstrom-por-que-se-delinque]]. Kessler no cita a Wikström, que es posterior.

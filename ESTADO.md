@@ -10,10 +10,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 95 | 81.2 % |
+| `pendiente` | 94 | 80.3 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 22 | 18.8 % |
+| `completo` | 23 | 19.7 % |
 
 ## Por cumulo
 
@@ -21,7 +21,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 |---|---:|---:|---:|---:|---:|
 | (fuera de INVENTARIO.md) | 5 | 5 | 0 | 0 | 0 |
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
-| Bibliografía S1.1, consulta y complementaria | 12 | 11 | 0 | 0 | 1 |
+| Bibliografía S1.1, consulta y complementaria | 12 | 10 | 0 | 0 | 2 |
 | Explicación del delito | 5 | 3 | 0 | 0 | 2 |
 | Gobernanza criminal y territorio | 6 | 4 | 0 | 0 | 2 |
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
@@ -103,7 +103,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 - `pendiente` — 2002 - Romero Mendoza y Aguilera Guzmán - ¿Por qué delinquen las mujeres, perspectivas teóricas tradicionales, parte I.pdf
 - `pendiente` — 2003 - García-Pablos de Molina - Tratado de criminología (extracto, pp. 688-1372).pdf
-- `pendiente` — 2004 - Kessler - Sociología del delito amateur.pdf
+- `completo` — 2004 - Kessler - Sociología del delito amateur.pdf
 - `pendiente` — 2004 - Wacquant - Las cárceles de la miseria.pdf
 - `pendiente` — 2005 - Garland - La cultura del control, crimen y orden social en la sociedad contemporánea (traducción Gedisa de Sozzo).pdf
 - `pendiente` — 2007 - Alda y Beliz (eds.) - ¿Cuál es la salida, la agenda inconclusa de la seguridad ciudadana.pdf

@@ -1,7 +1,7 @@
 ---
 title: Legitimidad policial
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -105,6 +105,18 @@ Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]] y [
 
 **Dos relaciones, dos contextos.** Arias encuentra colusión; Bourgois, incompetencia y hostilidad. No se contradicen: hablan de ciudades, décadas y mercados distintos. Pero obligan a no suponer una sola relación entre policía y mercado ilícito al diagnosticar un barrio [^inf-7]. Y las dos coinciden con el punto de partida de esta página: los residentes no rechazan a la policía porque prefieran el delito, sino porque la policía que conocen no los protege.
 
+## Desde quienes roban
+
+Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]]. Jóvenes que roban en Buenos Aires a fines de los noventa describen a la policía así:
+
+- **Una banda más.** Mejor armada y más potente. La temen por la posibilidad de morir en sus manos más que porque los lleve ante la ley [^ext-35].
+- **Antes del delito.** La persecución y las amenazas de muerte forman parte de la experiencia de todo joven de sectores populares del conurbano, aun antes de robar [^ext-36].
+- **Golpiza y negociación.** Primero la paliza, después ver qué se tiene para ofrecer. La libertad se compra, si hay botín [^ext-37].
+- **El mismo circuito.** Las armas pasan de la policía y los militares a los ladrones, y vuelven. Un entrevistado robaba en sociedad con dos policías de la provincia [^ext-38].
+- **En la villa.** Según los entrevistados, la policía cobra parte de la venta de droga y deja que los conflictos se resuelvan a tiros [^ext-39].
+
+Es la colusión que describe Arias, vista por quienes están del otro lado. Y es legitimidad perdida en el sentido más fuerte: nadie ve en la policía a la ley [^inf-9]. Ver [[delito-amateur]].
+
 ## Otro sentido de la palabra
 
 Añadido el 26-09-2026 al ingerir [[zuniga-civilizacion-y-derechos-humanos]]. Esta página entiende la legitimidad como el reconocimiento de una actuación procedimentalmente justa. Zúñiga Núñez usa la palabra en el sentido opuesto: la legitimidad del poder estaría dada fundamentalmente por el miedo, y conviene encubrirlo salvo en momentos de crisis [^ext-11].
@@ -132,6 +144,7 @@ No se refutan: hablan de objetos distintos. Sampson habla de la cooperación ent
 - [[gardner-prohibir-inmoralidades]] — la distinción entre autoridad y coerción, que ordena los dos sentidos
 - [[vanderschueren-prevencion-del-delito]] — la crisis de Carabineros y las condiciones de transparencia y rendición de cuentas
 - [[tudela-analisis-criminal]] — la crisis regional en encuestas y la legitimidad como efecto de la eficacia
+- [[delito-amateur]] — la policía vista desde quienes roban
 
 El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como contenido propio, y su bibliografía específica no está en el corpus.
 
@@ -178,4 +191,10 @@ El módulo 2 de `programa/S1.1` nombra el debate sobre legitimidad policial como
 [^inf-7]: **Inferido** (confianza 0.75) — contraste entre las dos fuentes. Arias cita a Bourgois como antecedente metodológico, no sobre este punto.
 [^ext-33]: **Extraído** — [[ine-medicion-victimizacion]], pp. 40-41 y 32.
 [^ext-34]: **Extraído** — [[ine-medicion-victimizacion]], p. 49, sobre Abril y otros (2022) y Tyler (2002).
+[^ext-35]: **Extraído** — [[kessler-delito-amateur]], cap. 2, p. 55, y cap. 5, p. 126.
+[^ext-36]: **Extraído** — [[kessler-delito-amateur]], cap. 5, pp. 126-127.
+[^ext-37]: **Extraído** — [[kessler-delito-amateur]], cap. 5, pp. 128-131.
+[^ext-38]: **Extraído** — [[kessler-delito-amateur]], cap. 4, pp. 100-101, y cap. 5, pp. 135-137.
+[^ext-39]: **Extraído** — [[kessler-delito-amateur]], cap. 8, p. 234.
 [^inf-8]: **Inferido** (confianza 0.7) — las afirmaciones miden trato y autoridad. La evaluación de desempeño va en otra pregunta, con diez aspectos del trabajo de Carabineros (p. 49). La correspondencia con las dos vías de esta página es de esta wiki.
+[^inf-9]: **Inferido** (confianza 0.6) — combinando [[kessler-delito-amateur]] y [[arias-empresas-criminales-y-gobernanza]]. Kessler no usa el término colusión.

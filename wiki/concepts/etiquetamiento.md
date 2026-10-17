@@ -1,7 +1,7 @@
 ---
 title: Etiquetamiento (labelling approach)
 type: concept
-sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf"]
+sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1, s1-3]
 procedencia: fuentes
@@ -69,6 +69,18 @@ Para Keckeisen, Becker, Lemert y Schur todavía tratan la desviación como una c
 > [!warning] ¿Por qué se delinque, o quién es definido como delincuente?
 > La [[teoria-accion-situacional]] es una teoría etiológica declarada. Pregunta por qué las personas delinquen, y trata la ley como un conjunto de reglas morales dadas [^ext-18]. Es el modelo que, según Baratta, la criminología toma prestado del derecho: la cualidad criminal tratada como si existiera objetivamente [^ext-19]. Lo mismo vale para la [[eficacia-colectiva]] y los [[puntos-calientes]], que explican el delito registrado [^inf-1]. Si los dos paradigmas son incompatibles, como dice Keckeisen, esas teorías explican la conducta de los ya seleccionados. Si se complementan, como admite Baratta, explican la conducta y dejan abierta la pregunta por la selección [^inf-1].
 
+## Puesto a prueba en Buenos Aires
+
+Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]], una sociología de jóvenes que roban que usa a Becker.
+
+- **Entre pares, no hay etiqueta.** Robar no excluye del grupo. Falta el «emprendedor moral» que, según Becker, designa a alguien como desviado. Por eso no se forman grupos cerrados, que suelen ser defensivos frente al estigma [^ext-24].
+- **En la familia, sí.** El joven que deja de colaborar en la casa pasa a ser «el vago» y después «el perdido». El estigma lo libera de rendir cuentas [^ext-25].
+- **En la escuela, también.** La mala reputación se acumula hasta volverse ineludible, y termina en autodescalificación: «no sé nada». Según Kessler, ese etiquetamiento contribuye al delito de forma indirecta, porque los aleja de buscar trabajo [^ext-26].
+- **Las carreras ya no son simétricas.** Becker escribió en años de trabajo estable, cuando la carrera delictiva era el reverso de la legal. Con la inestabilidad laboral, el grupo integrado pierde la base de su distinción y etiqueta menos [^ext-27].
+
+> [!warning] ¿La etiqueta fija la carrera?
+> Para Lemert, según Baratta, la reacción a la primera desviación consolida la identidad desviada, y la cárcel abre una carrera criminal [^ext-8] [^ext-9]. Kessler recoge dos críticas empíricas. La mayoría de quienes delinquen en la adolescencia desiste después, y una carrera debería crecer con la edad. Y las carreras prosperan cuando el entorno reacciona menos, no más [^ext-28]. La pregunta actual, dice, es cuándo una etiqueta amplifica la conducta, en vez de suponer que siempre lo hace [^ext-28]. Sus propios casos van en las dos direcciones: sin etiqueta entre pares, con etiqueta en la familia y en la escuela [^inf-2]. Ver [[criminologia-del-curso-de-vida]].
+
 ## Las críticas
 
 - **Deja fuera el daño.** Reduce la criminalidad a la definición legal y al etiquetamiento. No ve los comportamientos que lesionan intereses importantes, estén o no criminalizados [^ext-20].
@@ -89,6 +101,8 @@ Para Keckeisen, Becker, Lemert y Schur todavía tratan la desviación como una c
 - [[anomia]]: la teoría etiológica anterior
 - [[teoria-accion-situacional]]: una teoría etiológica actual
 - [[mano-dura-y-militarizacion]]: la cárcel que consolida la identidad desviada
+- [[delito-amateur]] — grupos sin etiqueta
+- [[criminologia-del-curso-de-vida]] — el desistimiento que la teoría no prevé
 
 ---
 
@@ -115,4 +129,10 @@ Para Keckeisen, Becker, Lemert y Schur todavía tratan la desviación como una c
 [^ext-21]: **Extraído** — [[baratta-criminologia-critica]], cap. VII, p. 100.
 [^ext-22]: **Extraído** — [[baratta-criminologia-critica]], cap. VIII, pp. 116-117, sobre Smaus (1975a).
 [^ext-23]: **Extraído** — [[baratta-criminologia-critica]], cap. VIII, pp. 117-118.
+[^ext-24]: **Extraído** — [[kessler-delito-amateur]], cap. 3, pp. 75 y 77.
+[^ext-25]: **Extraído** — [[kessler-delito-amateur]], cap. 6, pp. 171-172.
+[^ext-26]: **Extraído** — [[kessler-delito-amateur]], cap. 7, pp. 207-210.
+[^ext-27]: **Extraído** — [[kessler-delito-amateur]], cap. 2, pp. 44-45, sobre Becker (1963).
+[^ext-28]: **Extraído** — [[kessler-delito-amateur]], anexo, p. 275, sobre Paternoster y Iovanni (1996), y cap. 3, p. 64.
 [^inf-1]: **Inferido** (confianza 0.6) — combinando [[baratta-criminologia-critica]], p. 90, con [[teoria-accion-situacional]], [[eficacia-colectiva]] y [[puntos-calientes]]. Ninguna de las fuentes de esas páginas discute el etiquetamiento. La tensión la formula esta wiki.
+[^inf-2]: **Inferido** (confianza 0.7) — lectura de esta wiki sobre los caps. 3, 6 y 7 de [[kessler-delito-amateur]].

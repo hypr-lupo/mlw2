@@ -85,6 +85,12 @@ pide incluir a la Subsecretaría de Prevención del Delito como autora, y la por
 sólo al INE · documenta el diseño previsto para la ENUSC 2023, no el aplicado: citar las
 cifras con su año
 
+Kessler, G. (2004). *Sociología del delito amateur*. Paidós.
+→ [[kessler-delito-amateur]] · verificada contra la página de créditos · coincide con lo que
+piden los programas de S1.1 y S2.4 · el PDF omite las páginas en blanco: citar por la página
+impresa · las teorías del anexo son de segunda mano: citar a Merton, Becker o Hirschi por su
+obra
+
 Ley 21.675. (2024). *Estatuye medidas para prevenir, sancionar y erradicar la violencia
 en contra de las mujeres, en razón de su género*. Diario Oficial de la República de
 Chile, 14 de junio de 2024. Texto consolidado de la Biblioteca del Congreso Nacional,

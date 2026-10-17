@@ -9,18 +9,19 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 74 páginas · 23 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
+**Estado:** 76 páginas · 24 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
-fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde el 16-10-2026, con una de sus tres obras ingerida · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
+fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde el 16-10-2026, con dos de sus tres obras ingeridas · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
 
 ## Conceptos
 
 - [[anomia]] — Durkheim y Merton: la desviación es normal; fines culturales y medios
   legítimos, cinco modos de adaptación, el cuello blanco, y la crítica de que legitima la
-  imagen del delito como cosa de pobres. De segunda mano. Borrador (2 fuentes)
+  imagen del delito como cosa de pobres; y una segunda exposición. De segunda mano.
+  Borrador (3 fuentes)
 - [[autocontrol-y-disuasion]] — los dos procesos de control de la TAS, y por qué
   sólo son relevantes bajo condición; y cuándo una amenaza es coerción; y su raíz en la
-  escuela clásica (3 fuentes)
+  escuela clásica; y la disuasión vista desde el campo (4 fuentes)
 - [[buenas-practicas]] — experiencias exitosas para adaptar: cómo se arma un banco de
   buenas prácticas, qué sostiene cada caso, replicar no es copiar, y cuatro preguntas para
   leer un caso. Borrador (3 fuentes)
@@ -36,15 +37,20 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde e
 - [[criminalizacion-y-selectividad-penal]] — criminalización primaria y secundaria;
   cuatro niveles, del desvío a la negatividad social; cuello blanco y cifra negra; las
   metarreglas y la criminalidad como bien negativo; ¿error de medición o selección?; y
-  dos voces más, una que la resume y otra que pide criminalizar (5 fuentes)
+  dos voces más, una que la resume y otra que pide criminalizar (6 fuentes)
 - [[criminologia-del-curso-de-vida]] — trayectorias, puntos de inflexión y
   desistimiento; el autocontrol temprano pesa pero no está sellado; y trayectorias de
-  East Harlem donde también el empleo ilegal ordena. Borrador (2 fuentes)
+  East Harlem donde también el empleo ilegal ordena; y desde Buenos Aires. Borrador
+  (3 fuentes)
 - [[cultura-callejera]] — la respuesta a la exclusión que da un foro propio a la
   dignidad y a la vez organiza la destrucción de quienes participan; contra la cultura
-  de la pobreza; y Merton, de segunda mano. Borrador (2 fuentes)
+  de la pobreza; y Merton, de segunda mano; ¿contracultura o suspensión del juicio?
+  Borrador (3 fuentes)
 - [[debilidad-estatal]] — el paradigma de la suma cero entre Estado y crimen, y la
   política de construir Estado que de él se sigue; tres críticas (3 fuentes)
+- [[delito-amateur]] — del trabajador al proveedor: la legitimidad del dinero por su uso;
+  las dos platas, una ley que no obliga, el ventajeo, proveedores y barderos, y el paso a la
+  profesionalidad; ¿contracultura o suspensión del juicio? (3 fuentes)
 - [[desorganizacion-social]] — la tradición de Chicago llevada del barrio a la calle;
   el marco en que el curso ubica a Sampson y que Sampson no nombra; y quién produjo la
   concentración de pobreza (3 fuentes)
@@ -56,7 +62,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde e
   condicionada a la policía; y una medida oficial con otra definición (7 fuentes)
 - [[etiquetamiento]] — la desviación como cualidad atribuida; dos paradigmas;
   desviación secundaria y carreras; la definición y el poder; ¿complemento o ruptura?, y
-  sus críticas. Borrador (2 fuentes)
+  sus críticas; puesto a prueba en Buenos Aires. Borrador (3 fuentes)
 - [[exposicion-criminogena]] — el lado entorno: contexto moral, oportunidades y
   fricciones; y el efecto de área condicionado a quién lo use (1 fuente)
 - [[filtro-moral]] — la percepción selectiva de alternativas de acción; por qué la
@@ -77,19 +83,21 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde e
   vecinos y policía, con evidencia de Boston, Cali y México; y si la focalización la
   erosiona; autoridad frente a acatamiento por temor; la crisis de autonomía de
   Carabineros; la legitimidad como efecto de la eficacia; y la que se transfiere al
-  grupo armado, o se pierde por incompetencia; y cómo la mediría la ENUSC (10 fuentes)
+  grupo armado, o se pierde por incompetencia; y cómo la mediría la ENUSC; y vista
+  desde quienes roban (11 fuentes)
 - [[mano-dura-y-militarizacion]] — la política dominante de la región, su
   popularidad transversal, la evidencia sobre sus efectos, y México y la edad penal
   desde la prevención; y la mano dura que cohesiona a los grupos y encarcela a los
-  pobres; y El Salvador en cifras; y la cárcel que consolida la identidad desviada
-  (6 fuentes)
+  pobres; y El Salvador en cifras; y la cárcel que consolida la identidad desviada; y la
+  represión que escala (7 fuentes)
 - [[mediacion-comunitaria]] — diálogo para transformar conflictos, contra la
   mediación penal vertical y la mano dura; sin evaluaciones, y de una sola escuela
   (2 fuentes)
 - [[miedo-social]] — el miedo como fenómeno social, y por qué la percepción de
   inseguridad puede ir muy por delante de la violencia registrada; la brecha del temor
   en Maipú y Peñalolén; la cultura del terror y el miedo bajo un orden armado; la cifra
-  nacional de 2021, y si la brecha viene de lo que no se mide (5 fuentes)
+  nacional de 2021, y si la brecha viene de lo que no se mide; y el temor que ordena el
+  barrio (6 fuentes)
 - [[moralismo-legal]] — si la inmoralidad basta para prohibir; prohibir la
   inmoralidad no es imponer la moralidad; el Estado como agente moral; y otro criterio,
   desde la criminología crítica (3 fuentes)
@@ -104,7 +112,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde e
   primera (2 fuentes)
 - [[prevencion-del-delito]] — dos concepciones, tres clasificaciones que no calzan,
   factores de riesgo como base o límite, y una crítica etnográfica; por qué el éxito de
-  la prevención no se ve; Romagnosi, y lo que el etiquetamiento niega (3 fuentes)
+  la prevención no se ve; Romagnosi, y lo que el etiquetamiento niega (4 fuentes)
 - [[propension-al-delito]] — el lado persona: moral legalmente relevante más
   capacidad de autocontrol, y la aversión al delito (1 fuente)
 - [[puntos-calientes]] — la ley de concentración del delito en microlugares; no son
@@ -114,7 +122,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde e
   uno; y Santa Tecla, un caso compatible. Borrador (3 fuentes)
 - [[teoria-accion-situacional]] — el delito como acción moral y las causas como
   situacionales; los atributos no son causas; leída como corrección de la prevención
-  situacional; y frente al etiquetamiento (4 fuentes)
+  situacional; y frente al etiquetamiento (5 fuentes)
 - [[tipologia-barrial]] — las cinco categorías de barrio con que ONU-Hábitat organiza
   una política de prevención municipal, y su versión de 2010: cuatro tipos y la
   pregunta entre barrio vulnerado y crítico; y por qué un programa rinde distinto
@@ -211,6 +219,9 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde e
 - [[ine-medicion-victimizacion]] — INE, 2023. Informe metodológico oficial del rediseño de
   la ENUSC, con un piloto experimental. Bibliografía de S1.2. Primera fuente estadística
   oficial de la wiki. Tercera de la tanda 2
+- [[kessler-delito-amateur]] — Kessler, 2004. Sociología de jóvenes que roban con violencia
+  en Buenos Aires, 53 entrevistas de 1999. Bibliografía de S1.1 y de S2.4. Segunda de la
+  tanda 3
 - [[ley-21675-violencia-de-genero]] — Ley 21.675, 2024, en su texto vigente al
   22-07-2026. Primera norma de la wiki. Incorpora el pololeo a la violencia
   intrafamiliar; no toca el femicidio. Fuera del orden por calendario

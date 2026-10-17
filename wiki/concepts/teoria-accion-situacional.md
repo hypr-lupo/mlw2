@@ -1,7 +1,7 @@
 ---
 title: Teoría de la acción situacional (TAS)
 type: concept
-sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf"]
+sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
@@ -29,6 +29,8 @@ De ahí la reformulación del problema: explicar el delito es explicar por qué 
 Conviene retener el desmentido que el propio autor añade, porque es donde la teoría se malinterpreta con más facilidad: analizar el delito como acción moral no implica una perspectiva moralista. La teoría no juzga si una ley concreta es buena o mala, ni sostiene que quien la vulnera sea amoral: su visión de lo correcto puede diferir de la ley, puede importarle menos, o —si coincide y le importa— puede fallarle la capacidad de ejercer autocontrol [^ext-5].
 
 Una ley sólo es norma moral si es compartida en la jurisdicción. Y una razón importante por la que la gente delinque es, simplemente, que está en desacuerdo con la regla o no le preocupa mucho [^ext-6].
+
+**Desde el campo.** Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]]. Jóvenes que roban en Buenos Aires saben qué es ilegal, pero ese saber no los obliga: el marco con que clasifican los actos no es normativo [^ext-29]. Es un caso de lo que esta sección describe, observado sin la TAS [^inf-3]. Ver [[delito-amateur]].
 
 ## Los dos modelos
 
@@ -113,6 +115,7 @@ La TAS no es ingenua sobre la ley. Admite que la gente delinque porque no está 
 - [[puntos-calientes]] — la explicación rival de la concentración del delito
 - [[vanderschueren-prevencion-del-delito]] — la TAS como corrección de la prevención situacional
 - [[etiquetamiento]] — el paradigma que cambia la pregunta
+- [[delito-amateur]] — la ley que no obliga, vista desde el campo
 
 El módulo 6 de `programa/S1.1` agrupa esta obra con las teorías del control social, la prevención situacional y el ciclo vital, «como explicaciones de la criminalidad y como enfoques preventivos». La TAS acota las tres: el control sólo es relevante bajo condición, y la mayoría de las abstenciones no son actos de contención. Ver [[autocontrol-y-disuasion]].
 
@@ -146,5 +149,7 @@ El módulo 6 de `programa/S1.1` agrupa esta obra con las teorías del control so
 [^ext-26]: **Extraído** — [[baratta-criminologia-critica]], cap. VII, p. 86.
 [^ext-27]: **Extraído** — [[baratta-criminologia-critica]], cap. VIII, pp. 106 y 113.
 [^ext-28]: **Extraído** — [[baratta-criminologia-critica]], cap. VII, p. 90.
+[^ext-29]: **Extraído** — [[kessler-delito-amateur]], cap. 2, pp. 53-55, y conclusión, p. 251.
 [^inf-1]: **Inferido** (confianza 0.6) — el cap. I no discute a Weisburd y otros ni las revisiones sobre desplazamiento. La conexión entre propensión y desplazamiento es lectura de esta wiki a partir del cap. I.
 [^inf-2]: **Inferido** (confianza 0.6) — combinando [[wikstrom-por-que-se-delinque]] y [[baratta-criminologia-critica]]. Ninguno discute al otro. La tensión la formula esta wiki.
+[^inf-3]: **Inferido** (confianza 0.6) — combinando [[wikstrom-por-que-se-delinque]] y [[kessler-delito-amateur]]. Ninguno discute al otro.
