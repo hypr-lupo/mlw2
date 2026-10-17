@@ -84,6 +84,12 @@ corpus tiene la versión de autor, que pide no citar desde ella; falta el rango 
 páginas de la revista · obra en inglés sin traducción · comentario a Fletcher, *The
 Grammar of Criminal Law*, citado como inédito
 
+Gottfredson, M. R. y Hirschi, T. (1990). *A general theory of crime*. Stanford University Press.
+→ [[gottfredson-hirschi-teoria-general]] · verificada contra la página de créditos y los datos de
+catalogación · coincide con `programa/S1.1`, salvo la grafía «Standford» del programa · obra en
+inglés sin traducción en el corpus: el nombre del archivo está en castellano, el texto no · las
+teorías que critica son de segunda mano: citar a Merton, Sutherland o Cressey por su obra
+
 Instituto Nacional de Estadísticas. (2023). *Proyecto de actualización metodológica de la
 medición de victimización y percepción de inseguridad. Informe metodológico*.
 → [[ine-medicion-victimizacion]] · **verificación bibliográfica pendiente**: `programa/S1.2`

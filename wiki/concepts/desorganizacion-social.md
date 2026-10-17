@@ -1,13 +1,13 @@
 ---
 title: Desorganización social
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-26
-actualizado: 2026-10-02
+actualizado: 2026-10-17
 ---
 
 # Desorganización social
@@ -72,6 +72,12 @@ Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]]. Bourgois no 
 
 **Dónde queda respecto de la tensión de escala.** Bourgois coincide con la advertencia de Sampson: lo que pasa en el barrio lo configuran fuerzas que no son locales. Va en la dirección contraria a la de Weisburd y otros, que bajan la explicación a la calle [^inf-1]. La economía política no niega la desorganización: pregunta quién la produjo.
 
+## Leída desde la teoría del control
+
+Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. La desorganización, para Gottfredson y Hirschi, es la falta de capacidad de las instituciones de un barrio para controlar a sus miembros. Supone que la sociedad debe socializar y vigilar a las personas para que respeten la ley, que es un supuesto de la escuela clásica [^ext-21]. En sus comienzos, la sociología del delito era compatible con la teoría del control.
+
+Y explican por qué la sociología la abandonó. La desorganización deja al individuo librado a sí mismo, y eso reintroduce explicaciones individuales. La disciplina prefirió la organización: la pandilla, la subcultura, el crimen organizado [^ext-22]. Ver [[control-social-informal]].
+
 ## Sobre el módulo 3 de S1.1
 
 El programa del ramo enmarca a Sampson dentro de la desorganización social, y Sampson (2006) no la nombra. [[weisburd-el-lugar-importa]] sí hace ese encuadre, y es la fuente que lo respalda: presenta la eficacia colectiva como extensión de la teoría sistémica, una de las versiones de la desorganización social [^ext-4]. El encuadre del programa queda así atribuido a una fuente, no a Sampson.
@@ -90,6 +96,7 @@ El programa del ramo enmarca a Sampson dentro de la desorganización social, y S
 - [[gestion-de-lugares]] — la explicación rival, por la oportunidad, y cómo pueden combinarse
 - [[sampson-vecindario-y-comunidad]] — el autor que el programa enmarca aquí
 - [[bourgois-en-busca-de-respeto]] — la continuidad ecológica de East Harlem, explicada por la política urbana
+- [[control-social-informal]] — el control de la comunidad y otros dos sentidos del término
 
 ---
 
@@ -113,4 +120,6 @@ El programa del ramo enmarca a Sampson dentro de la desorganización social, y S
 [^ext-18]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 2, pp. 84-85.
 [^ext-19]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 2, p. 91.
 [^ext-20]: **Extraído** — [[bourgois-en-busca-de-respeto]], conclusión, p. 337.
+[^ext-21]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 4, pp. 81-82.
+[^ext-22]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 10, p. 204.
 [^inf-1]: **Inferido** (confianza 0.7) — comparación con la tensión registrada más arriba. Bourgois no cita a Sampson ni a Weisburd y otros.

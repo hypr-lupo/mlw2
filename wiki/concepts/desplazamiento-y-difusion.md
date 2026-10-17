@@ -1,13 +1,13 @@
 ---
 title: Desplazamiento del delito y difusión de beneficios
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-10-02
+actualizado: 2026-10-17
 ---
 
 # Desplazamiento del delito y difusión de beneficios
@@ -74,6 +74,12 @@ El autor lo llama **desplazamiento maligno**, por el riesgo para las víctimas y
 
 Queda una diferencia real. El cap. I generaliza desde un caso, sin cifras propias. Las revisiones generalizan desde cientos de observaciones, pero con la medida estrecha. Ninguna fuente de la wiki ha medido el desplazamiento de táctica o de gravedad en Chile.
 
+## Una razón teórica contra el desplazamiento
+
+Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. La teoría general predice que no hay desplazamiento. Ni de un tipo de delito a otro, ni de lo simple a lo sofisticado, ni de un área a otra [^ext-22]. La razón no es empírica. El infractor no tiene impulsos que deban satisfacerse: busca lo fácil e inmediato. Si se lo quitan, no busca lo difícil [^ext-23].
+
+El portonazo es justo lo que la teoría niega: un paso de lo simple a lo que exige varios operadores armados [^ext-13]. O la teoría falla en este caso, o el portonazo lo cometen otras personas, como sugiere el dato de menores más agresivos [^inf-3]. Las dos lecturas piden datos que la wiki no tiene.
+
 ## Desplazamientos de mercado y de organización
 
 Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]] y [[arias-empresas-criminales-y-gobernanza]]. Ninguno de los dos evalúa prevención situacional. Los dos describen lo que se mueve cuando el Estado reprime un mercado o un grupo, y amplían la lista de lo que la investigación de más arriba no mide.
@@ -101,6 +107,7 @@ Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]] y [[arias-emp
 - [[teoria-accion-situacional]] — la teoría que el cap. I propone para corregir el límite que atribuye a la prevención situacional
 - [[bourgois-en-busca-de-respeto]] — de la marihuana a la cocaína, y un desplazamiento de lugar observado en East Harlem
 - [[arias-empresas-criminales-y-gobernanza]] — el desplazamiento de organización: destruir un grupo empodera a sus competidores
+- [[teoria-general-del-delito]] — la predicción teórica de que no hay desplazamiento
 
 **Por confrontar.** Clarke (1997), en el corpus sin ingerir, es la obra fundacional de la prevención situacional, que es donde nació esta discusión.
 
@@ -128,4 +135,7 @@ Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]] y [[arias-emp
 [^ext-19]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 3, pp. 78-80.
 [^ext-20]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, p. 34.
 [^inf-2]: **Inferido** (confianza 0.75) — comparación entre las escalas de [[weisburd-el-lugar-importa]] y de las dos fuentes nuevas. Ninguna de ellas usa la palabra desplazamiento en el sentido técnico de esta página.
+[^inf-3]: **Inferido** (confianza 0.6) — de esta wiki, combinando el cap. 12 con [[vanderschueren-prevencion-del-delito]], cap. I. Ninguna fuente discute a la otra.
 [^ext-21]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 11, sobre Osorio (2015) y Durán-Martínez (2018), tal como lo recoge [[mano-dura-y-militarizacion]].
+[^ext-22]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 12, p. 256.
+[^ext-23]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 5, p. 119, y cap. 12, p. 256.

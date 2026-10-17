@@ -1,13 +1,13 @@
 ---
 title: Propensión al delito
 type: concept
-sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf"]
+sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-12
+actualizado: 2026-10-17
 ---
 
 # Propensión al delito
@@ -64,6 +64,17 @@ El autor formula de ahí una distinción cualitativa, no de grado: lo que define
 
 Conviene retener el límite de este dato: proviene de una cohorte de una ciudad inglesa mediana, en autoinforme, y el propio diseño lo trata como test de una asunción teórica.
 
+## Frente a la teoría general
+
+Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. La TAS y la teoría general separan igual el acto de la propensión. Gottfredson y Hirschi distinguen el delito, que es un acto, de la criminalidad, que es la tendencia a cometerlo [^ext-10]. Y los dos admiten que la propensión no basta. El bajo autocontrol no exige el delito, y la situación puede contrarrestarlo [^ext-11].
+
+Difieren en el contenido. Para Gottfredson y Hirschi la propensión es una sola cosa, el bajo autocontrol, y ningún otro rasgo de personalidad añade nada [^ext-12]. Aquí son dos, y la principal es la moral.
+
+**La aversión al delito, leída desde allá.** Para Gottfredson y Hirschi, quien tiene alto autocontrol tiene menos probabilidad de delinquir en todos los períodos de la vida [^ext-11]. Se parece a la persona aversa al delito de esta página, pero sin la moral [^inf-1].
+
+> [!warning] ¿Autocontrol o moral?
+> Para Gottfredson y Hirschi, la moral casi no varía: todos los grupos condenan la fuerza y el fraude, también quienes los usan [^ext-13]. Lo que varía es el autocontrol. Para la TAS, la moral personal varía y es el primer filtro. Ver [[teoria-general-del-delito]] y [[autocontrol-y-disuasion]].
+
 ## Cita
 
 > "Algunas personas son claramente aversas al delito mientras que otras son propensas al mismo"
@@ -76,8 +87,7 @@ Conviene retener el límite de este dato: proviene de una cohorte de una ciudad 
 - [[exposicion-criminogena]] — el otro brazo de la interacción; ninguno de los dos explica nada por separado
 - [[filtro-moral]] — el mecanismo por el que la propensión se vuelve acción
 - [[autocontrol-y-disuasion]] — el segundo de sus dos componentes, y su límite
-
-**Pendiente de confrontación.** Gottfredson y Hirschi (1990) está en el corpus sin ingerir y sostiene que el autocontrol es *la* variable general. Aquí es la mitad de un componente, subordinada a la moral personal. Ver [[revision]].
+- [[teoria-general-del-delito]] — la propensión como un solo rasgo, el bajo autocontrol
 
 ---
 
@@ -90,3 +100,8 @@ Conviene retener el límite de este dato: proviene de una cohorte de una ciudad 
 [^ext-7]: **Extraído** — [[wikstrom-por-que-se-delinque]], Tabla 1, p. 358, y p. 357.
 [^ext-8]: **Extraído** — [[wikstrom-por-que-se-delinque]], p. 360.
 [^ext-9]: **Extraído** — [[wikstrom-por-que-se-delinque]], pp. 360-361.
+[^ext-10]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 1, p. 4.
+[^ext-11]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 5, p. 89.
+[^ext-12]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 5, pp. 108-111.
+[^ext-13]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 6, p. 151.
+[^inf-1]: **Inferido** (confianza 0.6) — comparación de esta wiki. Gottfredson y Hirschi no discuten la TAS.

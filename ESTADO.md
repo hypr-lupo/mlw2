@@ -10,10 +10,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 93 | 79.5 % |
+| `pendiente` | 92 | 78.6 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 24 | 20.5 % |
+| `completo` | 25 | 21.4 % |
 
 ## Por cumulo
 
@@ -22,7 +22,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | (fuera de INVENTARIO.md) | 5 | 5 | 0 | 0 | 0 |
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
 | Bibliografía S1.1, consulta y complementaria | 12 | 9 | 0 | 0 | 3 |
-| Explicación del delito | 5 | 3 | 0 | 0 | 2 |
+| Explicación del delito | 5 | 2 | 0 | 0 | 3 |
 | Gobernanza criminal y territorio | 6 | 4 | 0 | 0 | 2 |
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
 | Institucionalidad y política de prevención en Chile | 6 | 5 | 0 | 0 | 1 |
@@ -116,7 +116,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 ### Explicación del delito
 
-- `pendiente` — 1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf
+- `completo` — 1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf
 - `pendiente` — 2002 - Pavarini - Control y dominación, teorías criminológicas burguesas y proyecto hegemónico.pdf
 - `completo` — 2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf
 - `completo` — 2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf

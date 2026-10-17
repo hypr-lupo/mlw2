@@ -8,8 +8,8 @@ sources: []
 
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
-**Al 17-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden y las
-tandas 2 y 3 cerradas.** Veinticinco fuentes de 118, setenta y ocho páginas, **siete de ocho
+**Al 17-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden, las
+tandas 2 y 3 cerradas y la 4 abierta.** Veintiséis fuentes de 118, ochenta y una páginas, **siete de ocho
 clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
@@ -146,7 +146,15 @@ principios y no uno, y nació para pensar en trayectorias en vez de cadenas caus
 ella nace [[estudios-longitudinales]], la primera página de diseño longitudinal de la wiki,
 con PADS+ como uno de sus casos.
 
-## Siete respuestas a la misma pregunta
+**Y una teoría general.** [[gottfredson-hirschi-teoria-general]] abre la tanda 4 el 17-10. Es la
+teoría que el módulo 6 de S1.1 discute bajo el nombre de control social, por fin en la voz de
+sus autores. Explica todo delito por el bajo autocontrol, que se forma en la crianza. Nacen
+[[teoria-general-del-delito]] y [[control-social-informal]], que la cola esperaba desde el 12-09
+y que separa tres sentidos del término. La obra discute casi todo lo que la wiki ya tenía: los
+puntos de inflexión, el diseño longitudinal, la organización criminal, la carrera delictiva, el
+etiquetamiento y la tensión. Abre cinco tensiones y enmienda otras cinco.
+
+## Ocho respuestas a la misma pregunta
 
 Las fuentes teóricas explican por qué la violencia se concentra donde se concentra, y
 cada una pone el mecanismo en un lugar distinto.
@@ -171,6 +179,12 @@ de inflexión que pueden torcerla. El autocontrol temprano pesa, pero no está s
 La página sigue en borrador: desde el 17-10 se contrasta con el enfoque de origen,
 [[blanco-curso-de-vida]], pero Sampson y Laub siguen fuera del corpus.
 
+**En la crianza.** [[gottfredson-hirschi-teoria-general]]: el delito se concentra en las personas
+con bajo autocontrol, que se forma en los primeros años de la familia. Los lugares y las culturas
+sólo cambian las oportunidades. Es la respuesta que la trayectoria discute: para Gottfredson y
+Hirschi, el matrimonio y el empleo no tuercen nada. Ver [[teoria-general-del-delito]] y
+[[control-social-informal]].
+
 **En el Estado.** [[albarracin-crimen-organizado-america-latina]]: el crimen organizado
 existe también por la cooperación deliberada de actores estatales. Ver
 [[gobernanza-criminal]] y [[crimen-organizado]]. [[arias-empresas-criminales-y-gobernanza]]
@@ -187,7 +201,7 @@ urbanas, no la ecología del barrio. Ver [[desorganizacion-social]]. En Buenos A
 y no episodio, y sus efectos —[[miedo-social]], [[zona-gris]], [[muerte-social]]— la
 reproducen hasta volverse norma. Ver [[gobernanzas-paralelas]].
 
-**Y una que discute la pregunta.** [[baratta-criminologia-critica]]: las siete explican el
+**Y una que discute la pregunta.** [[baratta-criminologia-critica]]: las ocho explican el
 delito que se registra. El [[etiquetamiento]] pregunta antes quién fue definido como
 delincuente, y quién lo definió. Según Baratta, las estadísticas sugirieron una distribución
 falsa del delito entre los grupos sociales. Ver [[criminalizacion-y-selectividad-penal]].
@@ -204,7 +218,9 @@ excepción parcial: toman posición frente a Sampson y Wikström.
 2. **Alcance del efecto de área.** Wikström conserva el efecto del barrio pero lo
    condiciona a quién lo use: para las personas aversas al delito es cero.
 3. **Estatus del control en la prevención.** La TAS acota el control y la prevención
-   situacional a las situaciones con deliberación y conflicto de reglas-guía.
+   situacional a las situaciones con deliberación y conflicto de reglas-guía. Gottfredson y
+   Hirschi agregan una tercera posición: el control que importa ocurre en la familia, antes de
+   los ocho años, y la justicia penal es una causa débil.
 4. **Capital social frente a eficacia colectiva.** Adams trabaja con el constructo de
    Putnam; Sampson formuló el suyo para corregirlo.
 5. **Quién es el Estado.** Solución o contexto en Sampson y Wikström; parte del
@@ -250,8 +266,9 @@ excepción parcial: toman posición frente a Sampson y Wikström.
 15. **¿Es inevitable el desplazamiento?** El cap. I dice que sí y lo ilustra con los
     portonazos. Las revisiones que reúne Weisburd dicen que no. La contradicción se
     acota: el portonazo es un desplazamiento de táctica y de gravedad, y esas
-    revisiones miden casi sólo el espacial y cuentan hechos, no daño. Ver
-    [[desplazamiento-y-difusion]].
+    revisiones miden casi sólo el espacial y cuentan hechos, no daño. Gottfredson y Hirschi
+    predicen que no hay desplazamiento de lo simple a lo sofisticado, que es justo lo que el
+    portonazo muestra. Ver [[desplazamiento-y-difusion]].
 16. **Tres ideas de evidencia.** La guía de 2010 desconfía del laboratorio y pide años.
     Weisburd juzga por experimentos. Tudela pide evaluaciones independientes y
     cuasiexperimentales para el efecto, y comprensivas para la implementación. Y las
@@ -267,7 +284,8 @@ excepción parcial: toman posición frente a Sampson y Wikström.
 18. **Factores de riesgo: base o límite.** Un capítulo los pone de base de la
     prevención chilena, otro advierte que no son causas y un tercero critica el
     instrumento que los mide. Blanco agrega que el enfoque de origen cambió las cadenas
-    causales por trayectorias. Ver [[prevencion-del-delito]].
+    causales por trayectorias. Gottfredson y Hirschi, que son manifestaciones del bajo
+    autocontrol, no causas. Ver [[prevencion-del-delito]].
 19. **¿Coproducir es prevenir?** Tudela: revitalizar la comunidad no es prevenir el
     delito. Peñalolén: la cohesión es la mejor estrategia preventiva, y aun así en 2018
     juzgó insuficiente la coproducción y pasó a la seguridad humana. Y los editores
@@ -314,7 +332,8 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     [[criminologia-del-curso-de-vida]].
 30. **¿Qué significa la deserción escolar?** Un factor de riesgo para Hein; durante una
     generación, una estrategia con estatus que fracasó cuando cerraron las fábricas. Kessler
-    agrega que, en sus casos, la deserción viene después del robo. Ver [[prevencion-del-delito]].
+    agrega que, en sus casos, la deserción viene después del robo. Para Gottfredson y Hirschi, es
+    una manifestación más del bajo autocontrol. Ver [[prevencion-del-delito]].
 
 **La que abre Batthyány y Cabrera**
 
@@ -366,11 +385,33 @@ excepción parcial: toman posición frente a Sampson y Wikström.
 39. **¿Contracultura o suspensión del juicio?** Bourgois encuentra en Harlem una cultura
     callejera que da respeto contra la cultura que excluye. Kessler no la encuentra en Buenos
     Aires: el trabajo sigue dando respeto, y la provisión es una suspensión del juicio que
-    comparten también quienes no roban. Ver [[delito-amateur]] y [[cultura-callejera]].
+    comparten también quienes no roban. Gottfredson y Hirschi, desde Estados Unidos como
+    Bourgois, quedan del lado de Kessler. Ver [[delito-amateur]] y [[cultura-callejera]].
 40. **¿La etiqueta fija la carrera?** Para Lemert, según Baratta, la reacción consolida la
     identidad desviada. Kessler recoge la crítica de la curva de edad y no encuentra etiqueta
-    entre pares, aunque sí en la familia y la escuela. Ver [[etiquetamiento]] y
+    entre pares, aunque sí en la familia y la escuela. Gottfredson y Hirschi niegan la premisa:
+    la conducta precede a la etiqueta, y no hay carrera que fijar. Ver [[etiquetamiento]] y
     [[criminologia-del-curso-de-vida]].
+
+**Las cinco que abre Gottfredson y Hirschi (1990)**
+
+41. **¿Autocontrol o moral?** Para Gottfredson y Hirschi, el autocontrol es la única
+    característica duradera que predice el delito, y la moral casi no varía. Para la TAS, la
+    moral personal es el primer filtro. Ver [[propension-al-delito]] y
+    [[autocontrol-y-disuasion]].
+42. **¿Punto de inflexión o autoselección?** El curso de vida explica el desistimiento por
+    vínculos con el matrimonio, el empleo o el ejército. Gottfredson y Hirschi responden que
+    nadie es asignado al azar a esos vínculos, y que el delito baja igual. Ver
+    [[criminologia-del-curso-de-vida]].
+43. **¿Organización o ilusión de organización?** Para Gottfredson y Hirschi, las
+    organizaciones criminales son efímeras, con datos de Estados Unidos. Arias y Albarracín
+    describen grupos que gobiernan barrios durante años. Ver [[crimen-organizado]].
+44. **¿Hay carreras en el delito?** Kessler describe una profesionalización con especialidad
+    y códigos. Gottfredson y Hirschi niegan la especialización y llaman oxímoron a la carrera.
+    Ver [[delito-amateur]].
+45. **¿Qué aporta el diseño longitudinal?** Blanco y el libro de 2021 lo piden. Gottfredson y
+    Hirschi sostienen que no resuelve el orden causal mejor que el transversal, y que separar
+    edad, período y cohorte no importa. Ver [[estudios-longitudinales]].
 
 **La que más va a pesar en el trabajo evaluado de S1.1.**
 [[onu-habitat-guia-barrios]] incorpora la teoría de las ventanas rotas dentro de su
@@ -387,7 +428,8 @@ inventario. Ver [[ventanas-rotas]].
   legitimidad. Adams y Pearce explican por qué es popular. Arias agrega que cohesiona a
   los grupos, y Bourgois describe su versión estadounidense: encarcelamiento masivo y
   desalojos. Baratta agrega, desde el etiquetamiento, que la cárcel consolida la identidad
-  desviada. Ver [[mano-dura-y-militarizacion]].
+  desviada. Gottfredson y Hirschi llegan desde la teoría del control: la justicia penal llega
+  tarde a la causa. Ver [[mano-dura-y-militarizacion]].
 - **El miedo.** Adams en Guatemala, y Luneke y Trebilcock en Maipú y la encuesta de
   Peñalolén en Chile, encuentran el temor desacoplado del delito y movido por los
   medios, el conflicto entre generaciones y la construcción del otro. Investigaciones
@@ -397,7 +439,8 @@ inventario. Ver [[ventanas-rotas]].
 - **La amenaza.** Gardner desde la filosofía del derecho y Wikström desde la
   criminología coinciden en que la amenaza no opera sobre quien ya tiene resuelta la
   cuestión. Kessler llega a algo parecido desde entrevistas: el cálculo de costos no decide
-  entrar ni salir del delito. Ver [[autocontrol-y-disuasion]].
+  entrar ni salir del delito. Gottfredson y Hirschi agregan que la sanción más fuerte es la
+  desaprobación de las personas que uno quiere. Ver [[autocontrol-y-disuasion]].
 - **La evaluación.** Tudela desde la prevención del delito y Valdivia-Peralta y otros desde
   la violencia en el noviazgo llegan al mismo diagnóstico: en Chile los programas y las
   campañas no se evalúan, y la evidencia viene de países de altos ingresos. Srur y otros lo
@@ -465,17 +508,22 @@ inventario. Ver [[ventanas-rotas]].
   retrospectivo, la cohorte, y qué permite ver que una encuesta transversal no.
 - **Hablar de quienes roban, desde ellos.** [[delito-amateur]]: cómo alternan trabajo y
   robo, qué grupos forman y cómo ven a la policía. Buenos Aires, 1999.
+- **Separar los sentidos del control.** [[control-social-informal]]: el de la familia, que deja
+  autocontrol, el del barrio y el graduado por edad, y quién lo ejerce.
+- **Exponer una teoría general del delito.** [[teoria-general-del-delito]]: el bajo autocontrol,
+  sus causas en la crianza, tres hechos y lo que la teoría niega.
 
 Las cuatro primeras vienen sobre todo del equipo del docente del ramo: dos guías que
-cuentan como una, y el libro de 2021, en parte de los mismos autores. Las tres últimas,
-de los proponentes de la criminología del lugar. Conviene usarlas sabiendo las dos
+cuentan como una, y el libro de 2021, en parte de los mismos autores. Las de la escala,
+la intervención focalizada y la gestión de lugares, de los proponentes de la criminología del
+lugar. Conviene usarlas sabiendo las dos
 cosas.
 
 ## Lo que esto deja para el trabajo evaluado de S1.1
 
 El trabajo recae sobre una política municipal o un proyecto de seguridad identificable
 —la misma exigencia de anclaje del [[trabajo-de-grado-profesionalizante]] un semestre
-antes. Las fuentes dan, juntas, veinte preguntas que un diagnóstico serio debería poder
+antes. Las fuentes dan, juntas, veintiuna preguntas que un diagnóstico serio debería poder
 responder sobre cualquier intervención. Las formula esta wiki:
 
 - ¿Funciona por el territorio o por quién usa el territorio?
@@ -505,6 +553,7 @@ responder sobre cualquier intervención. Las formula esta wiki:
 - Si se la presenta como buena práctica, ¿quién la describe, y con qué comparación?
 - ¿La población que atiende es la que delinque, o la que el sistema penal seleccionó?
 - ¿Supone que quienes roban forman una subcultura cerrada, o que alternan trabajo y robo?
+- ¿Dónde pone la causa: en la crianza de los primeros años, en la situación o en el barrio?
 
 La primera política municipal chilena documentada en la wiki es la de Peñalolén. Vive
 en la ficha y en [[revision]], a la espera de una fuente que no sea su propia
@@ -527,16 +576,17 @@ dirección. Elegirla o no es decisión del autor.
   [[debilidad-estatal]] suman críticos, pero siguen sin un defensor.
 - **Hablar de las teorías de la oportunidad desde sus autores.** Clarke (1997) y Felson
   y Eckert (2016) entran en la tanda 4.
-- **Hablar del curso de vida y del autocontrol desde sus autores.** Blanco (2011) entró el
-  17-10, pero es una revisión sociodemográfica: Sampson y Laub no están en el corpus.
-  Gottfredson y Hirschi (1990) llegan en la tanda 4.
+- **Hablar del curso de vida desde sus autores.** Blanco (2011) entró el 17-10, pero es una
+  revisión sociodemográfica: Sampson y Laub no están en el corpus. El autocontrol ya tiene
+  su voz, porque Gottfredson y Hirschi (1990) entraron el mismo día. Su crítica de los puntos
+  de inflexión queda sin la respuesta de Sampson y Laub.
 - **Hablar de la tensión y del cuello blanco desde sus autores.** Merton y Sutherland no
   están en el corpus. Baratta (2004), que entró el 16-10, los trae de segunda mano. El
   derecho penal simbólico sigue sin voz crítica. Ferrajoli llega en la tanda 6.
 - **Contrastar métodos.** `wiki/methodology/` tiene doce páginas, con una sobre diseño
   de investigación y, desde el 17-10, una sobre estudios longitudinales. Siguen sin página
-  los diseños experimentales y cuasiexperimentales: el manual de Batthyány y Cabrera no
-  los trata. La medición de la victimización ya tiene
+  los diseños experimentales y cuasiexperimentales. Gottfredson y Hirschi dan la jerarquía,
+  en una sección de [[diseno-de-investigacion]], pero no un procedimiento. La medición de la victimización ya tiene
   página, pero sin resultados de la ENUSC posteriores a 2021.
 - **Clasificar grupos criminales.** No hay `subtipo` de `entity` donde quepan el PCC o
   las milícias. Material de la operación 8. Las milícias ya tienen la segunda fuente que
@@ -552,8 +602,8 @@ de Boba en Tudela (ed.) (2010) y el CIPC (2015) entraron el mismo día, y con el
 quedó cerrada, seis días tarde. Sigue la tanda 3: Baratta (2004), Kessler (2004) y Blanco
 (2011). La tanda 3 vence el mismo 16-10. El autor
 decidió ese día mantener el orden: la 3 va después de terminar la 2. Baratta (2004) la abrió
-ese mismo día, en sus caps. I-II, IV, VII y VIII, y Kessler (2004) la siguió. Blanco (2011) la cerró el 17-10, un día tarde. Sigue la tanda 4:
-Gottfredson y Hirschi (1990), Clarke (1997) y Felson y Eckert (2016), antes del 23-10. Después de la sexta
+ese mismo día, en sus caps. I-II, IV, VII y VIII, y Kessler (2004) la siguió. Blanco (2011) la cerró el 17-10, un día tarde. La tanda 4
+empezó el mismo día con Gottfredson y Hirschi (1990). Siguen Clarke (1997) y Felson y Eckert (2016), antes del 23-10. Después de la sexta
 vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.
 Arias (2017) y Bourgois (2010) entraron fuera de ese orden el 02-10, por decisión del

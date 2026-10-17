@@ -1,13 +1,13 @@
 ---
 title: Cultura callejera
 type: concept
-sources: ["2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
+sources: ["2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: explicacion-del-delito
 curso: []
 procedencia: fuentes
 estado: borrador
 creado: 2026-10-02
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Cultura callejera
@@ -58,7 +58,7 @@ Si la cultura callejera responde a una búsqueda de dignidad, la política no pu
 - **[[anomia]].** Bourgois dice, en una nota, que Merton hizo el mismo argumento en los años treinta [^ext-24]. Merton no está en el corpus. Desde el 16-10, [[baratta-criminologia-critica]] lo expone de segunda mano. En los términos de Merton, la cultura callejera se parece a la innovación: el fin del éxito sin los medios legítimos [^ext-25] [^inf-1]. Baratta agrega una crítica. La teoría de Merton, aunque suene a crítica social, legitima la imagen del delito como cosa de pobres [^ext-26]. Bourgois pone la causa en la economía política, que es lo que Baratta le reprocha a Merton no haber visto [^inf-1]. La tensión queda registrada en [[anomia]].
 
 > [!warning] ¿Contracultura o suspensión del juicio?
-> Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]], que estudia jóvenes que roban en Buenos Aires en 1999. Kessler lee la banda de Harlem como una contracultura: expresa valores propios, opuestos a una cultura que excluye, y la violencia la fija [^ext-27]. La escuela de East Harlem excluye por raza y clase, y la banda ocupa su lugar [^ext-28]. Sus jóvenes no tienen nada de eso. No buscan un respeto alternativo, en su discurso el trabajo sigue siendo la fuente de respeto, y robar no los separa de quienes no roban [^ext-29]. Kessler atribuye la diferencia al contexto: gueto, clivaje étnico y control territorial [^ext-30]. Las dos descripciones pueden ser ciertas. Queda abierto cuál se parece más a un barrio chileno [^inf-2]. Ver [[delito-amateur]].
+> Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]], que estudia jóvenes que roban en Buenos Aires en 1999. Kessler lee la banda de Harlem como una contracultura: expresa valores propios, opuestos a una cultura que excluye, y la violencia la fija [^ext-27]. La escuela de East Harlem excluye por raza y clase, y la banda ocupa su lugar [^ext-28]. Sus jóvenes no tienen nada de eso. No buscan un respeto alternativo, en su discurso el trabajo sigue siendo la fuente de respeto, y robar no los separa de quienes no roban [^ext-29]. Kessler atribuye la diferencia al contexto: gueto, clivaje étnico y control territorial [^ext-30]. Las dos descripciones pueden ser ciertas. Queda abierto cuál se parece más a un barrio chileno [^inf-2]. Desde el 17-10, [[gottfredson-hirschi-teoria-general]] suma una voz, también estadounidense, del lado de Kessler. La subcultura de la violencia no tiene apoyo: todos los grupos condenan la fuerza y el fraude, y los infractores no aprueban sus actos [^ext-31]. Ver [[delito-amateur]].
 
 ## Por qué está en borrador
 
@@ -78,6 +78,7 @@ Una sola fuente, que es una etnografía de una red en dos cuadras de Nueva York 
 - [[criminologia-del-curso-de-vida]] — las trayectorias de quienes entran y salen de ella
 - [[anomia]] — Merton, de segunda mano, y la crítica de Baratta
 - [[delito-amateur]] — la contracultura que Kessler no encuentra en Buenos Aires
+- [[teoria-general-del-delito]] — contra la subcultura de la violencia
 
 ---
 
@@ -111,5 +112,6 @@ Una sola fuente, que es una etnografía de una red en dos cuadras de Nueva York 
 [^ext-28]: **Extraído** — [[kessler-delito-amateur]], cap. 7, p. 192.
 [^ext-29]: **Extraído** — [[kessler-delito-amateur]], cap. 2, pp. 39-40, cap. 3, pp. 72-75, y cap. 7, pp. 209-210.
 [^ext-30]: **Extraído** — [[kessler-delito-amateur]], conclusión, pp. 248 y 257.
+[^ext-31]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 6, p. 151.
 [^inf-1]: **Inferido** (confianza 0.6) — combinando [[bourgois-en-busca-de-respeto]] y [[baratta-criminologia-critica]]. Baratta no discute a Bourgois, que es posterior.
 [^inf-2]: **Inferido** (confianza 0.7) — ninguna fuente del corpus trae una etnografía de jóvenes que roban en Chile.

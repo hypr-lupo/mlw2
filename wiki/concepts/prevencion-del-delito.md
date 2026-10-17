@@ -1,7 +1,7 @@
 ---
 title: Prevención del delito
 type: concept
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -85,6 +85,8 @@ Su propuesta va en dirección contraria a la focalización: emparejar los servic
 
 **Una tercera voz sobre la deserción.** Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]]. Entre jóvenes que roban en Buenos Aires, la deserción escolar viene después de empezar a robar, no antes [^ext-34]. Si fuera así en general, la deserción marcaría un proceso ya iniciado, más que su causa [^inf-3]. Ver [[delito-amateur]].
 
+**Una cuarta lectura: manifestaciones.** Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. Para la teoría general, muchas causas tradicionales del delito son consecuencias del bajo autocontrol. Las personas se seleccionan, y son seleccionadas, en circunstancias que por eso correlacionan con el delito [^ext-36]. La deserción escolar es un caso: quien tiene bajo autocontrol evita la escuela y termina dejándola [^ext-37]. El consumo de drogas, otro. No causa el delito: son dos manifestaciones de la misma tendencia [^ext-38]. En esa lectura, tres de los cuatro factores de Hein serían indicadores, no causas [^inf-5].
+
 ## Dos paradojas
 
 El cap. XIII, escrito sobre el extremismo violento, formula dos paradojas que valen para cualquier prevención [^ext-22]:
@@ -105,6 +107,16 @@ Dos capítulos cuestionan que la comunidad sea siempre aliada de la prevención.
 
 Las conclusiones separan lo que la definición de Naciones Unidas junta: la prevención persigue a la vez reducir la **victimización** y la **percepción de inseguridad**, y sus causas son distintas. La segunda exige una política comunicacional y pedagógica de mediano o largo plazo [^ext-26]. Ver [[miedo-social]].
 
+## La familia como política
+
+Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. Una posición que ninguna otra fuente de la wiki toma. Para Gottfredson y Hirschi, el Estado no es causa ni solución del delito. Las únicas políticas de largo plazo con potencial son las que fortalecen a las instituciones que crían a los niños [^ext-39]. No exigen una familia de padre y madre biológicos. Exigen adultos responsables [^ext-40].
+
+- **Prevención, no tratamiento.** Los adultos a cargo del niño aprenden a reconocer las señales de bajo autocontrol y a corregirlas. No necesitan una formación profesional [^ext-41].
+- **La rehabilitación llega tarde.** Su ventana es tan estrecha que casi todo programa parece funcionar, porque los infractores cambian solos a fines de la adolescencia [^ext-42]. Ver [[evaluacion-de-programas]].
+- **Lo situacional, con beneficio limitado.** Dificultar delitos concretos sirve, y no desplaza el delito [^ext-43]. Ver [[desplazamiento-y-difusion]].
+
+Converge con lo que el cap. III del libro de 2021 concluye desde la neurociencia: prevenir en la infancia tiene más impacto que tratar después [^inf-6]. Ver [[criminologia-del-curso-de-vida]].
+
 ## Cita
 
 > "La prevención es un concepto que carece de sentido unívoco."
@@ -124,6 +136,7 @@ Las conclusiones separan lo que la definición de Naciones Unidas junta: la prev
 - [[ideologia-de-la-defensa-social]] — Romagnosi, los sustitutivos penales y el principio de prevención
 - [[delito-amateur]] — la deserción que sigue al robo
 - [[blanco-curso-de-vida]] — trayectorias en vez de cadenas causales
+- [[teoria-general-del-delito]] — la familia como única política de largo plazo
 
 **Por confrontar.** La prevención situacional tiene su obra fundacional en el corpus: Clarke (1997), en la tanda 4. La comunitaria, en las orientaciones técnicas de la Subsecretaría de Prevención del Delito (2022), en la tanda 5.
 
@@ -164,8 +177,18 @@ Las conclusiones separan lo que la definición de Naciones Unidas junta: la prev
 [^ext-33]: **Extraído** — [[baratta-criminologia-critica]], cap. II, pp. 36-37, y cap. VII, p. 89.
 [^ext-34]: **Extraído** — [[kessler-delito-amateur]], cap. 7, pp. 215-216.
 [^ext-35]: **Extraído** — [[blanco-curso-de-vida]], p. 9, sobre George (2006).
+[^ext-36]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 5, p. 119.
+[^ext-37]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 5, p. 106, y cap. 7, p. 163.
+[^ext-38]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 5, p. 93.
+[^ext-39]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 12, pp. 272-273.
+[^ext-40]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 12, p. 273, n. 2.
+[^ext-41]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 12, p. 269.
+[^ext-42]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 12, p. 268.
+[^ext-43]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 12, p. 256.
 [^amb-1]: **Ambiguo** — el cap. IV (p. 102) y el cap. VI (pp. 146-147) atribuyen a Brantingham y Faust (1976) definiciones distintas de la prevención primaria. El IV la define por la población destinataria, siguiendo al Foro de Expertos de 2004; el VI, por las condiciones del ambiente que dan oportunidades al delito. El libro no nota la diferencia. La obra original no está en el corpus; no se resuelve por inferencia.
 [^inf-1]: **Inferido** (confianza 0.65) — contraste entre Hein (2004), en [[vanderschueren-prevencion-del-delito]], cap. IV, y [[bourgois-en-busca-de-respeto]], cap. 4. Bourgois no discute el enfoque de factores de riesgo con ese nombre.
 [^inf-2]: **Inferido** (confianza 0.7) — Baratta no discute la prevención comunitaria ni la situacional. La distinción la hace esta wiki con las dos concepciones del cap. I de [[vanderschueren-prevencion-del-delito]].
 [^inf-3]: **Inferido** (confianza 0.6) — Kessler habla de sus casos, no de una muestra representativa.
 [^inf-4]: **Inferido** (confianza 0.6) — Blanco no discute los factores de riesgo. La lectura es de esta wiki.
+[^inf-5]: **Inferido** (confianza 0.6) — lectura de esta wiki. Gottfredson y Hirschi no discuten a Hein. Llaman «ausentismo del hogar» a la fuga, en el cap. 11, p. 239.
+[^inf-6]: **Inferido** (confianza 0.7) — combinando el cap. 12 con [[vanderschueren-prevencion-del-delito]], cap. III, p. 90. Ninguno cita al otro.

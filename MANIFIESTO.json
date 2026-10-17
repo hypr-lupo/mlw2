@@ -153,6 +153,12 @@
       "bytes": 320188,
       "ingerido": "2026-10-17",
       "ficha": "wiki/sources/blanco-curso-de-vida.md"
+    },
+    "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf": {
+      "sha256": "c80d8ccc05637250a4fec26a42b2e1aac0afcaaebdeccfcce0f2c43b771d87f8",
+      "bytes": 32802412,
+      "ingerido": "2026-10-17",
+      "ficha": "wiki/sources/gottfredson-hirschi-teoria-general.md"
     }
   }
 }

@@ -1,13 +1,13 @@
 ---
 title: Anomia y teoría de la tensión
 type: concept
-sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
+sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-10-16
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Anomia y teoría de la tensión
@@ -81,6 +81,17 @@ Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]]. Kessler también e
 
 Kessler no la descarta: la juzga útil para los casos en que la tensión entre fines y medios se vive de forma subjetiva [^ext-21]. Encuentra uno: un ladrón que empezó en los años cincuenta rechazó el trabajo porque prometía una movilidad demasiado lenta [^ext-22]. Pero sus jóvenes de los noventa no persiguen fines fijados de antemano. Las necesidades se redefinen a medida que el robo da resultado [^ext-23]. Ver [[delito-amateur]].
 
+## Una crítica de primera mano
+
+Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. Merton sigue faltando, pero entra un crítico que lo discute directamente, desde la teoría del control:
+
+- **Una premisa sobre la naturaleza humana.** La tensión supone que las personas se conforman por naturaleza. Entonces el motivo para delinquir debe venir de una contradicción de la sociedad [^ext-24].
+- **Predice mal al infractor.** Si fuera cierta, quienes delinquen tendrían aspiraciones altas y expectativas bajas. Los datos muestran aspiraciones más bajas que las de otros, y expectativas altas, poco realistas [^ext-25].
+- **El delito no da lo que promete.** No da estatus, ni bienes más allá del momento, ni una carrera. Y victimiza a personas en la misma situación del infractor, no a quienes están mejor [^ext-26].
+- **Los modos de adaptación exigen especialistas.** La tipología de Merton y las subculturas de Cloward y Ohlin separan a quienes delinquen de quienes consumen drogas. Pero son las mismas personas [^ext-27].
+
+Kessler registraba un hallazgo en la misma dirección. Según Short y Strodtbeck, roban más quienes ven limitadas sus oportunidades, no quienes tienen aspiraciones altas [^ext-19].
+
 ## Lo que falta
 
 - **Las fuentes.** Faltan Merton, los dos libros de Sutherland y Lamnek. Esta página no los reemplaza.
@@ -101,6 +112,7 @@ Kessler no la descarta: la juzga útil para los casos en que la tensión entre f
 - [[criminalizacion-y-selectividad-penal]]: el cuello blanco y la cifra negra
 - [[desorganizacion-social]]: la otra desorganización
 - [[delito-amateur]] — la deriva frente a la anomia, y fines que se redefinen
+- [[teoria-general-del-delito]] — la crítica desde la teoría del control
 
 ---
 
@@ -127,5 +139,9 @@ Kessler no la descarta: la juzga útil para los casos en que la tensión entre f
 [^ext-21]: **Extraído** — [[kessler-delito-amateur]], anexo, pp. 273-274.
 [^ext-22]: **Extraído** — [[kessler-delito-amateur]], cap. 4, pp. 95-96.
 [^ext-23]: **Extraído** — [[kessler-delito-amateur]], cap. 4, p. 95.
+[^ext-24]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 4, p. 78.
+[^ext-25]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 7, p. 162.
+[^ext-26]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 6, pp. 152-153, y cap. 7, p. 162.
+[^ext-27]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 4, p. 80.
 [^inf-1]: **Inferido** (confianza 0.6) — combinando [[baratta-criminologia-critica]], p. 64, y [[bourgois-en-busca-de-respeto]]. Baratta no discute a Bourgois, que es posterior. La tensión la formula esta wiki.
 [^inf-2]: **Inferido** (confianza 0.6) — combinando [[baratta-criminologia-critica]], p. 56, y [[desorganizacion-social]]. Ninguna fuente compara las dos nociones.

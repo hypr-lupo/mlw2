@@ -1,7 +1,7 @@
 ---
 title: Criminología del desarrollo y del curso de vida
 type: concept
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
@@ -64,6 +64,18 @@ El cap. III, de Parrao, llega a una conclusión compatible desde la neurociencia
 - **Pero importa desde temprano.** En un seguimiento de 1.000 niños durante 32 años, un mejor autocontrol infantil predijo menos conductas de riesgo en la adolescencia y menos problemas legales en la adultez, controlando por inteligencia, sexo, clase y circunstancias familiares (Moffitt, 2011) [^ext-8].
 
 Es decir, el autocontrol temprano pesa, como sostienen Gottfredson y Hirschi, pero no está sellado [^inf-1]. Ver [[autocontrol-y-disuasion]], donde la teoría de la acción situacional le asigna al autocontrol un papel todavía más acotado.
+
+## La respuesta de Gottfredson y Hirschi
+
+Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. El libro es de 1990, anterior a la teoría de Sampson y Laub, pero discute los eventos vitales que esa teoría usa [^ext-47]. Y precisa la posición que el cap. X le atribuye.
+
+- **No es determinismo, dicen.** El bajo autocontrol no exige el delito, y la situación puede contrarrestarlo [^ext-48]. Lo fijado temprano es una diferencia entre personas, no un destino.
+- **Pero los eventos no explican el descenso.** Los adolescentes que trabajan delinquen más, no menos. Los muchachos con novia, también. Y el matrimonio no explica el descenso con la edad, que ocurre igual [^ext-49].
+- **La autoselección.** Nadie es asignado al azar a un empleo o a un cónyuge. Quien se casa con una mujer sin antecedentes probablemente habría delinquido menos aunque no se casara [^ext-50]. Las instituciones reciben así un crédito que quizá no merecen [^ext-51].
+- **Un experimento natural.** En la Segunda Guerra Mundial casi todos los jóvenes recibieron el mismo «empleo», el ejército. Los delincuentes de la muestra de los Glueck tuvieron peores registros, y el descenso con la edad siguió igual [^ext-52].
+
+> [!warning] ¿Punto de inflexión o autoselección?
+> Para el enfoque del curso de vida, el matrimonio, el empleo o el ejército pueden torcer una trayectoria. Para Gottfredson y Hirschi, las personas eligen esos vínculos según el autocontrol que ya tienen, y el delito baja con la edad igual. Los casos de Bourgois, más abajo, admiten las dos lecturas. Primo dejó de robar con pareja y empleo, y recayó cuando le cambiaron el turno y perdió el empleo [^inf-4]. Ver [[teoria-general-del-delito]].
 
 ## La base neurobiológica
 
@@ -144,8 +156,10 @@ El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
 - [[etiquetamiento]] — la teoría que la curva de edad contradice
 - [[blanco-curso-de-vida]] — el enfoque general, desde la sociodemografía
 - [[estudios-longitudinales]] — los datos que el enfoque necesita
+- [[teoria-general-del-delito]] — la teoría que este enfoque discute, y su respuesta
+- [[control-social-informal]] — el control graduado por edad, frente a otros dos sentidos
 
-**Por confrontar.** Blanco (2011), en la tanda 3, y Gottfredson y Hirschi (1990), en la tanda 4: la voz de la teoría que este enfoque discute.
+**Por confrontar.** Sampson y Laub, los autores del control graduado por edad, no están en el corpus. Blanco (2011) y Gottfredson y Hirschi (1990) ya entraron.
 
 ---
 
@@ -185,6 +199,7 @@ El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
 [^ext-33]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a la 2.ª ed., pp. 353-354.
 [^inf-2]: **Inferido** (confianza 0.6) — lectura de los dos casos de [[bourgois-en-busca-de-respeto]] contra el desistimiento por vínculos sociales que expone esta página. Bourgois no usa el concepto de punto de inflexión.
 [^inf-3]: **Inferido** (confianza 0.8) — comparando el cap. X de [[vanderschueren-prevencion-del-delito]] con [[blanco-curso-de-vida]], pp. 12-15.
+[^inf-4]: **Inferido** (confianza 0.6) — lectura de esta wiki de [[bourgois-en-busca-de-respeto]], cap. 8, pp. 317-320. Bourgois no discute a Gottfredson y Hirschi.
 [^ext-34]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a esta edición (2010), pp. 367-368 y 372.
 [^ext-35]: **Extraído** — [[kessler-delito-amateur]], anexo, pp. 282-283, sobre Sampson y Laub (1993).
 [^ext-36]: **Extraído** — [[kessler-delito-amateur]], cap. 1, p. 24, sobre Sampson y Laub (1993) y Farrington (1992).
@@ -198,3 +213,9 @@ El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
 [^ext-44]: **Extraído** — [[blanco-curso-de-vida]], pp. 14-15.
 [^ext-45]: **Extraído** — [[blanco-curso-de-vida]], p. 9, sobre George (2006).
 [^ext-46]: **Extraído** — [[blanco-curso-de-vida]], p. 20.
+[^ext-47]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 6, pp. 137-141, y cap. 7, pp. 163-167.
+[^ext-48]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 5, p. 89.
+[^ext-49]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 6, pp. 138-140, y cap. 7, p. 164.
+[^ext-50]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 7, pp. 166-167.
+[^ext-51]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 7, pp. 167-168.
+[^ext-52]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 6, p. 139, y cap. 7, pp. 164-165.

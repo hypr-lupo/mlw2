@@ -14,9 +14,9 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 
 Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026, con la
 ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con las de Batthyány y Cabrera
-(2011), el INE (2023), Srur (2014), el capítulo de Boba (2010), el CIPC (2015), Baratta (2004) y Kessler (2004), y el 17-10-2026, con la de Blanco (2011). Agrupa los ítems abiertos por lo que los
+(2011), el INE (2023), Srur (2014), el capítulo de Boba (2010), el CIPC (2015), Baratta (2004) y Kessler (2004), y el 17-10-2026, con las de Blanco (2011) y Gottfredson y Hirschi (1990). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**36 abiertos.**
+**35 abiertos.**
 
 **A. Sólo esperan una decisión del autor (13).** Se pueden resolver hoy.
 
@@ -50,7 +50,7 @@ consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos
 | `[fuente]` Estado legal del pololeo | Resuelto en parte con la Ley 21.675; falta el tipo penal de femicidio |
 | `[fuente]` Año e ISBN de Arias | 2016, 2017 o 2018, y los dos ISBN, en el catálogo de la editorial |
 
-**C. Esperan una obra que ya está en el corpus (10).** Se resuelven solos si el orden de
+**C. Esperan una obra que ya está en el corpus (9).** Se resuelven solos si el orden de
 ingesta se cumple.
 
 | Ítem | Acción | Obra que lo destraba | Tanda |
@@ -58,7 +58,6 @@ ingesta se cumple.
 | `[entidad]` Política de seguridad de Peñalolén | `crear-pagina` | Luneke y Trebilcock (2023), si la trata. El CIPC (2015) la incluye, pero desde la misma voz | 6 |
 | `[investigar]` Ley de concentración en una comuna chilena | `investigar` | Las normas de la tanda 5. Las metodológicas de la tanda 2 no traen el estudio | 5 |
 | `[concepto]` Articulación nacional y local de la seguridad | `crear-pagina` | Ley 21.802 y Decreto 96 (PNSP) | 5 |
-| `[concepto]` Control social informal | `crear-pagina` | Gottfredson y Hirschi (1990) | 4 |
 | `[concepto]` Subculturas delictivas, deriva y neutralización | `crear-pagina` | Baratta (2004), caps. V-VI, si se ingieren. Matza no está en el corpus | según el ítem A del resto de Baratta |
 | `[concepto]` Teorías de la oportunidad | `crear-pagina` | Clarke (1997); Felson y Eckert (2016) | 4 |
 | `[entidad]` Quiero mi Barrio | `crear-pagina` | SPD (2022); Luneke y Trebilcock (2023) | 5 y 6 |
@@ -79,7 +78,8 @@ ingesta se cumple.
 **Qué adelanta cada tanda.** La 2 cerró el 16-10-2026: resolvió medición de la victimización y
 pasó PADS+ a la 3. El CIPC no cumplió el criterio de Peñalolén, que pasa a la 6. La 3 cerró el
 17-10-2026: resolvió criminalización y selectividad penal, con Baratta, y PADS+, con Blanco.
-Kessler no destrabó ninguno. La 4 destraba dos ítems; la 5, cuatro; la 6, cuatro.
+Kessler no destrabó ninguno. La 4 empezó el 17-10: Gottfredson y Hirschi resolvió el control social
+informal, y le queda uno, las teorías de la oportunidad. La 5 destraba cuatro, y la 6, cuatro.
 
 ## Abiertos
 
@@ -117,51 +117,6 @@ Kessler no destrabó ninguno. La 4 destraba dos ítems; la 5, cuatro; la 6, cuat
       de sus tres obras. La decisión sigue siendo
       del autor; si se crea, conviene `subtipo: persona` y dejar explícito que sus tres
       obras no son confirmaciones independientes entre sí.
-
-- [ ] **[concepto]** «Control social informal» — Sampson lo usa como el mecanismo
-      causal de la eficacia colectiva sin definirlo, y es contenido del módulo 6 de
-      S1.1 junto con el control social de Gottfredson y Hirschi, que es otra cosa
-      —autocontrol individual—.
-      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-12
-      Criterio: crearla al ingerir Gottfredson y Hirschi (1990), no antes, para que
-      la página nazca distinguiendo ambos sentidos en lugar de fusionarlos.
-      **Enmienda 12-09-2026** (ingesta de Wikström): la distinción ya tiene fuente
-      que la nombra. Wikström y Trieber (2007) se titula «más allá de la teoría
-      general del delito de Gottfredson y Hirschi», y [[autocontrol-y-disuasion]]
-      deja escrito por qué la disuasión situacional de la TAS y el control social
-      informal de Sampson no son el mismo concepto. Lo que sigue faltando es la voz
-      de Gottfredson y Hirschi.
-      **Enmienda 26-09-2026** (ingesta de Weisburd y otros): el concepto ya tiene una
-      definición en el corpus. [[weisburd-el-lugar-importa]] lo define como la
-      autorregulación de la conducta de residentes y visitantes por una comunidad
-      local, para lograr un objetivo común (p. 58), y lo distingue de la gestión de
-      lugares, que es intencional como el control formal pero no es función estatal
-      (p. 49). El criterio sigue igual: la página nace con Gottfredson y Hirschi
-      (tanda 4), para que distinga los dos sentidos desde el inicio.
-      **Enmienda 26-09-2026** (ingesta de [[vanderschueren-prevencion-del-delito]]): el
-      cap. I agrupa bajo «teorías del control social» el autocontrol de Gottfredson y
-      Hirschi, el control informal de la escuela de Chicago y de Sampson, y el apego
-      familiar (p. 44). Y el cap. X trae un **tercer sentido**: el control social informal
-      graduado por edad de Sampson y Laub, que opera por vínculos con instituciones como
-      el matrimonio o el empleo, a escala individual (pp. 256-257). Ya está en
-      [[criminologia-del-curso-de-vida]], que registra además que los puntos de inflexión
-      relativizan la fijación temprana del autocontrol. El criterio no cambia; la página
-      tendrá que distinguir tres sentidos, no dos.
-      **Enmienda 02-10-2026** (ingesta de Arias y Bourgois): aparece una pregunta que la
-      página tendrá que responder además de la escala: **quién** ejerce el control.
-      [[arias-empresas-criminales-y-gobernanza]] toma la definición de Bursik y de Sampson,
-      Raudenbush y Earls (1997) y la aplica a los grupos armados. El control informal más
-      fuerte de sus seis barrios es el que ejercen la milícia y la pandilla dominante (pp.
-      26, 109 y Tabla 4.4). [[bourgois-en-busca-de-respeto]] contrasta el control familiar
-      y comunal del Puerto Rico rural con el de Nueva York (pp. 216-217 y 309), y registra
-      que la mafia italiana mantuvo durante décadas la segregación y el orden de su cuadra
-      (pp. 86 y 99-100). El control informal no siempre es la virtud que la eficacia
-      colectiva supone. El criterio no cambia.
-      **Enmienda 16-10-2026** (ingesta de [[kessler-delito-amateur]]): una exposición más, de segunda
-      mano. Kessler resume a Hirschi (1969), con el «control virtual» de los padres, y a
-      Gottfredson y Hirschi (1990), con el bajo autocontrol como preferencia por el presente
-      (pp. 150-151 y 270-271). Y registra el giro del control externo al interno. El
-      criterio no cambia: la página nace con la voz de Gottfredson y Hirschi.
 
 - [ ] **[fuente]** Año de edición de Sampson — el corpus y el programa la fechan en
       2006; el texto declara un original de 2004 en *New Economy* y no consigna el
@@ -291,6 +246,11 @@ Kessler no destrabó ninguno. La 4 destraba dos ítems; la 5, cuatro; la 6, cuat
       decide entrar ni salir del delito, sólo crece dentro de una carrera (pp. 84, 111-112
       y 261). Ya está en [[autocontrol-y-disuasion]] y [[delito-amateur]]. La página tendrá
       que registrarla como una voz propia. El criterio no cambia.
+      **Enmienda 17-10-2026** (ingesta de [[gottfredson-hirschi-teoria-general]]): una voz que
+      las declara compatibles con la idea de criminalidad (pp. 22-24) y que reconoce deudas con
+      Cohen, Felson y Clarke (p. vii). Predice además que no hay desplazamiento (p. 256). Ya
+      está en [[teoria-general-del-delito]] y [[desplazamiento-y-difusion]]. El criterio no
+      cambia.
 
 - [ ] **[investigar]** ¿Vale la ley de concentración del delito en una comuna
       chilena? [[weisburd-el-lugar-importa]] no reporta ningún estudio de
@@ -644,6 +604,11 @@ Kessler no destrabó ninguno. La 4 destraba dos ítems; la 5, cuatro; la 6, cuat
       Criterio: crearla con una obra de Sutherland. Ninguna está en el corpus, y el programa
       de S1.1 pide dos para su módulo 5. Escribirla desde Baratta disimularía el vacío que
       [[purpose]] declara.
+      **Enmienda 17-10-2026** (ingesta de [[gottfredson-hirschi-teoria-general]]): entra una
+      crítica de primera mano al concepto. El cap. 9 sostiene que el cuello blanco no necesita
+      una teoría propia, que sus tasas son bajas y que su distribución por edad se parece a la
+      del homicidio (pp. 191-194). Es la voz contraria, no la de Sutherland. El criterio no
+      cambia: la página nace con una obra de Sutherland, y tendrá ya un crítico.
 
 - [ ] **[concepto]** «Subculturas delictivas, deriva y neutralización» — Cohen, Miller,
       Cloward y Ohlin, y la crítica de Matza: una subcultura de la delincuencia que no es una
@@ -654,8 +619,65 @@ Kessler no destrabó ninguno. La 4 destraba dos ítems; la 5, cuatro; la 6, cuat
       subculturas y las técnicas de neutralización. Serían dos exposiciones de segunda mano,
       desde posiciones distintas. Matza, Cohen y Sykes no están en el corpus. Depende del
       ítem sobre el resto de Baratta.
+      **Enmienda 17-10-2026** (ingesta de [[gottfredson-hirschi-teoria-general]]): una crítica
+      más, desde el control. La desviación cultural funda las subculturas (p. 76), y la
+      subcultura de la violencia no tiene apoyo empírico (p. 151). Ya está en
+      [[cultura-callejera]] y [[delito-amateur]]. El criterio no cambia.
 
 ## Resueltos
+
+- [x] **[concepto]** «Control social informal» — Sampson lo usa como el mecanismo
+      causal de la eficacia colectiva sin definirlo, y es contenido del módulo 6 de
+      S1.1 junto con el control social de Gottfredson y Hirschi, que es otra cosa
+      —autocontrol individual—.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-12
+      Criterio: crearla al ingerir Gottfredson y Hirschi (1990), no antes, para que
+      la página nazca distinguiendo ambos sentidos en lugar de fusionarlos.
+      **Enmienda 12-09-2026** (ingesta de Wikström): la distinción ya tiene fuente
+      que la nombra. Wikström y Trieber (2007) se titula «más allá de la teoría
+      general del delito de Gottfredson y Hirschi», y [[autocontrol-y-disuasion]]
+      deja escrito por qué la disuasión situacional de la TAS y el control social
+      informal de Sampson no son el mismo concepto. Lo que sigue faltando es la voz
+      de Gottfredson y Hirschi.
+      **Enmienda 26-09-2026** (ingesta de Weisburd y otros): el concepto ya tiene una
+      definición en el corpus. [[weisburd-el-lugar-importa]] lo define como la
+      autorregulación de la conducta de residentes y visitantes por una comunidad
+      local, para lograr un objetivo común (p. 58), y lo distingue de la gestión de
+      lugares, que es intencional como el control formal pero no es función estatal
+      (p. 49). El criterio sigue igual: la página nace con Gottfredson y Hirschi
+      (tanda 4), para que distinga los dos sentidos desde el inicio.
+      **Enmienda 26-09-2026** (ingesta de [[vanderschueren-prevencion-del-delito]]): el
+      cap. I agrupa bajo «teorías del control social» el autocontrol de Gottfredson y
+      Hirschi, el control informal de la escuela de Chicago y de Sampson, y el apego
+      familiar (p. 44). Y el cap. X trae un **tercer sentido**: el control social informal
+      graduado por edad de Sampson y Laub, que opera por vínculos con instituciones como
+      el matrimonio o el empleo, a escala individual (pp. 256-257). Ya está en
+      [[criminologia-del-curso-de-vida]], que registra además que los puntos de inflexión
+      relativizan la fijación temprana del autocontrol. El criterio no cambia; la página
+      tendrá que distinguir tres sentidos, no dos.
+      **Enmienda 02-10-2026** (ingesta de Arias y Bourgois): aparece una pregunta que la
+      página tendrá que responder además de la escala: **quién** ejerce el control.
+      [[arias-empresas-criminales-y-gobernanza]] toma la definición de Bursik y de Sampson,
+      Raudenbush y Earls (1997) y la aplica a los grupos armados. El control informal más
+      fuerte de sus seis barrios es el que ejercen la milícia y la pandilla dominante (pp.
+      26, 109 y Tabla 4.4). [[bourgois-en-busca-de-respeto]] contrasta el control familiar
+      y comunal del Puerto Rico rural con el de Nueva York (pp. 216-217 y 309), y registra
+      que la mafia italiana mantuvo durante décadas la segregación y el orden de su cuadra
+      (pp. 86 y 99-100). El control informal no siempre es la virtud que la eficacia
+      colectiva supone. El criterio no cambia.
+      **Enmienda 16-10-2026** (ingesta de [[kessler-delito-amateur]]): una exposición más, de segunda
+      mano. Kessler resume a Hirschi (1969), con el «control virtual» de los padres, y a
+      Gottfredson y Hirschi (1990), con el bajo autocontrol como preferencia por el presente
+      (pp. 150-151 y 270-271). Y registra el giro del control externo al interno. El
+      criterio no cambia: la página nace con la voz de Gottfredson y Hirschi.
+      **Resuelto el 17-10-2026 — `crear-pagina`.** Entró [[gottfredson-hirschi-teoria-general]], y
+      con ella la voz que faltaba. Los autores separan el control social de la familia, que
+      impide el acto, del autocontrol que deja (pp. 99 y 148), y leen la desorganización
+      social como control de la comunidad (p. 82). Nace [[control-social-informal]], con
+      los tres sentidos que pedían las enmiendas: el de la familia que deja autocontrol, el
+      colectivo de Sampson y Weisburd y el graduado por edad de Sampson y Laub. Responde
+      también la pregunta de quién lo ejerce, con Arias y Bourgois. Sampson y Laub siguen
+      fuera del corpus, y su sentido queda de segunda mano.
 
 - [x] **[método]** PADS+, estudio del desarrollo de adolescentes y jóvenes adultos
       de Peterborough — 716 jóvenes seguidos desde los 12 años, retención del 97 %,

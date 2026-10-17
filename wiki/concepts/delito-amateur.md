@@ -1,13 +1,13 @@
 ---
 title: Delito amateur y lógica de la provisión
 type: concept
-sources: ["2004 - Kessler - Sociología del delito amateur.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf"]
+sources: ["2004 - Kessler - Sociología del delito amateur.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-10-16
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Delito amateur y lógica de la provisión
@@ -28,6 +28,8 @@ Kessler distingue dos lógicas por la fuente de legitimidad del dinero [^ext-5]:
 Son una primera generación que hace ese paso. Sus padres trabajaron mientras pudieron, y ellos no crecieron en un medio delictivo [^ext-6]. El trabajo no desaparece del horizonte: en el discurso sigue siendo la fuente legítima de respeto y dignidad [^ext-7].
 
 **Las dos platas.** La frontera se desdibuja sin borrarse. La plata del robo es «fácil» y se gasta rápido, en salidas, cerveza o droga. La del trabajo es «difícil» y se administra, para la familia o la ropa [^ext-8]. El origen del dinero sigue marcando su uso.
+
+**Una convergencia.** Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. Desde datos estadounidenses, Gottfredson y Hirschi llegan a la alternancia. El delito no es un trabajo de tiempo completo: toma poco tiempo y no da ingresos estables. Por eso trabajo y delito conviven en la misma persona [^ext-33]. Y los adolescentes que trabajan delinquen más, no menos, porque el dinero se gasta en lo inmediato [^ext-33]. Se parece al uso de la «plata fácil», aunque ellos no distinguen dos platas [^inf-3].
 
 ## Una ley que no obliga
 
@@ -52,6 +54,8 @@ El robo rara vez es solitario, pero no hay pandillas. Los grupos no tienen ident
 
 Robar no excluye del grupo. En un mismo grupo conviven quienes roban y quienes no, y quien deja de robar sigue siendo amigo [^ext-20]. La droga, en cambio, sí divide [^ext-21]. Ver [[etiquetamiento]].
 
+La hipótesis de la autoselección es la de Gottfredson y Hirschi. Quienes tienen bajo autocontrol se juntan entre sí, en grupos inestables y de lazos débiles [^ext-34].
+
 ## Del amateurismo a la profesionalidad
 
 **La primera vez** hay poco cálculo. Para actuar hace falta una «irracionalidad motivada»: no pensar en las consecuencias [^ext-22]. Creer que no se tiene nada que perder vuelve irrelevante cualquier costo [^ext-23].
@@ -62,8 +66,11 @@ Robar no excluye del grupo. En un mismo grupo conviven quienes roban y quienes n
 
 **La víctima.** Profesionalizarse es construir una relación de rol con la víctima: dominar la lástima y el miedo, y definir la escena para que la víctima se comporte como se espera. Si la víctima no coopera y muere, la culpa se le atribuye a ella [^ext-26]. Entre los novatos, el homicidio aparece como un accidente, un descontrol. Entre los profesionales, como un riesgo calculado [^ext-27].
 
+> [!warning] ¿Hay carreras en el delito?
+> Kessler describe, entre quienes siguen, una especialidad, códigos y un cálculo que crece [^ext-24]. [[gottfredson-hirschi-teoria-general]] lo niega con datos agregados. Los infractores no se especializan ni mejoran su destreza, y la frase «carreras en el delito» es un oxímoron [^ext-36]. Las dos cosas pueden ser ciertas a la vez. Kessler registra lo que los jóvenes dicen de sí mismos. Gottfredson y Hirschi, lo que muestran los registros de muchos infractores [^inf-4]. Ver [[teoria-general-del-delito]].
+
 > [!warning] ¿Contracultura o suspensión del juicio?
-> [[bourgois-en-busca-de-respeto]] encuentra en East Harlem una [[cultura-callejera]] que da respeto y dignidad contra una cultura que excluye. Kessler lo cita y se distingue: sus jóvenes no oponen el delito a una escuela menospreciada ni buscan un respeto alternativo [^ext-28]. La provisión es una subcultura sólo en un sentido débil: una suspensión del juicio que comparten también quienes no roban [^ext-29]. Kessler atribuye la diferencia al contexto. En Nueva York hay gueto, clivajes étnicos y control territorial, que en Buenos Aires no aparecen [^ext-30].
+> [[bourgois-en-busca-de-respeto]] encuentra en East Harlem una [[cultura-callejera]] que da respeto y dignidad contra una cultura que excluye. Kessler lo cita y se distingue: sus jóvenes no oponen el delito a una escuela menospreciada ni buscan un respeto alternativo [^ext-28]. La provisión es una subcultura sólo en un sentido débil: una suspensión del juicio que comparten también quienes no roban [^ext-29]. Kessler atribuye la diferencia al contexto. En Nueva York hay gueto, clivajes étnicos y control territorial, que en Buenos Aires no aparecen [^ext-30]. Gottfredson y Hirschi, desde Estados Unidos como Bourgois, quedan del lado de Kessler y Matza. Los infractores no aprueban sus actos, y el delito no necesita que nadie transmita valores [^ext-35].
 
 ## Lo que el concepto no es
 
@@ -88,6 +95,7 @@ Robar no excluye del grupo. En un mismo grupo conviven quienes roban y quienes n
 - [[legitimidad-policial]]: la policía vista desde quienes roban
 - [[mano-dura-y-militarizacion]]: la represión que escala los enfrentamientos
 - [[miedo-social]]: el barrio que regula con el temor
+- [[teoria-general-del-delito]] — trabajo y delito en la misma persona, y la negación de las carreras
 
 ---
 
@@ -123,5 +131,11 @@ Robar no excluye del grupo. En un mismo grupo conviven quienes roban y quienes n
 [^ext-30]: **Extraído** — [[kessler-delito-amateur]], conclusión, pp. 248 y 257.
 [^ext-31]: **Extraído** — [[kessler-delito-amateur]], conclusión, p. 251.
 [^ext-32]: **Extraído** — [[kessler-delito-amateur]], conclusión, pp. 258-259.
+[^ext-33]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 7, p. 164.
+[^ext-34]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 7, pp. 157-159.
+[^ext-35]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 6, p. 151.
+[^ext-36]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 6, p. 153, y cap. 12, pp. 266 y 273.
 [^inf-1]: **Inferido** (confianza 0.6) — combinando [[kessler-delito-amateur]] y [[wikstrom-por-que-se-delinque]]. Kessler no cita a Wikström, que es posterior. La convergencia la formula esta wiki.
 [^inf-2]: **Inferido** (confianza 0.8) — el corpus no trae estudios cualitativos de jóvenes que roban en Chile.
+[^inf-3]: **Inferido** (confianza 0.6) — comparación de esta wiki entre [[kessler-delito-amateur]], cap. 1, y el cap. 7 de Gottfredson y Hirschi.
+[^inf-4]: **Inferido** (confianza 0.6) — de esta wiki. Kessler expone el bajo autocontrol (pp. 270-271), pero no discute la negación de las carreras.

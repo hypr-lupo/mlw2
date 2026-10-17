@@ -1,7 +1,7 @@
 ---
 title: Diseño de investigación
 type: method
-sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf"]
+sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -72,6 +72,8 @@ El manual clasifica los diseños **por su objetivo**, no por su estructura [^ext
 
 **Lo que el manual no trae.** No distingue diseños experimentales, cuasiexperimentales, transversales o longitudinales. El diseño evaluativo ocupa un párrafo [^ext-13]. Para leer una evaluación de impacto o un estudio de cohorte hace falta otra fuente [^inf-1]. Ver [[evaluacion-de-programas]]. Desde el 16-10-2026 la wiki tiene una pieza de ese diseño. El capítulo de Boba explica cómo comparar un grupo que recibe una intervención con otro que no, antes y después, y advierte que en los casos policiales la asignación casi nunca es al azar [^ext-29]. Ver [[estadisticas-delictuales]]. Desde el 17-10-2026, los diseños longitudinales tienen página propia: [[estudios-longitudinales]].
 
+**La jerarquía de los diseños.** Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. El experimento verdadero es el diseño ideal. Cumple los tres criterios de causalidad: asociación, precedencia temporal y ausencia de espuriedad. Le sigue el cuasiexperimento, y después la observación pasiva, que sólo aproxima el control con estadística [^ext-31]. Los mismos autores advierten que las ideas sustantivas deben guiar el diseño, no al revés [^ext-32]. Es la posición del manual en la tensión sobre si se empieza por la teoría [^inf-3].
+
 ## Hipótesis
 
 Una hipótesis es una respuesta tentativa a la pregunta de investigación. Se desprende del marco teórico y afirma una relación entre conceptos [^ext-14]. Es una proposición, no una pregunta ni un deseo [^ext-14].
@@ -122,6 +124,7 @@ En la teoría fundamentada el tamaño de la muestra se conoce al final, porque s
 - [[analisis-espacial-del-delito]]: la falacia ecológica con datos de delito
 - [[diagnostico-barrial]]: un diagnóstico por encargo de un municipio, que es el caso del tema que nace de una demanda
 - [[estudios-longitudinales]] — el diseño que el manual no trae
+- [[gottfredson-hirschi-teoria-general]] — la jerarquía de diseños, del experimento a la observación
 
 ---
 
@@ -155,5 +158,8 @@ En la teoría fundamentada el tamaño de la muestra se conoce al final, porque s
 [^ext-28]: **Extraído** — [[ine-medicion-victimizacion]], tabla 12, p. 31.
 [^ext-29]: **Extraído** — [[tudela-ed-analisis-delictual]], pp. 101-103 y figura 4-4.
 [^ext-30]: **Extraído** — [[tudela-ed-analisis-delictual]], pp. 99-100.
+[^ext-31]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 11, pp. 217-218.
+[^ext-32]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 11, p. 217.
 [^inf-1]: **Inferido** (confianza 0.8) — el manual no trata esos diseños. [[evaluacion-de-programas]] los nombra, desde Tudela, pero no los describe como método.
 [^inf-2]: **Inferido** (confianza 0.8) — aplicación propia del ejemplo de la p. 70 a los datos de delito. El manual no habla de delito. [[weisburd-el-lugar-importa]] trabaja con lugares como unidad, y los registros policiales cuentan delitos, no víctimas.
+[^inf-3]: **Inferido** (confianza 0.7) — de esta wiki. Gottfredson y Hirschi no discuten el manual.

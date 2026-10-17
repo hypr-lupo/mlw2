@@ -1,13 +1,13 @@
 ---
 title: Mano dura y militarización
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: sistema-penal
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Mano dura y militarización
@@ -107,6 +107,17 @@ Es la misma conclusión de Arias, desde otra fuente: la mano dura cohesiona a lo
 
 **La represión que escala.** Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]]. Los jóvenes que roban en Buenos Aires creen que la policía busca matarlos. Ante eso, lo racional es «jugársela» hasta ganar o perder, y la violencia de los enfrentamientos crece [^ext-35]. Kessler concluye que ninguna sociedad democrática puede asentar su respuesta en el temor y la represión [^ext-36]. Ver [[autocontrol-y-disuasion]] y [[delito-amateur]].
 
+## Desde la teoría del control
+
+Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. No es una crítica desde el conflicto ni desde la legitimidad. Para Gottfredson y Hirschi, la justicia penal pesa poco porque el autocontrol se forma antes de que intervenga [^ext-37]. De ahí cuatro conclusiones sobre las políticas estadounidenses de los años ochenta:
+
+- **La incapacitación selectiva fracasa.** Para encerrar a los infractores de alta tasa hay que predecirlos antes. La predicción temprana deja muchos falsos positivos. Y cuando el registro basta para justificar la cárcel, el infractor ya pasó la edad de máximo delito [^ext-38].
+- **El «delincuente de carrera» no existe.** Las unidades policiales dedicadas a él no tienen efecto conocido [^ext-39].
+- **Más policías no reducen el delito.** En la mayoría de los delitos, el infractor no sabe ni le importa si la policía lo ve. Las operaciones encubiertas capturan «perdedores» comunes [^ext-40].
+- **Controlar la venta legal de armas no alcanza a los infractores.** Las obtienen robadas, o de gente como ellos [^ext-41].
+
+Llegan así al mismo lugar que Sampson, Albarracín y Baratta, desde otra premisa. No porque la represión dañe la legitimidad, sino porque llega tarde a la causa [^inf-4].
+
 ## Cita
 
 > "el enemigo debe ser eliminado y no es sujeto de derechos"
@@ -128,6 +139,7 @@ Es la misma conclusión de Arias, desde otra fuente: la mano dura cohesiona a lo
 - [[desplazamiento-y-difusion]] — la fragmentación que produce la represión, vista como desplazamiento de organización
 - [[etiquetamiento]] — la cárcel que consolida la identidad desviada
 - [[delito-amateur]] — la represión que escala los enfrentamientos
+- [[teoria-general-del-delito]] — la justicia penal como causa débil, desde la teoría del control
 
 **Convergencia que conviene registrar.** [[sampson-vecindario-y-comunidad]] sostiene, desde la investigación estadounidense sobre desorden y tolerancia cero, que la intervención punitiva sobre territorios pobres no reduce el delito y sí destruye la legitimidad policial. Albarracín llega a lo mismo desde la literatura latinoamericana sobre mano dura, con casos y estudios completamente distintos. Que dos corpus independientes converjan es un hallazgo por derecho propio; ninguno de los dos autores discute al otro.
 
@@ -170,5 +182,11 @@ Es la misma conclusión de Arias, desde otra fuente: la mano dura cohesiona a lo
 [^ext-34]: **Extraído** — [[baratta-criminologia-critica]], cap. VII, p. 89, y cap. VIII, p. 116.
 [^ext-35]: **Extraído** — [[kessler-delito-amateur]], cap. 4, pp. 107-108, y conclusión, pp. 261-262.
 [^ext-36]: **Extraído** — [[kessler-delito-amateur]], conclusión, p. 265.
+[^ext-37]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 12, pp. 255-256.
+[^ext-38]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 12, pp. 258-265.
+[^ext-39]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 12, p. 265.
+[^ext-40]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 12, p. 270.
+[^ext-41]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 12, pp. 271-272.
 [^inf-2]: **Inferido** (confianza 0.7) — el CIPC no cita a Arias. La convergencia es de esta wiki.
 [^inf-3]: **Inferido** (confianza 0.6) — combinando [[baratta-criminologia-critica]] con [[cipc-experiencias-exitosas]] y [[arias-empresas-criminales-y-gobernanza]].
+[^inf-4]: **Inferido** (confianza 0.7) — comparación de esta wiki. Gottfredson y Hirschi no discuten a ninguna de esas fuentes.

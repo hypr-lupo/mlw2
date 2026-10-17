@@ -10,9 +10,9 @@ Artefacto operativo para retomar, no registro de lo hecho: la crónica de cada s
 en [[log]]. Se consolidó el 27-09-2026, en la auditoría que cerró la tanda 1; el informe
 está en `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-**Estado al 17-10-2026.** 25 fuentes ingeridas de 118 documentos, tres de ellas sólo en parte;
-88 pendientes de un universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 78 páginas: 14 en borrador.
-Núcleo ancla de S1.1 completo, **tanda 1 cerrada** y **tanda 2 cerrada** el 16-10. Siete de ocho clústeres poblados;
+**Estado al 17-10-2026.** 26 fuentes ingeridas de 118 documentos, tres de ellas sólo en parte;
+87 pendientes de un universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 81 páginas: 14 en borrador.
+Núcleo ancla de S1.1 completo, **tandas 1, 2 y 3 cerradas** y la 4 abierta el 17-10. Siete de ocho clústeres poblados;
 `caso-de-grado` sigue vacío a propósito. Cobertura de S1.1: 17 de 32 títulos oficiales en
 el corpus, 53 %. Nada bloquea la ingesta.
 
@@ -20,8 +20,8 @@ el corpus, 53 %. Nada bloquea la ingesta.
 
 En este orden:
 
-1. **Tanda 4**, antes del 23-10: Gottfredson y Hirschi (1990) · Clarke (1997) · Felson y
-   Eckert (2016). Para el módulo 6 de S1.1. La tanda 3 cerró el 17-10, un día tarde.
+1. **Tanda 4**, antes del 23-10: ~~Gottfredson y Hirschi (1990)~~ · Clarke (1997) · Felson y
+   Eckert (2016). Para el módulo 6 de S1.1. Gottfredson y Hirschi entró el 17-10.
 2. **Decisiones que sólo toma el autor.** Trece, en el grupo A de [[revision]]. La más
    antigua es la página `tesis-` sobre el anclaje empírico, abierta desde el 29-08. Fuera
    de la cola, una más: retirar de `raw/sources/` el duplicado exacto de Arias (2017) que
@@ -51,8 +51,9 @@ documento por documento lo da `python scripts/estado.py`.
 - [x] **Tanda 3, cerrada el 17-10:** ~~Baratta (2004), caps. I-II, IV, VII y VIII~~ y
       ~~Kessler (2004)~~, ingeridas el 16-10, y ~~Blanco (2011)~~, el 17-10. Resolvió
       criminalización y selectividad penal, y PADS+, que pasó a ser [[estudios-longitudinales]]
-- [ ] **Tanda 4, antes del 23-10:** Gottfredson y Hirschi (1990) · Clarke (1997) · Felson
-      y Eckert (2016)
+- [ ] **Tanda 4, antes del 23-10:** ~~Gottfredson y Hirschi (1990)~~, ingerida el 17-10, ·
+      Clarke (1997) · Felson y Eckert (2016). Gottfredson y Hirschi resolvió el control social
+      informal, que pasó a ser [[control-social-informal]]
 - [ ] **Tanda 5, antes del 06-11:** Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya (2024) ·
       SPD (2022) · Campana y Meneghini (2024) · Bergman (2023)
 - [ ] **Tanda 6, antes del 27-11:** Garland (Gedisa) · Wacquant · Luneke y Trebilcock
@@ -122,7 +123,7 @@ segunda mano.
 | [[desorganizacion-social]] | Una fuente primaria de Chicago | García-Pablos completo |
 | [[policia-de-puntos-calientes]] | Una fuente crítica independiente de Weisburd | Nada identificado; Tudela (2015) repite a Weisburd |
 | [[moralismo-legal]] | La voz de Fletcher | No está en el corpus |
-| [[criminologia-del-curso-de-vida]] | Los autores criminológicos del enfoque, como Sampson y Laub | No están en el corpus. Blanco (2011), ya ingerida, da el enfoque general. Gottfredson y Hirschi, tanda 4 |
+| [[criminologia-del-curso-de-vida]] | Los autores criminológicos del enfoque, como Sampson y Laub | No están en el corpus. Blanco (2011), ya ingerida, da el enfoque general. Gottfredson y Hirschi, ingerida el 17-10, da la crítica, sin la respuesta de Sampson y Laub |
 | [[violencia-en-el-noviazgo]] | Una fuente de violencia de género | La bibliografía de S3.3, cuando llegue su programa |
 | [[regimenes-armados-microescala]] | Una segunda fuente que use o discuta el modelo, y un caso chileno | Arias (2006) en `Gobernanza criminal y territorio`, que es del mismo autor; los dos Zeballos, en la tanda 6. Santa Tecla, en el CIPC (2015), es un caso compatible, pero el informe no usa el modelo |
 | [[cultura-callejera]] | Una fuente que encuentre la misma cultura fuera de Nueva York en los ochenta | Kessler (2004), en Buenos Aires, no la encuentra: ver la tensión 39. Nada identificado; Salazar (1991), sobre Medellín, está en la bibliografía de S2.4 y falta en el corpus |
@@ -145,11 +146,11 @@ segunda mano.
 
 ## Tensiones registradas
 
-Cuarenta, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
+Cuarenta y cinco, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
 resuelven. Dos podrían moverse con fuentes que ya tienen tanda:
 
-- **El estatus del control en la prevención** (tensión 3), con Gottfredson y Hirschi en la
-  tanda 4.
+- **El estatus del control en la prevención** (tensión 3), con Clarke en la tanda 4.
+  Gottfredson y Hirschi entraron el 17-10 y agregaron una tercera posición.
 - **Las ventanas rotas** (sin número, la que más pesa en el trabajo evaluado de S1.1), con
   Clarke en la tanda 4.
 

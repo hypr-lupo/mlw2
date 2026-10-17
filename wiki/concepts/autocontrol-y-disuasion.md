@@ -1,13 +1,13 @@
 ---
 title: Autocontrol y disuasión
 type: concept
-sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
+sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Autocontrol y disuasión
@@ -73,7 +73,16 @@ El texto no discute la teoría general del delito en el cuerpo, pero su posició
 
 La diferencia es de estatus, no de definición. Para la teoría general, el autocontrol es la variable explicativa general. Aquí es la mitad de uno de los dos componentes de la propensión —la otra mitad, y la principal, es la moral personal—, y además sólo opera bajo la condición del principio anterior.
 
-Gottfredson y Hirschi (1990) está en el corpus sin ingerir. Hasta entonces esta página registra una sola posición sobre el asunto.
+Desde el 17-10-2026 la otra posición tiene voz propia: [[gottfredson-hirschi-teoria-general]]. Tres diferencias:
+
+- **Qué es el autocontrol.** Para Gottfredson y Hirschi, la tendencia a evitar el delito en cualquier circunstancia. Se forma en la crianza y es estable [^ext-14]. Aquí es una capacidad que la intoxicación o el estrés debilitan en el momento [^ext-4].
+- **Cuánto explica.** Para ellos, es la única característica personal duradera que predice el delito [^ext-15]. Aquí, la mitad de un componente, detrás de la moral.
+- **Qué pasa con la moral.** Prefieren «autocontrol» a «conciencia», que alude a sentimientos y no a conductas [^ext-16]. Y sostienen que todos los grupos condenan la fuerza y el fraude, también quienes los usan [^ext-17]. Si la moral casi no varía, no puede ser el primer filtro [^inf-4].
+
+> [!warning] ¿Autocontrol o moral?
+> Para Gottfredson y Hirschi, lo que varía entre las personas es el autocontrol. Para la TAS, la moral personal decide antes, y el autocontrol sólo importa cuando hay conflicto de reglas. Ver [[teoria-general-del-delito]] y [[propension-al-delito]].
+
+**Y la disuasión.** Coinciden con la TAS en que la amenaza penal pesa poco, por otra razón. El autocontrol se forma en la familia antes de que la justicia penal intervenga. Y la sanción más fuerte es la desaprobación de las personas que uno quiere [^ext-18]. Ver [[control-social-informal]].
 
 ## Cita
 
@@ -90,8 +99,10 @@ Gottfredson y Hirschi (1990) está en el corpus sin ingerir. Hasta entonces esta
 - [[moralismo-legal]] — cuándo una amenaza cuenta como coerción, desde la filosofía del derecho
 - [[ideologia-de-la-defensa-social]] — la contramotivación de la escuela clásica
 - [[delito-amateur]] — la disuasión vista desde quienes roban
+- [[teoria-general-del-delito]] — el autocontrol como única característica duradera
+- [[control-social-informal]] — el control de la familia, el del barrio y el graduado por edad
 
-**Distinto del control social informal de Sampson.** Allí el control social informal es la disposición colectiva de los vecinos a intervenir, y es el mecanismo central que reduce la violencia de un barrio. Aquí la disuasión es un proceso situacional del actor individual ante una norma percibida. Los dos conceptos comparten nombre de familia y no son el mismo. Ver [[eficacia-colectiva]] y [[revision]].
+**Distinto del control social informal de Sampson.** Allí el control social informal es la disposición colectiva de los vecinos a intervenir, y es el mecanismo central que reduce la violencia de un barrio. Aquí la disuasión es un proceso situacional del actor individual ante una norma percibida. Los dos conceptos comparten nombre de familia y no son el mismo. Ver [[eficacia-colectiva]] y [[control-social-informal]], que separa tres sentidos del término.
 
 ---
 
@@ -108,6 +119,12 @@ Gottfredson y Hirschi (1990) está en el corpus sin ingerir. Hasta entonces esta
 [^ext-11]: **Extraído** — [[kessler-delito-amateur]], cap. 4, pp. 84-88.
 [^ext-12]: **Extraído** — [[kessler-delito-amateur]], cap. 4, pp. 88 y 92.
 [^ext-13]: **Extraído** — [[kessler-delito-amateur]], cap. 4, pp. 105-108 y 111-112.
+[^ext-14]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 5, pp. 87 y 107.
+[^ext-15]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 5, p. 111.
+[^ext-16]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 5, pp. 87-88.
+[^ext-17]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 6, p. 151.
+[^ext-18]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 5, pp. 99-100, y cap. 12, pp. 255-256.
 [^inf-1]: **Inferido** (confianza 0.6) — la convergencia es lectura de esta wiki. Gardner no cita a Wikström ni discute la disuasión como mecanismo causal.
 [^inf-2]: **Inferido** (confianza 0.7) — combinando [[baratta-criminologia-critica]] y [[wikstrom-por-que-se-delinque]]. Baratta no discute la TAS.
 [^inf-3]: **Inferido** (confianza 0.7) — combinando [[kessler-delito-amateur]] y [[wikstrom-por-que-se-delinque]]. Kessler no cita a Wikström, que es posterior.
+[^inf-4]: **Inferido** (confianza 0.6) — de esta wiki. Gottfredson y Hirschi no discuten la TAS, que es posterior.

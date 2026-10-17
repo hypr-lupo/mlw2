@@ -7,7 +7,7 @@ curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Eficacia colectiva
@@ -125,6 +125,7 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. El l
 - [[trabajo-de-grado-profesionalizante]] — el trabajo evaluado de S1.1 recae sobre una política municipal o proyecto de seguridad identificable, y ésta es la teoría con que el programa pide leerlo
 - [[exposicion-criminogena]] — dónde vive este constructo dentro de la teoría de la acción situacional
 - [[teoria-accion-situacional]] — el marco que lo adopta como marcador y lo subordina a la interacción con la propensión
+- [[control-social-informal]] — el control colectivo, frente al de la familia y al graduado por edad
 
 - [[desorganizacion-social]] — la tradición donde [[weisburd-el-lugar-importa]] ubica el constructo
 - [[puntos-calientes]] — la escala a la que Weisburd y otros lo llevan

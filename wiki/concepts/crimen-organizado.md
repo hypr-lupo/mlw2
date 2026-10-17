@@ -1,13 +1,13 @@
 ---
 title: Crimen organizado
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: gobernanza-criminal
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-02
+actualizado: 2026-10-17
 ---
 
 # Crimen organizado
@@ -88,6 +88,20 @@ Arias parte de la definición corriente: un grupo que colabora de forma continua
 
 **Más allá de las drogas.** Arias pide ampliar el foco: la extorsión destaca por cómo empodera a los grupos armados [^ext-18]. Y la protección da mejor base que las drogas o el secuestro para tener lazos con el Estado, porque puede presentarse como legítima [^ext-19]. Ver [[regimenes-armados-microescala]].
 
+## Una negación: la organización como ilusión
+
+Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]], desde la teoría del control y con datos de Estados Unidos. La tesis va más lejos que cualquier otra de esta página. No discute cómo definir la organización, sino si existe.
+
+- **Las pandillas no están organizadas.** No reconocen líderes, no confían entre sí, no aportan dinero a fondos comunes y su membresía cambia cada día [^ext-20].
+- **El grupo es máscara y escudo.** Diluye la responsabilidad y protege de la sanción. No es una organización que cause el delito [^ext-21].
+- **La organización viene de fuera.** La ponen la policía, los medios y los académicos, que interpretan después una serie de hechos sin estructura propia [^ext-22].
+- **El bajo autocontrol no coopera.** Quien tiende al delito es poco confiable. Las «organizaciones» son efímeras, y por cada una que dura hay cientos que fracasan. Las mismas personas se juntan una y otra vez, y eso crea una ilusión de continuidad [^ext-23].
+
+Coincide en parte con la crítica de Albarracín, que reprocha generalizar como concepto la imagen de las mafias de Estados Unidos e Italia [^ext-3]. Pero Gottfredson y Hirschi niegan también esas mafias [^inf-3].
+
+> [!warning] ¿Organización o ilusión de organización?
+> Las fuentes latinoamericanas describen otra cosa. Carteles que pasaron de empresas familiares a organizaciones armadas multinivel [^ext-7]. Empresas criminales territoriales que controlan barrios durante años [^ext-16]. Los datos de Gottfredson y Hirschi son pandillas juveniles y mafias de Estados Unidos, hasta los años ochenta. Queda abierto si el bajo autocontrol explica a quienes forman esos grupos, o si los grupos seleccionan a otra gente [^inf-4]. Ver [[teoria-general-del-delito]].
+
 ## Cita
 
 > "regular y controlar la producción y distribución de un bien o servicio de forma ilegal"
@@ -103,6 +117,7 @@ Arias parte de la definición corriente: un grupo que colabora de forma continua
 - [[zuniga-civilizacion-y-derechos-humanos]] — la frontera entre crimen y poder legítimo como efecto de legitimación
 - [[gardner-prohibir-inmoralidades]] y [[moralismo-legal]] — la misma frontera como exigencia moral sobre el Estado
 - [[legitimidad-policial]] — los sentidos de «legitimidad» que esa frontera pone en juego: justicia procedimental, miedo o autoridad
+- [[teoria-general-del-delito]] — la organización criminal como ilusión, desde la teoría del control
 
 El cúmulo `Vínculo Estado-crimen` y `Amenaza y securitización` suman 42 de los 93 documentos del corpus y discuten este concepto largamente. Ninguno está ingerido, y son material de reserva del electivo S3.E4: [[purpose]] ordena no empezar por ahí, porque fijaría el encuadre de todo lo demás.
 
@@ -130,4 +145,10 @@ El cúmulo `Vínculo Estado-crimen` y `Amenaza y securitización` suman 42 de lo
 [^ext-17]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 3, pp. 91-92, y cap. 4, pp. 120-122.
 [^ext-18]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], conclusión, pp. 248-249.
 [^ext-19]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, pp. 33-34, sobre Bailey.
+[^ext-20]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 10, pp. 207-208.
+[^ext-21]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 10, p. 209.
+[^ext-22]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 10, p. 203.
+[^ext-23]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 10, pp. 213-214.
 [^inf-2]: **Inferido** (confianza 0.7) — contraste entre la definición de Varese, en [[albarracin-crimen-organizado-america-latina]], p. 6, y la de [[arias-empresas-criminales-y-gobernanza]], p. 20. Arias no discute a Varese.
+[^inf-3]: **Inferido** (confianza 0.7) — comparación de esta wiki. Albarracín no cita a Gottfredson y Hirschi.
+[^inf-4]: **Inferido** (confianza 0.6) — de esta wiki, combinando el cap. 10 con [[albarracin-crimen-organizado-america-latina]] y [[arias-empresas-criminales-y-gobernanza]].

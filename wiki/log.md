@@ -8,6 +8,46 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-17] ingesta | Gottfredson y Hirschi (1990), A general theory of crime
+
+**Primera obra de la tanda 4.** Ingesta completa: prefacio y doce capítulos. Siguen Clarke
+(1997) y Felson y Eckert (2016), antes del 23-10.
+
+- Ficha creada: [[gottfredson-hirschi-teoria-general]]. Primera edición de Stanford University
+  Press, 1990, la misma que pide el programa de S1.1. `verificacion_bibliografica:
+  verificado`. El archivo del corpus lleva un título en castellano, pero el texto es el
+  original inglés.
+- Páginas creadas (2):
+  · [[teoria-general-del-delito]]: la teoría completa, con sus tres hechos y lo que niega;
+  · [[control-social-informal]]: tres sentidos del término, con siete fuentes.
+- Páginas actualizadas (15):
+  · [[autocontrol-y-disuasion]] y [[propension-al-delito]]: la confrontación con la TAS;
+  · [[criminologia-del-curso-de-vida]]: la respuesta a los puntos de inflexión;
+  · [[estudios-longitudinales]] y [[diseno-de-investigacion]]: la crítica del diseño y la
+    jerarquía de diseños;
+  · [[etiquetamiento]], [[anomia]] y [[cultura-callejera]]: tres críticas desde el control;
+  · [[delito-amateur]] y [[crimen-organizado]]: la carrera y la organización;
+  · [[prevencion-del-delito]], [[mano-dura-y-militarizacion]] y [[desplazamiento-y-difusion]]:
+    la política;
+  · [[desorganizacion-social]]: leída desde el control; [[eficacia-colectiva]]: un enlace.
+  · Más [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: cinco nuevas, de la 41 a la 45. ¿Autocontrol o moral?
+  ¿Punto de inflexión o autoselección? ¿Organización o ilusión de organización? ¿Hay
+  carreras en el delito? ¿Qué aporta el diseño longitudinal? Cinco enmendadas: la 3, la 15,
+  la 18 con la 30, la 39 y la 40. Cada una está registrada en las dos páginas que enfrenta.
+- En revisión: 1 resuelto (control social informal, `crear-pagina`). Tres enmiendas, sin
+  cambio de criterio: teorías de la oportunidad, cuello blanco y subculturas. La cola pasa a
+  35.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-10-17-gottfredson-hirschi-teoria-general.md`.
+- Notas: toca 18 páginas de contenido, ficha incluida, por encima del rango habitual. Es una
+  teoría general con un capítulo para cada tema que la wiki ya tenía, y cada actualización
+  se limita a lo que la obra dice de ese tema. El libro es de 1990: no discute a Sampson y
+  Laub (1993) ni la TAS, y la wiki marca como inferencia cada confrontación con ellos.
+  `grafo.py` marcó enlaces faltantes de [[control-social-informal]]. Se agregaron los de
+  [[prevencion-del-delito]] y [[miedo-social]]. Los de legitimidad policial, desplazamiento,
+  mano dura, anomia y cultura callejera comparten fuentes pero no tema, y quedan sin enlace.
+
 ## [2026-10-17] ingesta | Blanco (2011), El enfoque del curso de vida: orígenes y desarrollo
 
 **Tercera y última obra de la tanda 3, que queda cerrada un día tarde.** Sigue la tanda 4:

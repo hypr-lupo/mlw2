@@ -1,7 +1,7 @@
 ---
 title: Estudios longitudinales
 type: method
-sources: ["2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
+sources: ["2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1, s1-2]
 procedencia: fuentes
@@ -50,6 +50,19 @@ Fuente: [^ext-3].
 - **Puntos de inflexión.** Sólo se identifican en retrospectiva, en vidas concretas [^ext-13].
 - **El desistimiento.** La curva de edad, con su pico en la adolescencia y su descenso, sale de estos estudios. De ella se sigue que pocos de quienes delinquen jóvenes serán delincuentes adultos [^ext-14].
 
+## Una crítica desde la teoría del control
+
+Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. El cap. 11 discute el diseño en criminología, con los estudios de su época: Filadelfia, Cambridge y la National Youth Survey [^ext-17].
+
+- **El orden causal no es un problema especial.** Los delitos se ubican en el tiempo con precisión. Y la edad, el sexo o la raza no pueden ser efecto del delito [^ext-18].
+- **Edad, período y cohorte.** Separarlos no tiene, para ellos, consecuencia teórica ni práctica. Un efecto de cohorte se identifica mucho después, y nadie puede manipularlo [^ext-19]. Es lo contrario de lo que Blanco presenta como un problema abierto.
+- **Lo transversal no fue inferior.** El estudio transversal de los Glueck se citó cuatro veces más que su seguimiento longitudinal, con los mismos sujetos [^ext-20]. Y la curva de edad se conocía por datos transversales mucho antes [^ext-21].
+- **El diseño supone una teoría.** Preferir lo longitudinal supone que las transiciones de rol, como casarse o perder el empleo, cambian el delito. Esa teoría puede ser falsa [^ext-22].
+- **El momento crítico llega antes.** Para estudiar el autocontrol, un estudio longitudinal debería empezar antes de que el delito se pueda medir. La mayoría empieza tarde [^ext-23].
+
+> [!warning] ¿Qué aporta el diseño longitudinal?
+> Blanco y el cap. X del libro de 2021 piden estudios longitudinales para ver trayectorias y puntos de inflexión. Gottfredson y Hirschi sostienen que el mismo presupuesto rinde más en una encuesta transversal grande, que puede preguntar «cuándo» y «cuánto tiempo» [^ext-24]. La crítica es de 1990 y no conoce PADS+, que empezó en 2003 y mide la exposición con un diario espacio-temporal [^inf-4]. Ver [[teoria-general-del-delito]].
+
 ## En Chile
 
 El cap. X del libro de 2021 propone hacer estudios longitudinales chilenos en vez de importar modelos basados en evidencia [^ext-15]. Blanco señala que en América Latina falta producir fuentes verdaderamente longitudinales [^ext-16]. El corpus no trae ningún estudio longitudinal chileno sobre delito [^inf-2]. La ENUSC es transversal: cada año encuesta a hogares distintos [^inf-2].
@@ -73,6 +86,7 @@ El cap. X del libro de 2021 propone hacer estudios longitudinales chilenos en ve
 - [[enfoques-cuantitativo-y-cualitativo]]: la metodología mixta
 - [[medicion-de-la-victimizacion]]: una encuesta transversal
 - [[prevencion-del-delito]]: los factores de riesgo, que se apoyan en estos estudios
+- [[teoria-general-del-delito]] — la crítica del diseño desde la teoría del control
 
 ---
 
@@ -92,6 +106,15 @@ El cap. X del libro de 2021 propone hacer estudios longitudinales chilenos en ve
 [^ext-14]: **Extraído** — [[kessler-delito-amateur]], cap. 1, p. 24, y anexo, p. 282.
 [^ext-15]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. X, pp. 265-266.
 [^ext-16]: **Extraído** — [[blanco-curso-de-vida]], p. 21.
+[^ext-17]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 11, pp. 221-224.
+[^ext-18]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 11, pp. 224-225.
+[^ext-19]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 11, pp. 225-226.
+[^ext-20]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 11, pp. 221-222.
+[^ext-21]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 11, pp. 226 y 228.
+[^ext-22]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 11, pp. 249-250.
+[^ext-23]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 11, pp. 229 y 253.
+[^ext-24]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 11, p. 237.
 [^inf-1]: **Inferido** (confianza 0.8) — se sigue de la definición de trayectoria en [[blanco-curso-de-vida]], p. 12.
 [^inf-2]: **Inferido** (confianza 0.7) — revisión del corpus ingerido. La ENUSC se describe en [[medicion-de-la-victimizacion]]. Que cada año encueste hogares distintos es lectura de esta wiki, no afirmación del informe del INE.
 [^inf-3]: **Inferido** (confianza 0.9) — revisión de `wiki/methodology/`.
+[^inf-4]: **Inferido** (confianza 0.7) — de esta wiki. Los datos de PADS+ están en [[wikstrom-por-que-se-delinque]].

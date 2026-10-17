@@ -1,13 +1,13 @@
 ---
 title: Etiquetamiento (labelling approach)
 type: concept
-sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2004 - Kessler - Sociología del delito amateur.pdf"]
+sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1, s1-3]
 procedencia: fuentes
 estado: borrador
 creado: 2026-10-16
-actualizado: 2026-10-16
+actualizado: 2026-10-17
 ---
 
 # Etiquetamiento (labelling approach)
@@ -79,7 +79,7 @@ Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]], una sociología de
 - **Las carreras ya no son simétricas.** Becker escribió en años de trabajo estable, cuando la carrera delictiva era el reverso de la legal. Con la inestabilidad laboral, el grupo integrado pierde la base de su distinción y etiqueta menos [^ext-27].
 
 > [!warning] ¿La etiqueta fija la carrera?
-> Para Lemert, según Baratta, la reacción a la primera desviación consolida la identidad desviada, y la cárcel abre una carrera criminal [^ext-8] [^ext-9]. Kessler recoge dos críticas empíricas. La mayoría de quienes delinquen en la adolescencia desiste después, y una carrera debería crecer con la edad. Y las carreras prosperan cuando el entorno reacciona menos, no más [^ext-28]. La pregunta actual, dice, es cuándo una etiqueta amplifica la conducta, en vez de suponer que siempre lo hace [^ext-28]. Sus propios casos van en las dos direcciones: sin etiqueta entre pares, con etiqueta en la familia y en la escuela [^inf-2]. Ver [[criminologia-del-curso-de-vida]].
+> Para Lemert, según Baratta, la reacción a la primera desviación consolida la identidad desviada, y la cárcel abre una carrera criminal [^ext-8] [^ext-9]. Kessler recoge dos críticas empíricas. La mayoría de quienes delinquen en la adolescencia desiste después, y una carrera debería crecer con la edad. Y las carreras prosperan cuando el entorno reacciona menos, no más [^ext-28]. La pregunta actual, dice, es cuándo una etiqueta amplifica la conducta, en vez de suponer que siempre lo hace [^ext-28]. Sus propios casos van en las dos direcciones: sin etiqueta entre pares, con etiqueta en la familia y en la escuela [^inf-2]. Gottfredson y Hirschi niegan la premisa: no hay carrera que fijar, y las diferencias de conducta preceden a las etiquetas [^ext-29]. Ver [[criminologia-del-curso-de-vida]].
 
 ## Las críticas
 
@@ -87,6 +87,13 @@ Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]], una sociología de
 - **Es una teoría de alcance medio.** Describe la superficie de los fenómenos, pero no los remite a la estructura social que los explica [^ext-21].
 - **Es formal.** Smaus: el etiquetamiento dice qué reglas atribuyen la criminalidad, pero no por qué esas reglas tienen un contenido y no otro. Falta explicar por qué este comportamiento y no otros se vuelve objeto de definición criminal [^ext-22].
 - **Se queda dentro del sistema.** Describe la criminalización y la refiere al poder, pero separa la política de la economía. No explica el significado social de la desviación, que existe aunque nadie la defina [^ext-23].
+
+**Una crítica desde el control.** Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. Las críticas de arriba vienen del conflicto. Gottfredson y Hirschi critican desde la teoría del control, y por otras razones:
+
+- **La conducta precede a la etiqueta.** El etiquetamiento supone que la escuela crea las diferencias de conducta. Según ellos, esas diferencias existen antes de las etiquetas, y las etiquetas siguen a la conducta real [^ext-29].
+- **El delito no es un rol.** Un rol es un conjunto de expectativas que exige actuar sin buscar la ventaja inmediata. El delito es lo contrario [^ext-30].
+- **Los efectos no resisten un experimento.** Los estudios longitudinales encuentran más delincuencia después de una detención o una condena. Esos efectos no aparecen con diseños experimentales [^ext-31].
+- **Una raíz común.** Para ellos, el etiquetamiento hereda de la desviación cultural, como la asociación diferencial y las subculturas [^ext-32].
 
 ## Cita
 
@@ -103,6 +110,7 @@ Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]], una sociología de
 - [[mano-dura-y-militarizacion]]: la cárcel que consolida la identidad desviada
 - [[delito-amateur]] — grupos sin etiqueta
 - [[criminologia-del-curso-de-vida]] — el desistimiento que la teoría no prevé
+- [[teoria-general-del-delito]] — una crítica desde la teoría del control
 
 ---
 
@@ -134,5 +142,9 @@ Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]], una sociología de
 [^ext-26]: **Extraído** — [[kessler-delito-amateur]], cap. 7, pp. 207-210.
 [^ext-27]: **Extraído** — [[kessler-delito-amateur]], cap. 2, pp. 44-45, sobre Becker (1963).
 [^ext-28]: **Extraído** — [[kessler-delito-amateur]], anexo, p. 275, sobre Paternoster y Iovanni (1996), y cap. 3, p. 64.
+[^ext-29]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 7, p. 160.
+[^ext-30]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 7, p. 161.
+[^ext-31]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 11, p. 236.
+[^ext-32]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 4, p. 76.
 [^inf-1]: **Inferido** (confianza 0.6) — combinando [[baratta-criminologia-critica]], p. 90, con [[teoria-accion-situacional]], [[eficacia-colectiva]] y [[puntos-calientes]]. Ninguna de las fuentes de esas páginas discute el etiquetamiento. La tensión la formula esta wiki.
 [^inf-2]: **Inferido** (confianza 0.7) — lectura de esta wiki sobre los caps. 3, 6 y 7 de [[kessler-delito-amateur]].

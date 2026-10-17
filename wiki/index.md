@@ -9,19 +9,20 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 78 páginas · 25 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
+**Estado:** 81 páginas · 26 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
-fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-10-2026**; sigue la tanda 4 · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
+fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-10-2026** · tanda 4 abierta el 17-10-2026 con Gottfredson y Hirschi (1990) · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
 
 ## Conceptos
 
 - [[anomia]] — Durkheim y Merton: la desviación es normal; fines culturales y medios
   legítimos, cinco modos de adaptación, el cuello blanco, y la crítica de que legitima la
-  imagen del delito como cosa de pobres; y una segunda exposición. De segunda mano.
-  Borrador (3 fuentes)
+  imagen del delito como cosa de pobres; y una segunda exposición; y la crítica de Gottfredson y Hirschi. Merton, de segunda mano.
+  Borrador (4 fuentes)
 - [[autocontrol-y-disuasion]] — los dos procesos de control de la TAS, y por qué
   sólo son relevantes bajo condición; y cuándo una amenaza es coerción; y su raíz en la
-  escuela clásica; y la disuasión vista desde el campo (4 fuentes)
+  escuela clásica; y la disuasión vista desde el campo; y la voz de Gottfredson y Hirschi: ¿autocontrol o
+  moral? (5 fuentes)
 - [[buenas-practicas]] — experiencias exitosas para adaptar: cómo se arma un banco de
   buenas prácticas, qué sostiene cada caso, replicar no es copiar, y cuatro preguntas para
   leer un caso. Borrador (3 fuentes)
@@ -31,9 +32,12 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   ella; su definición, el puente que hace falta donde el capital comunitario falta, y
   su ausencia en el nivel central chileno; y el grupo armado como tercer coproductor, con
   Medellín en duda, y Santa Tecla (6 fuentes)
+- [[control-social-informal]] — tres cosas con un mismo nombre: el control de la familia que
+  deja autocontrol, el control colectivo del barrio y el graduado por edad; quién lo ejerce,
+  y por qué separarlos (7 fuentes)
 - [[crimen-organizado]] — el problema de las doscientas definiciones, la salida por el
   objetivo, el comercio ilícito contra el dualismo y la frontera jurídica: empírica,
-  de legitimación o normativa; y las empresas criminales territoriales (5 fuentes)
+  de legitimación o normativa; y las empresas criminales territoriales; y la organización como ilusión (6 fuentes)
 - [[criminalizacion-y-selectividad-penal]] — criminalización primaria y secundaria;
   cuatro niveles, del desvío a la negatividad social; cuello blanco y cifra negra; las
   metarreglas y la criminalidad como bien negativo; ¿error de medición o selección?; y
@@ -41,28 +45,32 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[criminologia-del-curso-de-vida]] — trayectorias, puntos de inflexión y
   desistimiento; el autocontrol temprano pesa pero no está sellado; y trayectorias de
   East Harlem donde también el empleo ilegal ordena; y desde Buenos Aires; contrastada
-  con el enfoque de origen, cinco principios. Borrador (4 fuentes)
+  con el enfoque de origen, cinco principios; y la respuesta de Gottfredson y Hirschi:
+  ¿punto de inflexión o autoselección? Borrador (5 fuentes)
 - [[cultura-callejera]] — la respuesta a la exclusión que da un foro propio a la
   dignidad y a la vez organiza la destrucción de quienes participan; contra la cultura
-  de la pobreza; y Merton, de segunda mano; ¿contracultura o suspensión del juicio?
-  Borrador (3 fuentes)
+  de la pobreza; y Merton, de segunda mano; ¿contracultura o suspensión del juicio?, y una
+  voz contra la subcultura de la violencia. Borrador (4 fuentes)
 - [[debilidad-estatal]] — el paradigma de la suma cero entre Estado y crimen, y la
   política de construir Estado que de él se sigue; tres críticas (3 fuentes)
 - [[delito-amateur]] — del trabajador al proveedor: la legitimidad del dinero por su uso;
   las dos platas, una ley que no obliga, el ventajeo, proveedores y barderos, y el paso a la
-  profesionalidad; ¿contracultura o suspensión del juicio? (3 fuentes)
+  profesionalidad; ¿contracultura o suspensión del juicio?; y ¿hay carreras en el delito?
+  (4 fuentes)
 - [[desorganizacion-social]] — la tradición de Chicago llevada del barrio a la calle;
   el marco en que el curso ubica a Sampson y que Sampson no nombra; y quién produjo la
-  concentración de pobreza (3 fuentes)
+  concentración de pobreza; y leída desde la teoría del control (4 fuentes)
 - [[desplazamiento-y-difusion]] — si la prevención focalizada sólo mueve el delito;
   la evidencia dice que la difusión es más probable, y el portonazo muestra el
-  desplazamiento que no se mide, como los de mercancía y de organización (5 fuentes)
+  desplazamiento que no se mide, como los de mercancía y de organización; y una razón
+  teórica en contra (6 fuentes)
 - [[eficacia-colectiva]] — cohesión más expectativas compartidas de intervenir:
   el mecanismo que media entre desventaja concentrada y violencia; en América Latina,
   condicionada a la policía; y una medida oficial con otra definición (7 fuentes)
 - [[etiquetamiento]] — la desviación como cualidad atribuida; dos paradigmas;
   desviación secundaria y carreras; la definición y el poder; ¿complemento o ruptura?, y
-  sus críticas; puesto a prueba en Buenos Aires. Borrador (3 fuentes)
+  sus críticas; puesto a prueba en Buenos Aires; y una crítica desde el control. Borrador
+  (4 fuentes)
 - [[exposicion-criminogena]] — el lado entorno: contexto moral, oportunidades y
   fricciones; y el efecto de área condicionado a quién lo use (1 fuente)
 - [[filtro-moral]] — la percepción selectiva de alternativas de acción; por qué la
@@ -89,7 +97,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   popularidad transversal, la evidencia sobre sus efectos, y México y la edad penal
   desde la prevención; y la mano dura que cohesiona a los grupos y encarcela a los
   pobres; y El Salvador en cifras; y la cárcel que consolida la identidad desviada; y la
-  represión que escala (7 fuentes)
+  represión que escala; y la justicia penal como causa débil (8 fuentes)
 - [[mediacion-comunitaria]] — diálogo para transformar conflictos, contra la
   mediación penal vertical y la mano dura; sin evaluaciones, y de una sola escuela
   (2 fuentes)
@@ -113,9 +121,11 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[prevencion-del-delito]] — dos concepciones, tres clasificaciones que no calzan,
   factores de riesgo como base o límite, y una crítica etnográfica; por qué el éxito de
   la prevención no se ve; Romagnosi, y lo que el etiquetamiento niega; trayectorias en vez
-  de cadenas causales (5 fuentes)
+  de cadenas causales; los factores de riesgo como manifestaciones, y la familia como
+  política (6 fuentes)
 - [[propension-al-delito]] — el lado persona: moral legalmente relevante más
-  capacidad de autocontrol, y la aversión al delito (1 fuente)
+  capacidad de autocontrol, y la aversión al delito; y frente a la teoría general:
+  ¿autocontrol o moral? (2 fuentes)
 - [[puntos-calientes]] — la ley de concentración del delito en microlugares; no son
   barrios malos, y la TAS los explica de otro modo; en Chile, sólo una cifra comunal (3 fuentes)
 - [[regimenes-armados-microescala]] — consolidación armada y vínculo con el Estado:
@@ -124,6 +134,9 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[teoria-accion-situacional]] — el delito como acción moral y las causas como
   situacionales; los atributos no son causas; leída como corrección de la prevención
   situacional; y frente al etiquetamiento (5 fuentes)
+- [[teoria-general-del-delito]] — Gottfredson y Hirschi: el delito como fuerza o fraude, el
+  bajo autocontrol y sus causas en la crianza; tres hechos, lo que la teoría niega y lo que
+  propone para la política; cinco tensiones (1 fuente)
 - [[tipologia-barrial]] — las cinco categorías de barrio con que ONU-Hábitat organiza
   una política de prevención municipal, y su versión de 2010: cuatro tipos y la
   pregunta entre barrio vulnerado y crítico; y por qué un programa rinde distinto
@@ -165,7 +178,8 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[diseno-de-investigacion]] — ruptura, estructuración y comprobación; del tema al
   problema, marcos, objetivos, cinco diseños por objetivo, hipótesis, unidades de
   análisis y muestra; lo que un manual de pregrado no trae: experimentos y cohortes; y
-  otra lógica, la del proceso circular; prevalencia e incidencia (4 fuentes)
+  otra lógica, la del proceso circular; prevalencia e incidencia; y la jerarquía de diseños,
+  del experimento a la observación (5 fuentes)
 - [[enfoques-cuantitativo-y-cualitativo]] — tres paradigmas, explicar o comprender,
   complementación, combinación y triangulación, y seis técnicas con sus límites; el
   muestreo teórico y otro sentido de triangulación; un caso de combinación; la metodología
@@ -175,7 +189,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   y por qué los registros no son una muestra; y lo que el registro selecciona (4 fuentes)
 - [[estudios-longitudinales]] — prospectivo y retrospectivo; la cohorte y el problema de
   separar edad, período y cohorte; cinco estudios, de Oakland a PADS+; qué permiten ver, y
-  por qué en Chile no hay (4 fuentes)
+  por qué en Chile no hay; y una crítica desde la teoría del control (5 fuentes)
 - [[evaluacion-de-programas]] — no basta saber qué funciona, sino por qué; evidencia,
   implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; el
   mismo diagnóstico desde la violencia en el noviazgo; dos sentidos de «por qué»; y la
@@ -224,6 +238,10 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[gardner-prohibir-inmoralidades]] — Gardner, 2007. Filosofía del derecho penal:
   comentario a Fletcher. Versión de autor que pide citar la de la revista. Fuera del
   orden por calendario
+- [[gottfredson-hirschi-teoria-general]] — Gottfredson y Hirschi, 1990. Teoría del bajo
+  autocontrol, aplicada a la edad, las instituciones, la cultura, el cuello blanco, la
+  organización, el método y la política. Original inglés. Bibliografía restante de S1.1.
+  Primera de la tanda 4
 - [[ine-medicion-victimizacion]] — INE, 2023. Informe metodológico oficial del rediseño de
   la ENUSC, con un piloto experimental. Bibliografía de S1.2. Primera fuente estadística
   oficial de la wiki. Tercera de la tanda 2
