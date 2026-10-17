@@ -15,7 +15,7 @@ procedencia: fuentes
 estado: revisado
 truncado: false
 creado: 2026-10-02
-actualizado: 2026-10-02
+actualizado: 2026-10-16
 ---
 
 # En busca de respeto. Vendiendo crack en Harlem (Bourgois)
@@ -115,8 +115,9 @@ Tres años y medio de residencia en East Harlem [^ext-25]. Observación particip
 - [[sampson-vecindario-y-comunidad]] y [[weisburd-el-lugar-importa]] — la crítica a la tolerancia cero, desde otra posición. Registrado en [[ventanas-rotas]].
 - [[vanderschueren-prevencion-del-delito]] — los factores de riesgo de Hein (2004) y la criminología del curso de vida. Tensiones registradas en [[prevencion-del-delito]] y [[criminologia-del-curso-de-vida]].
 - [[batthyany-metodologia-investigacion]] — un manual de metodología que describe en general la observación participante y sus límites. Ver [[enfoques-cuantitativo-y-cualitativo]].
+- [[baratta-criminologia-critica]] — añadido el 16-10-2026. Expone a Merton y lo critica. Tensión registrada en [[anomia]] y [[cultura-callejera]].
 
-**Merton, de segunda mano.** Una nota de la conclusión dice que Merton propuso el mismo argumento en los años treinta, en su estudio sobre la estructura social y la anomia [^ext-35]. Merton es uno de los vacíos declarados del corpus, de modo que la afirmación no se puede contrastar. Ver [[pendientes]].
+**Merton, de segunda mano.** Una nota de la conclusión dice que Merton propuso el mismo argumento en los años treinta, en su estudio sobre la estructura social y la anomia [^ext-35]. Merton es uno de los vacíos declarados del corpus. Desde el 16-10 hay una exposición de segunda mano en [[anomia]], que permite ver el parecido pero no contrastarlo con Merton. Ver [[pendientes]].
 
 ---
 

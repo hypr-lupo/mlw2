@@ -1,7 +1,7 @@
 ---
 title: Estadísticas delictuales
 type: method
-sources: ["2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf"]
+sources: ["2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -85,6 +85,13 @@ Dos fuentes de la wiki muestran que estas advertencias pesan más en América La
 - **Se depende de la policía.** Sólo el 29 % de esos observatorios producía información propia [^ext-25].
 - **Lo denunciado no es lo ocurrido.** El INE parte de la misma advertencia que Boba: en los registros, la denuncia es una constante, y la cifra oscura queda fuera [^ext-26].
 
+## Lo que el registro selecciona
+
+Añadido el 16-10-2026 al ingerir [[baratta-criminologia-critica]]. Boba advierte que lo denunciado no es aleatorio [^ext-17]. Baratta dice en qué dirección no lo es. En las estadísticas, la criminalidad de cuello blanco aparece muy por debajo de su cifra negra. Por eso sugirieron una distribución falsa del delito, concentrado en los estratos bajos, y las teorías la adoptaron [^ext-27]. Los estereotipos que resultan guían además a las agencias, y vuelven selectiva su acción [^ext-28].
+
+> [!warning] La cifra negra: ¿error de medición o resultado de la selección?
+> Para Boba y el INE, lo que no llega al registro es una brecha. Se corrige leyendo el registro con cuidado y midiendo desde la víctima. Para Baratta, la brecha tiene dirección y sigue la estratificación social. Estudiarla es estudiar a quienes seleccionan [^inf-3]. Ver [[criminalizacion-y-selectividad-penal]].
+
 ## Cita
 
 > "Jamás se deben tomar los registros policiales en sentido literal"
@@ -100,6 +107,7 @@ Dos fuentes de la wiki muestran que estas advertencias pesan más en América La
 - [[operacionalizacion]]: niveles de medición y sistemas de categorías
 - [[diseno-de-investigacion]]: muestra, inferencia, asociación y causalidad
 - [[evaluacion-de-programas]]: el grupo de comparación antes y después
+- [[criminalizacion-y-selectividad-penal]]: lo que el registro selecciona
 
 ---
 
@@ -129,5 +137,8 @@ Dos fuentes de la wiki muestran que estas advertencias pesan más en América La
 [^ext-24]: **Extraído** — [[srur-observatorios-del-delito]], p. 37.
 [^ext-25]: **Extraído** — [[srur-observatorios-del-delito]], p. 36.
 [^ext-26]: **Extraído** — [[ine-medicion-victimizacion]], p. 12.
+[^ext-27]: **Extraído** — [[baratta-criminologia-critica]], cap. VIII, pp. 102-103.
+[^ext-28]: **Extraído** — [[baratta-criminologia-critica]], cap. VIII, p. 103.
 [^inf-1]: **Inferido** (confianza 0.7) — la autora habla de series de un infractor y de pocos casos. Weisburd y otros evalúan técnicas sobre lugares y grandes volúmenes de datos. Ninguno discute al otro.
 [^inf-2]: **Inferido** (confianza 0.7) — combina [[srur-observatorios-del-delito]], p. 37, con [[tudela-ed-analisis-delictual]], p. 84. El mapeo no distingue entre la hora que no se registró y la que no se puede conocer.
+[^inf-3]: **Inferido** (confianza 0.7) — combinando [[baratta-criminologia-critica]], [[tudela-ed-analisis-delictual]] e [[ine-medicion-victimizacion]]. Ninguna de las tres discute a las otras.

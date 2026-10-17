@@ -10,10 +10,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 96 | 82.1 % |
+| `pendiente` | 95 | 81.2 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 21 | 17.9 % |
+| `completo` | 22 | 18.8 % |
 
 ## Por cumulo
 
@@ -22,7 +22,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | (fuera de INVENTARIO.md) | 5 | 5 | 0 | 0 | 0 |
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
 | Bibliografía S1.1, consulta y complementaria | 12 | 11 | 0 | 0 | 1 |
-| Explicación del delito | 5 | 4 | 0 | 0 | 1 |
+| Explicación del delito | 5 | 3 | 0 | 0 | 2 |
 | Gobernanza criminal y territorio | 6 | 4 | 0 | 0 | 2 |
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
 | Institucionalidad y política de prevención en Chile | 6 | 5 | 0 | 0 | 1 |
@@ -51,6 +51,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 - [[adams-violencia-cronica]]
 - [[arias-empresas-criminales-y-gobernanza]]
+- [[baratta-criminologia-critica]]
 - [[gardner-prohibir-inmoralidades]]
 - [[ine-medicion-victimizacion]]
 - [[onu-habitat-guia-barrios]]
@@ -117,7 +118,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 - `pendiente` — 1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf
 - `pendiente` — 2002 - Pavarini - Control y dominación, teorías criminológicas burguesas y proyecto hegemónico.pdf
-- `pendiente` — 2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf
+- `completo` — 2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf
 - `completo` — 2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf
 - `pendiente` — 2016 - Felson y Eckert - El delito y la vida cotidiana.pdf
 

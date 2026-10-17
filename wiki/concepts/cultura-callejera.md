@@ -1,13 +1,13 @@
 ---
 title: Cultura callejera
 type: concept
-sources: ["2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
+sources: ["2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf"]
 cluster: explicacion-del-delito
 curso: []
 procedencia: fuentes
 estado: borrador
 creado: 2026-10-02
-actualizado: 2026-10-02
+actualizado: 2026-10-16
 ---
 
 # Cultura callejera
@@ -55,7 +55,7 @@ Si la cultura callejera responde a una búsqueda de dignidad, la política no pu
 - **[[muerte-social]].** Adams describe la misma respuesta a la humillación —la búsqueda de respeto— desde una revisión de literatura latinoamericana. Bourgois la muestra en una etnografía. Ninguno cita al otro.
 - **[[desorganizacion-social]].** Bourgois acepta que las calles de East Harlem produjeron violencia fuera cual fuera el grupo que las habitara, pero atribuye la concentración de pobreza a políticas estatales y no a la ecología del barrio [^ext-22].
 - **[[miedo-social]].** La cultura callejera impone el tono de la vida pública aunque sea de una minoría [^ext-23].
-- **La teoría de la tensión.** Bourgois dice, en una nota, que Merton hizo el mismo argumento en los años treinta [^ext-24]. Merton no está en el corpus.
+- **[[anomia]].** Bourgois dice, en una nota, que Merton hizo el mismo argumento en los años treinta [^ext-24]. Merton no está en el corpus. Desde el 16-10, [[baratta-criminologia-critica]] lo expone de segunda mano. En los términos de Merton, la cultura callejera se parece a la innovación: el fin del éxito sin los medios legítimos [^ext-25] [^inf-1]. Baratta agrega una crítica. La teoría de Merton, aunque suene a crítica social, legitima la imagen del delito como cosa de pobres [^ext-26]. Bourgois pone la causa en la economía política, que es lo que Baratta le reprocha a Merton no haber visto [^inf-1]. La tensión queda registrada en [[anomia]].
 
 ## Por qué está en borrador
 
@@ -73,6 +73,7 @@ Una sola fuente, que es una etnografía de una red en dos cuadras de Nueva York 
 - [[desorganizacion-social]] — la tradición ecológica con la que Bourgois discute
 - [[miedo-social]] — la cultura del terror que la cultura callejera impone
 - [[criminologia-del-curso-de-vida]] — las trayectorias de quienes entran y salen de ella
+- [[anomia]] — Merton, de segunda mano, y la crítica de Baratta
 
 ---
 
@@ -100,3 +101,6 @@ Una sola fuente, que es una etnografía de una red en dos cuadras de Nueva York 
 [^ext-22]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 2, pp. 81 y 91.
 [^ext-23]: **Extraído** — [[bourgois-en-busca-de-respeto]], introducción, p. 41.
 [^ext-24]: **Extraído** — [[bourgois-en-busca-de-respeto]], conclusión, nota 9, p. 395.
+[^ext-25]: **Extraído** — [[baratta-criminologia-critica]], cap. IV, pp. 61-62.
+[^ext-26]: **Extraído** — [[baratta-criminologia-critica]], cap. IV, pp. 64-65.
+[^inf-1]: **Inferido** (confianza 0.6) — combinando [[bourgois-en-busca-de-respeto]] y [[baratta-criminologia-critica]]. Baratta no discute a Bourgois, que es posterior.

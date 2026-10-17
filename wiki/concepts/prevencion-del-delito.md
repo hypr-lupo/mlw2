@@ -1,13 +1,13 @@
 ---
 title: Prevención del delito
 type: concept
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-10-02
+actualizado: 2026-10-16
 ---
 
 # Prevención del delito
@@ -31,6 +31,10 @@ El capítulo adopta la restringida y la separa del sistema de justicia criminal 
 El sistema penal sólo es preventivo cuando innova, con formas alternativas de justicia o con policía de proximidad; si no, es mantención del orden [^ext-3].
 
 **Una tercera definición, que el libro llama amplia en otro sentido.** El cap. IV adopta la de las Directrices de Naciones Unidas de 2002: estrategias y medidas que reducen el riesgo de que ocurran delitos y sus efectos dañinos, **incluido el temor**, interviniendo sobre sus múltiples causas [^ext-4]. No menciona el sistema penal. Lo amplio aquí es el objeto —delito, daño y temor—, no el conjunto de actores. El cap. IV además sitúa la prevención como el primer eslabón de una cadena de valor de la seguridad pública, antes del control policial, el enjuiciamiento y la sanción [^ext-5].
+
+**Una raíz más antigua.** Añadido el 16-10-2026 al ingerir [[baratta-criminologia-critica]]. A fines del siglo XVIII, Romagnosi sostuvo que el mayor esfuerzo de la sociedad debía ir a prevenir el delito mejorando las condiciones de la vida social. Baratta ve ahí una anticipación de los «sustitutivos penales» de Ferri: medios preventivos de defensa social distintos de la pena [^ext-32]. La prevención social tiene así una genealogía anterior a la criminología del siglo XX [^inf-2].
+
+**Lo que el etiquetamiento niega, y lo que no.** Baratta llama principio de prevención a la idea de que la pena previene. En abstracto, como contramotivación. En concreto, resocializando. El [[etiquetamiento]] lo niega, porque la cárcel consolida la identidad desviada [^ext-33]. La crítica alcanza a la prevención del sistema penal, que la concepción amplia incluye. No alcanza de forma directa a la concepción restringida, que excluye las sanciones [^inf-2]. Ver [[ideologia-de-la-defensa-social]].
 
 ## Las clasificaciones
 
@@ -113,6 +117,7 @@ Las conclusiones separan lo que la definición de Naciones Unidas junta: la prev
 - [[miedo-social]] — el segundo objetivo de la prevención
 - [[tipologia-barrial]] — la prevención diferenciada por tipo de barrio en las guías de los mismos autores
 - [[bourgois-en-busca-de-respeto]] — la crítica etnográfica a los factores de riesgo y a los programas centrados en la actitud
+- [[ideologia-de-la-defensa-social]] — Romagnosi, los sustitutivos penales y el principio de prevención
 
 **Por confrontar.** La prevención situacional tiene su obra fundacional en el corpus: Clarke (1997), en la tanda 4. La comunitaria, en las orientaciones técnicas de la Subsecretaría de Prevención del Delito (2022), en la tanda 5.
 
@@ -149,5 +154,8 @@ Las conclusiones separan lo que la definición de Naciones Unidas junta: la prev
 [^ext-29]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 4, p. 178.
 [^ext-30]: **Extraído** — [[bourgois-en-busca-de-respeto]], conclusión, p. 340.
 [^ext-31]: **Extraído** — [[bourgois-en-busca-de-respeto]], conclusión, pp. 338-339.
+[^ext-32]: **Extraído** — [[baratta-criminologia-critica]], cap. I, pp. 27-28 y 33.
+[^ext-33]: **Extraído** — [[baratta-criminologia-critica]], cap. II, pp. 36-37, y cap. VII, p. 89.
 [^amb-1]: **Ambiguo** — el cap. IV (p. 102) y el cap. VI (pp. 146-147) atribuyen a Brantingham y Faust (1976) definiciones distintas de la prevención primaria. El IV la define por la población destinataria, siguiendo al Foro de Expertos de 2004; el VI, por las condiciones del ambiente que dan oportunidades al delito. El libro no nota la diferencia. La obra original no está en el corpus; no se resuelve por inferencia.
 [^inf-1]: **Inferido** (confianza 0.65) — contraste entre Hein (2004), en [[vanderschueren-prevencion-del-delito]], cap. IV, y [[bourgois-en-busca-de-respeto]], cap. 4. Bourgois no discute el enfoque de factores de riesgo con ese nombre.
+[^inf-2]: **Inferido** (confianza 0.7) — Baratta no discute la prevención comunitaria ni la situacional. La distinción la hace esta wiki con las dos concepciones del cap. I de [[vanderschueren-prevencion-del-delito]].

@@ -1,7 +1,7 @@
 ---
 title: Mano dura y militarización
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf"]
 cluster: sistema-penal
 curso: [s1-1]
 procedencia: fuentes
@@ -103,6 +103,8 @@ Añadido el 16-10-2026 al ingerir [[cipc-experiencias-exitosas]]. El informe doc
 
 Es la misma conclusión de Arias, desde otra fuente: la mano dura cohesiona a los grupos [^inf-2]. El informe agrega que la baja de homicidios de 2012 y 2013 vino de la tregua entre pandillas, no de la represión [^ext-33].
 
+**La cárcel produce lo que dice corregir.** Añadido el 16-10-2026 al ingerir [[baratta-criminologia-critica]]. La teoría del [[etiquetamiento]] llega a algo parecido por otro camino. Según Baratta, la intervención penal, y sobre todo la cárcel, no reeduca. En la mayoría de los casos consolida la identidad desviada del condenado y su carrera criminal [^ext-34]. Ese mecanismo es individual: un cambio de identidad. En El Salvador y en Arias es organizacional: la cárcel cohesiona y organiza a los grupos. Las dos lecturas llegan a la misma conclusión desde niveles distintos, y ninguna fuente discute la otra [^inf-3].
+
 ## Cita
 
 > "el enemigo debe ser eliminado y no es sujeto de derechos"
@@ -122,6 +124,7 @@ Es la misma conclusión de Arias, desde otra fuente: la mano dura cohesiona a lo
 - [[bourgois-en-busca-de-respeto]] — encarcelamiento masivo y desalojos en Nueva York
 - [[regimenes-armados-microescala]] — por qué la respuesta debería cambiar según el régimen armado del barrio
 - [[desplazamiento-y-difusion]] — la fragmentación que produce la represión, vista como desplazamiento de organización
+- [[etiquetamiento]] — la cárcel que consolida la identidad desviada
 
 **Convergencia que conviene registrar.** [[sampson-vecindario-y-comunidad]] sostiene, desde la investigación estadounidense sobre desorden y tolerancia cero, que la intervención punitiva sobre territorios pobres no reduce el delito y sí destruye la legitimidad policial. Albarracín llega a lo mismo desde la literatura latinoamericana sobre mano dura, con casos y estudios completamente distintos. Que dos corpus independientes converjan es un hallazgo por derecho propio; ninguno de los dos autores discute al otro.
 
@@ -161,4 +164,6 @@ Es la misma conclusión de Arias, desde otra fuente: la mano dura cohesiona a lo
 [^ext-26]: **Extraído** — [[bourgois-en-busca-de-respeto]], prefacio a la 2.ª ed., p. 29.
 [^ext-27]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a esta edición (2010), p. 372.
 [^ext-28]: **Extraído** — [[bourgois-en-busca-de-respeto]], prefacio a esta edición (2010), p. 19.
+[^ext-34]: **Extraído** — [[baratta-criminologia-critica]], cap. VII, p. 89, y cap. VIII, p. 116.
 [^inf-2]: **Inferido** (confianza 0.7) — el CIPC no cita a Arias. La convergencia es de esta wiki.
+[^inf-3]: **Inferido** (confianza 0.6) — combinando [[baratta-criminologia-critica]] con [[cipc-experiencias-exitosas]] y [[arias-empresas-criminales-y-gobernanza]].

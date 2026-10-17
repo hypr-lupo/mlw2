@@ -15,7 +15,7 @@ procedencia: fuentes
 estado: revisado
 truncado: false
 creado: 2026-09-27
-actualizado: 2026-09-27
+actualizado: 2026-10-16
 ---
 
 # Invisibilización de la violencia en el noviazgo en Chile (Valdivia-Peralta y otros)
@@ -90,7 +90,7 @@ Antes de citar una cifra del artículo, conviene ir al estudio original.
 >
 > El artículo no discute esa simetría. Los femicidios que cita, en cambio, son asimétricos. La diferencia entre contar actos y contar consecuencias graves queda sin tratar, y es justo la que decide cómo se lee la tabla 2 [^inf-3]. Ver [[violencia-en-el-noviazgo]].
 
-**Visibilizar por el derecho penal.** Los autores lamentan que no se responda con tolerancia cero ni con responsabilidad forzosa para el agresor. Piden tipificar la violencia en el noviazgo, en parte para cambiar su definición cultural como acto criminal [^ext-24]. Es una apuesta por la función simbólica del derecho penal. La wiki todavía no tiene la voz crítica de esa función. Ver [[revision]], ítem de criminalización y selectividad penal.
+**Visibilizar por el derecho penal.** Los autores lamentan que no se responda con tolerancia cero ni con responsabilidad forzosa para el agresor. Piden tipificar la violencia en el noviazgo, en parte para cambiar su definición cultural como acto criminal [^ext-24]. Es una apuesta por la función simbólica del derecho penal. La voz crítica de la criminalización llegó el 16-10 con [[criminalizacion-y-selectividad-penal]]. Los capítulos ingeridos de Baratta no tratan la función simbólica.
 
 ## Entidades mencionadas
 

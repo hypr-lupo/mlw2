@@ -8,8 +8,8 @@ sources: []
 
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
-**Al 16-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden y la
-tanda 2 cerrada.** Veintidós fuentes de 118, sesenta y nueve páginas, **siete de ocho
+**Al 16-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden, la
+tanda 2 cerrada y la 3 en curso.** Veintitrés fuentes de 118, setenta y cuatro páginas, **siete de ocho
 clústeres poblados**. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
@@ -121,6 +121,15 @@ Plan Cuadrante, que llama «quizás» el más exitoso contra las evaluaciones qu
 2021 reseña, y Santa Tecla, un éxito que el propio informe atribuye en parte a la victoria
 de una pandilla.
 
+**Y la otra pregunta.** [[baratta-criminologia-critica]] abre la tanda 3, en cinco de sus quince
+capítulos. Es la primera obra de criminología crítica de la wiki, y cambia la pregunta: no por
+qué se delinque, sino quién es definido como delincuente. Nacen cuatro páginas:
+[[ideologia-de-la-defensa-social]], [[anomia]], [[etiquetamiento]] y
+[[criminalizacion-y-selectividad-penal]], esta última esperada en la cola desde el 26-09. La
+anomia llega de segunda mano: Merton sigue faltando. Y abre tres tensiones. Con la TAS, sobre
+la pregunta misma. Con Boba y el INE, sobre qué es la cifra negra. Y con Bourgois, sobre si
+explicar el delito de los pobres lo critica o lo confirma.
+
 ## Siete respuestas a la misma pregunta
 
 Las fuentes teóricas explican por qué la violencia se concentra donde se concentra, y
@@ -159,6 +168,11 @@ urbanas, no la ecología del barrio. Ver [[desorganizacion-social]].
 **En la condición.** [[adams-violencia-cronica]]: la [[violencia-cronica]] es condición
 y no episodio, y sus efectos —[[miedo-social]], [[zona-gris]], [[muerte-social]]— la
 reproducen hasta volverse norma. Ver [[gobernanzas-paralelas]].
+
+**Y una que discute la pregunta.** [[baratta-criminologia-critica]]: las siete explican el
+delito que se registra. El [[etiquetamiento]] pregunta antes quién fue definido como
+delincuente, y quién lo definió. Según Baratta, las estadísticas sugirieron una distribución
+falsa del delito entre los grupos sociales. Ver [[criminalizacion-y-selectividad-penal]].
 
 ## Las tensiones registradas
 
@@ -313,6 +327,21 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     homicidios el propio informe atribuye en parte al triunfo de una pandilla y a una tregua.
     Es lo que el modelo de Arias predice. Ver [[regimenes-armados-microescala]].
 
+**Las tres que abre Baratta (2004)**
+
+36. **¿Por qué se delinque, o quién es definido como delincuente?** La TAS, Sampson y
+    Weisburd y otros preguntan por las causas de la conducta. El etiquetamiento pregunta por
+    las causas de la definición. Keckeisen declara incompatibles los dos paradigmas, y Baratta
+    admite que pueden complementarse. Ver [[etiquetamiento]] y [[teoria-accion-situacional]].
+37. **La cifra negra: ¿error de medición o resultado de la selección?** Para Boba y el INE, una
+    brecha que se corrige midiendo mejor. Para Baratta, una brecha con dirección, que sigue la
+    estratificación social. Ver [[criminalizacion-y-selectividad-penal]] y
+    [[estadisticas-delictuales]].
+38. **¿Explicar el delito de los pobres lo critica o lo confirma?** Baratta acusa a Merton de
+    legitimar la imagen del delito como cosa de pobres. Bourgois se reconoce en Merton, pero
+    pone la causa en la economía política, que es lo que Baratta echa de menos. Ver [[anomia]]
+    y [[cultura-callejera]].
+
 **La que más va a pesar en el trabajo evaluado de S1.1.**
 [[onu-habitat-guia-barrios]] incorpora la teoría de las ventanas rotas dentro de su
 [[tipologia-barrial]], y [[sampson-vecindario-y-comunidad]] la declara espuria.
@@ -327,7 +356,8 @@ inventario. Ver [[ventanas-rotas]].
   intervención punitiva sobre territorios pobres no reduce el delito y sí destruye
   legitimidad. Adams y Pearce explican por qué es popular. Arias agrega que cohesiona a
   los grupos, y Bourgois describe su versión estadounidense: encarcelamiento masivo y
-  desalojos. Ver [[mano-dura-y-militarizacion]].
+  desalojos. Baratta agrega, desde el etiquetamiento, que la cárcel consolida la identidad
+  desviada. Ver [[mano-dura-y-militarizacion]].
 - **El miedo.** Adams en Guatemala, y Luneke y Trebilcock en Maipú y la encuesta de
   Peñalolén en Chile, encuentran el temor desacoplado del delito y movido por los
   medios, el conflicto entre generaciones y la construcción del otro. Investigaciones
@@ -344,7 +374,8 @@ inventario. Ver [[ventanas-rotas]].
   de la región se evalúa. Ver [[evaluacion-de-programas]].
 - **El registro no es el delito.** El INE desde la encuesta y Boba desde los datos policiales
   parten de la misma advertencia: lo denunciado es una parte, no aleatoria, de lo ocurrido.
-  Ver [[medicion-de-la-victimizacion]] y [[estadisticas-delictuales]].
+  Baratta va más lejos: lo no registrado tiene dirección. Ver la tensión 37,
+  [[medicion-de-la-victimizacion]] y [[estadisticas-delictuales]].
 - **La medición.** Valdivia-Peralta y otros desde la violencia en el noviazgo, y un manual
   de metodología desde la sociología, llegan al mismo problema con la misma palabra.
   Preguntar si alguien vivió violencia deja la definición a cada encuestado. Ninguno cita
@@ -397,6 +428,8 @@ inventario. Ver [[ventanas-rotas]].
   fecha cuenta, qué denominador usa y si el «significativo» viene de una prueba.
 - **Leer un caso de buena práctica.** [[buenas-practicas]]: quién describe el éxito, si hay
   comparación, qué otra explicación existe y qué delitos subieron.
+- **Preguntar quién fue seleccionado.** [[criminalizacion-y-selectividad-penal]]: quién
+  define, con qué estereotipos, y qué delitos quedan bajo la cifra negra.
 
 Las cuatro primeras vienen sobre todo del equipo del docente del ramo: dos guías que
 cuentan como una, y el libro de 2021, en parte de los mismos autores. Las tres últimas,
@@ -407,7 +440,7 @@ cosas.
 
 El trabajo recae sobre una política municipal o un proyecto de seguridad identificable
 —la misma exigencia de anclaje del [[trabajo-de-grado-profesionalizante]] un semestre
-antes. Las fuentes dan, juntas, dieciocho preguntas que un diagnóstico serio debería poder
+antes. Las fuentes dan, juntas, diecinueve preguntas que un diagnóstico serio debería poder
 responder sobre cualquier intervención. Las formula esta wiki:
 
 - ¿Funciona por el territorio o por quién usa el territorio?
@@ -435,6 +468,7 @@ responder sobre cualquier intervención. Las formula esta wiki:
 - ¿La cifra de la ENUSC que se cita viene de antes o de después del rediseño de 2023, y se
   la está comparando con la otra serie?
 - Si se la presenta como buena práctica, ¿quién la describe, y con qué comparación?
+- ¿La población que atiende es la que delinque, o la que el sistema penal seleccionó?
 
 La primera política municipal chilena documentada en la wiki es la de Peñalolén. Vive
 en la ficha y en [[revision]], a la espera de una fuente que no sea su propia
@@ -447,19 +481,21 @@ dirección. Elegirla o no es decisión del autor.
   de Santiago. Varios de sus autores escriben sobre instituciones propias, y ninguna de
   esas descripciones es una evaluación. Sigue sin saberse si la ley de concentración
   vale aquí. Ver [[revision]]. `caso-de-grado` sigue vacío.
-- **Registrar el otro lado.** Doce páginas en borrador, entre ellas [[buenas-practicas]]: [[ventanas-rotas]],
+- **Registrar el otro lado.** Catorce páginas en borrador, entre ellas [[anomia]], [[etiquetamiento]] y
+  [[buenas-practicas]]: [[ventanas-rotas]],
   [[policia-comunitaria]], [[legitimidad-policial]], [[debilidad-estatal]],
   [[desorganizacion-social]], [[policia-de-puntos-calientes]], [[moralismo-legal]],
   [[criminologia-del-curso-de-vida]], [[violencia-en-el-noviazgo]],
-  [[regimenes-armados-microescala]] y [[cultura-callejera]]. Las dos nuevas descansan en
-  una sola fuente cada una, y ninguna fuente del corpus las prueba en Chile. [[ventanas-rotas]] y
+  [[regimenes-armados-microescala]] y [[cultura-callejera]]. Las dos más nuevas llegan de
+  segunda mano, reconstruidas por Baratta, y ninguna fuente del corpus las prueba en Chile. [[ventanas-rotas]] y
   [[debilidad-estatal]] suman críticos, pero siguen sin un defensor.
 - **Hablar de las teorías de la oportunidad desde sus autores.** Clarke (1997) y Felson
   y Eckert (2016) entran en la tanda 4.
 - **Hablar del curso de vida y del autocontrol desde sus autores.** Blanco (2011) en la
   tanda 3; Gottfredson y Hirschi (1990) en la tanda 4.
-- **Hablar de criminalización desde sus autores.** Baratta (2004) en la tanda 3;
-  Ferrajoli en la tanda 6.
+- **Hablar de la tensión y del cuello blanco desde sus autores.** Merton y Sutherland no
+  están en el corpus. Baratta (2004), que entró el 16-10, los trae de segunda mano. El
+  derecho penal simbólico sigue sin voz crítica. Ferrajoli llega en la tanda 6.
 - **Contrastar métodos.** `wiki/methodology/` tiene siete páginas y desde el 16-10 una
   sobre diseño de investigación. Sigue sin haber una sobre diseños experimentales,
   cuasiexperimentales o longitudinales: el manual de Batthyány y Cabrera no los trata, y
@@ -478,7 +514,8 @@ Vives Varela y Hamui Sutton (2021), el INE (2023), Srur (2014) en sus pp. 26-45,
 de Boba en Tudela (ed.) (2010) y el CIPC (2015) entraron el mismo día, y con ellos la tanda 2
 quedó cerrada, seis días tarde. Sigue la tanda 3: Baratta (2004), Kessler (2004) y Blanco
 (2011). La tanda 3 vence el mismo 16-10. El autor
-decidió ese día mantener el orden: la 3 va después de terminar la 2. Después de la sexta
+decidió ese día mantener el orden: la 3 va después de terminar la 2. Baratta (2004) la abrió
+ese mismo día, en sus caps. I-II, IV, VII y VIII. Siguen Kessler (2004) y Blanco (2011). Después de la sexta
 vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.
 Arias (2017) y Bourgois (2010) entraron fuera de ese orden el 02-10, por decisión del

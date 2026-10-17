@@ -10,8 +10,8 @@ Artefacto operativo para retomar, no registro de lo hecho: la crónica de cada s
 en [[log]]. Se consolidó el 27-09-2026, en la auditoría que cerró la tanda 1; el informe
 está en `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-**Estado al 16-10-2026.** 22 fuentes ingeridas de 118 documentos, dos de ellas sólo en parte;
-91 pendientes de un universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 69 páginas: 12 en borrador.
+**Estado al 16-10-2026.** 23 fuentes ingeridas de 118 documentos, tres de ellas sólo en parte;
+90 pendientes de un universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 74 páginas: 14 en borrador.
 Núcleo ancla de S1.1 completo, **tanda 1 cerrada** y **tanda 2 cerrada** el 16-10. Siete de ocho clústeres poblados;
 `caso-de-grado` sigue vacío a propósito. Cobertura de S1.1: 17 de 32 títulos oficiales en
 el corpus, 53 %. Nada bloquea la ingesta.
@@ -20,11 +20,11 @@ el corpus, 53 %. Nada bloquea la ingesta.
 
 En este orden:
 
-1. **Tanda 3**, que venció el 16-10: Baratta (2004), caps. I-II, IV, VII y VIII · Kessler
-   (2004) · Blanco (2011). S2.4 empieza el 17-10.
+1. **Tanda 3**, que venció el 16-10: ~~Baratta (2004), caps. I-II, IV, VII y VIII~~, ingerida
+   el 16-10 · Kessler (2004) · Blanco (2011). S2.4 empieza el 17-10.
    La tanda 3 venció el 16-10 y va después, por decisión del autor del mismo día: se
    mantiene el orden establecido. Ver abajo.
-2. **Decisiones que sólo toma el autor.** Siete, en el grupo A de [[revision]]. La más
+2. **Decisiones que sólo toma el autor.** Trece, en el grupo A de [[revision]]. La más
    antigua es la página `tesis-` sobre el anclaje empírico, abierta desde el 29-08. Fuera
    de la cola, una más: retirar de `raw/sources/` el duplicado exacto de Arias (2017) que
    llegó el 02-10; mientras siga, `scripts/estado.py` lo reporta como anomalía.
@@ -50,8 +50,8 @@ documento por documento lo da `python scripts/estado.py`.
       medición de la victimización. El CIPC no cumplió el criterio de Peñalolén, que pasa a la
       tanda 6, y la ley de concentración espera a las normas de la tanda 5. PADS+ pasó a la tanda 3, porque Batthyány y Cabrera no trata los
       diseños longitudinales
-- [ ] **Tanda 3, antes del 16-10:** Baratta (2004), caps. I-II, IV, VII y VIII · Kessler
-      (2004) · Blanco (2011)
+- [ ] **Tanda 3, antes del 16-10:** ~~Baratta (2004), caps. I-II, IV, VII y VIII~~, ingerida
+      el 16-10 · Kessler (2004) · Blanco (2011)
 - [ ] **Tanda 4, antes del 23-10:** Gottfredson y Hirschi (1990) · Clarke (1997) · Felson
       y Eckert (2016)
 - [ ] **Tanda 5, antes del 06-11:** Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya (2024) ·
@@ -71,7 +71,7 @@ Después de la tanda 6 vuelve el orden por cúmulos. Pendientes por cúmulo, seg
 | Sistema penal y Estado de derecho | 6 | Contiene P1 de S1.3 |
 | Gobernanza criminal y territorio | 4 | |
 | Institucionalidad y política de prevención en Chile | 5 | Tres normas de la tanda 5, Luneke y Trebilcock (2023) y el comunicado de la ACOT |
-| Explicación del delito | 4 | Contiene P1 de S1.3, y Gottfredson y Hirschi |
+| Explicación del delito | 3 | Contiene P1 de S1.3, y Gottfredson y Hirschi |
 | Prevención e intervención | 3 | Contiene UNODC (2011), P1 de S1.2, y Clarke (1997) |
 | Vínculo Estado-crimen | 18 | Reserva del electivo S3.E4 |
 | Amenaza y securitización | 24 | Reserva del electivo S3.E4 |
@@ -82,9 +82,9 @@ consulta de S1.1**, García-Pablos completo incluido.
 
 ## Cola de revisión
 
-**35 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
+**36 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
 
-- **A. Decisión del autor (12):**
+- **A. Decisión del autor (13):**
   - tesis del anclaje empírico;
   - página de Vanderschueren;
   - alcance de Zúñiga Núñez;
@@ -96,20 +96,22 @@ consulta de S1.1**, García-Pablos completo incluido.
   - si la ENUSC merece página propia;
   - si se ingiere el resto de Srur (2014);
   - si se ingiere el resto de Tudela (ed.) (2010);
+  - si se ingiere el resto de Baratta (2004);
   - si el Plan Cuadrante tiene página propia o es sección de una página de Carabineros.
 - **B. Verificación bibliográfica (8):** los años de Sampson, Adams y la guía de 2010; el
   borrador de 2020; Zúñiga Núñez; Gardner; el año y los ISBN de Arias; el femicidio.
-- **C. Una obra del corpus (11):** se destraban con las tandas 2 a 6 y, uno de ellos,
+- **C. Una obra del corpus (10):** se destraban con las tandas 2 a 6 y, uno de ellos,
   después.
-- **D. Una fuente que no está en el corpus o no se ha identificado (4):**
+- **D. Una fuente que no está en el corpus o no se ha identificado (5):**
   - Coalición de Diez Puntos;
   - CICIG;
   - capital cultural, que espera a Bourdieu;
+  - criminalidad de cuello blanco, que espera a Sutherland;
   - violencia contra las mujeres en la pareja y la familia, que espera a S3.3.
 
 ## Páginas borrador
 
-Doce. Casi todas por la misma razón: registran una sola posición, o la registran de
+Catorce. Casi todas por la misma razón: registran una sola posición, o la registran de
 segunda mano.
 
 | Página | Qué le falta | Dónde puede estar |
@@ -124,8 +126,10 @@ segunda mano.
 | [[criminologia-del-curso-de-vida]] | Los autores del enfoque | Blanco (2011), tanda 3; Gottfredson y Hirschi, tanda 4 |
 | [[violencia-en-el-noviazgo]] | Una fuente de violencia de género | La bibliografía de S3.3, cuando llegue su programa |
 | [[regimenes-armados-microescala]] | Una segunda fuente que use o discuta el modelo, y un caso chileno | Arias (2006) en `Gobernanza criminal y territorio`, que es del mismo autor; los dos Zeballos, en la tanda 6. Santa Tecla, en el CIPC (2015), es un caso compatible, pero el informe no usa el modelo |
-| [[cultura-callejera]] | Una segunda fuente, y algo que no sea Nueva York en los ochenta | Nada identificado; Salazar (1991), sobre Medellín, está en la bibliografía de S2.4 y falta en el corpus |
+| [[cultura-callejera]] | Una segunda fuente sobre la calle, y algo que no sea Nueva York en los ochenta | Nada identificado; Salazar (1991), sobre Medellín, está en la bibliografía de S2.4 y falta en el corpus |
 | [[buenas-practicas]] | Una fuente que discuta el concepto desde fuera, no que lo use para elegir casos | Nada identificado |
+| [[anomia]] | Durkheim y Merton de primera mano | No están en el corpus. Lamnek, pedido por S1.1, tampoco. Los caps. V y VI de Baratta, sin ingerir, traen las subculturas |
+| [[etiquetamiento]] | Becker, Lemert y Sack de primera mano | No están en el corpus. Lamnek, pedido por S1.1, tampoco |
 
 ## Contradicciones sin resolver
 
@@ -142,15 +146,13 @@ segunda mano.
 
 ## Tensiones registradas
 
-Treinta y cinco, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
-resuelven. Tres podrían moverse con fuentes que ya tienen tanda:
+Treinta y ocho, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
+resuelven. Dos podrían moverse con fuentes que ya tienen tanda:
 
 - **El estatus del control en la prevención** (tensión 3), con Gottfredson y Hirschi en la
   tanda 4.
 - **Las ventanas rotas** (sin número, la que más pesa en el trabajo evaluado de S1.1), con
   Clarke en la tanda 4.
-- **Tres ideas de evidencia** (tensión 16), con el CIPC (2015) en la tanda 2, si trae
-  evaluaciones.
 
 ## Mantenimiento
 
@@ -179,7 +181,8 @@ Salió de la auditoría del 27-09-2026. No bloquea nada.
 
 - [ ] **Módulo 5 de S1.1**, sobre teoría de la tensión y delitos de cuello blanco: ninguna
       fuente primaria. Faltan Merton, los dos Sutherland y Lamnek. Baratta (2004) lo
-      cubre de segunda mano, en la tanda 3. Bourgois (2010) agrega una mención más de
+      cubre de segunda mano desde el 16-10: Merton en [[anomia]], y el cuello blanco en
+      [[criminalizacion-y-selectividad-penal]]. Sutherland aparece sólo citado. Bourgois (2010) agrega una mención más de
       segunda mano: en una nota dice que Merton hizo su mismo argumento en los años
       treinta (nota 9, p. 395). No reemplaza a Merton. Batthyány y Cabrera (2011) también
       lo nombra, pero sólo por las teorías de alcance medio (p. 27): no toca la tensión ni

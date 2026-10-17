@@ -9,14 +9,18 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 69 páginas · 22 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
+**Estado:** 74 páginas · 23 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
-fuera del orden · **tanda 2 cerrada el 16-10-2026**; sigue la tanda 3 · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
+fuera del orden · **tanda 2 cerrada el 16-10-2026** · tanda 3 en curso desde el 16-10-2026, con una de sus tres obras ingerida · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
 
 ## Conceptos
 
+- [[anomia]] — Durkheim y Merton: la desviación es normal; fines culturales y medios
+  legítimos, cinco modos de adaptación, el cuello blanco, y la crítica de que legitima la
+  imagen del delito como cosa de pobres. De segunda mano. Borrador (2 fuentes)
 - [[autocontrol-y-disuasion]] — los dos procesos de control de la TAS, y por qué
-  sólo son relevantes bajo condición; y cuándo una amenaza es coerción (2 fuentes)
+  sólo son relevantes bajo condición; y cuándo una amenaza es coerción; y su raíz en la
+  escuela clásica (3 fuentes)
 - [[buenas-practicas]] — experiencias exitosas para adaptar: cómo se arma un banco de
   buenas prácticas, qué sostiene cada caso, replicar no es copiar, y cuatro preguntas para
   leer un caso. Borrador (3 fuentes)
@@ -29,12 +33,16 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026**; sigue la tanda 3 · siete 
 - [[crimen-organizado]] — el problema de las doscientas definiciones, la salida por el
   objetivo, el comercio ilícito contra el dualismo y la frontera jurídica: empírica,
   de legitimación o normativa; y las empresas criminales territoriales (5 fuentes)
+- [[criminalizacion-y-selectividad-penal]] — criminalización primaria y secundaria;
+  cuatro niveles, del desvío a la negatividad social; cuello blanco y cifra negra; las
+  metarreglas y la criminalidad como bien negativo; ¿error de medición o selección?; y
+  dos voces más, una que la resume y otra que pide criminalizar (5 fuentes)
 - [[criminologia-del-curso-de-vida]] — trayectorias, puntos de inflexión y
   desistimiento; el autocontrol temprano pesa pero no está sellado; y trayectorias de
   East Harlem donde también el empleo ilegal ordena. Borrador (2 fuentes)
 - [[cultura-callejera]] — la respuesta a la exclusión que da un foro propio a la
   dignidad y a la vez organiza la destrucción de quienes participan; contra la cultura
-  de la pobreza. Borrador (1 fuente)
+  de la pobreza; y Merton, de segunda mano. Borrador (2 fuentes)
 - [[debilidad-estatal]] — el paradigma de la suma cero entre Estado y crimen, y la
   política de construir Estado que de él se sigue; tres críticas (3 fuentes)
 - [[desorganizacion-social]] — la tradición de Chicago llevada del barrio a la calle;
@@ -46,6 +54,9 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026**; sigue la tanda 3 · siete 
 - [[eficacia-colectiva]] — cohesión más expectativas compartidas de intervenir:
   el mecanismo que media entre desventaja concentrada y violencia; en América Latina,
   condicionada a la policía; y una medida oficial con otra definición (7 fuentes)
+- [[etiquetamiento]] — la desviación como cualidad atribuida; dos paradigmas;
+  desviación secundaria y carreras; la definición y el poder; ¿complemento o ruptura?, y
+  sus críticas. Borrador (2 fuentes)
 - [[exposicion-criminogena]] — el lado entorno: contexto moral, oportunidades y
   fricciones; y el efecto de área condicionado a quién lo use (1 fuente)
 - [[filtro-moral]] — la percepción selectiva de alternativas de acción; por qué la
@@ -59,6 +70,9 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026**; sigue la tanda 3 · siete 
   cerrados: lo que se construye cuando el estado no provee; y el barrio crítico visto
   desde Santiago y Rio; y el grupo que no reemplaza al Estado sino que lo media
   (3 fuentes)
+- [[ideologia-de-la-defensa-social]] — seis principios que comparten la escuela clásica
+  y la positiva, y la teoría que niega cada uno; la raíz de la disuasión, la prevención
+  social y el daño (1 fuente)
 - [[legitimidad-policial]] — condición de posibilidad de la cooperación entre
   vecinos y policía, con evidencia de Boston, Cali y México; y si la focalización la
   erosiona; autoridad frente a acatamiento por temor; la crisis de autonomía de
@@ -67,7 +81,8 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026**; sigue la tanda 3 · siete 
 - [[mano-dura-y-militarizacion]] — la política dominante de la región, su
   popularidad transversal, la evidencia sobre sus efectos, y México y la edad penal
   desde la prevención; y la mano dura que cohesiona a los grupos y encarcela a los
-  pobres; y El Salvador en cifras (5 fuentes)
+  pobres; y El Salvador en cifras; y la cárcel que consolida la identidad desviada
+  (6 fuentes)
 - [[mediacion-comunitaria]] — diálogo para transformar conflictos, contra la
   mediación penal vertical y la mano dura; sin evaluaciones, y de una sola escuela
   (2 fuentes)
@@ -76,7 +91,8 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026**; sigue la tanda 3 · siete 
   en Maipú y Peñalolén; la cultura del terror y el miedo bajo un orden armado; la cifra
   nacional de 2021, y si la brecha viene de lo que no se mide (5 fuentes)
 - [[moralismo-legal]] — si la inmoralidad basta para prohibir; prohibir la
-  inmoralidad no es imponer la moralidad; el Estado como agente moral (2 fuentes)
+  inmoralidad no es imponer la moralidad; el Estado como agente moral; y otro criterio,
+  desde la criminología crítica (3 fuentes)
 - [[muerte-social]] — ceros sociales, humillación y búsqueda perversa del respeto, y la
   misma búsqueda vista en East Harlem; superfluos pero sin conciencia de serlo (2 fuentes)
 - [[policia-comunitaria]] — el modelo policial derivado de la eficacia colectiva, las
@@ -88,7 +104,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026**; sigue la tanda 3 · siete 
   primera (2 fuentes)
 - [[prevencion-del-delito]] — dos concepciones, tres clasificaciones que no calzan,
   factores de riesgo como base o límite, y una crítica etnográfica; por qué el éxito de
-  la prevención no se ve (2 fuentes)
+  la prevención no se ve; Romagnosi, y lo que el etiquetamiento niega (3 fuentes)
 - [[propension-al-delito]] — el lado persona: moral legalmente relevante más
   capacidad de autocontrol, y la aversión al delito (1 fuente)
 - [[puntos-calientes]] — la ley de concentración del delito en microlugares; no son
@@ -98,7 +114,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026**; sigue la tanda 3 · siete 
   uno; y Santa Tecla, un caso compatible. Borrador (3 fuentes)
 - [[teoria-accion-situacional]] — el delito como acción moral y las causas como
   situacionales; los atributos no son causas; leída como corrección de la prevención
-  situacional (3 fuentes)
+  situacional; y frente al etiquetamiento (4 fuentes)
 - [[tipologia-barrial]] — las cinco categorías de barrio con que ONU-Hábitat organiza
   una política de prevención municipal, y su versión de 2010: cuatro tipos y la
   pregunta entre barrio vulnerado y crítico; y por qué un programa rinde distinto
@@ -146,7 +162,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026**; sigue la tanda 3 · siete 
   muestreo teórico y otro sentido de triangulación; un caso de combinación (3 fuentes)
 - [[estadisticas-delictuales]] — cómo contar e interpretar delitos desde los registros
   policiales: tres fuentes y sus sesgos, dos fechas, reglas de conteo, tasas por blanco,
-  y por qué los registros no son una muestra (3 fuentes)
+  y por qué los registros no son una muestra; y lo que el registro selecciona (4 fuentes)
 - [[evaluacion-de-programas]] — no basta saber qué funciona, sino por qué; evidencia,
   implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; el
   mismo diagnóstico desde la violencia en el noviazgo; dos sentidos de «por qué»; y la
@@ -176,6 +192,9 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026**; sigue la tanda 3 · siete 
 - [[arias-empresas-criminales-y-gobernanza]] — Arias, 2017. Política comparada sobre seis
   barrios de Rio, Kingston y Medellín. Ningún programa recibido lo nombra. Fuera del
   orden por calendario
+- [[baratta-criminologia-critica]] — Baratta, 2004, reimpresión de una traducción de
+  1986 de una obra de 1982. Sólo los caps. I-II, IV, VII y VIII: la ideología de la defensa
+  social, Merton y el etiquetamiento. Bibliografía de S1.3. Primera de la tanda 3
 - [[batthyany-metodologia-investigacion]] — Batthyány y Cabrera (coords.), 2011. Manual
   docente de metodología de la Universidad de la República, que compila a otros autores.
   Bibliografía de S1.2. Primera de la tanda 2

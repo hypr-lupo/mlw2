@@ -35,6 +35,14 @@ el PDF trae el año 2017 en la página de derechos, 2016 en el catálogo de la e
 2018 en la primera edición en rústica; ISBN ilegible · obra en inglés sin traducción · el
 corpus omite «y el Caribe» en el título
 
+Baratta, A. (2004). *Criminología crítica y crítica del derecho penal: introducción a la
+sociología jurídico-penal* (Á. Búnster, Trad.). Siglo XXI Editores Argentina. (Obra
+original publicada en 1982)
+→ [[baratta-criminologia-critica]] · **verificación bibliográfica pendiente**: divergencia
+de edición, ver la tabla de abajo · primera reimpresión argentina de la traducción de
+1986 · **ingesta parcial**: sólo los caps. I-II, IV, VII y VIII · expone a Durkheim,
+Merton, Becker, Lemert y Sack de segunda mano: citarlos por su obra, no por Baratta
+
 Batthyány, K. y Cabrera, M. (Coords.). (2011). *Metodología de la investigación en
 Ciencias Sociales. Apuntes para un curso inicial*. Universidad de la República.
 → [[batthyany-metodologia-investigacion]] · verificada contra la portada y la página de
@@ -185,7 +193,7 @@ el documento, no por inferencia.
 | Obra | Pide el programa | Tiene el corpus |
 |---|---|---|
 | Ferrajoli, *Derecho y razón* | 2008, Trotta | 1995 |
-| Baratta, *Criminología crítica* | 1986, Siglo XXI | 2004, reimpresión argentina |
+| Baratta, *Criminología crítica* | 1986, Siglo XXI | 2004, primera reimpresión argentina. Los créditos dicen que es la traducción de Búnster de 1986. Ingerida el 16-10-2026 sólo en los caps. I-II, IV, VII y VIII |
 | Pavarini, *Control y dominación* | 1981, subtítulo «proyecto fascista de orden» | 2002, subtítulo «proyecto hegemónico» |
 | Srur, *¿Qué observan los que observan el delito?* | 2015 | octubre de 2014. Ingerida el 16-10-2026 sólo en las pp. 26-45 |
 | Sampson, *Vecindario y comunidad* | 2006 | traducción sin año declarado de un original de 2004 |

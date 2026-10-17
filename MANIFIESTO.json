@@ -134,6 +134,13 @@
       "bytes": 3201908,
       "ingerido": "2026-10-16",
       "ficha": "wiki/sources/cipc-experiencias-exitosas.md"
+    },
+    "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf": {
+      "sha256": "46347e22f3f0a55be32c0243fb116e8b9baaa0183c31779491bc2addb33eb83a",
+      "bytes": 9943685,
+      "ingerido": "2026-10-16",
+      "ficha": "wiki/sources/baratta-criminologia-critica.md",
+      "alcance": "parcial: caps. I-II, IV, VII y VIII, pp. 21-43, 56-65 y 83-119, más el índice"
     }
   }
 }

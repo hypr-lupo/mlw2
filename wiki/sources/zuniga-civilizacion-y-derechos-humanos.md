@@ -15,7 +15,7 @@ procedencia: fuentes
 estado: revisado
 truncado: false
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-10-16
 ---
 
 # Civilización y derechos humanos (Zúñiga Núñez)
@@ -90,7 +90,7 @@ Es la parte del texto que toca el campo de esta wiki. Está dispersa y ocupa poc
 - [[crimen-organizado]] — la frontera entre organización criminal y poder legítimo como efecto de legitimación
 - [[debilidad-estatal]] — una segunda crítica al paradigma: el monopolio de la violencia no existió
 - [[legitimidad-policial]] — otro sentido de legitimidad, fundado en el miedo
-- Criminalización primaria y secundaria, selectividad penal, derecho penal simbólico — usados de segunda mano; su página espera a Baratta (2004). Ver [[revision]]
+- [[criminalizacion-y-selectividad-penal]] — usados de segunda mano. Desde el 16-10 la página nace con Baratta (2004), y este texto es su segunda voz. El derecho penal simbólico sigue sin página
 - Derecho empírico y derecho formal, efecto terrorista del derecho, Estado global — propios del texto, sin página
 
 ## Conexiones con otras fuentes
@@ -99,7 +99,8 @@ Es la parte del texto que toca el campo de esta wiki. Está dispersa y ocupa poc
 - [[albarracin-crimen-organizado-america-latina]] — ambos rechazan el paradigma de la suma cero entre Estado y crimen, por razones distintas. Tensión registrada en [[debilidad-estatal]] y en [[crimen-organizado]].
 - [[sampson-vecindario-y-comunidad]] — la legitimidad como justicia procedimental, frente a la legitimidad como miedo. Nota en [[legitimidad-policial]].
 - [[gardner-prohibir-inmoralidades]] — añadido el 26-09-2026. Dos tensiones, construidas por esta wiki. **La justificación del castigo**: este texto la trata como efecto del poder, Gardner como exigencia moral que el Estado puede no cumplir. **El modo en que rige el derecho**: aquí, por la amenaza del castigo; para Gardner, por autoridad, con la coerción como respaldo. Registradas en [[moralismo-legal]] y [[crimen-organizado]].
-- **Por confrontar, en el corpus sin ingerir:** Baratta (2004), para la criminología crítica que el texto resume; Tanguay-Renaud (2013), *Criminalizar al Estado*, en el mismo cúmulo; y Tilly, en `Vínculo Estado-crimen`, cuya tesis del Estado como empresa de protección se parece a la de este texto sin que la cite [^inf-1].
+- [[baratta-criminologia-critica]] — añadido el 16-10-2026. Desarrolla la selectividad penal que este texto resume, y coincide con el resumen. Ver [[criminalizacion-y-selectividad-penal]].
+- **Por confrontar, en el corpus sin ingerir:** Tanguay-Renaud (2013), *Criminalizar al Estado*, en el mismo cúmulo; y Tilly, en `Vínculo Estado-crimen`, cuya tesis del Estado como empresa de protección se parece a la de este texto sin que la cite [^inf-1].
 
 ---
 

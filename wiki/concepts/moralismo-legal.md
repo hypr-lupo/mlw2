@@ -1,13 +1,13 @@
 ---
 title: Moralismo legal
 type: concept
-sources: ["2007 - Gardner - La prohibición de las inmoralidades.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf"]
+sources: ["2007 - Gardner - La prohibición de las inmoralidades.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf"]
 cluster: sistema-penal
 curso: []
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-10-16
 ---
 
 # Moralismo legal
@@ -49,11 +49,15 @@ Si lo político no precede a lo moral, el Estado no es un agente aparte. Tiene l
 > [!warning] Tensión con Zúñiga Núñez
 > [[zuniga-civilizacion-y-derechos-humanos]] sostiene que el castigo se distingue de otra violencia sólo por su justificación política posterior, que la legitimidad está dada por el miedo, y que el derecho rige por la amenaza del castigo [^ext-14]. Gardner coincide en el punto de partida —la coerción estatal es, en su materia, lo que normalmente sería un mal— y se separa en todo lo demás. La justificación no es un efecto del poder sino una exigencia moral que puede no cumplirse. Y el derecho no rige por amenaza sino por autoridad, con la coerción como respaldo [^inf-1]. La tensión la construye esta wiki: ninguno cita al otro. Ver [[crimen-organizado]].
 
+## Otro criterio, desde la criminología crítica
+
+Añadido el 16-10-2026 al ingerir [[baratta-criminologia-critica]]. Baratta también busca un criterio de lo que debería ser delito fuera de la ley vigente. Lo pone en los «comportamientos socialmente negativos»: los que lesionan necesidades e intereses importantes de los individuos o de la comunidad [^ext-15]. Gardner lo pone en la moral, con tres condiciones. Los dos rechazan que la ley vigente sea su propia medida, y responden con criterios distintos [^inf-3]. Ver [[criminalizacion-y-selectividad-penal]].
+
 ## Lo que falta
 
 - **El debate clásico.** Ni Hart ni Devlin ni Feinberg están en el corpus, y Gardner no los discute: trata las tres condiciones como supuestos compartidos [^inf-2].
-- **Las condiciones mismas.** El principio de daño y el Estado de derecho no tienen página. Ferrajoli (1995), *Derecho y razón*, está en el corpus sin ingerir y es la fuente natural para ambos. Ver [[revision]].
-- **La aplicación.** Nada de lo que hay aquí toca un sistema penal concreto. Silva Sánchez (2001), sobre la expansión del derecho penal, y Tanguay-Renaud (2013), sobre la criminalización del Estado, están en el mismo cúmulo sin ingerir.
+- **Las condiciones mismas.** El principio de daño y el Estado de derecho no tienen página. Ferrajoli (1995), *Derecho y razón*, está en el corpus sin ingerir y es la fuente natural para ambos. Ver [[revision]]. Desde el 16-10 está la raíz histórica del primero: para Beccaria, la esencia y la medida del delito están en el daño social [^ext-16]. Ver [[ideologia-de-la-defensa-social]].
+- **La aplicación.** Nada de lo que hay aquí toca un sistema penal concreto. Desde el 16-10, [[criminalizacion-y-selectividad-penal]] trata a quién se aplica la ley penal, pero en Europa y Estados Unidos [^ext-17]. Silva Sánchez (2001), sobre la expansión del derecho penal, y Tanguay-Renaud (2013), sobre la criminalización del Estado, están en el mismo cúmulo sin ingerir.
 
 ## Relacionado
 
@@ -62,6 +66,8 @@ Si lo político no precede a lo moral, el Estado no es un agente aparte. Tiene l
 - [[crimen-organizado]] — la frontera entre crimen y poder legítimo, donde la tensión anterior se registra
 - [[legitimidad-policial]] — autoridad frente a coerción, aplicada a la policía
 - [[autocontrol-y-disuasion]] — cuándo opera una amenaza, desde la criminología
+- [[criminalizacion-y-selectividad-penal]] — otro criterio de lo que debería ser delito, y a quién se aplica la ley
+- [[ideologia-de-la-defensa-social]] — el daño social de Beccaria
 
 ---
 
@@ -79,5 +85,9 @@ Si lo político no precede a lo moral, el Estado no es un agente aparte. Tiene l
 [^ext-12]: **Extraído** — [[gardner-prohibir-inmoralidades]], §3, pp. 17-19, sobre Schelling (1960).
 [^ext-13]: **Extraído** — [[gardner-prohibir-inmoralidades]], §4, pp. 21-22.
 [^ext-14]: **Extraído** — [[zuniga-civilizacion-y-derechos-humanos]], pp. 93-94 y 111-112.
+[^ext-15]: **Extraído** — [[baratta-criminologia-critica]], cap. VII, p. 99, n. 28.
+[^ext-16]: **Extraído** — [[baratta-criminologia-critica]], cap. I, p. 26.
+[^ext-17]: **Extraído** — [[baratta-criminologia-critica]], cap. VIII, pp. 106-108.
 [^inf-1]: **Inferido** (confianza 0.7) — comparación entre [[gardner-prohibir-inmoralidades]], pp. 15-16 y 21-22, y las tesis de Zúñiga Núñez registradas en su ficha.
 [^inf-2]: **Inferido** (confianza 0.8) — el texto no menciona a esos autores, y presenta las tres condiciones como puntos de partida que casi todos aceptan.
+[^inf-3]: **Inferido** (confianza 0.6) — combinando [[gardner-prohibir-inmoralidades]] y [[baratta-criminologia-critica]]. Ninguno discute al otro.

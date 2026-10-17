@@ -8,6 +8,50 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-16] ingesta | Baratta (2004), Criminología crítica y crítica del derecho penal, caps. I-II, IV, VII y VIII
+
+**Primera obra de la tanda 3, que venció hoy.** Ingesta parcial, según [[purpose]]: pp. 21-43,
+56-65 y 83-119, más el índice. Siguen Kessler (2004) y Blanco (2011).
+
+- Ficha creada: [[baratta-criminologia-critica]]. Primera reimpresión argentina, de 2004, de la
+  traducción de Búnster de 1986. `verificacion_bibliografica: pendiente` por la divergencia de
+  edición ya registrada en [[referencias]]. `truncado: true`.
+- Páginas creadas (4):
+  · [[ideologia-de-la-defensa-social]], en `sistema-penal`;
+  · [[criminalizacion-y-selectividad-penal]], en `sistema-penal`, con Zúñiga y Valdivia y otros
+    como segunda y tercera voz;
+  · [[etiquetamiento]], en `explicacion-del-delito`, en borrador;
+  · [[anomia]], en `explicacion-del-delito`, en borrador y de segunda mano.
+- Páginas actualizadas (10):
+  · [[estadisticas-delictuales]]: lo que el registro selecciona;
+  · [[teoria-accion-situacional]]: frente al etiquetamiento, y las dos selecciones;
+  · [[cultura-callejera]]: Merton, de segunda mano, y la crítica de Baratta;
+  · [[prevencion-del-delito]]: Romagnosi, y lo que el etiquetamiento niega;
+  · [[autocontrol-y-disuasion]]: la disuasión como idea clásica;
+  · [[mano-dura-y-militarizacion]]: la cárcel que consolida la identidad desviada;
+  · [[moralismo-legal]]: otro criterio de lo que debería ser delito, y el daño de Beccaria;
+  · [[zuniga-civilizacion-y-derechos-humanos]], [[valdivia-violencia-en-el-noviazgo]] y
+    [[bourgois-en-busca-de-respeto]]: menciones que esperaban a Baratta.
+  · Más [[index]], [[referencias]], [[overview]], [[revision]] y [[pendientes]].
+- Contradicciones y tensiones: 3 nuevas, todas formuladas por esta wiki.
+  · **¿Por qué se delinque, o quién es definido como delincuente?** (tensión 36). En
+    [[etiquetamiento]] y [[teoria-accion-situacional]].
+  · **La cifra negra: ¿error de medición o resultado de la selección?** (tensión 37). En
+    [[criminalizacion-y-selectividad-penal]] y [[estadisticas-delictuales]].
+  · **¿Explicar el delito de los pobres lo critica o lo confirma?** (tensión 38). En [[anomia]]
+    y [[cultura-callejera]].
+- En revisión: 1 resuelto (criminalización y selectividad penal, `crear-pagina`) y 2 nuevos
+  (el resto de Baratta, `preguntar`; criminalidad de cuello blanco, `crear-pagina`, que espera
+  a Sutherland). La cola pasa a 36.
+- Análisis de fase 1 persistido en
+  `despliegue/fase1/2026-10-16-baratta-criminologia-critica.md`.
+- Notas: el OCR es deficiente, pero se lee. Merton, Durkheim, Becker, Lemert y Sack llegan
+  reconstruidos por Baratta: las páginas lo advierten. `grafo.py` marca tres pares sin enlace
+  con dos fuentes en común (anomia con mano dura y con prevención, autocontrol con
+  etiquetamiento). Se dejaron sin enlazar: comparten a Baratta y a Bourgois o a Wikström por
+  temas distintos. En [[pendientes]] se retiró la tensión 16 de las que podían moverse: el
+  CIPC no trajo evaluaciones. Toca 15 páginas de contenido, ficha incluida.
+
 ## [2026-10-16] ingesta | CIPC (2015), Experiencias exitosas en prevención de la criminalidad en América Latina
 
 **Sexta y última obra de la tanda 2, que queda cerrada seis días tarde.** Sigue la tanda 3.

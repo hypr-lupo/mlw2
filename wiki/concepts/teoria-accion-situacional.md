@@ -1,13 +1,13 @@
 ---
 title: Teoría de la acción situacional (TAS)
 type: concept
-sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
+sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-10-16
 ---
 
 # Teoría de la acción situacional (TAS)
@@ -86,6 +86,17 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. El c
 
 Es una lectura con consecuencia práctica: si el delito depende de la propensión además de la oportunidad, cerrar oportunidades sin tocar la propensión mueve el problema. Pero la afirmación sobre el desplazamiento es del cap. I, no de Wikström, y choca con la evidencia que reúne [[weisburd-el-lugar-importa]]. Ver [[desplazamiento-y-difusion]], donde la contradicción queda acotada [^inf-1].
 
+## Frente al etiquetamiento
+
+Añadido el 16-10-2026 al ingerir [[baratta-criminologia-critica]]. La TAS es una teoría etiológica declarada. Pregunta por qué las personas delinquen, y trata la ley como un conjunto de reglas morales [^ext-4]. El [[etiquetamiento]] cambia la pregunta: quién es definido como delincuente, y quién lo define [^ext-25]. Según Baratta, la criminología etiológica toma del derecho sus definiciones, y estudia la cualidad criminal como si existiera objetivamente [^ext-26].
+
+La TAS no es ingenua sobre la ley. Admite que la gente delinque porque no está de acuerdo con una regla, y no juzga si una ley es buena o mala [^ext-5] [^ext-6]. Pero su pregunta sigue siendo por la acción, no por la definición [^inf-2].
+
+**Dos selecciones distintas.** La TAS llama selección a las fuerzas que llevan a ciertas personas a ciertos entornos [^ext-14]. Baratta llama selección al proceso que decide a quién se atribuye la calidad de criminal [^ext-27]. La misma palabra nombra dos procesos distintos [^inf-2].
+
+> [!warning] ¿Por qué se delinque, o quién es definido como delincuente?
+> Para Keckeisen, el paradigma etiológico y el de la reacción social son incompatibles en su forma pura. Baratta admite que el etiquetamiento anglosajón puede complementar la investigación etiológica [^ext-28]. Si se complementan, la TAS explica la acción y deja abierta la pregunta por la selección. Si no, explica la conducta de los ya seleccionados [^inf-2]. Ver [[etiquetamiento]].
+
 ## Cita
 
 > "Los delitos son acciones morales"
@@ -101,6 +112,7 @@ Es una lectura con consecuencia práctica: si el delito depende de la propensió
 - [[eficacia-colectiva]] — la teoría la incorpora como marcador de contexto moral débil y le señala un límite
 - [[puntos-calientes]] — la explicación rival de la concentración del delito
 - [[vanderschueren-prevencion-del-delito]] — la TAS como corrección de la prevención situacional
+- [[etiquetamiento]] — el paradigma que cambia la pregunta
 
 El módulo 6 de `programa/S1.1` agrupa esta obra con las teorías del control social, la prevención situacional y el ciclo vital, «como explicaciones de la criminalidad y como enfoques preventivos». La TAS acota las tres: el control sólo es relevante bajo condición, y la mayoría de las abstenciones no son actos de contención. Ver [[autocontrol-y-disuasion]].
 
@@ -130,4 +142,9 @@ El módulo 6 de `programa/S1.1` agrupa esta obra con las teorías del control so
 [^ext-22]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 70-71, sobre Wikström (2010) y Bernasco y otros (2013).
 [^ext-23]: **Extraído** — [[weisburd-el-lugar-importa]], pp. 148 y 150.
 [^ext-24]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, pp. 43-44, sobre Wikström (2010).
+[^ext-25]: **Extraído** — [[baratta-criminologia-critica]], cap. VII, p. 87.
+[^ext-26]: **Extraído** — [[baratta-criminologia-critica]], cap. VII, p. 86.
+[^ext-27]: **Extraído** — [[baratta-criminologia-critica]], cap. VIII, pp. 106 y 113.
+[^ext-28]: **Extraído** — [[baratta-criminologia-critica]], cap. VII, p. 90.
 [^inf-1]: **Inferido** (confianza 0.6) — el cap. I no discute a Weisburd y otros ni las revisiones sobre desplazamiento. La conexión entre propensión y desplazamiento es lectura de esta wiki a partir del cap. I.
+[^inf-2]: **Inferido** (confianza 0.6) — combinando [[wikstrom-por-que-se-delinque]] y [[baratta-criminologia-critica]]. Ninguno discute al otro. La tensión la formula esta wiki.

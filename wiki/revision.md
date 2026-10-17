@@ -14,11 +14,11 @@ ingesta. Acciones admitidas, conjunto cerrado: `crear-pagina`, `investigar`,
 
 Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026, con la
 ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con las de Batthyány y Cabrera
-(2011), el INE (2023), Srur (2014), el capítulo de Boba (2010) y el CIPC (2015). Agrupa los ítems abiertos por lo que los
+(2011), el INE (2023), Srur (2014), el capítulo de Boba (2010), el CIPC (2015) y Baratta (2004). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**35 abiertos.**
+**36 abiertos.**
 
-**A. Sólo esperan una decisión del autor (12).** Se pueden resolver hoy.
+**A. Sólo esperan una decisión del autor (13).** Se pueden resolver hoy.
 
 | Ítem | Acción | Qué hay que decidir |
 |---|---|---|
@@ -34,6 +34,7 @@ destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
 | `[ingesta]` El resto de Srur (2014) | `preguntar` | Si se ingiere lo que el programa no pide: genealogía, enfoques, casos de Quito y Panamá y modelo de madurez |
 | `[ingesta]` El resto de Tudela (ed.) (2010) | `preguntar` | Si se ingieren los cinco capítulos que el programa no pide, entre ellos uno sobre el Ministerio Público chileno |
 | `[entidad]` Plan Cuadrante, y quizá Carabineros | `crear-pagina` | El criterio se cumple en la letra desde el 16-10: el CIPC (2015) lo describe desde fuera, pero en un párrafo y en contra de las evaluaciones. Queda decidir si es página de programa o sección de una página de Carabineros |
+| `[ingesta]` El resto de Baratta (2004) | `preguntar` | Si se ingieren los capítulos que el orden no fija: subculturas y neutralización, conflicto, criminología crítica, cárcel y política criminal alternativa |
 
 **B. Esperan una verificación bibliográfica fuera del corpus (8).** Cada ítem trae su
 consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos evaluados.
@@ -49,7 +50,7 @@ consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos
 | `[fuente]` Estado legal del pololeo | Resuelto en parte con la Ley 21.675; falta el tipo penal de femicidio |
 | `[fuente]` Año e ISBN de Arias | 2016, 2017 o 2018, y los dos ISBN, en el catálogo de la editorial |
 
-**C. Esperan una obra que ya está en el corpus (11).** Se resuelven solos si el orden de
+**C. Esperan una obra que ya está en el corpus (10).** Se resuelven solos si el orden de
 ingesta se cumple.
 
 | Ítem | Acción | Obra que lo destraba | Tanda |
@@ -58,7 +59,6 @@ ingesta se cumple.
 | `[entidad]` Política de seguridad de Peñalolén | `crear-pagina` | Luneke y Trebilcock (2023), si la trata. El CIPC (2015) la incluye, pero desde la misma voz | 6 |
 | `[investigar]` Ley de concentración en una comuna chilena | `investigar` | Las normas de la tanda 5. Las metodológicas de la tanda 2 no traen el estudio | 5 |
 | `[concepto]` Articulación nacional y local de la seguridad | `crear-pagina` | Ley 21.802 y Decreto 96 (PNSP) | 5 |
-| `[concepto]` Criminalización y selectividad penal | `crear-pagina` | Baratta (2004) | 3 |
 | `[concepto]` Control social informal | `crear-pagina` | Gottfredson y Hirschi (1990) | 4 |
 | `[concepto]` Teorías de la oportunidad | `crear-pagina` | Clarke (1997); Felson y Eckert (2016) | 4 |
 | `[entidad]` Quiero mi Barrio | `crear-pagina` | SPD (2022); Luneke y Trebilcock (2023) | 5 y 6 |
@@ -66,7 +66,7 @@ ingesta se cumple.
 | `[concepto]` Principio de daño y Estado de derecho | `crear-pagina` | Ferrajoli (1995) | 6 |
 | `[contradicción]` Legado del conflicto armado | `preguntar` | Dammert (2012), cúmulo `Medición e inseguridad` | después de la 6 |
 
-**D. Esperan una fuente que no está en el corpus o no se ha identificado (4).**
+**D. Esperan una fuente que no está en el corpus o no se ha identificado (5).**
 
 | Ítem | Dónde podría estar |
 |---|---|
@@ -74,10 +74,12 @@ ingesta se cumple.
 | `[entidad]` CICIG | Nada identificado en el corpus |
 | `[concepto]` Capital cultural | Bourdieu (2002), pedido por S2.4 y ausente del corpus |
 | `[concepto]` Violencia contra las mujeres en la pareja y la familia | La bibliografía de S3.3, cuando llegue su programa |
+| `[concepto]` Criminalidad de cuello blanco | Sutherland, pedido por S1.1 y ausente del corpus |
 
 **Qué adelanta cada tanda.** La 2 cerró el 16-10-2026: resolvió medición de la victimización y
-pasó PADS+ a la 3. El CIPC no cumplió el criterio de Peñalolén, que pasa a la 6. La 3 destraba o
-adelanta dos ítems; la 4, dos; la 5, cuatro; la 6, cuatro.
+pasó PADS+ a la 3. El CIPC no cumplió el criterio de Peñalolén, que pasa a la 6. La 3 resolvió
+el 16-10 criminalización y selectividad penal, con Baratta, y le queda PADS+, con Blanco. La 4
+destraba dos ítems; la 5, cuatro; la 6, cuatro.
 
 ## Abiertos
 
@@ -370,22 +372,6 @@ adelanta dos ítems; la 4, dos; la 5, cuatro; la 6, cuatro.
       «Zúñiga Núñez, Ariel», 2013. Hasta resolverlo, la ficha queda con
       `verificacion_bibliografica: pendiente` y la obra no se cita en trabajos evaluados.
 
-- [ ] **[concepto]** Criminalización y selectividad penal — criminalización primaria y
-      secundaria, selectividad del sistema penal, derecho penal simbólico. Hoy sólo
-      aparecen resumidos de segunda mano en [[zuniga-civilizacion-y-derechos-humanos]],
-      junto con su tesis propia: la criminalización como castigo más legitimación.
-      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
-      Criterio: crearla con Baratta (2004), caps. I-II, IV, VII y VIII, que entra en la
-      tanda 3, y sumar a Zúñiga como segunda voz. Hacerla nacer desde un proyecto de tesis
-      inédito fijaría el encuadre desde la fuente más débil del cúmulo.
-      **Enmienda 27-09-2026** (ingesta de [[valdivia-violencia-en-el-noviazgo]]): entra una
-      voz que **defiende** una de las funciones que la página tendrá que discutir. Los
-      autores piden tipificar la violencia en el noviazgo, responsabilidad forzosa del
-      agresor y tolerancia cero, en parte para cambiar la definición cultural de esa
-      violencia (pp. 16 y 20). Es la función simbólica del derecho penal, defendida desde la
-      salud pública y la perspectiva de género, no desde la política criminal. La página
-      tendrá que registrar esa posición como una voz propia, junto a lo que traiga Baratta.
-
 - [ ] **[fuente]** Año y autoría de la *Guía para la prevención en barrios* — tres
       fechas y ninguna coincide. Los créditos de [[vanderschueren-guia-prevencion-barrios]]
       dicen «© 2010», con el código HS/116/10S. El prólogo la presenta como complemento
@@ -654,7 +640,49 @@ adelanta dos ítems; la 4, dos; la 5, cuatro; la 6, cuatro.
       seguridad, y el Decreto 96 de la política nacional, los dos en la tanda 5. Con el CIPC
       solo sería la tesis de un informe sobre ocho países.
 
+- [ ] **[ingesta]** El resto de Baratta (2004) — [[baratta-criminologia-critica]] entró
+      sólo en los caps. I-II, IV, VII y VIII, que son los que fija [[purpose]]. Quedan la
+      introducción, el cap. III sobre las teorías psicoanalíticas, los caps. V y VI sobre las
+      subculturas criminales y las técnicas de neutralización, los caps. IX y X sobre las
+      teorías del conflicto, y los caps. XI a XV sobre la criminología liberal, la crítica, la
+      cárcel y la política criminal alternativa. Más un apéndice y un epílogo sobre América
+      Latina.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-10-16
+      Qué decidir: si se ingieren y cuándo. Los caps. V y VI traen a Sutherland y a Cohen,
+      también de segunda mano, y tocan el módulo 5 de S1.1. Los caps. XII a XV son el núcleo
+      de la obra para S1.3, cuyo programa vigente no ha llegado. El manifiesto registra el
+      alcance parcial.
+
+- [ ] **[concepto]** «Criminalidad de cuello blanco» — aparece en [[anomia]], en
+      [[criminalizacion-y-selectividad-penal]] y en [[estadisticas-delictuales]], siempre de
+      segunda mano: Baratta expone a Sutherland, y Boba sólo nombra su cifra negra.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-10-16
+      Criterio: crearla con una obra de Sutherland. Ninguna está en el corpus, y el programa
+      de S1.1 pide dos para su módulo 5. Escribirla desde Baratta disimularía el vacío que
+      [[purpose]] declara.
+
 ## Resueltos
+
+- [x] **[concepto]** Criminalización y selectividad penal — criminalización primaria y
+      secundaria, selectividad del sistema penal, derecho penal simbólico. Hoy sólo
+      aparecen resumidos de segunda mano en [[zuniga-civilizacion-y-derechos-humanos]],
+      junto con su tesis propia: la criminalización como castigo más legitimación.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
+      Criterio: crearla con Baratta (2004), caps. I-II, IV, VII y VIII, que entra en la
+      tanda 3, y sumar a Zúñiga como segunda voz. Hacerla nacer desde un proyecto de tesis
+      inédito fijaría el encuadre desde la fuente más débil del cúmulo.
+      **Enmienda 27-09-2026** (ingesta de [[valdivia-violencia-en-el-noviazgo]]): entra una
+      voz que **defiende** una de las funciones que la página tendrá que discutir. Los
+      autores piden tipificar la violencia en el noviazgo, responsabilidad forzosa del
+      agresor y tolerancia cero, en parte para cambiar la definición cultural de esa
+      violencia (pp. 16 y 20). Es la función simbólica del derecho penal, defendida desde la
+      salud pública y la perspectiva de género, no desde la política criminal. La página
+      tendrá que registrar esa posición como una voz propia, junto a lo que traiga Baratta.
+      **Resuelto el 16-10-2026 — `crear-pagina`.** Se cumplió el criterio: nace
+      [[criminalizacion-y-selectividad-penal]] con [[baratta-criminologia-critica]] como
+      fuente principal. Zúñiga entra como segunda voz, y coincide con Baratta en lo que
+      resume. Valdivia y otros entran como la voz que pide criminalizar. El derecho penal
+      simbólico sigue sin una fuente crítica: los capítulos ingeridos de Baratta no lo tratan.
 
 - [x] **[método]** «Medición de la victimización» — [[valdivia-violencia-en-el-noviazgo]]
       muestra con datos chilenos que la prevalencia depende de cómo se pregunta: con la
