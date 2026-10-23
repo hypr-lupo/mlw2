@@ -126,9 +126,10 @@ núcleo ancla, según los cúmulos de `INVENTARIO.md`:
 10. Vínculo Estado-crimen (18)
 11. Amenaza y securitización (24)
 
-Cuatro ajustes al orden original. El primero se decidió el 12-09-2026 al cerrar el
-núcleo ancla, los dos siguientes el 13-09-2026 al agnosticar la ingesta, y el cuarto el
-26-09-2026 con el calendario de clases a la vista:
+Cinco ajustes al orden original. El primero se decidió el 12-09-2026 al cerrar el
+núcleo ancla, los dos siguientes el 13-09-2026 al agnosticar la ingesta, el cuarto el
+26-09-2026 con el calendario de clases a la vista, y el quinto el 23-10-2026, al llegar
+cinco obras nuevas y la pauta de la prueba final de S1.1:
 
 - **La bibliografía de consulta de S1.1 sube al segundo lugar**, por delante de los
   programas oficiales restantes. Razón: los cuatro programas de los ramos en curso ya
@@ -169,8 +170,9 @@ núcleo ancla, los dos siguientes el 13-09-2026 al agnosticar la ingesta, y el c
   | 1 | vie 02-10 | Weisburd y otros (2016) · Vanderschueren (2015), guía de barrios · Vanderschueren, Díaz y Guajardo (2021) · Valdivia y otros (2019) · *si alcanza:* Tudela (2015) | S1.1, módulo 3. Vanderschueren y otros (2021) incluye el capítulo de Tudela que se lee en la clase 1 de S1.2. Valdivia es la única lectura de la clase 4 de S1.2 en el corpus. Tudela (2015) apoya la síntesis de la clase de policía |
   | 2 | sáb 10-10 | Batthyány y Cabrera (2011) · Vives Varela y Hamui Sutton (2021) · INE (2023) · Srur (2014), pp. 26-45 · Tudela (ed.) (2010), solo el capítulo de Boba · CIPC (2015) | Clase 5 y las dos evaluaciones de S1.2. Srur y Boba entran en parte, porque el programa acota esas lecturas |
   | 3 | vie 16-10 | Baratta (2004), caps. I-II, IV, VII y VIII · Kessler (2004) · Blanco (2011) | S1.1, módulo 5, y las primeras clases de S2.4 (desde el 17-10) |
-  | 4 | vie 23-10 | Gottfredson y Hirschi (1990) · Clarke (1997) · Felson y Eckert (2016) | S1.1, módulo 6 |
-  | 5 | vie 06-11 | Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya (2024) · SPD (2022), orientaciones técnicas · Campana y Meneghini (2024) · Bergman (2023) | S1.1, módulo 7, y el trabajo grupal, cuyos talleres son el 13 y el 20-11. Si el grupo elige su política antes, las cuatro primeras se adelantan |
+  | 4a | sáb 24-10 | Duarte Quapper (2012) · Bourdieu (2002) · Brizuela (2014) | S2.4: Duarte y Bourdieu, módulo I. Brizuela, módulo III. Se agregó el 23-10 y va antes que el resto de la tanda 4 |
+  | 4 | vie 06-11 (era vie 23-10) | Gottfredson y Hirschi (1990), ingerida el 17-10 · Clarke (1997) · Felson y Eckert (2016) | S1.1, módulo 6. El resto corre detrás de la 4a |
+  | 5 | vie 06-11 | Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya (2024) · SPD (2022), orientaciones técnicas · Gobierno de Santiago (s.f.), guía de barrios · Campana y Meneghini (2024) · Bergman (2023) · *si alcanza:* Schroeder y Coello-Torres (2019) | S1.1, módulo 7, y el trabajo grupal, cuyos talleres son el 13 y el 20-11. Si el grupo elige su política antes, las cuatro primeras se adelantan. Si elige un espacio público, se adelanta Schroeder y Coello-Torres |
   | 6 | vie 27-11 | Garland (Gedisa) · Wacquant · Luneke y Trebilcock (2023) · Alda y Beliz (2007) · Zeballos (2024) · Bergman (2016) · Silva Sánchez · Ferrajoli | Inicio de S1.3, y lo que queda de la bibliografía de S1.1 |
 
   Terminada la tanda 6, vuelve el orden por cúmulos para el resto. No cambian tres
@@ -182,8 +184,26 @@ núcleo ancla, los dos siguientes el 13-09-2026 al agnosticar la ingesta, y el c
   · el programa vigente de S1.3: sin él, su bibliografía propia no pondera. El de S2.4
     llegó el 17-10-2026;
   · si Vozmediano y San Juan sale de la cuarentena para cubrir el módulo 4, sobre
-    urbanismo (09-10), que no tiene otra obra en el corpus;
+    urbanismo (09-10). Desde el 23-10, Schroeder y Coello-Torres (2019) cubre una parte:
+    el placemaking que expuso la clase;
   · conseguir Canales (2006) y Miranda y Gac (2020) para la clase 4 de S1.2 (03-10).
+- **Tanda 4a y dos obras más en la tanda 5** (23-10-2026). Llegaron cinco obras nuevas,
+  identificadas en `INVENTARIO.md`, y la pauta de la prueba final de S1.1. Razones:
+  · Duarte Quapper (2012), Bourdieu (2002) y Brizuela (2014) son obligatorias de S2.4,
+    un ramo en curso. La regla de prioridad de más abajo adelanta la P1 de un ramo en
+    curso sobre el material de reserva. Clarke es P2 en S1.1, y Felson y Eckert no tiene
+    ramo asignado. Además, la clase de S2.4 del 17-10 trató juventud y adultocentrismo, y
+    los tres textos son cortos.
+  · La tanda 4 venció el 23-10 con una sola obra ingerida. El atraso pesa poco: el 30-10
+    no hay clase y el 31-10 es interferiado, de modo que la próxima clase de S1.1 es la
+    del 06-11. Su resto se cierra antes de esa fecha, detrás de la 4a.
+  · La pauta de la prueba final admite como objeto un espacio público significativo, y
+    el grupo todavía no elige caso. La guía del Gobierno de Santiago tiene entre sus
+    autores a Díaz Urrutia y Vanderschueren, docentes de S2.4 y S1.1, y trae una
+    tipología de barrios aplicable al análisis. Schroeder y Coello-Torres (2019) se
+    adelanta solo si el caso es un espacio público.
+  Si la 4a no alcanza antes de la clase del 24-10, se cierra antes de la del 07-11. La
+  tanda 6 no cambia.
 
 **Corpus sin clasificar.** Trece archivos ingresaron a `raw/sources/` el 12-09-2026 sin
 nomenclatura y sin decisión de alcance. Están en cuarentena en `INVENTARIO.md` y **no
@@ -247,9 +267,11 @@ es la de S1.1, S1.2 y S2.4**, y sólo ésa.
   con material de crimen organizado.
 - **Criminología feminista**, objetivo específico declarado de S1.1: falta Renzetti
   (2013), el único título que la cubre.
-- **S2.4** es un ramo en curso con **un solo** título de su bibliografía vigente en el
-  corpus, de 46: el cap. X de Vanderschueren, Díaz y Guajardo (2021), de su propio
-  docente. Su módulo I, sobre juventudes, no tiene ninguna obra en el corpus. Kessler
+- **S2.4** es un ramo en curso con **cuatro** títulos de su bibliografía vigente en el
+  corpus, de 46. Hasta el 23-10 tenía uno solo: el cap. X de Vanderschueren, Díaz y
+  Guajardo (2021), de su propio docente. Ese día se identificaron Bourdieu (2002), Duarte
+  Quapper (2012) y Brizuela (2014), en la tanda 4a. Los dos primeros son las únicas obras
+  del corpus para su módulo I, sobre juventudes, y todavía no se ingieren. Kessler
   (2004), Blanco (2011) y Gottfredson y Hirschi (1990) cubren el módulo III por
   contenido, sin estar en su bibliografía. Empezó el 17-10, y su programa vigente llegó
   ese día.

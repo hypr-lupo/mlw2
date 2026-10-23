@@ -1,6 +1,6 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 17-10-2026 · **Total:** 119 documentos · **703 MB**
+**Fecha:** 23-10-2026 · **Total:** 124 documentos · **721 MB**
 
 > **Nomenclatura normalizada el 12-09-2026.** Los 114 documentos siguen ya el
 > patrón `año - autor - título`; no queda ninguno fuera de convención. Sin año
@@ -38,6 +38,12 @@ el 11-09-2026 y se ingieren antes que cualquier otro cúmulo.
 | 2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf | 1.9 | `5e6657144c64` |
 | 2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf | 0.3 | `17556ae80696` |
 | 2023 - Albarracín - Crimen organizado en América Latina.pdf | 0.2 | `2bc01a9cad32` |
+
+**Duplicados del 09-10-2026.** Ese día llegaron dos copias de este cúmulo con nombres
+opacos. `ADAMS_La_Violencia_Cronica_su_reproduccion_WWilson_IntCenter.pdf.pdf` tiene el
+mismo MD5 que Adams (2017). `sampson_vecindario_ycomunidad_ef_colectiva.pdf` tiene otro
+MD5, pero su texto coincide en un 99,9 % con el de Sampson (2006). Ninguno se cuenta como
+documento ni se ingiere. Retirarlos le corresponde al autor.
 
 ## Bibliografía S1.1, consulta y complementaria · 12 doc.
 
@@ -91,6 +97,35 @@ Tres advertencias sobre este bloque:
    corpus tiene la primera edición, segunda reimpresión, de Manantial 2004. Zeballos:
    el programa pide *Cuando el crimen reza* de 2025 y los metadatos del archivo dan
    2026.
+
+**Duplicados del 09-10 y del 17-10-2026.** `GU_A_DE_BARRIOS_ESPA_OL.pdf` llegó el 09-10
+con otro MD5, pero su texto coincide en un 99,7 % con el de la guía de ONU-Hábitat y
+Guadalajara (2020). `annas-arch-d9e3a1fc5d5c.pdf` llegó el 17-10 con el mismo MD5 que
+Kessler (2004). Ninguno se cuenta como documento ni se ingiere. Retirarlos le corresponde
+al autor.
+
+## Bibliografía obligatoria S2.4 · 3 doc.
+
+
+Alimenta: S2.4. Brizuela alimenta además S1.1, por el libro que reseña.
+
+Las tres son lecturas obligatorias del programa vigente de S2.4. Llegaron el 17-10-2026
+con nombres opacos y se identificaron el 23-10-2026 por su página de imprenta. Con ellas,
+el ramo pasa de una a cuatro de sus nueve obligatorias en el corpus.
+
+| Documento | MB | MD5 |
+|---|---:|---|
+| 2002 - Bourdieu - La juventud no es más que una palabra.pdf | 1.1 | `4fc96fc7d998` |
+| 2012 - Duarte Quapper - Sociedades adultocéntricas, sobre sus orígenes y reproducción.pdf | 0.3 | `e2ac0bb916b8` |
+| 2014 - Brizuela - Reseña de Sociología del delito amateur, de Gabriel Kessler.pdf | 0.1 | `3632c52660ae` |
+
+- **Bourdieu.** Es el capítulo de *Sociología y cultura* (Grijalbo y Conaculta), pp.
+  163-173. El nombre de origen decía 1990. Se usa 2002, el año que dan el pie del propio
+  archivo y el programa.
+- **Duarte Quapper.** *Última Década*, n.º 36, CIDPA Valparaíso, julio de 2012, pp.
+  99-125. Coincide con la cita del programa.
+- **Brizuela.** *Revista Cátedra Paralela*, n.º 11, 2014, pp. 313-317. Reseña la edición
+  de Paidós de 2010, y el corpus tiene la de 2004.
 
 ## Explicación del delito · 5 doc.
 
@@ -162,7 +197,7 @@ siga en la carpeta, `scripts/estado.py` lo reportará fuera de inventario.
 | 2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf | 2.0 | `2726230a32fc` |
 | 2024 - Campana y Meneghini - El desplazamiento del crimen organizado en comunidades locales.pdf | 1.9 | `81e8c4889dec` |
 
-## Prevención e intervención · 4 doc.
+## Prevención e intervención · 6 doc.
 
 
 Alimenta: S1.1, S2.3, S3.1.
@@ -173,7 +208,23 @@ Alimenta: S1.1, S2.3, S3.1.
 | 1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf | 0.3 | `9d9427605858` |
 | 2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf | 2.0 | `06ae0a1b418b` |
 | 2015 - Vanderschueren - Guía para la prevención en barrios.pdf | 2.8 | `06b1d0fa4eea` |
+| 2019 - Schroeder y Coello-Torres - Placemaking, transformación de un lugar en el asentamiento humano Santa Julia, Piura, Perú.pdf | 1.4 | `ae86d2118c19` |
 | 2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf | 11.9 | `5c580cd0b7ff` |
+| s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf | 15.1 | `27b8260d7fab` |
+
+**Dos documentos sumados el 23-10-2026**, ambos sobre barrio y espacio público. Sirven a
+los módulos 3 y 4 de S1.1 y a su prueba final, cuya pauta admite como objeto «un espacio
+público significativo».
+
+- **Gobierno de Santiago (s.f.).** Llegó el 09-10-2026 como `Guia_de_barrios_WEB.pdf`. Es
+  otra obra que la guía de ONU-Hábitat (2020), aunque comparte autores con ella: entre
+  ellos Germán Díaz Urrutia y Franz Vanderschueren, docentes de S2.4 y S1.1. Aplica el
+  método Rotterdam a barrios de la Región Metropolitana en 2023. No imprime año: su cita
+  más reciente es de 2023 y el PDF se generó el 23-04-2025. El año se resuelve contra la
+  publicación del Gobierno de Santiago.
+- **Schroeder y Coello-Torres (2019).** Llegó el 23-10-2026 como `PLACEMAKING.pdf`.
+  *Revista Hábitat Sustentable, 9*(1), 6-19. La presentación del módulo 4 de S1.1 trata el
+  placemaking y no cita este artículo.
 
 ## Institucionalidad y política de prevención en Chile · 6 doc.
 
