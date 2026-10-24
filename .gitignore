@@ -1,12 +1,14 @@
-# ── Fuentes primarias ───────────────────────────────────────────
-# Los PDFs viven solo en disco (488 MB). La trazabilidad se mantiene
-# vía INVENTARIO.md y las notas de wiki/sources/.
-raw/sources/
-!raw/sources/.gitkeep
+# ── Solo en disco ───────────────────────────────────────────────
+# Fuentes primarias, clases y trabajos no se suben al repositorio.
+# Commits anteriores al 24-10-2026 todavía los contienen.
+# La trazabilidad de las fuentes se mantiene vía INVENTARIO.md y wiki/sources/.
+raw/
+clases/
+trabajos/
 
-# Presentaciones de clase, en una subcarpeta por ramo (clases/S1.2/, ...).
-# Viven solo en disco; se versiona su sintesis, que va plana en clases/.
-clases/*/
+# ── Registros de plugins ────────────────────────────────────────
+receipts/
+review-receipts/
 
 # ── Obsidian ────────────────────────────────────────────────────
 # Se versiona la config del vault; no el estado de ventanas ni los
