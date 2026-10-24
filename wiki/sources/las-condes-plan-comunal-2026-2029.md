@@ -114,6 +114,8 @@ Indicadores de resultado, con su línea de base y la meta a 2029 [^ext-19]:
 
 ## Conexiones con otras fuentes
 
+- [[guerra-modelo-las-condes]] — la misma Dirección describe su modelo en 2024: cámaras, central 1402 y focalización semanal
+- [[ley-21802-seguridad-municipal]] — la reforma de 2026, que obliga a actualizar el plan antes del 12-08-2027
 - [[ley-20965-planes-comunales]] — la ley que crea el instrumento y que el decreto invoca
 - [[weisburd-el-lugar-importa]] — sostiene la estabilidad de los microlugares que el plan pone en duda para la comuna
 

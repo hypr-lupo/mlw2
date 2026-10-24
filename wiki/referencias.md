@@ -78,6 +78,15 @@ redactó Salvador David Hernández Latorre · **informe por encargo, exploratori
 errores de hecho: verificar cada dato antes de citarlo · el caso de Peñalolén sale de la
 propia dirección municipal
 
+Clarke, R. V. (Ed.). (1997). *Situational crime prevention: Successful case studies* (2.ª ed.).
+Harrow and Heston.
+→ [[clarke-prevencion-situacional]] · verificada contra la página de créditos · **el archivo trae
+sólo la introducción**: los casos que cita no están en el corpus, citarlos por su fuente original
+
+Felson, M. y Eckert, M. A. (2016). *Crime and everyday life* (5.ª ed.). SAGE.
+→ [[felson-eckert-delito-y-vida-cotidiana]] · verificada contra la página de créditos · leídos los
+caps. 2, 3, 5, 10 y 11 · manual: las cifras de terceros se citan por su estudio original
+
 Gardner, J. (2007). Prohibiting immoralities. *Cardozo Law Review, 28*, 2613.
 → [[gardner-prohibir-inmoralidades]] · **verificación bibliográfica pendiente**: el
 corpus tiene la versión de autor, que pide no citar desde ella; falta el rango de
@@ -89,6 +98,11 @@ Gottfredson, M. R. y Hirschi, T. (1990). *A general theory of crime*. Stanford U
 catalogación · coincide con `programa/S1.1`, salvo la grafía «Standford» del programa · obra en
 inglés sin traducción en el corpus: el nombre del archivo está en castellano, el texto no · las
 teorías que critica son de segunda mano: citar a Merton, Sutherland o Cressey por su obra
+
+Guerra Araya, P., Garbisú, P. A. y Sánchez Bravo, F. (2024). *Orquestando el ecosistema de
+seguridad local: el modelo Las Condes*. Dirección de Seguridad Pública, Municipalidad de Las Condes.
+→ [[guerra-modelo-las-condes]] · verificada contra la portada interior · **documento institucional**:
+sus afirmaciones de efecto no tienen evaluación; citar sus cifras como lo que declara la Dirección
 
 Instituto Nacional de Estadísticas. (2023). *Proyecto de actualización metodológica de la
 medición de victimización y percepción de inseguridad. Informe metodológico*.
@@ -117,6 +131,13 @@ versión del 22 de julio de 2026. https://bcn.cl/qKZ4K8
 → [[ley-21675-violencia-de-genero]] · verificada contra el encabezado de la BCN ·
 **norma vigente con modificaciones**: se cita la versión consolidada y su fecha, no sólo
 el texto de 2024
+
+Ley 21.802. (2026). *Modifica la Ley N° 18.695, orgánica constitucional de municipalidades, y
+otros cuerpos legales, con el objeto de fortalecer la institucionalidad municipal en materia de
+seguridad pública y prevención del delito*. Diario Oficial de la República de Chile, 11 de febrero
+de 2026. https://bcn.cl/5y3LXk
+→ [[ley-21802-seguridad-municipal]] · verificada contra el encabezado de la BCN · vigente desde el
+12-08-2026 · varios plazos dependen de reglamentos que el corpus no tiene
 
 Municipalidad de Las Condes. (2026). *Plan Comunal de Seguridad Pública, comuna de Las
 Condes 2026-2029*. Aprobado por el Decreto Sección 1.ª N° 2098, de 18 de junio de 2026.

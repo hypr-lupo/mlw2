@@ -1,7 +1,7 @@
 ---
 title: Puntos calientes y ley de concentración del delito
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
@@ -59,6 +59,16 @@ En el único estudio que modela ambas familias juntas, en Seattle, los mayores e
 >
 > El propio libro registra que sus autores no están de acuerdo entre sí sobre el papel de la motivación [^ext-20]. Y presenta la TAS como una integración de persona y lugar, no como un rival [^ext-21]. La tensión la construye esta wiki. Ver también [[teoria-accion-situacional]].
 
+## Escenarios y supervisión
+
+Añadido el 24-10-2026. Las [[actividades-rutinarias]] explican por qué el delito se pega a ciertos lugares: algunos escenarios reúnen infractores y blancos con poca supervisión, como las rutas públicas, los estacionamientos, los bares, las estaciones de transporte y el comercio [^ext-26]. El riesgo se concentra en nodos, rutas y bordes [^ext-27]. Un escenario no es fijo: cambia de hora en hora [^ext-28].
+
+**Junto al transporte.** Felson y Eckert sostienen que el riesgo no está en la estación misma, que tiene tránsito, sino a una o dos cuadras, donde hay poca gente para la vigilancia natural [^ext-29].
+
+**La población que circula.** En Montreal, los robos en vivienda y las agresiones de extraños dependían sobre todo de la población visitante, no de la residente [^ext-30].
+
+**Focalizar no es lo mismo que medir la estabilidad.** Clarke ubicaba los puntos calientes junto a la victimización repetida, como conceptos para focalizar la prevención [^ext-31]. La Dirección de Seguridad de Las Condes define cada semana, con Carabineros, las zonas de mayor incidencia para patrullar [^ext-32]. Esa práctica supone concentración, pero no dice si las zonas son las mismas de un año a otro [^inf-4].
+
 ## Límites de la regularidad
 
 - **Puede ser una regla estadística y no social.** Si fuera una ley social en el sentido de Durkheim, deberían existir ciudades donde la concentración se rompe en momentos de crisis. No se han encontrado, y los autores reconocen que eso abre la posibilidad de una regularidad puramente estadística, como las de Pareto [^ext-22].
@@ -73,6 +83,8 @@ En el único estudio que modela ambas familias juntas, en Seattle, los mayores e
 
 ## Relacionado
 
+- [[actividades-rutinarias]] — por qué el delito se concentra en ciertos escenarios
+- [[prevencion-situacional]] — qué hacer en el lugar
 - [[cipc-experiencias-exitosas]] — la concentración chilena a escala comunal
 - [[las-condes-plan-comunal-2026-2029]] — la concentración por cuadrante en una comuna, y un plan que duda de la estabilidad
 - [[weisburd-el-lugar-importa]] — fuente principal
@@ -113,3 +125,11 @@ En el único estudio que modela ambas familias juntas, en Seattle, los mayores e
 [^inf-1]: **Inferido** (confianza 0.8) — el libro no menciona Chile. La inferencia combina su advertencia sobre contextos no estudiados (p. 143) con el hecho de que ningún estudio del libro es chileno.
 [^inf-2]: **Inferido** (confianza 0.8) — la ley de concentración se define para microlugares. Una concentración entre comunas es compatible con cualquier distribución dentro de ellas.
 [^inf-3]: **Inferido** (confianza 0.8) — el mismo argumento que [^inf-2], aplicado a los trece cuadrantes de una comuna.
+[^ext-26]: **Extraído** — [[felson-eckert-delito-y-vida-cotidiana]], p. 29.
+[^ext-27]: **Extraído** — [[felson-eckert-delito-y-vida-cotidiana]], p. 41.
+[^ext-28]: **Extraído** — [[felson-eckert-delito-y-vida-cotidiana]], p. 34.
+[^ext-29]: **Extraído** — [[felson-eckert-delito-y-vida-cotidiana]], p. 68, citando a Block y Block (2000) y a M. Smith (2005).
+[^ext-30]: **Extraído** — [[felson-eckert-delito-y-vida-cotidiana]], pp. 76-77, citando a Boivin (2013).
+[^ext-31]: **Extraído** — [[clarke-prevencion-situacional]], p. 11.
+[^ext-32]: **Extraído** — [[guerra-modelo-las-condes]], anexo 3, p. 73.
+[^inf-4]: **Inferido** (confianza 0.6) — el documento describe la focalización semanal sin series por zona.

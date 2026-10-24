@@ -1,13 +1,13 @@
 ---
 title: Prevención del delito
 type: concept
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf"]
 cluster: prevencion
 curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-10-17
+actualizado: 2026-10-24
 ---
 
 # Prevención del delito
@@ -117,6 +117,10 @@ Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. Una po
 
 Converge con lo que el cap. III del libro de 2021 concluye desde la neurociencia: prevenir en la infancia tiene más impacto que tratar después [^inf-6]. Ver [[criminologia-del-curso-de-vida]].
 
+## La prevención situacional y el municipio
+
+Añadido el 24-10-2026. La prevención situacional tiene ahora su propia página: [[prevencion-situacional]]. En Chile, la Ley 21.802 hace de la prevención la labor «principal y prioritaria» del municipio en seguridad, y le permite estrategias social, comunitaria y situacional [^ext-44]. La ley no las define: remite a la Política Nacional de Seguridad Pública [^ext-44]. Es la misma falta de definición común que esta página registra en las clasificaciones [^inf-7].
+
 ## Cita
 
 > "La prevención es un concepto que carece de sentido unívoco."
@@ -124,6 +128,8 @@ Converge con lo que el cap. III del libro de 2021 concluye desde la neurociencia
 
 ## Relacionado
 
+- [[prevencion-situacional]] — el enfoque de Clarke, con sus dieciséis técnicas
+- [[ley-21802-seguridad-municipal]] — la prevención como función municipal
 - [[vanderschueren-prevencion-del-delito]] — fuente
 - [[evaluacion-de-programas]] — cómo se sabe si una prevención funciona, y por qué es difícil
 - [[coproduccion-de-seguridad]] — la prevención hecha con la comunidad
@@ -192,3 +198,5 @@ Converge con lo que el cap. III del libro de 2021 concluye desde la neurociencia
 [^inf-4]: **Inferido** (confianza 0.6) — Blanco no discute los factores de riesgo. La lectura es de esta wiki.
 [^inf-5]: **Inferido** (confianza 0.6) — lectura de esta wiki. Gottfredson y Hirschi no discuten a Hein. Llaman «ausentismo del hogar» a la fuga, en el cap. 11, p. 239.
 [^inf-6]: **Inferido** (confianza 0.7) — combinando el cap. 12 con [[vanderschueren-prevencion-del-delito]], cap. III, p. 90. Ninguno cita al otro.
+[^ext-44]: **Extraído** — [[ley-21802-seguridad-municipal]], arts. 2 y 3.
+[^inf-7]: **Inferido** (confianza 0.6) — combinando el art. 3 de la ley con la sección «Las clasificaciones».

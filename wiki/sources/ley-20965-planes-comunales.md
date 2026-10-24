@@ -1,7 +1,7 @@
 ---
 title: Ley 20.965, consejos y planes comunales de seguridad pública
 type: source
-sources: ["2016 - Ministerio del Interior y Seguridad Pública - Ley 20.965, permite la creación de consejos y planes comunales de seguridad pública.pdf"]
+sources: ["2016 - Ministerio del Interior y Seguridad Pública - Ley 20.965, permite la creación de consejos y planes comunales de seguridad pública.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf"]
 autor: [Ministerio del Interior y Seguridad Pública]
 anio: 2016
 titulo_original: "Ley 20.965. Permite la creación de consejos y planes comunales de seguridad pública"
@@ -53,10 +53,11 @@ La regla de [[schema]] no corrige una norma sobre sí misma. Esta ficha describe
 | Ocho materias mínimas del plan | Trece, y estrategias de prevención primaria, secundaria y terciaria [^ext-16] |
 | Actualización anual | Anual, o cuando el consejo lo requiera [^ext-16] |
 | Sin comité operativo | Comité de coordinación operativa en cada consejo [^ext-17] |
+| El consejo sesiona al menos una vez al mes | Cada trimestre, con una sesión semestral abierta a la sociedad civil y asistencia obligatoria [^ext-20] |
 
 **Ley 21.730**, que crea el Ministerio de Seguridad Pública. Las menciones al Ministerio del Interior y Seguridad Pública quedaron desactualizadas [^amb-1].
 
-Ninguna de las dos está ingerida. La Ley 21.802 se consultó sólo para esta tabla y entra en la tanda 5. Ver [[revision]].
+La Ley 21.802 se ingirió el 24-10-2026, con su propia ficha: [[ley-21802-seguridad-municipal]]. La Ley 21.730 sigue sin ingerir. Ver [[revision]].
 
 ## Cita
 
@@ -84,6 +85,7 @@ Ninguna de las dos está ingerida. La Ley 21.802 se consultó sólo para esta ta
 
 ## Conexiones con otras fuentes
 
+- [[ley-21802-seguridad-municipal]] — la ley que reformó en 2026 el plan y el consejo
 - [[las-condes-plan-comunal-2026-2029]] — un plan aprobado bajo esta ley, que la cita en sus vistos y sigue sus ocho materias
 - [[vanderschueren-prevencion-del-delito]] — la wiki registra allí la ausencia de coproducción en el nivel central chileno. Esta ley es el marco del nivel local
 
@@ -107,7 +109,7 @@ No es bibliografía de ningún programa recibido. Entró el 24-10-2026, por deci
 [^ext-10]: **Extraído** — art. 1, n.º 4, art. 16 bis, p. 2; y art. 104 B, letra g), p. 3.
 [^ext-11]: **Extraído** — art. 1, n.º 6, nueva letra p) del art. 63, p. 2.
 [^ext-12]: **Extraído** — art. 104 F, p. 7; art. 16 bis, p. 2; y art. 2, n.º 1, p. 8.
-[^ext-13]: **Extraído** — `2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf`, encabezado de la BCN. Sin ficha: se ingiere en la tanda 5.
+[^ext-13]: **Extraído** — `2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf`, encabezado de la BCN. Ficha: [[ley-21802-seguridad-municipal]].
 [^ext-14]: **Extraído** — el mismo archivo, art. 64, n.º 3; y art. octavo transitorio: la plataforma debe operar dentro de un año desde la vigencia de la ley, y el intercambio rige tres meses después.
 [^ext-15]: **Extraído** — el mismo archivo, art. 64, n.º 4.
 [^ext-16]: **Extraído** — el mismo archivo, art. 64, n.º 9.
@@ -116,3 +118,4 @@ No es bibliografía de ningún programa recibido. Entró el 24-10-2026, por deci
 [^ext-19]: **Extraído** — certificado del Tribunal Constitucional, pp. 9-10.
 [^amb-1]: **Ambiguo** — la Ley 21.730 está en el corpus y no se ingirió. No se verificó qué artículos de la Ley 20.965 toca directamente.
 [^inf-1]: **Inferido** (confianza 0.6) — lectura de la composición del art. 104 B frente a la definición de coproducción de [[coproduccion-de-seguridad]]. La ley no usa el término.
+[^ext-20]: **Extraído** — [[ley-21802-seguridad-municipal]], art. 64, n.º 6.

@@ -1,13 +1,13 @@
 ---
 title: Eficacia colectiva
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-17
+actualizado: 2026-10-24
 ---
 
 # Eficacia colectiva
@@ -111,6 +111,10 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. El l
 
 **Qué cambia respecto de Sampson.** Sampson ya ponía la legitimidad policial como condición de la cooperación vecinal. Lo nuevo es la escala. Allí era un problema de algunos barrios de minorías; aquí es un rasgo de la región que modula el efecto del constructo [^inf-2]. Para una política municipal chilena, el orden de los factores importa: medir la eficacia colectiva de un barrio sin medir cómo actúa la policía en él describe la mitad del mecanismo [^inf-2].
 
+## La objeción de las actividades rutinarias
+
+Añadido el 24-10-2026. Felson y Eckert sostienen que una comunidad cohesionada no protege si los vecinos no están cuando llega el infractor [^ext-32]. Y critican las escalas de cohesión social: quien vive en un área de alto delito dirá que no confía en sus vecinos, de modo que la escala mide en parte el efecto del delito [^ext-33]. La tensión es entre dos ideas de la supervisión: la disposición de los vecinos a intervenir o su presencia física cerca del lugar [^inf-4]. Ver [[actividades-rutinarias]].
+
 ## Cita
 
 > "las redes necesitan ser activadas para que en última instancia sean significativas"
@@ -118,6 +122,7 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. El l
 
 ## Relacionado
 
+- [[actividades-rutinarias]] — la objeción de la presencia
 - [[sampson-vecindario-y-comunidad]] — fuente que define el concepto
 - [[policia-comunitaria]] — el modelo policial que el autor deriva de esta teoría: el policía como catalizador del control social informal
 - [[legitimidad-policial]] — condición sin la cual la cooperación vecino-policía no se produce, por mucha eficacia colectiva que haya
@@ -171,3 +176,6 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. El l
 [^inf-1]: **Inferido** (confianza 0.8) — la diferencia entre el indicador de voto y la escala de Sampson, Raudenbush y Earls resulta de comparar esta página con [[sampson-vecindario-y-comunidad]]; el libro no la plantea en estos términos.
 [^inf-2]: **Inferido** (confianza 0.6) — comparación con [[sampson-vecindario-y-comunidad]], pp. 243-244, recogida en [[legitimidad-policial]]. Ni el cap. I ni las conclusiones discuten a Sampson en ese punto.
 [^inf-3]: **Inferido** (confianza 0.7) — contraste entre la definición de la nota 11 del informe y la de [[sampson-vecindario-y-comunidad]]. Falta cotejarla con la obra de la Subsecretaría, que el informe fecha en 2021 y el corpus en 2022.
+[^ext-32]: **Extraído** — [[felson-eckert-delito-y-vida-cotidiana]], pp. 155 y 169.
+[^ext-33]: **Extraído** — [[felson-eckert-delito-y-vida-cotidiana]], p. 159.
+[^inf-4]: **Inferido** (confianza 0.6) — Felson y Eckert no nombran a Sampson en los capítulos leídos.

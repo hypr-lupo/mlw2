@@ -9,13 +9,16 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 84 páginas · 28 fuentes ingeridas de 126 · Ley 20.965 y plan comunal de Las
-Condes ingeridos el 24-10-2026 por delante de la cola · **núcleo ancla S1.1 completo** ·
+**Estado:** 92 páginas · 32 fuentes ingeridas de 135 · Ley 20.965 y plan comunal de Las
+Condes ingeridos el 24-10-2026 por delante de la cola · tanda S1.2b ingerida el mismo día:
+Ley 21.802, Guerra Araya (2024), Clarke (1997) y Felson y Eckert (2016) · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
 fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-10-2026** · tanda 4 abierta el 17-10-2026 con Gottfredson y Hirschi (1990) · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
 
 ## Conceptos
 
+- [[actividades-rutinarias]] — infractor, blanco y ausencia de guardián; el triángulo de Eck,
+  la supervisión local y la crítica a la cohesión social. Borrador (2 fuentes)
 - [[anomia]] — Durkheim y Merton: la desviación es normal; fines culturales y medios
   legítimos, cinco modos de adaptación, el cuello blanco, y la crítica de que legitima la
   imagen del delito como cosa de pobres; y una segunda exposición; y la crítica de Gottfredson y Hirschi. Merton, de segunda mano.
@@ -124,6 +127,8 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   la prevención no se ve; Romagnosi, y lo que el etiquetamiento niega; trayectorias en vez
   de cadenas causales; los factores de riesgo como manifestaciones, y la familia como
   política (6 fuentes)
+- [[prevencion-situacional]] — Clarke: reducir oportunidades para delitos específicos; dieciséis
+  técnicas, las cámaras como vigilancia formal y sus límites. Borrador (4 fuentes)
 - [[propension-al-delito]] — el lado persona: moral legalmente relevante más
   capacidad de autocontrol, y la aversión al delito; y frente a la teoría general:
   ¿autocontrol o moral? (2 fuentes)
@@ -160,6 +165,10 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 
 ## Entidades
 
+- [[barrio-protegido]] — cámaras con analítica cofinanciadas por vecinos organizados en
+  Las Condes. Fuente única, de la propia Dirección. Borrador (1 fuente)
+- [[direccion-de-seguridad-publica-las-condes]] — la dirección municipal de seguridad de Las
+  Condes: central 1402, red de cámaras, Observatorio y focalización semanal. Borrador (2 fuentes)
 - [[magister-prevencion-uah]] — el programa: malla, líneas de desarrollo, perfil de
   egreso y cuerpo docente; y el libro que se gestó en él (2 fuentes)
 - [[plan-comunal-de-seguridad-publica]] — el instrumento municipal que crea la Ley 20.965:
@@ -239,6 +248,10 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   prácticas en ocho países, exploratorio y descriptivo, con errores de hecho. Su caso
   chileno, Peñalolén, sale de la propia dirección. Bibliografía de S1.2. Sexta y última
   de la tanda 2
+- [[clarke-prevencion-situacional]] — Clarke (ed.), 1997. Sólo la introducción: definición,
+  dieciséis técnicas, desplazamiento y difusión. Faltan los casos. P2 de S1.1. Tanda S1.2b
+- [[felson-eckert-delito-y-vida-cotidiana]] — Felson y Eckert, 2016. Manual de actividades
+  rutinarias, caps. 2, 3, 5, 10 y 11. Tanda S1.2b
 - [[gardner-prohibir-inmoralidades]] — Gardner, 2007. Filosofía del derecho penal:
   comentario a Fletcher. Versión de autor que pide citar la de la revista. Fuera del
   orden por calendario
@@ -246,6 +259,8 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   autocontrol, aplicada a la edad, las instituciones, la cultura, el cuello blanco, la
   organización, el método y la política. Original inglés. Bibliografía restante de S1.1.
   Primera de la tanda 4
+- [[guerra-modelo-las-condes]] — Guerra Araya y otros, 2024. La Dirección de Seguridad de Las
+  Condes describe su modelo: cámaras, datos, despliegue. Afirma efectos sin evaluarlos. Tanda S1.2b
 - [[ine-medicion-victimizacion]] — INE, 2023. Informe metodológico oficial del rediseño de
   la ENUSC, con un piloto experimental. Bibliografía de S1.2. Primera fuente estadística
   oficial de la wiki. Tercera de la tanda 2
@@ -261,6 +276,8 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[ley-21675-violencia-de-genero]] — Ley 21.675, 2024, en su texto vigente al
   22-07-2026. Primera norma de la wiki. Incorpora el pololeo a la violencia
   intrafamiliar; no toca el femicidio. Fuera del orden por calendario
+- [[ley-21802-seguridad-municipal]] — Ley 21.802, 2026. Inspectores de seguridad municipal,
+  televigilancia, plataforma de datos y reforma del plan comunal. Tanda S1.2b
 - [[onu-habitat-guia-barrios]] — ONU-Hábitat y Guadalajara, 2020. Consulta de S1.1 y
   la obra que operacionaliza su trabajo evaluado. Coescrita por el docente del ramo.
   Reedita, sin citarla, la guía de hacia 2010

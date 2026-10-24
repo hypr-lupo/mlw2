@@ -1,7 +1,7 @@
 ---
 title: Coproducción de seguridad
 type: concept
-sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2016 - Ministerio del Interior y Seguridad Pública - Ley 20.965, permite la creación de consejos y planes comunales de seguridad pública.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf"]
+sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2016 - Ministerio del Interior y Seguridad Pública - Ley 20.965, permite la creación de consejos y planes comunales de seguridad pública.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -99,6 +99,12 @@ Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]]. La
 
 **Santa Tecla, el mismo problema.** Añadido el 16-10-2026. [[cipc-experiencias-exitosas]] presenta a Santa Tecla como buena práctica de participación comunitaria y coordinación local. Y atribuye parte de la baja de sus homicidios al triunfo de una pandilla y a la tregua nacional [^ext-35]. Ver [[regimenes-armados-microescala]] y [[buenas-practicas]].
 
+## Un municipio que se llama orquestador
+
+Añadido el 24-10-2026. La Dirección de Seguridad de Las Condes se describe como el «nodo orquestador» del ecosistema de seguridad local y llama a los vecinos «colaboradores» y «protagonistas» [^ext-37]. La participación que describe es organización vecinal formal, cofinanciamiento de cámaras y acceso a imágenes [^ext-38]. Es más cercana a la colaboración con la comunidad organizada que a la coproducción que define esta página [^inf-4]. Ver [[barrio-protegido]].
+
+La Ley 21.802 suma una sesión semestral abierta y un representante de las organizaciones vecinales de seguridad al consejo comunal, pero crea un comité operativo sin sociedad civil [^ext-39].
+
 ## Cita
 
 > "la multiplicidad de agencias de intervención a menudo no está preparada"
@@ -106,6 +112,8 @@ Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]]. La
 
 ## Relacionado
 
+- [[guerra-modelo-las-condes]] — el «orquestador» municipal
+- [[barrio-protegido]] — vecinos que cofinancian cámaras
 - [[cipc-experiencias-exitosas]] — Santa Tecla, coproducción y consolidación armada a la vez
 - [[onu-habitat-guia-barrios]] — fuente
 - [[vanderschueren-guia-prevencion-barrios]] — fuente de la definición
@@ -162,3 +170,7 @@ Añadido el 02-10-2026 al ingerir [[arias-empresas-criminales-y-gobernanza]]. La
 [^ext-35]: **Extraído** — [[ley-20965-planes-comunales]], arts. 104 A y 104 B, pp. 3-4.
 [^ext-36]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], pp. 18-19.
 [^inf-3]: **Inferido** (confianza 0.6) — combinando la composición del consejo en [[ley-20965-planes-comunales]] con la definición de esta página. La ley no usa el término coproducción.
+[^ext-37]: **Extraído** — [[guerra-modelo-las-condes]], pp. 6, 24-25 y 49.
+[^ext-38]: **Extraído** — [[guerra-modelo-las-condes]], pp. 39-40 y 48-49.
+[^ext-39]: **Extraído** — [[ley-21802-seguridad-municipal]], art. 64, n.º 4, 6 y 8.
+[^inf-4]: **Inferido** (confianza 0.5) — lectura de la definición de esta página frente a lo que el documento describe.

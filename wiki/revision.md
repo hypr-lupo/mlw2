@@ -16,8 +16,8 @@ Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026
 ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con las de Batthyány y Cabrera
 (2011), el INE (2023), Srur (2014), el capítulo de Boba (2010), el CIPC (2015), Baratta (2004) y Kessler (2004), y el 17-10-2026, con las de Blanco (2011) y Gottfredson y Hirschi (1990). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**38 abiertos.** Al 24-10-2026, con tres ítems de la ingesta de la Ley 20.965 y el plan
-comunal de Las Condes.
+**39 abiertos.** Al 24-10-2026, con tres ítems de la ingesta de la Ley 20.965 y el plan
+comunal de Las Condes, y el saldo de la tanda S1.2b: dos resueltos y tres nuevos.
 
 **A. Sólo esperan una decisión del autor (15).** Se pueden resolver hoy.
 
@@ -36,8 +36,8 @@ comunal de Las Condes.
 | `[ingesta]` El resto de Tudela (ed.) (2010) | `preguntar` | Si se ingieren los cinco capítulos que el programa no pide, entre ellos uno sobre el Ministerio Público chileno |
 | `[entidad]` Plan Cuadrante, y quizá Carabineros | `crear-pagina` | El criterio se cumple en la letra desde el 16-10: el CIPC (2015) lo describe desde fuera, pero en un párrafo y en contra de las evaluaciones. Queda decidir si es página de programa o sección de una página de Carabineros |
 | `[ingesta]` El resto de Baratta (2004) | `preguntar` | Si se ingieren los capítulos que el orden no fija: subculturas y neutralización, conflicto, criminología crítica, cárcel y política criminal alternativa |
-| `[entidad]` Dirección de Seguridad Pública de Las Condes | `crear-pagina` | Si merece página, y si el plan comunal pasa a `caso-de-grado`. Del 24-10 |
-| `[ingesta]` Ley 21.802 antes que el resto de la tanda 5 | `preguntar` | Si se adelanta: reformó el plan comunal que citan S1.2 y S1.1. Del 24-10 |
+| `[entidad]` Dirección de Seguridad Pública de Las Condes | `preguntar` | La página existe desde el 24-10. Queda decidir si ella y el plan comunal pasan a `caso-de-grado` |
+| `[ingesta]` El resto de Felson y Eckert (2016) | `preguntar` | Si se ingieren los ocho capítulos no leídos. El 6, sobre las rutinas de los adolescentes, puede servir a S2.4. Del 24-10 |
 
 **B. Esperan una verificación bibliográfica fuera del corpus (8).** Cada ítem trae su
 consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos evaluados.
@@ -53,7 +53,7 @@ consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos
 | `[fuente]` Estado legal del pololeo | Resuelto en parte con la Ley 21.675; falta el tipo penal de femicidio |
 | `[fuente]` Año e ISBN de Arias | 2016, 2017 o 2018, y los dos ISBN, en el catálogo de la editorial |
 
-**C. Esperan una obra que ya está en el corpus (10).** Se resuelven solos si el orden de
+**C. Esperan una obra que ya está en el corpus (9).** Se resuelven solos si el orden de
 ingesta se cumple.
 
 | Ítem | Acción | Obra que lo destraba | Tanda |
@@ -62,14 +62,13 @@ ingesta se cumple.
 | `[investigar]` Ley de concentración en una comuna chilena | `investigar` | Las normas de la tanda 5. Las metodológicas de la tanda 2 no traen el estudio | 5 |
 | `[concepto]` Articulación nacional y local de la seguridad | `crear-pagina` | Ley 21.802 y Decreto 96 (PNSP) | 5 |
 | `[concepto]` Subculturas delictivas, deriva y neutralización | `crear-pagina` | Baratta (2004), caps. V-VI, si se ingieren. Matza no está en el corpus | según el ítem A del resto de Baratta |
-| `[concepto]` Teorías de la oportunidad | `crear-pagina` | Clarke (1997); Felson y Eckert (2016) | 4 |
 | `[entidad]` Quiero mi Barrio | `crear-pagina` | SPD (2022); Luneke y Trebilcock (2023) | 5 y 6 |
 | `[concepto]` Seguridad ciudadana y seguridad humana | `crear-pagina` | Decreto 96 (PNSP); Luneke y Trebilcock (2023) | 5 y 6 |
 | `[concepto]` Principio de daño y Estado de derecho | `crear-pagina` | Ferrajoli (1995) | 6 |
 | `[contradicción]` Legado del conflicto armado | `preguntar` | Dammert (2012), cúmulo `Medición e inseguridad` | después de la 6 |
 | `[concepto]` Capital cultural | `crear-pagina` | Bourdieu (2002), en el corpus desde el 23-10. Pasó del grupo D el 24-10 | 4a |
 
-**D. Esperan una fuente que no está en el corpus o no se ha identificado (5).**
+**D. Esperan una fuente que no está en el corpus o no se ha identificado (7).**
 
 | Ítem | Dónde podría estar |
 |---|---|
@@ -78,12 +77,14 @@ ingesta se cumple.
 | `[investigar]` Ficha técnica de la consulta vecinal de Las Condes | Fuera del corpus: pedirla a la Dirección de Seguridad Pública. Del 24-10 |
 | `[concepto]` Violencia contra las mujeres en la pareja y la familia | La bibliografía de S3.3, cuando llegue su programa |
 | `[concepto]` Criminalidad de cuello blanco | Sutherland, pedido por S1.1 y ausente del corpus |
+| `[investigar]` Barrio Protegido: año de inicio, registro de cámaras y nombre de la organización vecinal | Fuera del corpus: pedirlo a la Dirección de Seguridad Pública. Del 24-10 |
+| `[vacío]` Evidencia sobre cámaras posterior a 1997, y los casos 11 y 12 de Clarke | Fuera del corpus: el archivo de Clarke trae sólo la introducción. Del 24-10 |
 
 **Qué adelanta cada tanda.** La 2 cerró el 16-10-2026: resolvió medición de la victimización y
 pasó PADS+ a la 3. El CIPC no cumplió el criterio de Peñalolén, que pasa a la 6. La 3 cerró el
 17-10-2026: resolvió criminalización y selectividad penal, con Baratta, y PADS+, con Blanco.
 Kessler no destrabó ninguno. La 4 empezó el 17-10: Gottfredson y Hirschi resolvió el control social
-informal, y le queda uno, las teorías de la oportunidad. La 5 destraba cuatro, y la 6, cuatro.
+informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clarke y Felson y Eckert. La 5 destraba cuatro, y la 6, cuatro.
 
 ## Abiertos
 
@@ -230,31 +231,6 @@ informal, y le queda uno, las teorías de la oportunidad. La 5 destraba cuatro, 
       cinco categorías, la proyección de resultados por tipología con la metodología de
       Rotterdam, el caso Guadalajara y la adopción de la violencia crónica. Pero la guía
       anterior tiene su propio problema de año y autoría; ver el ítem siguiente.
-
-- [ ] **[concepto]** Teorías de la oportunidad —elección racional, patrón
-      delictivo, actividades rutinarias y prevención situacional—.
-      [[weisburd-el-lugar-importa]] las expone como una de las dos familias que
-      explican la concentración del delito, y hoy cinco páginas las mencionan sin
-      tener adónde enlazar: [[puntos-calientes]], [[gestion-de-lugares]],
-      [[desplazamiento-y-difusion]], [[analisis-espacial-del-delito]] y
-      [[desorganizacion-social]].
-      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
-      Criterio: crearla con Clarke (1997) y Felson y Eckert (2016), que están en el
-      corpus y entran en la tanda 4. Escribirla desde Weisburd sería escribirla
-      desde el resumen de quien las usa, no desde sus autores.
-      **Enmienda 27-09-2026** (ingesta de [[tudela-analisis-criminal]]): una sexta página
-      las invoca. [[analisis-criminal]] las declara, con la elección racional, las teorías
-      principales del oficio del analista. El criterio no cambia.
-      **Enmienda 16-10-2026** (ingesta de [[kessler-delito-amateur]]): entra una crítica empírica a la
-      elección racional. En jóvenes que roban en Buenos Aires, el cálculo de costos no
-      decide entrar ni salir del delito, sólo crece dentro de una carrera (pp. 84, 111-112
-      y 261). Ya está en [[autocontrol-y-disuasion]] y [[delito-amateur]]. La página tendrá
-      que registrarla como una voz propia. El criterio no cambia.
-      **Enmienda 17-10-2026** (ingesta de [[gottfredson-hirschi-teoria-general]]): una voz que
-      las declara compatibles con la idea de criminalidad (pp. 22-24) y que reconoce deudas con
-      Cohen, Felson y Clarke (p. vii). Predice además que no hay desplazamiento (p. 256). Ya
-      está en [[teoria-general-del-delito]] y [[desplazamiento-y-difusion]]. El criterio no
-      cambia.
 
 - [ ] **[investigar]** ¿Vale la ley de concentración del delito en una comuna
       chilena? [[weisburd-el-lugar-importa]] no reporta ningún estudio de
@@ -640,6 +616,9 @@ informal, y le queda uno, las teorías de la oportunidad. La 5 destraba cuatro, 
       Acción propuesta: `crear-pagina` · Origen: ingesta 2026-10-24
       Criterio: crearla cuando una segunda fuente la describa o cuando el autor elija el plan
       como anclaje.
+      **Enmienda 24-10-2026** (ingesta de [[guerra-modelo-las-condes]]): la segunda fuente llegó
+      y la página se creó, [[direccion-de-seguridad-publica-las-condes]], en `prevencion`. Queda
+      abierta sólo la otra decisión: si ella y el plan pasan a `caso-de-grado`.
 
 - [ ] **[investigar]** «Ficha técnica de la consulta vecinal 2025 de Las Condes» — el plan
       informa porcentajes, pero no el tamaño de la muestra, el modo de aplicación ni la
@@ -648,13 +627,61 @@ informal, y le queda uno, las teorías de la oportunidad. La 5 destraba cuatro, 
       Acción propuesta: `investigar` · Origen: ingesta 2026-10-24
       Consulta sugerida: pedirla a la Dirección de Seguridad Pública.
 
-- [ ] **[ingesta]** «Ley 21.802 antes que el resto de la tanda 5» — reformó el plan comunal
+- [ ] **[investigar]** «Barrio Protegido: año de inicio, registro de cámaras y nombre de la
+      organización vecinal» — [[guerra-modelo-las-condes]] no da el año de inicio, da dos cifras de
+      cámaras con analítica (2.200 y 2.487) y dos nombres para la organización vecinal
+      («Círculos» y «Centros de Seguridad Vecinal»). Ver [[barrio-protegido]].
+      Acción propuesta: `investigar` · Origen: ingesta 2026-10-24
+      Consulta sugerida: pedir a la Dirección de Seguridad Pública el registro del programa, con
+      ubicación y fechas de alta y baja.
+
+- [ ] **[vacío]** «Evidencia sobre cámaras posterior a 1997» — la única evidencia del corpus
+      sobre CCTV es el resumen que Clarke (1997) hace de estudios británicos de 1979 a 1996. Los
+      casos 11 y 12 del libro no vienen en el archivo. Ver [[prevencion-situacional]].
+      Acción propuesta: `investigar` · Origen: ingesta 2026-10-24
+      Consulta sugerida: una revisión sistemática reciente sobre CCTV y delito.
+
+- [ ] **[ingesta]** «El resto de Felson y Eckert (2016)» — se leyeron cinco de trece capítulos.
+      El 6 trata las rutinas de los adolescentes y podría servir a S2.4.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-10-24
+
+## Resueltos
+
+- [x] **[ingesta]** «Ley 21.802 antes que el resto de la tanda 5» — reformó el plan comunal
       desde el 12-08-2026. Hoy la wiki la cita por nombre de archivo en
       [[ley-20965-planes-comunales]] y [[plan-comunal-de-seguridad-publica]]. Decidir si se
       adelanta, porque el diseño de S1.2 y el trabajo grupal de S1.1 citan el plan.
       Acción propuesta: `preguntar` · Origen: ingesta 2026-10-24
+      **Resuelto 24-10-2026:** el autor la adelantó a la tanda S1.2b. Ficha:
+      [[ley-21802-seguridad-municipal]].
 
-## Resueltos
+- [x] **[concepto]** Teorías de la oportunidad —elección racional, patrón
+      delictivo, actividades rutinarias y prevención situacional—.
+      [[weisburd-el-lugar-importa]] las expone como una de las dos familias que
+      explican la concentración del delito, y hoy cinco páginas las mencionan sin
+      tener adónde enlazar: [[puntos-calientes]], [[gestion-de-lugares]],
+      [[desplazamiento-y-difusion]], [[analisis-espacial-del-delito]] y
+      [[desorganizacion-social]].
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
+      Criterio: crearla con Clarke (1997) y Felson y Eckert (2016), que están en el
+      corpus y entran en la tanda 4. Escribirla desde Weisburd sería escribirla
+      desde el resumen de quien las usa, no desde sus autores.
+      **Enmienda 27-09-2026** (ingesta de [[tudela-analisis-criminal]]): una sexta página
+      las invoca. [[analisis-criminal]] las declara, con la elección racional, las teorías
+      principales del oficio del analista. El criterio no cambia.
+      **Enmienda 16-10-2026** (ingesta de [[kessler-delito-amateur]]): entra una crítica empírica a la
+      elección racional. En jóvenes que roban en Buenos Aires, el cálculo de costos no
+      decide entrar ni salir del delito, sólo crece dentro de una carrera (pp. 84, 111-112
+      y 261). Ya está en [[autocontrol-y-disuasion]] y [[delito-amateur]]. La página tendrá
+      que registrarla como una voz propia. El criterio no cambia.
+      **Enmienda 17-10-2026** (ingesta de [[gottfredson-hirschi-teoria-general]]): una voz que
+      las declara compatibles con la idea de criminalidad (pp. 22-24) y que reconoce deudas con
+      Cohen, Felson y Clarke (p. vii). Predice además que no hay desplazamiento (p. 256). Ya
+      está en [[teoria-general-del-delito]] y [[desplazamiento-y-difusion]]. El criterio no
+      cambia.
+      **Resuelto 24-10-2026** (tanda S1.2b): se crearon dos páginas desde sus autores,
+      [[actividades-rutinarias]] y [[prevencion-situacional]], con [[felson-eckert-delito-y-vida-cotidiana]]
+      y [[clarke-prevencion-situacional]]. La elección racional queda dentro de la segunda.
 
 - [x] **[concepto]** «Control social informal» — Sampson lo usa como el mecanismo
       causal de la eficacia colectiva sin definirlo, y es contenido del módulo 6 de

@@ -10,8 +10,8 @@ Artefacto operativo para retomar, no registro de lo hecho: la crónica de cada s
 en [[log]]. Se consolidó el 27-09-2026, en la auditoría que cerró la tanda 1; el informe
 está en `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-**Estado al 24-10-2026.** 28 fuentes ingeridas de 126 documentos, tres de ellas sólo en parte;
-93 pendientes de un universo de 120, según `scripts/estado.py`. 84 páginas: 15 en borrador.
+**Estado al 24-10-2026.** 32 fuentes ingeridas de 135 documentos, cinco de ellas sólo en parte;
+99 pendientes de un universo de 130, según `scripts/estado.py`. 92 páginas: 19 en borrador.
 Núcleo ancla de S1.1 completo, **tandas 1, 2 y 3 cerradas** y la 4 abierta el 17-10. El 24-10
 entraron, por delante de la cola, la Ley 20.965 y el plan comunal de Las Condes. Siete de ocho clústeres poblados;
 `caso-de-grado` sigue vacío a propósito. Cobertura de S1.1: 17 de 32 títulos oficiales en
@@ -22,8 +22,9 @@ el corpus, 53 %. Nada bloquea la ingesta.
 En este orden:
 
 1. **Tanda 4a**, antes de la clase de S2.4 del 24-10 o, si no alcanza, de la del 07-11:
-   Duarte Quapper (2012) · Bourdieu (2002) · Brizuela (2014). Después, el resto de la
-   **tanda 4**, antes del 06-11: Clarke (1997) · Felson y Eckert (2016). Ver `purpose.md`.
+   Duarte Quapper (2012) · Bourdieu (2002) · Brizuela (2014), y *si alcanza* cuatro obras
+   cortas de juventudes. La tanda 4 quedó sin obras pendientes: Clarke y Felson y Eckert
+   entraron el 24-10 en la S1.2b. Ver `purpose.md`.
 2. **Decisiones que sólo toma el autor.** Trece, en el grupo A de [[revision]]. La más
    antigua es la página `tesis-` sobre el anclaje empírico, abierta desde el 29-08. Fuera
    de la cola, una más: retirar de `raw/sources/` el duplicado exacto de Arias (2017) que
@@ -56,15 +57,18 @@ documento por documento lo da `python scripts/estado.py`.
 - [x] **Normas del diseño de S1.2, el 24-10**, por delante de la cola y por decisión del
       autor: ~~Ley 20.965~~ y ~~Decreto 2098 de Las Condes~~. Crearon
       [[plan-comunal-de-seguridad-publica]]
+- [x] **Tanda S1.2b, el 24-10**, por delante de la 4a y por decisión del autor:
+      ~~Ley 21.802~~, ~~Guerra Araya (2024)~~, ~~Clarke (1997)~~, sólo la introducción, y
+      ~~Felson y Eckert (2016)~~, caps. 2, 3, 5, 10 y 11. Crearon [[prevencion-situacional]],
+      [[actividades-rutinarias]], [[direccion-de-seguridad-publica-las-condes]] y [[barrio-protegido]]
 - [ ] **Tanda 4a, antes del 24-10 o del 07-11:** Duarte Quapper (2012) · Bourdieu (2002) ·
       Brizuela (2014). Lecturas obligatorias de S2.4
 - [ ] **Tanda 4, antes del 06-11 (era el 23-10):** ~~Gottfredson y Hirschi (1990)~~, ingerida
-      el 17-10, · Clarke (1997) · Felson y Eckert (2016). Gottfredson y Hirschi resolvió el
+      el 17-10, · ~~Clarke (1997) · Felson y Eckert (2016)~~, pasaron a la S1.2b. Gottfredson y Hirschi resolvió el
       control social informal, que pasó a ser [[control-social-informal]]
-- [ ] **Tanda 5, antes del 06-11:** Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya (2024) ·
+- [ ] **Tanda 5, antes del 06-11:** Decreto 96 (PNSP) · ~~Ley 21.802 · Guerra Araya (2024)~~, pasaron a la S1.2b ·
       SPD (2022) · Gobierno de Santiago (s.f.) · Campana y Meneghini (2024) · Bergman (2023) ·
-      *si alcanza:* Schroeder y Coello-Torres (2019). Ver en [[revision]] si la Ley 21.802 se
-      adelanta
+      *si alcanza:* Schroeder y Coello-Torres (2019)
 - [ ] **Tanda 6, antes del 27-11:** Garland (Gedisa) · Wacquant · Luneke y Trebilcock
       (2023) · Alda y Beliz (2007) · Zeballos (2024) · Bergman (2016) · Silva Sánchez ·
       Ferrajoli
@@ -120,12 +124,16 @@ consulta de S1.1**, García-Pablos completo incluido.
 
 ## Páginas borrador
 
-Catorce. Casi todas por la misma razón: registran una sola posición, o la registran de
+Dieciocho. Casi todas por la misma razón: registran una sola posición, o la registran de
 segunda mano.
 
 | Página | Qué le falta | Dónde puede estar |
 |---|---|---|
-| [[ventanas-rotas]] | La voz de quien la defiende | Clarke (1997), tanda 4; Wilson y Kelling no están en el corpus |
+| [[ventanas-rotas]] | La voz de quien la defiende | Clarke (1997) la clasifica como técnica, sin defenderla; Wilson y Kelling no están en el corpus |
+| [[prevencion-situacional]] | Evidencia sobre cámaras posterior a 1997 | Fuera del corpus |
+| [[actividades-rutinarias]] | Cohen y Felson (1979), la formulación original | Fuera del corpus |
+| [[barrio-protegido]] | Una fuente que no sea la propia Dirección | Fuera del corpus |
+| [[direccion-de-seguridad-publica-las-condes]] | Una fuente externa a la Dirección | Fuera del corpus |
 | [[policia-comunitaria]] | Una evaluación de un caso exitoso | Nada identificado |
 | [[legitimidad-policial]] | Evidencia chilena medida, no narrada | El instrumento de la ENUSC 2023 ya está en el corpus. Faltan sus resultados |
 | [[debilidad-estatal]] | La voz de sus defensores | Cúmulo `Vínculo Estado-crimen` |
@@ -158,10 +166,11 @@ segunda mano.
 Cuarenta y cinco, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
 resuelven. Dos podrían moverse con fuentes que ya tienen tanda:
 
-- **El estatus del control en la prevención** (tensión 3), con Clarke en la tanda 4.
+- **El estatus del control en la prevención** (tensión 3). Clarke entró el 24-10: separa las
+  precauciones rutinarias del control formal e informal. Falta llevarlo a [[overview]].
   Gottfredson y Hirschi entraron el 17-10 y agregaron una tercera posición.
-- **Las ventanas rotas** (sin número, la que más pesa en el trabajo evaluado de S1.1), con
-  Clarke en la tanda 4.
+- **Las ventanas rotas** (sin número, la que más pesa en el trabajo evaluado de S1.1). Clarke
+  entró el 24-10, pero sólo la clasifica: el defensor sigue faltando.
 
 ## Mantenimiento
 

@@ -10,10 +10,10 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 103 | 79.2 % |
+| `pendiente` | 99 | 76.2 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 27 | 20.8 % |
+| `completo` | 31 | 23.8 % |
 
 ## Por cumulo
 
@@ -23,15 +23,15 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
 | Bibliografía S1.1, consulta y complementaria | 12 | 9 | 0 | 0 | 3 |
 | Bibliografía obligatoria S2.4 | 3 | 3 | 0 | 0 | 0 |
-| Explicación del delito | 5 | 2 | 0 | 0 | 3 |
+| Explicación del delito | 5 | 1 | 0 | 0 | 4 |
 | Gobernanza criminal y territorio | 6 | 4 | 0 | 0 | 2 |
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
-| Institucionalidad y política de prevención en Chile | 8 | 5 | 0 | 0 | 3 |
+| Institucionalidad y política de prevención en Chile | 8 | 4 | 0 | 0 | 4 |
 | Integrados desde el programa del curso (05-09-2026) | 9 | 2 | 0 | 0 | 7 |
 | Juventudes, módulo I de S2.4 | 9 | 9 | 0 | 0 | 0 |
 | Medición e inseguridad | 6 | 4 | 0 | 0 | 2 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
-| Prevención e intervención | 6 | 5 | 0 | 0 | 1 |
+| Prevención e intervención | 6 | 3 | 0 | 0 | 3 |
 | Sistema penal y Estado de derecho | 8 | 6 | 0 | 0 | 2 |
 | Vínculo Estado-crimen | 18 | 18 | 0 | 0 | 0 |
 
@@ -122,7 +122,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2002 - Pavarini - Control y dominación, teorías criminológicas burguesas y proyecto hegemónico.pdf
 - `completo` — 2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf
 - `completo` — 2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf
-- `pendiente` — 2016 - Felson y Eckert - El delito y la vida cotidiana.pdf
+- `completo` — 2016 - Felson y Eckert - El delito y la vida cotidiana.pdf
 
 ### Gobernanza criminal y territorio
 
@@ -153,7 +153,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `completo` — 2024 - Ministerio de la Mujer y la Equidad de Género - Ley 21.675, estatuye medidas para prevenir, sancionar y erradicar la violencia en contra de las mujeres en razón de su género.pdf
 - `pendiente` — 2025 - Ministerio del Interior y Seguridad Pública - Ley 21.730, crea el Ministerio de Seguridad Pública.pdf
 - `pendiente` — 2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf
-- `pendiente` — 2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf
+- `completo` — 2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf
 - `completo` — 2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf
 - `pendiente` — 2026 - Presidencia de la República - Presidente Kast anuncia la Agenda contra el Crimen Organizado y el Terrorismo (ACOT) en cadena nacional.md
 
@@ -199,11 +199,11 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 ### Prevención e intervención
 
-- `pendiente` — 1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf
+- `completo` — 1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf
 - `pendiente` — 2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf
 - `completo` — 2015 - Vanderschueren - Guía para la prevención en barrios.pdf
 - `pendiente` — 2019 - Schroeder y Coello-Torres - Placemaking, transformación de un lugar en el asentamiento humano Santa Julia, Piura, Perú.pdf
-- `pendiente` — 2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf
+- `completo` — 2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf
 - `pendiente` — s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf
 
 ### Sistema penal y Estado de derecho

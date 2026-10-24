@@ -2,7 +2,7 @@
 title: Plan comunal de seguridad pública
 type: entity
 subtipo: politica
-sources: ["2016 - Ministerio del Interior y Seguridad Pública - Ley 20.965, permite la creación de consejos y planes comunales de seguridad pública.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf"]
+sources: ["2016 - Ministerio del Interior y Seguridad Pública - Ley 20.965, permite la creación de consejos y planes comunales de seguridad pública.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf"]
 alias: [PCSP, plan comunal, consejo comunal de seguridad pública]
 vigencia: vigente
 cluster: prevencion
@@ -38,7 +38,7 @@ El instrumento de gestión con que cada municipio chileno fija las orientaciones
 
 ## El consejo comunal
 
-Órgano consultivo del alcalde e instancia de coordinación entre instituciones [^ext-8]. Lo preside el alcalde. Lo integran el representante regional del gobierno, dos concejales, el oficial de Carabineros de mayor grado en la comuna, la PDI, la Fiscalía, dos representantes de la sociedad civil, un secretario ejecutivo municipal, Gendarmería, el servicio de menores y SENDA [^ext-9]. *Desde el 12-08-2026 cambian el representante regional y el servicio de menores, y se suman tres integrantes y un comité de coordinación operativa* [^ext-3]. Sesiona al menos una vez al mes [^ext-10].
+Órgano consultivo del alcalde e instancia de coordinación entre instituciones [^ext-8]. Lo preside el alcalde. Lo integran el representante regional del gobierno, dos concejales, el oficial de Carabineros de mayor grado en la comuna, la PDI, la Fiscalía, dos representantes de la sociedad civil, un secretario ejecutivo municipal, Gendarmería, el servicio de menores y SENDA [^ext-9]. *Desde el 12-08-2026 cambian el representante regional y el servicio de menores, y se suman tres integrantes y un comité de coordinación operativa* [^ext-3]. Sesiona al menos una vez al mes [^ext-10]. *Superado desde el 12-08-2026: sesiona cada trimestre, con una sesión semestral abierta a la sociedad civil y asistencia obligatoria* [^ext-23].
 
 **Datos para el plan.** El alcalde puede pedir a la Fiscalía y a las policías los datos oficiales sobre los delitos de la comuna, sin datos que singularicen personas [^ext-11]. *Desde el 12-08-2026 se agrega una plataforma con datos anonimizados de la Fiscalía y Carabineros* [^ext-3].
 
@@ -53,14 +53,28 @@ El único plan del corpus es el de Las Condes, aprobado en junio de 2026 [^ext-1
 
 Detalle en [[las-condes-plan-comunal-2026-2029]].
 
+## Lo que agregó la Ley 21.802
+
+Desde el 12-08-2026 [^ext-18]:
+
+- **Comité de coordinación operativa** dentro del consejo: alcalde, director de seguridad, policías y Fiscalía. Sesiona al menos una vez al mes e informa cada trimestre al concejo y al consejo [^ext-19].
+- **Compromisos exigibles.** Ante incumplimientos reiterados, el alcalde oficia al superior de la institución e informa a la Subsecretaría. El avance se publica [^ext-20].
+- **Estrategias declaradas.** El plan debe adaptarse a la comuna y nombrar sus estrategias de prevención primaria, secundaria y terciaria, social, comunitaria y situacional [^ext-21].
+- **Concordancia policial.** Las acciones del sistema táctico de Carabineros deben concordar con los planes comunales [^ext-21].
+- **Plazo.** Los municipios tienen un año desde la vigencia para actualizar sus planes [^ext-22]: hasta el 12-08-2027 [^inf-2].
+
+Detalle en [[ley-21802-seguridad-municipal]].
+
 ## Tensiones
 
-**Coordinación o coproducción.** La ley define el consejo como coordinación entre instituciones y da a la sociedad civil dos asientos [^ext-9]. La wiki trata la coproducción de seguridad como producir seguridad con la comunidad. El consejo no la garantiza [^inf-1]. Ver [[coproduccion-de-seguridad]].
+**Coordinación o coproducción.** La ley define el consejo como coordinación entre instituciones y da a la sociedad civil dos asientos [^ext-9]. La wiki trata la coproducción de seguridad como producir seguridad con la comunidad. El consejo no la garantiza [^inf-1]. En Las Condes, la propia Dirección de Seguridad dice que el consejo no logra coordinar y funciona más como instancia de reunión [^ext-24]. Ver [[coproduccion-de-seguridad]].
 
 **La priorización depende del dato.** La ley pide priorizar por frecuencia o gravedad [^ext-1]. Eso descansa en registros que no son el fenómeno. En Las Condes, la serie de robos cambió de método en 2025 [^ext-17]. Ver [[estadisticas-delictuales]].
 
 ## Relacionado
 
+- [[ley-21802-seguridad-municipal]] — la reforma de 2026
+- [[direccion-de-seguridad-publica-las-condes]] — quien elabora el plan de Las Condes
 - [[ley-20965-planes-comunales]] — la ley que crea el instrumento, y su reforma de 2026
 - [[las-condes-plan-comunal-2026-2029]] — un plan concreto
 - [[prevencion-del-delito]] — la función municipal de prevención social y situacional
@@ -71,7 +85,7 @@ Detalle en [[las-condes-plan-comunal-2026-2029]].
 
 [^ext-1]: **Extraído** — [[ley-20965-planes-comunales]], art. 104 F, p. 6.
 [^ext-2]: **Extraído** — [[ley-20965-planes-comunales]], art. 104 F, p. 7.
-[^ext-3]: **Extraído** — `2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf`, art. 64, n.º 3, 4, 8 y 9. Sin ficha: se ingiere en la tanda 5. Ver [[ley-20965-planes-comunales]].
+[^ext-3]: **Extraído** — `2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf`, art. 64, n.º 3, 4, 8 y 9. Ficha: [[ley-21802-seguridad-municipal]].
 [^ext-4]: **Extraído** — [[ley-20965-planes-comunales]], nueva letra l) del art. 5, p. 1.
 [^ext-5]: **Extraído** — [[ley-20965-planes-comunales]], art. 104 E, pp. 5-6.
 [^ext-6]: **Extraído** — [[ley-20965-planes-comunales]], art. 65, p. 2.
@@ -87,3 +101,11 @@ Detalle en [[las-condes-plan-comunal-2026-2029]].
 [^ext-16]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], pp. 26-30.
 [^ext-17]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], p. 3.
 [^inf-1]: **Inferido** (confianza 0.6) — combinando el art. 104 B de [[ley-20965-planes-comunales]] con la definición de [[coproduccion-de-seguridad]]. La ley no usa el término.
+[^ext-18]: **Extraído** — [[ley-21802-seguridad-municipal]], art. primero transitorio.
+[^ext-19]: **Extraído** — [[ley-21802-seguridad-municipal]], art. 64, n.º 8, nuevo art. 104 E bis.
+[^ext-20]: **Extraído** — [[ley-21802-seguridad-municipal]], art. 64, n.º 7.
+[^ext-21]: **Extraído** — [[ley-21802-seguridad-municipal]], art. 64, n.º 9.
+[^ext-22]: **Extraído** — [[ley-21802-seguridad-municipal]], art. undécimo transitorio.
+[^ext-23]: **Extraído** — [[ley-21802-seguridad-municipal]], art. 64, n.º 6.
+[^ext-24]: **Extraído** — [[guerra-modelo-las-condes]], p. 25.
+[^inf-2]: **Inferido** (confianza 0.8) — contando el año desde el 12-08-2026, fecha de vigencia que da la BCN.

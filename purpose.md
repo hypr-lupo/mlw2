@@ -127,11 +127,12 @@ núcleo ancla, según los cúmulos de `INVENTARIO.md`:
 11. Vínculo Estado-crimen (18)
 12. Amenaza y securitización (24)
 
-Siete ajustes al orden original. El primero se decidió el 12-09-2026 al cerrar el
+Ocho ajustes al orden original. El primero se decidió el 12-09-2026 al cerrar el
 núcleo ancla, los dos siguientes el 13-09-2026 al agnosticar la ingesta, el cuarto el
 26-09-2026 con el calendario de clases a la vista, el quinto el 23-10-2026, al llegar
-cinco obras nuevas y la pauta de la prueba final de S1.1, y los dos últimos el
-24-10-2026: las normas del diseño de S1.2 y nueve obras sobre juventudes:
+cinco obras nuevas y la pauta de la prueba final de S1.1, y los tres últimos el
+24-10-2026: las normas del diseño de S1.2, nueve obras sobre juventudes y cuatro obras
+más para el diseño de S1.2:
 
 - **La bibliografía de consulta de S1.1 sube al segundo lugar**, por delante de los
   programas oficiales restantes. Razón: los cuatro programas de los ramos en curso ya
@@ -173,9 +174,10 @@ cinco obras nuevas y la pauta de la prueba final de S1.1, y los dos últimos el
   | 2 | sáb 10-10 | Batthyány y Cabrera (2011) · Vives Varela y Hamui Sutton (2021) · INE (2023) · Srur (2014), pp. 26-45 · Tudela (ed.) (2010), solo el capítulo de Boba · CIPC (2015) | Clase 5 y las dos evaluaciones de S1.2. Srur y Boba entran en parte, porque el programa acota esas lecturas |
   | 3 | vie 16-10 | Baratta (2004), caps. I-II, IV, VII y VIII · Kessler (2004) · Blanco (2011) | S1.1, módulo 5, y las primeras clases de S2.4 (desde el 17-10) |
   | S1.2 | sáb 24-10 | Ley 20.965 · Decreto 2098 de Las Condes, Plan Comunal de Seguridad Pública 2026-2029 | Diseño de investigación aplicada de S1.2, que se entrega el 24-10. Van antes que todo lo demás |
+  | S1.2b | sáb 24-10 | Ley 21.802 · Guerra Araya (2024) · Clarke (1997) · Felson y Eckert (2016) | Diseño de investigación aplicada de S1.2. Se agregó el 24-10 y va antes que la 4a. Las cuatro salen de las tandas 4 y 5 |
   | 4a | sáb 24-10 | Duarte Quapper (2012) · Bourdieu (2002) · Brizuela (2014) | S2.4: Duarte y Bourdieu, módulo I. Brizuela, módulo III. Se agregó el 23-10 y va antes que el resto de la tanda 4. *Si alcanza*, desde el 24-10: Duarte Quapper (2000) · Krauskopf (2010) · Brito Lemus (1998) · Romero Miranda (2015) |
-  | 4 | vie 06-11 (era vie 23-10) | Gottfredson y Hirschi (1990), ingerida el 17-10 · Clarke (1997) · Felson y Eckert (2016) | S1.1, módulo 6. El resto corre detrás de la 4a |
-  | 5 | vie 06-11 | Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya (2024) · SPD (2022), orientaciones técnicas · Gobierno de Santiago (s.f.), guía de barrios · Campana y Meneghini (2024) · Bergman (2023) · *si alcanza:* Schroeder y Coello-Torres (2019) | S1.1, módulo 7, y el trabajo grupal, cuyos talleres son el 13 y el 20-11. Si el grupo elige su política antes, las cuatro primeras se adelantan. Si elige un espacio público, se adelanta Schroeder y Coello-Torres |
+  | 4 | vie 06-11 (era vie 23-10) | Gottfredson y Hirschi (1990), ingerida el 17-10 · ~~Clarke (1997) · Felson y Eckert (2016)~~, pasaron a la S1.2b el 24-10 | S1.1, módulo 6. El resto corre detrás de la 4a |
+  | 5 | vie 06-11 | Decreto 96 (PNSP) · ~~Ley 21.802 · Guerra Araya (2024)~~, pasaron a la S1.2b el 24-10 · SPD (2022), orientaciones técnicas · Gobierno de Santiago (s.f.), guía de barrios · Campana y Meneghini (2024) · Bergman (2023) · *si alcanza:* Schroeder y Coello-Torres (2019) | S1.1, módulo 7, y el trabajo grupal, cuyos talleres son el 13 y el 20-11. Si el grupo elige su política antes, las cuatro primeras se adelantan. Si elige un espacio público, se adelanta Schroeder y Coello-Torres |
   | 6 | vie 27-11 | Garland (Gedisa) · Wacquant · Luneke y Trebilcock (2023) · Alda y Beliz (2007) · Zeballos (2024) · Bergman (2016) · Silva Sánchez · Ferrajoli | Inicio de S1.3, y lo que queda de la bibliografía de S1.1 |
 
   Terminada la tanda 6, vuelve el orden por cúmulos para el resto. No cambian tres
@@ -228,6 +230,22 @@ cinco obras nuevas y la pauta de la prueba final de S1.1, y los dos últimos el
   cúmulo. Las otras cinco —Feixa (1999), Sennett (2000), Rubio Gil y San Martín Pascal
   (2012), Souto Kustrín (2007) y Lozano Urbieta (2003)— quedan en el orden por cúmulos.
   Sennett necesita OCR antes de ingerirse.
+- **Cuatro obras para el diseño de S1.2, por delante de la tanda 4a** (24-10-2026). Por
+  decisión del autor, la Ley 21.802, Guerra Araya (2024), Clarke (1997) y Felson y Eckert
+  (2016) forman la tanda S1.2b y se ingieren antes que la 4a. Razones:
+  · el diseño de investigación aplicada de S1.2 es un estudio de concentración del delito
+    en segmentos de calle de Las Condes, con cámaras, comercio y transporte como
+    variables. Las cuatro cubren lo que sus secciones 6, 8 y 9 piden y el corpus no tenía
+    ingerido;
+  · Guerra Araya es la descripción que la propia Dirección de Seguridad Pública de Las
+    Condes hace de su modelo, con la red de cámaras y el proyecto Barrio Protegido;
+  · Felson y Eckert sostiene la teoría de las actividades rutinarias, y Clarke trae la
+    única evidencia del corpus sobre cámaras de vigilancia;
+  · la Ley 21.802 reformó la Ley 20.965 y crea la plataforma de datos que el diseño cita.
+    Hasta ahora sólo se había consultado.
+  Clarke y Felson y Eckert salen de la tanda 4, y la Ley 21.802 y Guerra Araya, de la 5.
+  La tanda 4 queda sólo con Gottfredson y Hirschi, ya ingerida. La 4a corre detrás sin
+  otros cambios.
 
 **Corpus sin clasificar.** Trece archivos ingresaron a `raw/sources/` el 12-09-2026 sin
 nomenclatura y sin decisión de alcance. Están en cuarentena en `INVENTARIO.md` y **no

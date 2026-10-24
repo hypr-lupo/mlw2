@@ -171,6 +171,30 @@
       "bytes": 20508925,
       "ingerido": "2026-10-24",
       "ficha": "wiki/sources/las-condes-plan-comunal-2026-2029.md"
+    },
+    "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf": {
+      "sha256": "db05bd3ff1f90a7fd65a37243da7d0a1bab012038aeea42764b30492dd776f43",
+      "bytes": 156835,
+      "ingerido": "2026-10-24",
+      "ficha": "wiki/sources/ley-21802-seguridad-municipal.md"
+    },
+    "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf": {
+      "sha256": "de4d9c2344c00e410e26d79df58da940736b1f8dd4ca46f8288e2b398e7effd9",
+      "bytes": 12489429,
+      "ingerido": "2026-10-24",
+      "ficha": "wiki/sources/guerra-modelo-las-condes.md"
+    },
+    "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf": {
+      "sha256": "ad688b4eac040f91e7b420d40dcf31f7f1572d44e390169f441be5c0cdab5cf8",
+      "bytes": 365223,
+      "ingerido": "2026-10-24",
+      "ficha": "wiki/sources/clarke-prevencion-situacional.md"
+    },
+    "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf": {
+      "sha256": "d4730bfa72100d19e76eeb897003d180d9ae13a9ca248c3ef34b421473886458",
+      "bytes": 12160552,
+      "ingerido": "2026-10-24",
+      "ficha": "wiki/sources/felson-eckert-delito-y-vida-cotidiana.md"
     }
   }
 }

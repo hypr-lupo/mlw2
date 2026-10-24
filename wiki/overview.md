@@ -586,8 +586,9 @@ dirección. Elegirla o no es decisión del autor.
   [[regimenes-armados-microescala]] y [[cultura-callejera]]. Las dos más nuevas llegan de
   segunda mano, reconstruidas por Baratta, y ninguna fuente del corpus las prueba en Chile. [[ventanas-rotas]] y
   [[debilidad-estatal]] suman críticos, pero siguen sin un defensor.
-- **Hablar de las teorías de la oportunidad desde sus autores.** Clarke (1997) y Felson
-  y Eckert (2016) entran en la tanda 4.
+- ~~**Hablar de las teorías de la oportunidad desde sus autores.**~~ Hecho el 24-10: Clarke (1997)
+  y Felson y Eckert (2016) entraron en la tanda S1.2b, con [[actividades-rutinarias]] y
+  [[prevencion-situacional]].
 - **Hablar del curso de vida desde sus autores.** Blanco (2011) entró el 17-10, pero es una
   revisión sociodemográfica: Sampson y Laub no están en el corpus. El autocontrol ya tiene
   su voz, porque Gottfredson y Hirschi (1990) entraron el mismo día. Su crítica de los puntos
@@ -618,7 +619,7 @@ quedó cerrada, seis días tarde. Sigue la tanda 3: Baratta (2004), Kessler (200
 (2011). La tanda 3 vence el mismo 16-10. El autor
 decidió ese día mantener el orden: la 3 va después de terminar la 2. Baratta (2004) la abrió
 ese mismo día, en sus caps. I-II, IV, VII y VIII, y Kessler (2004) la siguió. Blanco (2011) la cerró el 17-10, un día tarde. La tanda 4
-empezó el mismo día con Gottfredson y Hirschi (1990). Siguen Clarke (1997) y Felson y Eckert (2016), ahora antes del 06-11. El 24-10 entraron por delante de la cola la Ley 20.965 y el plan comunal de Las Condes, para el diseño de S1.2. Antes del resto de la tanda 4 va la 4a, con tres lecturas obligatorias de S2.4. Después de la sexta
+empezó el mismo día con Gottfredson y Hirschi (1990). El 24-10 entraron por delante de la cola la Ley 20.965 y el plan comunal de Las Condes, y después la tanda S1.2b: la Ley 21.802, Guerra Araya (2024), Clarke (1997) y Felson y Eckert (2016), todas para el diseño de S1.2. Antes del resto de la tanda 4 va la 4a, con tres lecturas obligatorias de S2.4. Después de la sexta
 vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.
 Arias (2017) y Bourgois (2010) entraron fuera de ese orden el 02-10, por decisión del

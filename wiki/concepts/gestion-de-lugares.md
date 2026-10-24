@@ -1,13 +1,13 @@
 ---
 title: Gestión de lugares
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-10-24
 ---
 
 # Gestión de lugares
@@ -69,6 +69,10 @@ Las dos escalas interactúan. Un solo local mal gestionado puede desbordar el co
 
 **Límite.** Hay muchos ejemplos de regulación, pero muy poca evaluación, así que falta guía sobre qué instrumento usar dónde [^ext-18]. Y no es obvio que la policía sea el mejor regulador: en Cincinnati, la autoridad sobre edificios problemáticos pasó de la policía a la fiscalía municipal tras quejas de los vecinos [^ext-18].
 
+## En el triángulo de Eck
+
+Añadido el 24-10-2026. Felson y Eckert ubican al administrador de lugar en el triángulo de Eck: el infractor evade a su manejador, busca un lugar sin administrador y un blanco sin guardián [^ext-19]. Los administradores tienen incentivos para prevenir el delito, pero no pueden mirar todo, en todas partes, siempre [^ext-20]. Y el espacio público es inseguro porque, en la mayoría de los casos, nadie está asignado a mirarlo [^ext-20]. Ver [[actividades-rutinarias]].
+
 ## Cita
 
 > "less about crime than the normal day-to-day use of space" [(la gestión de lugares tiene) menos que ver con el delito que con el uso cotidiano del espacio]
@@ -76,6 +80,7 @@ Las dos escalas interactúan. Un solo local mal gestionado puede desbordar el co
 
 ## Relacionado
 
+- [[actividades-rutinarias]] — el triángulo de Eck
 - [[weisburd-el-lugar-importa]] — fuente
 - [[puntos-calientes]] — la gestión como explicación de la concentración
 - [[policia-de-puntos-calientes]] — lo que la policía puede y no puede hacer sin el gestor
@@ -105,3 +110,5 @@ Las dos escalas interactúan. Un solo local mal gestionado puede desbordar el co
 [^ext-17]: **Extraído** — [[weisburd-el-lugar-importa]], p. 131, sobre Bichler y otros (2013).
 [^ext-18]: **Extraído** — [[weisburd-el-lugar-importa]], p. 132.
 [^inf-1]: **Inferido** (confianza 0.7) — el libro habla de gobiernos locales estadounidenses. La conexión con el trabajo evaluado de S1.1 es lectura propia; no se ha verificado qué instrumentos de este tipo tiene un municipio chileno.
+[^ext-19]: **Extraído** — [[felson-eckert-delito-y-vida-cotidiana]], pp. 31-33.
+[^ext-20]: **Extraído** — [[felson-eckert-delito-y-vida-cotidiana]], p. 35.

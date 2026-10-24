@@ -8,6 +8,36 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-24] ingesta | Tanda S1.2b: Ley 21.802, Guerra Araya (2024), Clarke (1997) y Felson y Eckert (2016)
+
+**Cuatro obras para el diseño de S1.2, por delante de la tanda 4a y por decisión del autor.** El
+ajuste quedó en `purpose.md`. Clarke y Felson y Eckert salen de la tanda 4, y la Ley 21.802 y
+Guerra Araya, de la 5.
+
+- Fichas creadas: [[ley-21802-seguridad-municipal]], [[guerra-modelo-las-condes]],
+  [[clarke-prevencion-situacional]] y [[felson-eckert-delito-y-vida-cotidiana]].
+- Páginas creadas: [[prevencion-situacional]], [[actividades-rutinarias]],
+  [[direccion-de-seguridad-publica-las-condes]] (`organismo`) y [[barrio-protegido]]
+  (`programa`, `vigencia: vigente`).
+- Páginas actualizadas: [[plan-comunal-de-seguridad-publica]], [[ley-20965-planes-comunales]],
+  [[las-condes-plan-comunal-2026-2029]], [[estadisticas-delictuales]], [[puntos-calientes]],
+  [[desplazamiento-y-difusion]], [[prevencion-del-delito]], [[gestion-de-lugares]],
+  [[eficacia-colectiva]], [[coproduccion-de-seguridad]], [[ventanas-rotas]], [[index]],
+  [[referencias]], [[pendientes]] y [[revision]].
+- Corrección: el plan comunal decía que el consejo sesiona una vez al mes. Desde el 12-08-2026
+  sesiona cada trimestre. Se conserva el texto de 2016, marcado como superado.
+- Tensiones nuevas: la cohesión social frente a la presencia de guardianes, en
+  [[eficacia-colectiva]] y [[actividades-rutinarias]]; y el autocontrol como rasgo o como
+  situación, en [[actividades-rutinarias]].
+- En revisión: se resuelven la Ley 21.802 y las teorías de la oportunidad. La Dirección de
+  Seguridad tiene página, pero su paso a `caso-de-grado` sigue siendo decisión del autor. Tres
+  ítems nuevos. La cola queda en 39.
+- Análisis de fase 1 en `despliegue/fase1/2026-10-24-ley-21802-seguridad-municipal.md`,
+  `2026-10-24-guerra-modelo-las-condes.md`, `2026-10-24-clarke-prevencion-situacional.md` y
+  `2026-10-24-felson-eckert-delito-y-vida-cotidiana.md`.
+- Lecturas parciales: el archivo de Clarke trae sólo la introducción, sin los 23 casos. De
+  Felson y Eckert se leyeron cinco de trece capítulos. Las dos fichas llevan `truncado: true`.
+
 ## [2026-10-24] ingesta | Ley 20.965 y Plan Comunal de Seguridad Pública 2026-2029 de Las Condes
 
 **Dos normas, por delante de la cola y por decisión del autor.** El diseño de investigación

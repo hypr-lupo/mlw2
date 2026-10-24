@@ -1,13 +1,13 @@
 ---
 title: Ventanas rotas y tolerancia cero
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-10-02
+actualizado: 2026-10-24
 ---
 
 # Ventanas rotas y tolerancia cero
@@ -30,6 +30,8 @@ El argumento tiene dos pisos, uno empírico y otro político, y el segundo sólo
 ## Por qué no es lo mismo que policía comunitaria
 
 El texto responde de forma expresa a la pregunta de si ambas son la misma cosa, y sostiene que no [^ext-4]. Son estrategias con supuestos causales distintos: una actúa sobre los símbolos del desorden, la otra sobre la relación entre policía y residentes. Ver [[policia-comunitaria]].
+
+**Dentro de la prevención situacional.** Clarke ubica a Wilson y Kelling en la técnica «reducir la tentación», junto a la reparación rápida: lo dañado y no reparado invita a nuevos daños [^ext-15]. Ver [[prevencion-situacional]].
 
 ## Cita
 
@@ -104,3 +106,4 @@ Es una cuarta voz crítica, y sigue sin haber una defensora: Kelling y Coles (19
 [^ext-13]: **Extraído** — [[bourgois-en-busca-de-respeto]], prefacio a la 2.ª ed., p. 28, sobre The New York Times (2000) y Blumstein y Wallman (2000).
 [^ext-14]: **Extraído** — [[bourgois-en-busca-de-respeto]], epílogo a la 2.ª ed., pp. 360-362.
 [^inf-1]: **Inferido** (confianza 0.7) — comparación entre las escalas de [[bourgois-en-busca-de-respeto]] y [[weisburd-el-lugar-importa]]. Ninguno discute al otro.
+[^ext-15]: **Extraído** — [[clarke-prevencion-situacional]], p. 23.

@@ -1,7 +1,7 @@
 ---
 title: Desplazamiento del delito y difusión de beneficios
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -95,6 +95,14 @@ Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]] y [[arias-emp
 
 **Qué agrega a la discusión.** El desacuerdo de esta página era entre quienes miden el desplazamiento espacial y quienes señalan el de táctica. Estos casos agregan dos más, el de mercancía y el de organización, que ocurren a escala de mercado o de ciudad y que ningún estudio de punto caliente podría captar [^inf-2]. No refutan las revisiones, que hablan de intervenciones focalizadas. Advierten contra extender su conclusión a la represión de mercados y grupos.
 
+## La formulación de Clarke
+
+Añadido el 24-10-2026. Clarke y Weisburd (1994) definieron la **difusión de beneficios** como la extensión del efecto de una intervención más allá de los lugares, las personas, los delitos o los tiempos que abarca [^ext-26]. Distinguen dos vías: la **disuasión**, cuando el infractor sobreestima el riesgo, y el **desaliento**, cuando juzga que el esfuerzo ya no vale la recompensa [^ext-27].
+
+Dos ejemplos con cámaras. En un estacionamiento universitario con CCTV, los robos bajaron igual en el sector sin cámaras. En una flota de 80 buses, el daño bajó en toda la flota aunque sólo cinco tenían cámaras, porque los niños no sabían cuáles las tenían [^ext-28].
+
+Sobre el desplazamiento, Clarke cita la revisión de Hesseling (1994): de 55 estudios, en 22 no hubo desplazamiento, y en ninguno fue total [^ext-29]. Y advierte un límite de método: el delito desplazado puede dispersarse tanto que se pierda en el error de medición [^ext-30].
+
 ## Cita
 
 > "displacement is far from inevitable" [el desplazamiento está lejos de ser inevitable]
@@ -102,6 +110,7 @@ Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]] y [[arias-emp
 
 ## Relacionado
 
+- [[prevencion-situacional]] — el enfoque al que se dirige la objeción del desplazamiento
 - [[weisburd-el-lugar-importa]] — fuente
 - [[policia-de-puntos-calientes]] — donde la evidencia es más sólida
 - [[puntos-calientes]] — el acoplamiento que explica por qué el delito no se mueve
@@ -145,3 +154,8 @@ Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]] y [[arias-emp
 [^ext-24]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], p. 22.
 [^ext-25]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], tabla, p. 4.
 [^inf-4]: **Inferido** (confianza 0.6) — el plan no define su escala de observación. Sus datos son comunales y por cuadrante, pp. 3-5. La comparación con la escala de [[weisburd-el-lugar-importa]] es de esta wiki.
+[^ext-26]: **Extraído** — [[clarke-prevencion-situacional]], p. 32.
+[^ext-27]: **Extraído** — [[clarke-prevencion-situacional]], pp. 32-33.
+[^ext-28]: **Extraído** — [[clarke-prevencion-situacional]], p. 32, resumiendo a Poyner (1988, 1991).
+[^ext-29]: **Extraído** — [[clarke-prevencion-situacional]], p. 29.
+[^ext-30]: **Extraído** — [[clarke-prevencion-situacional]], pp. 28-29, citando a Barr y Pease (1990).

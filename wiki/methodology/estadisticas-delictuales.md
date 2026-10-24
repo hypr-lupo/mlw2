@@ -1,7 +1,7 @@
 ---
 title: Estadísticas delictuales
 type: method
-sources: ["2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf"]
+sources: ["2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -97,8 +97,12 @@ Añadido el 16-10-2026 al ingerir [[baratta-criminologia-critica]]. Boba adviert
 Añadido el 24-10-2026 al ingerir [[las-condes-plan-comunal-2026-2029]]. Es la primera fuente de la wiki con registros de un municipio chileno, y repite tres advertencias de esta página.
 
 - **Las reglas de conteo cambian la cifra.** En 2025 la Dirección de Seguridad Pública de Las Condes empezó a contar los robos en malls y centros comerciales. El cambio subió las cifras de 2024 y 2025, y la serie quedó cortada [^ext-29]. Es el corte que la encuesta de 2023 tuvo del lado de la víctima, ahora del lado del registro [^inf-4].
-- **El dato municipal no es sólo municipal.** La línea de base de robos del plan es un compilado de la CeCoCo, sigla que el plan no expande, y de Carabineros [^ext-30].
+- **El dato municipal no es sólo municipal.** La línea de base de robos del plan es un compilado de la CeCoCo, sigla que el plan no expande, y de Carabineros [^ext-30]. Otro documento de la misma Dirección rotula «CECOCO» a la Central de Comunicaciones del 1402 [^ext-33][^inf-6].
 - **La llamada pasa filtros antes de ser registro.** En 2025 la central municipal 1402 perdió el 13 % de las llamadas [^ext-31]. Y no todo ingreso recibe un servicio: el 61 % por ruidos molestos, el 83 % por consumo en vía pública y el 98 % por comercio ambulante [^ext-32]. Lo que llega a ser procedimiento depende del tipo de hecho y de la capacidad de la central [^inf-5].
+
+**Ninguna fuente registra todos los robos.** Según la Dirección de Seguridad de Las Condes, de los robos de la comuna el 37 % lo registra sólo Carabineros, el 37 % sólo la central municipal y el 26 % ambas fuentes [^ext-34]. La tabla no da año ni total [^amb-1]. Si la cifra se sostiene, cada registro por separado deja fuera más de un tercio de los robos [^inf-7]. La misma Dirección dice que su registro incluye delitos frustrados e incivilidades, que el sistema de Carabineros no trae [^ext-35].
+
+**Una plataforma que todavía no existe.** La Ley 21.802 crea una plataforma interconectada, administrada por la Subsecretaría de Prevención del Delito, con datos anonimizados de la Fiscalía y de Carabineros para los municipios [^ext-36]. Debe operar en un año desde la vigencia de la ley [^ext-37]. No da acceso a investigadores ni al público [^inf-8]. Ver [[ley-21802-seguridad-municipal]].
 
 ## Cita
 
@@ -107,6 +111,8 @@ Añadido el 24-10-2026 al ingerir [[las-condes-plan-comunal-2026-2029]]. Es la p
 
 ## Relacionado
 
+- [[direccion-de-seguridad-publica-las-condes]] — un registro municipal y su relación con el policial
+- [[ley-21802-seguridad-municipal]] — la plataforma de datos para municipios
 - [[tudela-ed-analisis-delictual]]: fuente
 - [[medicion-de-la-victimizacion]]: el dato de encuesta, frente al de registro
 - [[analisis-criminal]]: el oficio que usa estas estadísticas
@@ -157,3 +163,12 @@ Añadido el 24-10-2026 al ingerir [[las-condes-plan-comunal-2026-2029]]. Es la p
 [^inf-3]: **Inferido** (confianza 0.7) — combinando [[baratta-criminologia-critica]], [[tudela-ed-analisis-delictual]] e [[ine-medicion-victimizacion]]. Ninguna de las tres discute a las otras.
 [^inf-4]: **Inferido** (confianza 0.7) — comparación propia entre [[ine-medicion-victimizacion]], pp. 26 y 29-30, y [[las-condes-plan-comunal-2026-2029]], p. 3.
 [^inf-5]: **Inferido** (confianza 0.6) — de las tablas de [[las-condes-plan-comunal-2026-2029]], pp. 26-27. El plan no describe el circuito entre llamada, servicio y procedimiento.
+[^ext-33]: **Extraído** — [[guerra-modelo-las-condes]], pp. 38 y 41.
+[^ext-34]: **Extraído** — [[guerra-modelo-las-condes]], tabla 2, p. 41.
+[^ext-35]: **Extraído** — [[guerra-modelo-las-condes]], p. 42.
+[^ext-36]: **Extraído** — [[ley-21802-seguridad-municipal]], art. 64, n.º 3, letra c).
+[^ext-37]: **Extraído** — [[ley-21802-seguridad-municipal]], art. octavo transitorio.
+[^inf-6]: **Inferido** (confianza 0.7) — la tabla 2 de Guerra Araya rotula «CECOCO» a la fuente municipal que el texto llama Central de Comunicaciones 1402.
+[^inf-7]: **Inferido** (confianza 0.7) — lectura de la tabla 2.
+[^inf-8]: **Inferido** (confianza 0.7) — la ley nombra sólo a municipios, Fiscalía, Carabineros y la Subsecretaría.
+[^amb-1]: **Ambiguo** — sin período ni número de robos, no se sabe a qué años se aplica.
