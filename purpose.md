@@ -120,16 +120,18 @@ núcleo ancla, según los cúmulos de `INVENTARIO.md`:
 4. Explicación del delito (4)
 5. Prevención e intervención (4)
 6. Medición e inseguridad (5)
-7. Gobernanza criminal y territorio (6)
-8. Sistema penal y Estado de derecho (8)
-9. Integrados desde el programa del curso (9)
-10. Vínculo Estado-crimen (18)
-11. Amenaza y securitización (24)
+7. Juventudes, módulo I de S2.4 (5 restantes, fuera de la tanda 4a)
+8. Gobernanza criminal y territorio (6)
+9. Sistema penal y Estado de derecho (8)
+10. Integrados desde el programa del curso (9)
+11. Vínculo Estado-crimen (18)
+12. Amenaza y securitización (24)
 
-Cinco ajustes al orden original. El primero se decidió el 12-09-2026 al cerrar el
+Siete ajustes al orden original. El primero se decidió el 12-09-2026 al cerrar el
 núcleo ancla, los dos siguientes el 13-09-2026 al agnosticar la ingesta, el cuarto el
-26-09-2026 con el calendario de clases a la vista, y el quinto el 23-10-2026, al llegar
-cinco obras nuevas y la pauta de la prueba final de S1.1:
+26-09-2026 con el calendario de clases a la vista, el quinto el 23-10-2026, al llegar
+cinco obras nuevas y la pauta de la prueba final de S1.1, y los dos últimos el
+24-10-2026: las normas del diseño de S1.2 y nueve obras sobre juventudes:
 
 - **La bibliografía de consulta de S1.1 sube al segundo lugar**, por delante de los
   programas oficiales restantes. Razón: los cuatro programas de los ramos en curso ya
@@ -171,7 +173,7 @@ cinco obras nuevas y la pauta de la prueba final de S1.1:
   | 2 | sáb 10-10 | Batthyány y Cabrera (2011) · Vives Varela y Hamui Sutton (2021) · INE (2023) · Srur (2014), pp. 26-45 · Tudela (ed.) (2010), solo el capítulo de Boba · CIPC (2015) | Clase 5 y las dos evaluaciones de S1.2. Srur y Boba entran en parte, porque el programa acota esas lecturas |
   | 3 | vie 16-10 | Baratta (2004), caps. I-II, IV, VII y VIII · Kessler (2004) · Blanco (2011) | S1.1, módulo 5, y las primeras clases de S2.4 (desde el 17-10) |
   | S1.2 | sáb 24-10 | Ley 20.965 · Decreto 2098 de Las Condes, Plan Comunal de Seguridad Pública 2026-2029 | Diseño de investigación aplicada de S1.2, que se entrega el 24-10. Van antes que todo lo demás |
-  | 4a | sáb 24-10 | Duarte Quapper (2012) · Bourdieu (2002) · Brizuela (2014) | S2.4: Duarte y Bourdieu, módulo I. Brizuela, módulo III. Se agregó el 23-10 y va antes que el resto de la tanda 4 |
+  | 4a | sáb 24-10 | Duarte Quapper (2012) · Bourdieu (2002) · Brizuela (2014) | S2.4: Duarte y Bourdieu, módulo I. Brizuela, módulo III. Se agregó el 23-10 y va antes que el resto de la tanda 4. *Si alcanza*, desde el 24-10: Duarte Quapper (2000) · Krauskopf (2010) · Brito Lemus (1998) · Romero Miranda (2015) |
   | 4 | vie 06-11 (era vie 23-10) | Gottfredson y Hirschi (1990), ingerida el 17-10 · Clarke (1997) · Felson y Eckert (2016) | S1.1, módulo 6. El resto corre detrás de la 4a |
   | 5 | vie 06-11 | Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya (2024) · SPD (2022), orientaciones técnicas · Gobierno de Santiago (s.f.), guía de barrios · Campana y Meneghini (2024) · Bergman (2023) · *si alcanza:* Schroeder y Coello-Torres (2019) | S1.1, módulo 7, y el trabajo grupal, cuyos talleres son el 13 y el 20-11. Si el grupo elige su política antes, las cuatro primeras se adelantan. Si elige un espacio público, se adelanta Schroeder y Coello-Torres |
   | 6 | vie 27-11 | Garland (Gedisa) · Wacquant · Luneke y Trebilcock (2023) · Alda y Beliz (2007) · Zeballos (2024) · Bergman (2016) · Silva Sánchez · Ferrajoli | Inicio de S1.3, y lo que queda de la bibliografía de S1.1 |
@@ -211,6 +213,21 @@ cinco obras nuevas y la pauta de la prueba final de S1.1:
   comunal que aprueba el decreto. La ley crea ese instrumento. La Ley 21.802, que lo
   reformó en 2026, sigue en la tanda 5: su texto sólo se consultó para marcar qué partes
   de la Ley 20.965 quedaron superadas.
+- **Cuatro obras cortas de juventudes, a la tanda 4a como «si alcanza»** (24-10-2026).
+  Por decisión del autor. Ese día llegaron nueve obras sobre juventudes, registradas en
+  el cúmulo `Juventudes, módulo I de S2.4` de `INVENTARIO.md`. Ninguna es obligatoria
+  del programa vigente, de modo que la regla de prioridad no las adelanta. Razones para
+  adelantar cuatro:
+  · Duarte Quapper (2000) y Krauskopf (2010) son complementarias del módulo I y la
+    presentación de la clase 1 las cita de forma directa;
+  · Brito Lemus (1998) y Romero Miranda (2015) no están en el programa, pero la clase 1
+    abre con la definición de Brito y desarrolla la edad sociológica de Romero;
+  · las cuatro suman unas 60 páginas y acompañan a Duarte Quapper (2012) y Bourdieu
+    (2002), que ya están en la 4a.
+  Van detrás de las tres obras de la 4a y no la retrasan: si no alcanzan, vuelven a su
+  cúmulo. Las otras cinco —Feixa (1999), Sennett (2000), Rubio Gil y San Martín Pascal
+  (2012), Souto Kustrín (2007) y Lozano Urbieta (2003)— quedan en el orden por cúmulos.
+  Sennett necesita OCR antes de ingerirse.
 
 **Corpus sin clasificar.** Trece archivos ingresaron a `raw/sources/` el 12-09-2026 sin
 nomenclatura y sin decisión de alcance. Están en cuarentena en `INVENTARIO.md` y **no
@@ -274,11 +291,13 @@ es la de S1.1, S1.2 y S2.4**, y sólo ésa.
   con material de crimen organizado.
 - **Criminología feminista**, objetivo específico declarado de S1.1: falta Renzetti
   (2013), el único título que la cubre.
-- **S2.4** es un ramo en curso con **cuatro** títulos de su bibliografía vigente en el
-  corpus, de 46. Hasta el 23-10 tenía uno solo: el cap. X de Vanderschueren, Díaz y
+- **S2.4** es un ramo en curso con **nueve** títulos de su bibliografía vigente en el
+  corpus, de 46: cuatro obligatorias y cinco complementarias. Hasta el 23-10 tenía uno solo: el cap. X de Vanderschueren, Díaz y
   Guajardo (2021), de su propio docente. Ese día se identificaron Bourdieu (2002), Duarte
-  Quapper (2012) y Brizuela (2014), en la tanda 4a. Los dos primeros son las únicas obras
-  del corpus para su módulo I, sobre juventudes, y todavía no se ingieren. Kessler
+  Quapper (2012) y Brizuela (2014), en la tanda 4a. El 24-10 llegaron cinco
+  complementarias del módulo I y cuatro obras más sobre juventudes, sin ingerir: ver el
+  último ajuste de orden. El módulo I deja de ser un vacío de corpus, pero sigue sin
+  cobertura en la wiki. Faltan Reguillo (2000), obligatoria, y Maffesoli (1990). Kessler
   (2004), Blanco (2011) y Gottfredson y Hirschi (1990) cubren el módulo III por
   contenido, sin estar en su bibliografía. Empezó el 17-10, y su programa vigente llegó
   ese día.

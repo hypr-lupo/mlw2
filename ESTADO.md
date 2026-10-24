@@ -4,22 +4,22 @@
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 120 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 130 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 93 | 77.5 % |
+| `pendiente` | 103 | 79.2 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 27 | 22.5 % |
+| `completo` | 27 | 20.8 % |
 
 ## Por cumulo
 
 | Cumulo | Total | pendiente | fase1 | fase2 | completo |
 |---|---:|---:|---:|---:|---:|
-| (fuera de INVENTARIO.md) | 1 | 1 | 0 | 0 | 0 |
+| (fuera de INVENTARIO.md) | 2 | 2 | 0 | 0 | 0 |
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
 | Bibliografía S1.1, consulta y complementaria | 12 | 9 | 0 | 0 | 3 |
 | Bibliografía obligatoria S2.4 | 3 | 3 | 0 | 0 | 0 |
@@ -28,6 +28,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
 | Institucionalidad y política de prevención en Chile | 8 | 5 | 0 | 0 | 3 |
 | Integrados desde el programa del curso (05-09-2026) | 9 | 2 | 0 | 0 | 7 |
+| Juventudes, módulo I de S2.4 | 9 | 9 | 0 | 0 | 0 |
 | Medición e inseguridad | 6 | 4 | 0 | 0 | 2 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
 | Prevención e intervención | 6 | 5 | 0 | 0 | 1 |
@@ -41,6 +42,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 ## Anomalias
 
 - inventario desactualizado: `2017 - Arias - empresas criminales y gobernanza en amlat.pdf` esta en raw/sources/ pero no en INVENTARIO.md
+- inventario desactualizado: `bourdieu_la_juventud_no_es_m_s_que_una_palabra.pdf` esta en raw/sources/ pero no en INVENTARIO.md
 
 ## Verificacion bibliografica pendiente
 
@@ -64,6 +66,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 ### (fuera de INVENTARIO.md)
 
 - `pendiente` — 2017 - Arias - empresas criminales y gobernanza en amlat.pdf
+- `pendiente` — bourdieu_la_juventud_no_es_m_s_que_una_palabra.pdf
 
 ### Amenaza y securitización
 
@@ -165,6 +168,18 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `completo` — 2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf
 - `pendiente` — 2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf
 - `pendiente` — 2023 - Minayo, Deslandes y Gomes - Investigación social, teoría, método y creatividad.pdf
+
+### Juventudes, módulo I de S2.4
+
+- `pendiente` — 1998 - Brito Lemus - Hacia una sociología de la juventud, algunos elementos para la deconstrucción de un nuevo paradigma de la juventud.pdf
+- `pendiente` — 1999 - Feixa - De jóvenes, bandas y tribus, antropología de la juventud.pdf
+- `pendiente` — 2000 - Duarte Quapper - Juventud o juventudes, acerca de cómo mirar y remirar a las juventudes de nuestro continente.pdf
+- `pendiente` — 2000 - Sennett - La corrosión del carácter, las consecuencias personales del trabajo en el nuevo capitalismo.pdf
+- `pendiente` — 2003 - Lozano Urbieta - Nociones de juventud.pdf
+- `pendiente` — 2007 - Souto Kustrín - Juventud, teoría e historia, la formación de un sujeto social y de un objeto de análisis.pdf
+- `pendiente` — 2010 - Krauskopf - La condición juvenil contemporánea en la constitución identitaria.pdf
+- `pendiente` — 2012 - Rubio Gil y San Martín Pascal - Subculturas juveniles, identidad, idolatrías y nuevas tendencias.pdf
+- `pendiente` — 2015 - Romero Miranda - La edad sociológica, una mirada de la infancia desde el adelantamiento y la acumulación de experiencia.pdf
 
 ### Medición e inseguridad
 

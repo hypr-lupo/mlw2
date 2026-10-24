@@ -127,6 +127,58 @@ el ramo pasa de una a cuatro de sus nueve obligatorias en el corpus.
 - **Brizuela.** *Revista Cátedra Paralela*, n.º 11, 2014, pp. 313-317. Reseña la edición
   de Paidós de 2010, y el corpus tiene la de 2004.
 
+## Juventudes, módulo I de S2.4 · 9 doc.
+
+
+Alimenta: S2.4, módulo I. Ninguna es obligatoria del programa vigente.
+
+Llegaron el 24-10-2026 con nombres opacos y se identificaron el mismo día por su
+portada o su página de imprenta. Cinco son complementarias del programa vigente de
+S2.4. Las otras cuatro no están en él: Brito y Romero se citan en la presentación de la
+clase 1, Souto y Brito estaban en el programa de 2023, y Lozano no figura en ningún
+programa recibido.
+
+| Documento | MB | MD5 |
+|---|---:|---|
+| 1999 - Feixa - De jóvenes, bandas y tribus, antropología de la juventud.pdf | 8.0 | `1a9f77e09234` |
+| 2000 - Duarte Quapper - Juventud o juventudes, acerca de cómo mirar y remirar a las juventudes de nuestro continente.pdf | 0.1 | `d7ae49e71469` |
+| 2000 - Sennett - La corrosión del carácter, las consecuencias personales del trabajo en el nuevo capitalismo.pdf | 6.9 | `4b2814d3a22f` |
+| 2010 - Krauskopf - La condición juvenil contemporánea en la constitución identitaria.pdf | 0.1 | `1ac385828cd5` |
+| 2012 - Rubio Gil y San Martín Pascal - Subculturas juveniles, identidad, idolatrías y nuevas tendencias.pdf | 0.5 | `04dfc48f97ca` |
+| 1998 - Brito Lemus - Hacia una sociología de la juventud, algunos elementos para la deconstrucción de un nuevo paradigma de la juventud.pdf | 0.1 | `d87efb3e4ac2` |
+| 2003 - Lozano Urbieta - Nociones de juventud.pdf | 0.0 | `aa8233b0a47c` |
+| 2007 - Souto Kustrín - Juventud, teoría e historia, la formación de un sujeto social y de un objeto de análisis.pdf | 0.3 | `912e221cfade` |
+| 2015 - Romero Miranda - La edad sociológica, una mirada de la infancia desde el adelantamiento y la acumulación de experiencia.pdf | 0.8 | `c4c4dce4f9ed` |
+
+- **Feixa.** Ariel, Barcelona. Primera edición de marzo de 1998 y segunda de marzo de
+  1999. Se usa 1999, la edición que cita el programa. El escaneo tiene capa de texto
+  con errores de OCR.
+- **Duarte Quapper (2000).** *Última Década*, n.º 13, CIDPA Viña del Mar, septiembre de
+  2000, pp. 59-77. Firma «Klaudio». En el artículo de 2012 firma «Claudio»: es el mismo
+  autor, y las dos iniciales del programa no son un error.
+- **Sennett.** Anagrama, primera edición de enero de 2000. El ejemplar es la octava
+  impresión, de 2005. **Es un escaneo sin capa de texto** y necesita OCR antes de
+  ingerirse.
+- **Krauskopf.** *Última Década*, n.º 33, CIDPA Valparaíso, diciembre de 2010, pp.
+  27-42. El nombre de origen decía «Krauskopp».
+- **Rubio Gil y San Martín Pascal.** *Revista de Estudios de Juventud* (Injuve), n.º 96.
+  El programa no da año. Se usa 2012, por el número de la revista y la fecha del PDF.
+  Falta confirmarlo contra el índice del número.
+- **Brito Lemus.** *Última Década*, n.º 9, CIDPA Valparaíso, 1998. Es la definición de
+  juventud con que abre la clase 1 de S2.4.
+- **Lozano Urbieta.** *Última Década*, n.º 18, CIDPA Viña del Mar, abril de 2003, pp.
+  11-19.
+- **Souto Kustrín.** *Historia Actual Online*, n.º 13, 2007, pp. 171-192.
+- **Romero Miranda.** Año 9, n.º 14, diciembre de 2015, desde la p. 46. El PDF no
+  nombra la revista. Es la fuente de la cirposición y la edad sociológica de la clase 1.
+
+**Duplicados del 24-10-2026.** Dos archivos llegaron junto a estos y no se cuentan
+como documentos ni se ingieren:
+`2017 - Arias - empresas criminales y gobernanza en amlat.pdf` tiene el mismo MD5 que
+Arias (2017), y `bourdieu_la_juventud_no_es_m_s_que_una_palabra.pdf` tiene otro MD5,
+pero su texto y sus seis páginas coinciden con Bourdieu (2002). Siguen en
+`raw/sources/` hasta que el autor los retire.
+
 ## Explicación del delito · 5 doc.
 
 
