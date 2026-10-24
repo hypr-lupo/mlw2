@@ -170,6 +170,7 @@ cinco obras nuevas y la pauta de la prueba final de S1.1:
   | 1 | vie 02-10 | Weisburd y otros (2016) · Vanderschueren (2015), guía de barrios · Vanderschueren, Díaz y Guajardo (2021) · Valdivia y otros (2019) · *si alcanza:* Tudela (2015) | S1.1, módulo 3. Vanderschueren y otros (2021) incluye el capítulo de Tudela que se lee en la clase 1 de S1.2. Valdivia es la única lectura de la clase 4 de S1.2 en el corpus. Tudela (2015) apoya la síntesis de la clase de policía |
   | 2 | sáb 10-10 | Batthyány y Cabrera (2011) · Vives Varela y Hamui Sutton (2021) · INE (2023) · Srur (2014), pp. 26-45 · Tudela (ed.) (2010), solo el capítulo de Boba · CIPC (2015) | Clase 5 y las dos evaluaciones de S1.2. Srur y Boba entran en parte, porque el programa acota esas lecturas |
   | 3 | vie 16-10 | Baratta (2004), caps. I-II, IV, VII y VIII · Kessler (2004) · Blanco (2011) | S1.1, módulo 5, y las primeras clases de S2.4 (desde el 17-10) |
+  | S1.2 | sáb 24-10 | Ley 20.965 · Decreto 2098 de Las Condes, Plan Comunal de Seguridad Pública 2026-2029 | Diseño de investigación aplicada de S1.2, que se entrega el 24-10. Van antes que todo lo demás |
   | 4a | sáb 24-10 | Duarte Quapper (2012) · Bourdieu (2002) · Brizuela (2014) | S2.4: Duarte y Bourdieu, módulo I. Brizuela, módulo III. Se agregó el 23-10 y va antes que el resto de la tanda 4 |
   | 4 | vie 06-11 (era vie 23-10) | Gottfredson y Hirschi (1990), ingerida el 17-10 · Clarke (1997) · Felson y Eckert (2016) | S1.1, módulo 6. El resto corre detrás de la 4a |
   | 5 | vie 06-11 | Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya (2024) · SPD (2022), orientaciones técnicas · Gobierno de Santiago (s.f.), guía de barrios · Campana y Meneghini (2024) · Bergman (2023) · *si alcanza:* Schroeder y Coello-Torres (2019) | S1.1, módulo 7, y el trabajo grupal, cuyos talleres son el 13 y el 20-11. Si el grupo elige su política antes, las cuatro primeras se adelantan. Si elige un espacio público, se adelanta Schroeder y Coello-Torres |
@@ -204,6 +205,12 @@ cinco obras nuevas y la pauta de la prueba final de S1.1:
     adelanta solo si el caso es un espacio público.
   Si la 4a no alcanza antes de la clase del 24-10, se cierra antes de la del 07-11. La
   tanda 6 no cambia.
+- **Las normas del diseño de S1.2, por delante de la cola** (24-10-2026). Por decisión del
+  autor, la Ley 20.965 y el Decreto 2098 de Las Condes se ingieren antes que la tanda 4a.
+  El diseño de investigación aplicada de S1.2 se entrega ese día y se ancla en el plan
+  comunal que aprueba el decreto. La ley crea ese instrumento. La Ley 21.802, que lo
+  reformó en 2026, sigue en la tanda 5: su texto sólo se consultó para marcar qué partes
+  de la Ley 20.965 quedaron superadas.
 
 **Corpus sin clasificar.** Trece archivos ingresaron a `raw/sources/` el 12-09-2026 sin
 nomenclatura y sin decisión de alcance. Están en cuarentena en `INVENTARIO.md` y **no

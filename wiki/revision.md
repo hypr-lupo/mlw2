@@ -16,9 +16,10 @@ Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026
 ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con las de Batthyány y Cabrera
 (2011), el INE (2023), Srur (2014), el capítulo de Boba (2010), el CIPC (2015), Baratta (2004) y Kessler (2004), y el 17-10-2026, con las de Blanco (2011) y Gottfredson y Hirschi (1990). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**35 abiertos.**
+**38 abiertos.** Al 24-10-2026, con tres ítems de la ingesta de la Ley 20.965 y el plan
+comunal de Las Condes.
 
-**A. Sólo esperan una decisión del autor (13).** Se pueden resolver hoy.
+**A. Sólo esperan una decisión del autor (15).** Se pueden resolver hoy.
 
 | Ítem | Acción | Qué hay que decidir |
 |---|---|---|
@@ -35,6 +36,8 @@ destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
 | `[ingesta]` El resto de Tudela (ed.) (2010) | `preguntar` | Si se ingieren los cinco capítulos que el programa no pide, entre ellos uno sobre el Ministerio Público chileno |
 | `[entidad]` Plan Cuadrante, y quizá Carabineros | `crear-pagina` | El criterio se cumple en la letra desde el 16-10: el CIPC (2015) lo describe desde fuera, pero en un párrafo y en contra de las evaluaciones. Queda decidir si es página de programa o sección de una página de Carabineros |
 | `[ingesta]` El resto de Baratta (2004) | `preguntar` | Si se ingieren los capítulos que el orden no fija: subculturas y neutralización, conflicto, criminología crítica, cárcel y política criminal alternativa |
+| `[entidad]` Dirección de Seguridad Pública de Las Condes | `crear-pagina` | Si merece página, y si el plan comunal pasa a `caso-de-grado`. Del 24-10 |
+| `[ingesta]` Ley 21.802 antes que el resto de la tanda 5 | `preguntar` | Si se adelanta: reformó el plan comunal que citan S1.2 y S1.1. Del 24-10 |
 
 **B. Esperan una verificación bibliográfica fuera del corpus (8).** Cada ítem trae su
 consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos evaluados.
@@ -50,7 +53,7 @@ consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos
 | `[fuente]` Estado legal del pololeo | Resuelto en parte con la Ley 21.675; falta el tipo penal de femicidio |
 | `[fuente]` Año e ISBN de Arias | 2016, 2017 o 2018, y los dos ISBN, en el catálogo de la editorial |
 
-**C. Esperan una obra que ya está en el corpus (9).** Se resuelven solos si el orden de
+**C. Esperan una obra que ya está en el corpus (10).** Se resuelven solos si el orden de
 ingesta se cumple.
 
 | Ítem | Acción | Obra que lo destraba | Tanda |
@@ -64,6 +67,7 @@ ingesta se cumple.
 | `[concepto]` Seguridad ciudadana y seguridad humana | `crear-pagina` | Decreto 96 (PNSP); Luneke y Trebilcock (2023) | 5 y 6 |
 | `[concepto]` Principio de daño y Estado de derecho | `crear-pagina` | Ferrajoli (1995) | 6 |
 | `[contradicción]` Legado del conflicto armado | `preguntar` | Dammert (2012), cúmulo `Medición e inseguridad` | después de la 6 |
+| `[concepto]` Capital cultural | `crear-pagina` | Bourdieu (2002), en el corpus desde el 23-10. Pasó del grupo D el 24-10 | 4a |
 
 **D. Esperan una fuente que no está en el corpus o no se ha identificado (5).**
 
@@ -71,7 +75,7 @@ ingesta se cumple.
 |---|---|
 | `[entidad]` Coalición de Diez Puntos | Nada identificado en el corpus |
 | `[entidad]` CICIG | Nada identificado en el corpus |
-| `[concepto]` Capital cultural | Bourdieu (2002), pedido por S2.4 y ausente del corpus |
+| `[investigar]` Ficha técnica de la consulta vecinal de Las Condes | Fuera del corpus: pedirla a la Dirección de Seguridad Pública. Del 24-10 |
 | `[concepto]` Violencia contra las mujeres en la pareja y la familia | La bibliografía de S3.3, cuando llegue su programa |
 | `[concepto]` Criminalidad de cuello blanco | Sutherland, pedido por S1.1 y ausente del corpus |
 
@@ -628,6 +632,27 @@ informal, y le queda uno, las teorías de la oportunidad. La 5 destraba cuatro, 
       más, desde el control. La desviación cultural funda las subculturas (p. 76), y la
       subcultura de la violencia no tiene apoyo empírico (p. 151). Ya está en
       [[cultura-callejera]] y [[delito-amateur]]. El criterio no cambia.
+
+- [ ] **[entidad]** «Dirección de Seguridad Pública de Las Condes» — autora del plan comunal
+      2026-2029 y productora de los registros que usa el diseño de S1.2. El autor trabaja en
+      ella. Decidir si merece página, con `subtipo: organismo`, y si el plan pasa al clúster
+      `caso-de-grado`. Esa elección es del autor.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-10-24
+      Criterio: crearla cuando una segunda fuente la describa o cuando el autor elija el plan
+      como anclaje.
+
+- [ ] **[investigar]** «Ficha técnica de la consulta vecinal 2025 de Las Condes» — el plan
+      informa porcentajes, pero no el tamaño de la muestra, el modo de aplicación ni la
+      selección ([[las-condes-plan-comunal-2026-2029]]). Mientras falte, sus porcentajes no se
+      leen como representativos de la comuna.
+      Acción propuesta: `investigar` · Origen: ingesta 2026-10-24
+      Consulta sugerida: pedirla a la Dirección de Seguridad Pública.
+
+- [ ] **[ingesta]** «Ley 21.802 antes que el resto de la tanda 5» — reformó el plan comunal
+      desde el 12-08-2026. Hoy la wiki la cita por nombre de archivo en
+      [[ley-20965-planes-comunales]] y [[plan-comunal-de-seguridad-publica]]. Decidir si se
+      adelanta, porque el diseño de S1.2 y el trabajo grupal de S1.1 citan el plan.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-10-24
 
 ## Resueltos
 

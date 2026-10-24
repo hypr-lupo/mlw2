@@ -159,6 +159,18 @@
       "bytes": 32802412,
       "ingerido": "2026-10-17",
       "ficha": "wiki/sources/gottfredson-hirschi-teoria-general.md"
+    },
+    "2016 - Ministerio del Interior y Seguridad Pública - Ley 20.965, permite la creación de consejos y planes comunales de seguridad pública.pdf": {
+      "sha256": "0ef2c300b4985b3c5f85010cb6054e753a44bb38c68fc050b17e8cb0df75375a",
+      "bytes": 65602,
+      "ingerido": "2026-10-24",
+      "ficha": "wiki/sources/ley-20965-planes-comunales.md"
+    },
+    "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf": {
+      "sha256": "7d849a3304aee27e0fc7c0ec406800e4e9afed454346ff32bf248a1b71aceaea",
+      "bytes": 20508925,
+      "ingerido": "2026-10-24",
+      "ficha": "wiki/sources/las-condes-plan-comunal-2026-2029.md"
     }
   }
 }

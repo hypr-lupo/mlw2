@@ -10,9 +10,10 @@ Artefacto operativo para retomar, no registro de lo hecho: la crónica de cada s
 en [[log]]. Se consolidó el 27-09-2026, en la auditoría que cerró la tanda 1; el informe
 está en `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-**Estado al 17-10-2026.** 26 fuentes ingeridas de 118 documentos, tres de ellas sólo en parte;
-87 pendientes de un universo de 112, que excluye los seis programas oficiales y el duplicado de Arias. 81 páginas: 14 en borrador.
-Núcleo ancla de S1.1 completo, **tandas 1, 2 y 3 cerradas** y la 4 abierta el 17-10. Siete de ocho clústeres poblados;
+**Estado al 24-10-2026.** 28 fuentes ingeridas de 126 documentos, tres de ellas sólo en parte;
+93 pendientes de un universo de 120, según `scripts/estado.py`. 84 páginas: 15 en borrador.
+Núcleo ancla de S1.1 completo, **tandas 1, 2 y 3 cerradas** y la 4 abierta el 17-10. El 24-10
+entraron, por delante de la cola, la Ley 20.965 y el plan comunal de Las Condes. Siete de ocho clústeres poblados;
 `caso-de-grado` sigue vacío a propósito. Cobertura de S1.1: 17 de 32 títulos oficiales en
 el corpus, 53 %. Nada bloquea la ingesta.
 
@@ -20,8 +21,9 @@ el corpus, 53 %. Nada bloquea la ingesta.
 
 En este orden:
 
-1. **Tanda 4**, antes del 23-10: ~~Gottfredson y Hirschi (1990)~~ · Clarke (1997) · Felson y
-   Eckert (2016). Para el módulo 6 de S1.1. Gottfredson y Hirschi entró el 17-10.
+1. **Tanda 4a**, antes de la clase de S2.4 del 24-10 o, si no alcanza, de la del 07-11:
+   Duarte Quapper (2012) · Bourdieu (2002) · Brizuela (2014). Después, el resto de la
+   **tanda 4**, antes del 06-11: Clarke (1997) · Felson y Eckert (2016). Ver `purpose.md`.
 2. **Decisiones que sólo toma el autor.** Trece, en el grupo A de [[revision]]. La más
    antigua es la página `tesis-` sobre el anclaje empírico, abierta desde el 29-08. Fuera
    de la cola, una más: retirar de `raw/sources/` el duplicado exacto de Arias (2017) que
@@ -51,11 +53,18 @@ documento por documento lo da `python scripts/estado.py`.
 - [x] **Tanda 3, cerrada el 17-10:** ~~Baratta (2004), caps. I-II, IV, VII y VIII~~ y
       ~~Kessler (2004)~~, ingeridas el 16-10, y ~~Blanco (2011)~~, el 17-10. Resolvió
       criminalización y selectividad penal, y PADS+, que pasó a ser [[estudios-longitudinales]]
-- [ ] **Tanda 4, antes del 23-10:** ~~Gottfredson y Hirschi (1990)~~, ingerida el 17-10, ·
-      Clarke (1997) · Felson y Eckert (2016). Gottfredson y Hirschi resolvió el control social
-      informal, que pasó a ser [[control-social-informal]]
+- [x] **Normas del diseño de S1.2, el 24-10**, por delante de la cola y por decisión del
+      autor: ~~Ley 20.965~~ y ~~Decreto 2098 de Las Condes~~. Crearon
+      [[plan-comunal-de-seguridad-publica]]
+- [ ] **Tanda 4a, antes del 24-10 o del 07-11:** Duarte Quapper (2012) · Bourdieu (2002) ·
+      Brizuela (2014). Lecturas obligatorias de S2.4
+- [ ] **Tanda 4, antes del 06-11 (era el 23-10):** ~~Gottfredson y Hirschi (1990)~~, ingerida
+      el 17-10, · Clarke (1997) · Felson y Eckert (2016). Gottfredson y Hirschi resolvió el
+      control social informal, que pasó a ser [[control-social-informal]]
 - [ ] **Tanda 5, antes del 06-11:** Decreto 96 (PNSP) · Ley 21.802 · Guerra Araya (2024) ·
-      SPD (2022) · Campana y Meneghini (2024) · Bergman (2023)
+      SPD (2022) · Gobierno de Santiago (s.f.) · Campana y Meneghini (2024) · Bergman (2023) ·
+      *si alcanza:* Schroeder y Coello-Torres (2019). Ver en [[revision]] si la Ley 21.802 se
+      adelanta
 - [ ] **Tanda 6, antes del 27-11:** Garland (Gedisa) · Wacquant · Luneke y Trebilcock
       (2023) · Alda y Beliz (2007) · Zeballos (2024) · Bergman (2016) · Silva Sánchez ·
       Ferrajoli

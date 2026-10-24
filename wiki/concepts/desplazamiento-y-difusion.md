@@ -1,13 +1,13 @@
 ---
 title: Desplazamiento del delito y difusión de beneficios
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-10-17
+actualizado: 2026-10-24
 ---
 
 # Desplazamiento del delito y difusión de beneficios
@@ -50,6 +50,9 @@ Las cifras:
 - La mayoría de los estudios **no se diseñó para medir desplazamiento**, así que rara vez tienen un diseño sólido para detectarlo [^ext-11].
 - El desplazamiento puede tomar **muchas formas y ocurrir a distintas escalas**, y casi toda la investigación mide sólo el desplazamiento espacial inmediato [^ext-11].
 - Depende del **tipo de intervención y de delito** [^ext-11].
+
+> [!warning] Un plan comunal que afirma el desplazamiento
+> Añadido el 24-10-2026 al ingerir [[las-condes-plan-comunal-2026-2029]]. El plan de Las Condes funda su subsistema de priorización en que el desplazamiento y la mutación del delito en la comuna impiden fijar focos estáticos [^ext-24]. No presenta una medición del desplazamiento. Lo que muestra es un cambio en la composición: entre 2022 y 2025 unos tipos de robo bajan y otros suben [^ext-25]. Esta página trata del desplazamiento espacial tras una intervención, y [[puntos-calientes]] sostiene que los microlugares calientes son estables por años. El plan habla de la comuna y del cuadrante, no del segmento [^inf-4]. El corpus no tiene una medición a escala de calle en la comuna.
 
 ## Una posición contraria, y un desplazamiento que no se cuenta
 
@@ -139,3 +142,6 @@ Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]] y [[arias-emp
 [^ext-21]: **Extraído** — [[albarracin-crimen-organizado-america-latina]], p. 11, sobre Osorio (2015) y Durán-Martínez (2018), tal como lo recoge [[mano-dura-y-militarizacion]].
 [^ext-22]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 12, p. 256.
 [^ext-23]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 5, p. 119, y cap. 12, p. 256.
+[^ext-24]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], p. 22.
+[^ext-25]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], tabla, p. 4.
+[^inf-4]: **Inferido** (confianza 0.6) — el plan no define su escala de observación. Sus datos son comunales y por cuadrante, pp. 3-5. La comparación con la escala de [[weisburd-el-lugar-importa]] es de esta wiki.

@@ -103,6 +103,13 @@ piden el programa de S1.1 y el de 2023 de S2.4; el vigente de S2.4 pide una rese
 impresa · las teorías del anexo son de segunda mano: citar a Merton, Becker o Hirschi por su
 obra
 
+Ley 20.965. (2016). *Permite la creación de consejos y planes comunales de seguridad
+pública*. Diario Oficial de la República de Chile, 4 de noviembre de 2016.
+https://bcn.cl/3kzst
+→ [[ley-20965-planes-comunales]] · verificada contra el encabezado de la BCN · **ley
+modificatoria, reformada en 2026**: el texto es el de 2016. Para la regla vigente sobre el
+plan y el consejo, citar la Ley 18.695 reformada por la Ley 21.802
+
 Ley 21.675. (2024). *Estatuye medidas para prevenir, sancionar y erradicar la violencia
 en contra de las mujeres, en razón de su género*. Diario Oficial de la República de
 Chile, 14 de junio de 2024. Texto consolidado de la Biblioteca del Congreso Nacional,
@@ -110,6 +117,11 @@ versión del 22 de julio de 2026. https://bcn.cl/qKZ4K8
 → [[ley-21675-violencia-de-genero]] · verificada contra el encabezado de la BCN ·
 **norma vigente con modificaciones**: se cita la versión consolidada y su fecha, no sólo
 el texto de 2024
+
+Municipalidad de Las Condes. (2026). *Plan Comunal de Seguridad Pública, comuna de Las
+Condes 2026-2029*. Aprobado por el Decreto Sección 1.ª N° 2098, de 18 de junio de 2026.
+→ [[las-condes-plan-comunal-2026-2029]] · verificada contra el decreto · escaneo sin capa de
+texto: citar por la página del PDF, de 1 a 30 · la serie de robos tiene un quiebre en 2024
 
 ONU-Hábitat y Gobierno Municipal de Guadalajara. (2020). *Guía en seguridad y
 prevención de barrios: implementando los lineamientos del sistema de Naciones Unidas

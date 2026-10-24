@@ -1,6 +1,6 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 23-10-2026 · **Total:** 124 documentos · **721 MB**
+**Fecha:** 24-10-2026 · **Total:** 126 documentos · **741 MB**
 
 > **Nomenclatura normalizada el 12-09-2026.** Los 114 documentos siguen ya el
 > patrón `año - autor - título`; no queda ninguno fuera de convención. Sin año
@@ -43,7 +43,7 @@ el 11-09-2026 y se ingieren antes que cualquier otro cúmulo.
 opacos. `ADAMS_La_Violencia_Cronica_su_reproduccion_WWilson_IntCenter.pdf.pdf` tiene el
 mismo MD5 que Adams (2017). `sampson_vecindario_ycomunidad_ef_colectiva.pdf` tiene otro
 MD5, pero su texto coincide en un 99,9 % con el de Sampson (2006). Ninguno se cuenta como
-documento ni se ingiere. Retirarlos le corresponde al autor.
+documento ni se ingiere. El autor los retiró de `raw/sources/` antes del 24-10-2026.
 
 ## Bibliografía S1.1, consulta y complementaria · 12 doc.
 
@@ -101,8 +101,8 @@ Tres advertencias sobre este bloque:
 **Duplicados del 09-10 y del 17-10-2026.** `GU_A_DE_BARRIOS_ESPA_OL.pdf` llegó el 09-10
 con otro MD5, pero su texto coincide en un 99,7 % con el de la guía de ONU-Hábitat y
 Guadalajara (2020). `annas-arch-d9e3a1fc5d5c.pdf` llegó el 17-10 con el mismo MD5 que
-Kessler (2004). Ninguno se cuenta como documento ni se ingiere. Retirarlos le corresponde
-al autor.
+Kessler (2004). Ninguno se cuenta como documento ni se ingiere. El autor los retiró de
+`raw/sources/` antes del 24-10-2026.
 
 ## Bibliografía obligatoria S2.4 · 3 doc.
 
@@ -226,7 +226,7 @@ público significativo».
   *Revista Hábitat Sustentable, 9*(1), 6-19. La presentación del módulo 4 de S1.1 trata el
   placemaking y no cita este artículo.
 
-## Institucionalidad y política de prevención en Chile · 6 doc.
+## Institucionalidad y política de prevención en Chile · 8 doc.
 
 
 Alimenta: S1.1 (clase 0, Leitao) y S2.3. Ingresaron el 26-09-2026 como la bibliografía
@@ -263,6 +263,21 @@ de publicación en el Diario Oficial.
 | 2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf | 0.3 | `2037255cc177` |
 | 2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf | 0.1 | `5c546f131941` |
 | 2026 - Presidencia de la República - Presidente Kast anuncia la Agenda contra el Crimen Organizado y el Terrorismo (ACOT) en cadena nacional.md | 0.0 | `dfa27aa6cb6e` |
+| 2016 - Ministerio del Interior y Seguridad Pública - Ley 20.965, permite la creación de consejos y planes comunales de seguridad pública.pdf | 0.1 | `33a8f68f4be2` |
+| 2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf | 19.6 | `7aba63774c90` |
+
+**Dos normas sumadas el 24-10-2026** por decisión del autor, por delante de la cola: el
+diseño de investigación de S1.2 se ancla en ellas.
+
+- **Ley 20.965**: promulgada el 24-10-2016 y publicada el 04-11-2016. Es la versión
+  única de la BCN, generada el 24-10-2026. Es una ley modificatoria: su contenido vive en
+  la Ley 18.695, y la Ley 21.802 de 2026 reformó buena parte de él. Llegó como
+  `Ley-20965_04-NOV-2016.pdf`.
+- **Decreto 2098**: decreto alcaldicio de la Municipalidad de Las Condes, Sección 1.ª,
+  del 18-06-2026. Aprueba el Plan Comunal de Seguridad Pública 2026-2029, acordado por el
+  concejo el 02-04-2026. Es un escaneo de 63 páginas sin capa de texto: el cuerpo del
+  decreto ocupa las pp. 1-30 y el plan se repite como anexo con paginación propia en las
+  pp. 31-62. Llegó como `decreto.2098.18jun2026.pdf`.
 
 ## Medición e inseguridad · 6 doc.
 

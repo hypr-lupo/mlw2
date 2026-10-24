@@ -8,6 +8,40 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-24] ingesta | Ley 20.965 y Plan Comunal de Seguridad Pública 2026-2029 de Las Condes
+
+**Dos normas, por delante de la cola y por decisión del autor.** El diseño de investigación
+aplicada de S1.2 se entrega hoy y se ancla en el plan comunal de Las Condes. La tanda 4a y el
+resto de la tanda 4 quedan detrás. Ver `purpose.md`.
+
+- Corpus: los dos archivos llegaron con nombres opacos y se renombraron a la convención.
+  Entran al cúmulo `Institucionalidad y política de prevención en Chile`, que pasa a 8
+  documentos.
+- Fichas creadas: [[ley-20965-planes-comunales]] y [[las-condes-plan-comunal-2026-2029]],
+  las dos con `vigencia: vigente` y `verificacion_bibliografica: verificado`.
+- Páginas creadas: [[plan-comunal-de-seguridad-publica]], primera entidad con `subtipo:
+  politica`.
+- Páginas actualizadas: [[estadisticas-delictuales]], con una sección nueva sobre el registro
+  municipal; [[puntos-calientes]], [[desplazamiento-y-difusion]], [[analisis-criminal]],
+  [[coproduccion-de-seguridad]], [[index]], [[referencias]], [[overview]], [[pendientes]] y
+  [[revision]].
+- Contradicciones: 1. El plan afirma que en la comuna no se pueden fijar focos estáticos, y la
+  ley de concentración sostiene que los microlugares calientes son estables. Registrada en
+  [[desplazamiento-y-difusion]] y en [[puntos-calientes]]. Una tensión más: el consejo comunal
+  coordina instituciones y no organiza la coproducción, en [[coproduccion-de-seguridad]].
+- En revisión: 3 ítems nuevos, y «capital cultural» pasa del grupo D al C porque Bourdieu
+  (2002) llegó al corpus el 23-10. La cola queda en 38.
+- Análisis de fase 1 en `despliegue/fase1/2026-10-24-ley-20965-planes-comunales.md` y
+  `despliegue/fase1/2026-10-24-las-condes-plan-comunal-2026-2029.md`.
+- Notas: el decreto es un escaneo sin capa de texto, y en el equipo no hay OCR. Se leyó como
+  imagen: las 30 páginas del cuerpo una por una, y el anexo de las pp. 31-63 por hojas de
+  miniaturas, que lo mostraron igual al cuerpo. Para la vigencia de la Ley 20.965 se consultó
+  el texto de la Ley 21.802, que no se ingirió y sigue en la tanda 5. Se cita por nombre de
+  archivo, no por ficha, y no entra en `sources[]`. El trabajo `trabajos/S1.2 - Diseño de
+  investigación aplicada.md` recibió orientaciones, no texto redactado: decisiones 4 y 6 y
+  secciones 3, 5, 8, 9 y 12. La guía de barrios del Gobierno de Santiago empezó a leerse el
+  mismo día y se detuvo sin escribir nada, cuando el autor aclaró la prioridad.
+
 ## [2026-10-17] programa | S2.4, Abordaje de la violencia y delincuencia adolescente y juvenil
 
 **Llegó el programa vigente de S2.4**, que reemplaza al de la promoción 2023. No declara año.

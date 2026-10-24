@@ -1,13 +1,13 @@
 ---
 title: Estadísticas delictuales
 type: method
-sources: ["2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf"]
+sources: ["2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
 estado: revisado
 creado: 2026-10-16
-actualizado: 2026-10-16
+actualizado: 2026-10-24
 ---
 
 # Estadísticas delictuales
@@ -92,6 +92,14 @@ Añadido el 16-10-2026 al ingerir [[baratta-criminologia-critica]]. Boba adviert
 > [!warning] La cifra negra: ¿error de medición o resultado de la selección?
 > Para Boba y el INE, lo que no llega al registro es una brecha. Se corrige leyendo el registro con cuidado y midiendo desde la víctima. Para Baratta, la brecha tiene dirección y sigue la estratificación social. Estudiarla es estudiar a quienes seleccionan [^inf-3]. Ver [[criminalizacion-y-selectividad-penal]].
 
+## El registro municipal
+
+Añadido el 24-10-2026 al ingerir [[las-condes-plan-comunal-2026-2029]]. Es la primera fuente de la wiki con registros de un municipio chileno, y repite tres advertencias de esta página.
+
+- **Las reglas de conteo cambian la cifra.** En 2025 la Dirección de Seguridad Pública de Las Condes empezó a contar los robos en malls y centros comerciales. El cambio subió las cifras de 2024 y 2025, y la serie quedó cortada [^ext-29]. Es el corte que la encuesta de 2023 tuvo del lado de la víctima, ahora del lado del registro [^inf-4].
+- **El dato municipal no es sólo municipal.** La línea de base de robos del plan es un compilado de la CeCoCo, sigla que el plan no expande, y de Carabineros [^ext-30].
+- **La llamada pasa filtros antes de ser registro.** En 2025 la central municipal 1402 perdió el 13 % de las llamadas [^ext-31]. Y no todo ingreso recibe un servicio: el 61 % por ruidos molestos, el 83 % por consumo en vía pública y el 98 % por comercio ambulante [^ext-32]. Lo que llega a ser procedimiento depende del tipo de hecho y de la capacidad de la central [^inf-5].
+
 ## Cita
 
 > "Jamás se deben tomar los registros policiales en sentido literal"
@@ -108,6 +116,7 @@ Añadido el 16-10-2026 al ingerir [[baratta-criminologia-critica]]. Boba adviert
 - [[diseno-de-investigacion]]: muestra, inferencia, asociación y causalidad
 - [[evaluacion-de-programas]]: el grupo de comparación antes y después
 - [[criminalizacion-y-selectividad-penal]]: lo que el registro selecciona
+- [[las-condes-plan-comunal-2026-2029]]: los registros de un municipio chileno y su corte de serie
 
 ---
 
@@ -139,6 +148,12 @@ Añadido el 16-10-2026 al ingerir [[baratta-criminologia-critica]]. Boba adviert
 [^ext-26]: **Extraído** — [[ine-medicion-victimizacion]], p. 12.
 [^ext-27]: **Extraído** — [[baratta-criminologia-critica]], cap. VIII, pp. 102-103.
 [^ext-28]: **Extraído** — [[baratta-criminologia-critica]], cap. VIII, p. 103.
+[^ext-29]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], p. 3.
+[^ext-30]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], tablas de indicadores, pp. 27 y 30.
+[^ext-31]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], tabla de indicadores, p. 26.
+[^ext-32]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], tabla de indicadores, p. 27. Son tres incivilidades: el plan no informa la proporción para los robos.
 [^inf-1]: **Inferido** (confianza 0.7) — la autora habla de series de un infractor y de pocos casos. Weisburd y otros evalúan técnicas sobre lugares y grandes volúmenes de datos. Ninguno discute al otro.
 [^inf-2]: **Inferido** (confianza 0.7) — combina [[srur-observatorios-del-delito]], p. 37, con [[tudela-ed-analisis-delictual]], p. 84. El mapeo no distingue entre la hora que no se registró y la que no se puede conocer.
 [^inf-3]: **Inferido** (confianza 0.7) — combinando [[baratta-criminologia-critica]], [[tudela-ed-analisis-delictual]] e [[ine-medicion-victimizacion]]. Ninguna de las tres discute a las otras.
+[^inf-4]: **Inferido** (confianza 0.7) — comparación propia entre [[ine-medicion-victimizacion]], pp. 26 y 29-30, y [[las-condes-plan-comunal-2026-2029]], p. 3.
+[^inf-5]: **Inferido** (confianza 0.6) — de las tablas de [[las-condes-plan-comunal-2026-2029]], pp. 26-27. El plan no describe el circuito entre llamada, servicio y procedimiento.

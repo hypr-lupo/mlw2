@@ -1,13 +1,13 @@
 ---
 title: Análisis criminal
 type: method
-sources: ["2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf"]
+sources: ["2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-27
-actualizado: 2026-10-16
+actualizado: 2026-10-24
 ---
 
 # Análisis criminal
@@ -72,6 +72,8 @@ El análisis criminal se inscribe en lo que Tilley y Laycock (2010) llaman un ca
 
 Tudela cita como ejemplos publicados los del Departamento OS9 de Carabineros y de la PDI, y el Programa Comunal Microtráfico Cero de la PDI, de 2014, que adopta el ciclo completo [^ext-15]. Y señala que en Chile la policía empieza a ser objeto de análisis con la evaluación del Plan Cuadrante y del Sistema Táctico de Análisis Delictual [^ext-16]. Sobre el Plan Cuadrante y su versión posterior, ver [[policia-comunitaria]].
 
+**En un municipio.** Añadido el 24-10-2026 al ingerir [[las-condes-plan-comunal-2026-2029]]. El plan de Las Condes tiene un subsistema de «priorización dinámica». Produce informes mensuales de robos e incivilidades, un informe de resultados operativos, un boletín de fuentes abiertas, reportes quincenales de indicadores de advertencia e informes ad hoc [^ext-22]. Lo justifica la baja capacidad de procesar fuentes diversas más allá de la estadística de denuncias [^ext-23]. Es análisis criminal hecho por un municipio, aunque el plan no usa el término [^inf-3].
+
 ## Cita
 
 > "lo que no se comprende es más difícil de controlar"
@@ -114,3 +116,6 @@ Tudela cita como ejemplos publicados los del Departamento OS9 de Carabineros y d
 [^ext-21]: **Extraído** — [[tudela-ed-analisis-delictual]], p. 105.
 [^inf-1]: **Inferido** (confianza 0.6) — contraste propio entre [[tudela-analisis-criminal]], p. 144, y lo que registran [[teoria-accion-situacional]], sección «Leída desde la prevención», y [[desplazamiento-y-difusion]], sección «Una posición contraria». Tudela no discute la TAS ni al cap. I del libro de 2021.
 [^inf-2]: **Inferido** (confianza 0.8) — la correspondencia entre la tesis de Tudela y el mapeo es de esta wiki.
+[^ext-22]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], p. 23 y tabla de indicadores, p. 29.
+[^ext-23]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], p. 23.
+[^inf-3]: **Inferido** (confianza 0.7) — los productos del subsistema calzan con los tipos táctico y estratégico de esta página. El plan no cita a Tudela ni usa la expresión «análisis criminal».

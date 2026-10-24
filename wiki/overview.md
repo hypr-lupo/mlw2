@@ -8,9 +8,11 @@ sources: []
 
 > Se regenera después de cada ingesta. No editar a mano: los cambios se pierden.
 
-**Al 17-10-2026: núcleo ancla completo, tanda 1 cerrada, dos ingestas fuera de orden, las
-tandas 2 y 3 cerradas y la 4 abierta.** Veintiséis fuentes de 118, ochenta y una páginas, **siete de ocho
-clústeres poblados**. Las
+**Al 24-10-2026: núcleo ancla completo, las tandas 1 a 3 cerradas, la 4 abierta y dos normas
+ingeridas por delante de la cola.** Veintiocho fuentes de 126, ochenta y cuatro páginas, **siete
+de ocho clústeres poblados**. El 24-10 entró la primera política pública identificable de la
+wiki: el plan comunal de seguridad de Las Condes 2026-2029, con la ley que crea el
+instrumento. Ver [[plan-comunal-de-seguridad-publica]]. Las
 cuatro obligatorias de S1.1 explican, la Guía ONU-Hábitat prescribe, y Weisburd y
 otros (2016) cambia la escala: del barrio a la calle. Entraron además, fuera de orden y
 por decisión del autor, un proyecto de tesis de Derecho inédito, Zúñiga Núñez (2013),
@@ -413,6 +415,16 @@ excepción parcial: toman posición frente a Sampson y Wikström.
     Hirschi sostienen que no resuelve el orden causal mejor que el transversal, y que separar
     edad, período y cohorte no importa. Ver [[estudios-longitudinales]].
 
+**Las dos que abre el plan comunal de Las Condes (2026)**
+
+46. **¿Focos estables o en mutación?** La ley de concentración sostiene que los microlugares
+    calientes lo siguen siendo por años. El plan de Las Condes afirma que el desplazamiento y
+    la mutación impiden fijar focos estáticos en la comuna. No lo mide, y habla de otra
+    escala. Ver [[desplazamiento-y-difusion]].
+47. **¿Coordinar o coproducir?** El consejo comunal que crea la Ley 20.965 coordina
+    instituciones y da dos asientos a la sociedad civil. No organiza la coproducción que las
+    guías de barrios prescriben. Ver [[coproduccion-de-seguridad]].
+
 **La que más va a pesar en el trabajo evaluado de S1.1.**
 [[onu-habitat-guia-barrios]] incorpora la teoría de las ventanas rotas dentro de su
 [[tipologia-barrial]], y [[sampson-vecindario-y-comunidad]] la declara espuria.
@@ -606,7 +618,7 @@ quedó cerrada, seis días tarde. Sigue la tanda 3: Baratta (2004), Kessler (200
 (2011). La tanda 3 vence el mismo 16-10. El autor
 decidió ese día mantener el orden: la 3 va después de terminar la 2. Baratta (2004) la abrió
 ese mismo día, en sus caps. I-II, IV, VII y VIII, y Kessler (2004) la siguió. Blanco (2011) la cerró el 17-10, un día tarde. La tanda 4
-empezó el mismo día con Gottfredson y Hirschi (1990). Siguen Clarke (1997) y Felson y Eckert (2016), antes del 23-10. Después de la sexta
+empezó el mismo día con Gottfredson y Hirschi (1990). Siguen Clarke (1997) y Felson y Eckert (2016), ahora antes del 06-11. El 24-10 entraron por delante de la cola la Ley 20.965 y el plan comunal de Las Condes, para el diseño de S1.2. Antes del resto de la tanda 4 va la 4a, con tres lecturas obligatorias de S2.4. Después de la sexta
 vuelve el orden por cúmulos.
 García-Pablos espera a estar completo; diez documentos siguen en cuarentena sin plazo.
 Arias (2017) y Bourgois (2010) entraron fuera de ese orden el 02-10, por decisión del

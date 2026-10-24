@@ -9,7 +9,8 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 81 páginas · 26 fuentes ingeridas de 118 · **núcleo ancla S1.1 completo** ·
+**Estado:** 84 páginas · 28 fuentes ingeridas de 126 · Ley 20.965 y plan comunal de Las
+Condes ingeridos el 24-10-2026 por delante de la cola · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
 fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-10-2026** · tanda 4 abierta el 17-10-2026 con Gottfredson y Hirschi (1990) · siete de ocho clústeres poblados · ver [[pendientes]] y `ESTADO.md`.
 
@@ -161,6 +162,9 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 
 - [[magister-prevencion-uah]] — el programa: malla, líneas de desarrollo, perfil de
   egreso y cuerpo docente; y el libro que se gestó en él (2 fuentes)
+- [[plan-comunal-de-seguridad-publica]] — el instrumento municipal que crea la Ley 20.965:
+  contenido, consejo comunal, datos policiales y su reforma de 2026; y Las Condes como
+  caso. Primera política de la wiki. Borrador (2 fuentes)
 
 ## Métodos
 
@@ -248,6 +252,12 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[kessler-delito-amateur]] — Kessler, 2004. Sociología de jóvenes que roban con violencia
   en Buenos Aires, 53 entrevistas de 1999. Bibliografía de S1.1. S2.4 pide una reseña del libro. Segunda de la
   tanda 3
+- [[las-condes-plan-comunal-2026-2029]] — Municipalidad de Las Condes, 2026. Plan comunal
+  de seguridad pública: robos e incivilidades 2019-2025, consulta vecinal, seis subsistemas
+  e indicadores. Afirma que los focos no son estables. Por delante de la cola, para S1.2
+- [[ley-20965-planes-comunales]] — Ley 20.965, 2016. Crea el plan y el consejo comunal de
+  seguridad pública. Texto de 2016, con lo que reformó la Ley 21.802. Por delante de la
+  cola, para S1.2
 - [[ley-21675-violencia-de-genero]] — Ley 21.675, 2024, en su texto vigente al
   22-07-2026. Primera norma de la wiki. Incorpora el pololeo a la violencia
   intrafamiliar; no toca el femicidio. Fuera del orden por calendario

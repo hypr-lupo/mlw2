@@ -1,35 +1,36 @@
 # Estado del despliegue
 
-**Generado:** 2026-10-17 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
+**Generado:** 2026-10-24 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 117 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (7 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 120 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 92 | 78.6 % |
+| `pendiente` | 93 | 77.5 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 25 | 21.4 % |
+| `completo` | 27 | 22.5 % |
 
 ## Por cumulo
 
 | Cumulo | Total | pendiente | fase1 | fase2 | completo |
 |---|---:|---:|---:|---:|---:|
-| (fuera de INVENTARIO.md) | 5 | 5 | 0 | 0 | 0 |
+| (fuera de INVENTARIO.md) | 1 | 1 | 0 | 0 | 0 |
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
 | Bibliografía S1.1, consulta y complementaria | 12 | 9 | 0 | 0 | 3 |
+| Bibliografía obligatoria S2.4 | 3 | 3 | 0 | 0 | 0 |
 | Explicación del delito | 5 | 2 | 0 | 0 | 3 |
 | Gobernanza criminal y territorio | 6 | 4 | 0 | 0 | 2 |
 | Ingreso sin clasificar | 10 | 10 | 0 | 0 | 0 |
-| Institucionalidad y política de prevención en Chile | 6 | 5 | 0 | 0 | 1 |
+| Institucionalidad y política de prevención en Chile | 8 | 5 | 0 | 0 | 3 |
 | Integrados desde el programa del curso (05-09-2026) | 9 | 2 | 0 | 0 | 7 |
 | Medición e inseguridad | 6 | 4 | 0 | 0 | 2 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
-| Prevención e intervención | 4 | 3 | 0 | 0 | 1 |
+| Prevención e intervención | 6 | 5 | 0 | 0 | 1 |
 | Sistema penal y Estado de derecho | 8 | 6 | 0 | 0 | 2 |
 | Vínculo Estado-crimen | 18 | 18 | 0 | 0 | 0 |
 
@@ -40,10 +41,6 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 ## Anomalias
 
 - inventario desactualizado: `2017 - Arias - empresas criminales y gobernanza en amlat.pdf` esta en raw/sources/ pero no en INVENTARIO.md
-- inventario desactualizado: `ADAMS_La_Violencia_Cronica_su_reproduccion_WWilson_IntCenter.pdf.pdf` esta en raw/sources/ pero no en INVENTARIO.md
-- inventario desactualizado: `GU_A_DE_BARRIOS_ESPA_OL.pdf` esta en raw/sources/ pero no en INVENTARIO.md
-- inventario desactualizado: `Guia_de_barrios_WEB.pdf` esta en raw/sources/ pero no en INVENTARIO.md
-- inventario desactualizado: `sampson_vecindario_ycomunidad_ef_colectiva.pdf` esta en raw/sources/ pero no en INVENTARIO.md
 
 ## Verificacion bibliografica pendiente
 
@@ -67,10 +64,6 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 ### (fuera de INVENTARIO.md)
 
 - `pendiente` — 2017 - Arias - empresas criminales y gobernanza en amlat.pdf
-- `pendiente` — ADAMS_La_Violencia_Cronica_su_reproduccion_WWilson_IntCenter.pdf.pdf
-- `pendiente` — GU_A_DE_BARRIOS_ESPA_OL.pdf
-- `pendiente` — Guia_de_barrios_WEB.pdf
-- `pendiente` — sampson_vecindario_ycomunidad_ef_colectiva.pdf
 
 ### Amenaza y securitización
 
@@ -114,6 +107,12 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2024 - Zeballos - Un virus entre sombras, la expansión del crimen organizado y el narcotráfico en Chile.epub
 - `pendiente` — 2026 - Zeballos - Cuando el crimen reza.epub
 
+### Bibliografía obligatoria S2.4
+
+- `pendiente` — 2002 - Bourdieu - La juventud no es más que una palabra.pdf
+- `pendiente` — 2012 - Duarte Quapper - Sociedades adultocéntricas, sobre sus orígenes y reproducción.pdf
+- `pendiente` — 2014 - Brizuela - Reseña de Sociología del delito amateur, de Gabriel Kessler.pdf
+
 ### Explicación del delito
 
 - `completo` — 1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf
@@ -146,11 +145,13 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 ### Institucionalidad y política de prevención en Chile
 
+- `completo` — 2016 - Ministerio del Interior y Seguridad Pública - Ley 20.965, permite la creación de consejos y planes comunales de seguridad pública.pdf
 - `pendiente` — 2023 - Luneke y Trebilcock - Prevención del delito, la construcción de la seguridad ciudadana y los cambios en la política criminal en Chile, 1990-2017.pdf
 - `completo` — 2024 - Ministerio de la Mujer y la Equidad de Género - Ley 21.675, estatuye medidas para prevenir, sancionar y erradicar la violencia en contra de las mujeres en razón de su género.pdf
 - `pendiente` — 2025 - Ministerio del Interior y Seguridad Pública - Ley 21.730, crea el Ministerio de Seguridad Pública.pdf
 - `pendiente` — 2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf
 - `pendiente` — 2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf
+- `completo` — 2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf
 - `pendiente` — 2026 - Presidencia de la República - Presidente Kast anuncia la Agenda contra el Crimen Organizado y el Terrorismo (ACOT) en cadena nacional.md
 
 ### Integrados desde el programa del curso (05-09-2026)
@@ -186,7 +187,9 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf
 - `pendiente` — 2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf
 - `completo` — 2015 - Vanderschueren - Guía para la prevención en barrios.pdf
+- `pendiente` — 2019 - Schroeder y Coello-Torres - Placemaking, transformación de un lugar en el asentamiento humano Santa Julia, Piura, Perú.pdf
 - `pendiente` — 2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf
+- `pendiente` — s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf
 
 ### Sistema penal y Estado de derecho
 
