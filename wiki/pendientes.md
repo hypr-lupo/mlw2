@@ -220,7 +220,8 @@ Salió de la auditoría del 27-09-2026. No bloquea nada.
       2020-2025 y una fuente sobre Barrio Protegido que no sea la Dirección de Seguridad. Más
       Clarke (1997) completo, con los casos. Dos candidatas nuevas, citadas por Chainey y otros,
       sobre la estabilidad de los focos en América Latina: Jaitman y Ajzenman (2016) y Chainey y
-      Monteiro (2019)
+      Monteiro (2019). **Desde el 26-10-2026 nada de esto es requisito:** el diseño restringe su
+      bibliografía a diez obras y una condicional, todas en el corpus. Lo que queda es ampliación
 - [ ] **Módulo 5 de S1.1**, sobre teoría de la tensión y delitos de cuello blanco: ninguna
       fuente primaria. Faltan Merton, los dos Sutherland y Lamnek. Baratta (2004) lo
       cubre de segunda mano desde el 16-10: Merton en [[anomia]], y el cuello blanco en
