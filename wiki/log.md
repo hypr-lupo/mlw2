@@ -8,6 +8,40 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-26] ingesta | Tanda S1.2c: Decreto 96 (PNSP), UNODC (2011), Minayo y otros (2023) y Vozmediano y San Juan (2010)
+
+**Cuatro obras para el diseño de S1.2, por delante de la tanda 4a y por decisión del autor.** El
+autor pidió ingerir lo pendiente en `raw/sources/` que sirve al diseño de investigación aplicada.
+De las 104 fuentes sin ingerir, cuatro sirven a sus secciones 5, 6, 8 y 9. El ajuste quedó en
+`purpose.md`. El Decreto 96 sale de la tanda 5.
+
+- Fichas creadas: [[pnsp-2025-2031]] (`vigencia: vigente`), [[unodc-manual-directrices-prevencion]],
+  [[minayo-investigacion-social]] y [[vozmediano-criminologia-ambiental]].
+- Páginas creadas: [[analisis-de-contenido]] (`method`, borrador, una sola fuente).
+- Páginas actualizadas: [[puntos-calientes]], [[actividades-rutinarias]],
+  [[analisis-espacial-del-delito]], [[prevencion-del-delito]], [[estadisticas-delictuales]],
+  [[policia-de-puntos-calientes]], [[plan-comunal-de-seguridad-publica]],
+  [[enfoques-cuantitativo-y-cualitativo]], [[teoria-fundamentada]], [[diseno-de-investigacion]],
+  [[desplazamiento-y-difusion]], [[prevencion-situacional]], [[evaluacion-de-programas]], [[index]],
+  [[referencias]], [[pendientes]] y [[revision]].
+- Corpus: Vozmediano y San Juan (2010) sale de la cuarentena por decisión del autor y pasa al
+  cúmulo `Explicación del delito` de `INVENTARIO.md`. La cuarentena queda en nueve.
+- Contradicción ampliada: [[prevencion-del-delito]] tenía dos lecturas de los niveles primario,
+  secundario y terciario. La UNODC agrega una tercera, por etapa de entrada al sistema penal.
+- Tensiones nuevas: dos definiciones de saturación, en [[teoria-fundamentada]]; una tercera
+  triangulación, en [[enfoques-cuantitativo-y-cualitativo]]; y la política nacional pide
+  patrullajes «focalizados y aleatorios», en [[policia-de-puntos-calientes]].
+- Advertencia: hay dos Ratcliffe de 2004. Vozmediano y San Juan citan «The hotspot matrix». El de la
+  tasa de geocodificación es otro trabajo. Ninguno está en el corpus.
+- En revisión: dos ítems nuevos y cuatro enmiendas. La articulación nacional y local cumple su
+  criterio y queda por crear. La cola queda en 41.
+- Análisis de fase 1 en `despliegue/fase1/2026-10-26-pnsp-2025-2031.md`,
+  `2026-10-26-unodc-manual-directrices-prevencion.md`, `2026-10-26-minayo-investigacion-social.md` y
+  `2026-10-26-vozmediano-criminologia-ambiental.md`.
+- Lecturas parciales: UNODC, sólo las pp. 9-29 y 51-60 que pide el programa. Vozmediano y San Juan,
+  sólo los caps. III y IV. Las dos fichas llevan `truncado: true`. El Decreto 96 y Minayo y otros se
+  leyeron completos.
+
 ## [2026-10-24] ingesta | Tanda S1.2b: Ley 21.802, Guerra Araya (2024), Clarke (1997) y Felson y Eckert (2016)
 
 **Cuatro obras para el diseño de S1.2, por delante de la tanda 4a y por decisión del autor.** El

@@ -424,6 +424,14 @@ excepción parcial: toman posición frente a Sampson y Wikström.
 47. **¿Coordinar o coproducir?** El consejo comunal que crea la Ley 20.965 coordina
     instituciones y da dos asientos a la sociedad civil. No organiza la coproducción que las
     guías de barrios prescriben. Ver [[coproduccion-de-seguridad]].
+48. **¿Focalizado o aleatorio?** La política nacional pide patrullajes «focalizados y
+    aleatorios» y no dice cómo se combinan. La policía de puntos calientes fija el patrullaje en
+    lugares estables. Ver [[policia-de-puntos-calientes]] y [[pnsp-2025-2031]].
+49. **¿Qué se satura?** La teoría fundamentada satura las propiedades de las categorías.
+    Deslandes satura los sentidos que repiten los entrevistados. Ver [[teoria-fundamentada]].
+50. **¿Diferencia de paradigma o de naturaleza?** Batthyány y Cabrera ordenan los enfoques por
+    paradigma. Minayo niega la jerarquía y los trata como oposición complementaria. Ver
+    [[enfoques-cuantitativo-y-cualitativo]].
 
 **La que más va a pesar en el trabajo evaluado de S1.1.**
 [[onu-habitat-guia-barrios]] incorpora la teoría de las ventanas rotas dentro de su

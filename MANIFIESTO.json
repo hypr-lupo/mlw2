@@ -195,6 +195,30 @@
       "bytes": 12160552,
       "ingerido": "2026-10-24",
       "ficha": "wiki/sources/felson-eckert-delito-y-vida-cotidiana.md"
+    },
+    "2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf": {
+      "sha256": "1ae6bcccd7add1c20a50a5e57bbc393e7148a7161f69ad0f9dd54d05d7ee2525",
+      "bytes": 299589,
+      "ingerido": "2026-10-26",
+      "ficha": "wiki/sources/pnsp-2025-2031.md"
+    },
+    "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf": {
+      "sha256": "425e624c1b806932828c15b7363360baf37e0612f72ad8872195b337bbd3a2c0",
+      "bytes": 2068779,
+      "ingerido": "2026-10-26",
+      "ficha": "wiki/sources/unodc-manual-directrices-prevencion.md"
+    },
+    "2023 - Minayo, Deslandes y Gomes - Investigación social, teoría, método y creatividad.pdf": {
+      "sha256": "6693120572541b78a8c5b1f2cdc97a7ac394f4d8f09322216b523bd441a4b54b",
+      "bytes": 8228563,
+      "ingerido": "2026-10-26",
+      "ficha": "wiki/sources/minayo-investigacion-social.md"
+    },
+    "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf": {
+      "sha256": "ca3acd3711901dfc8011c2045100bc5e033938b6aa58034e612ee8cdfc803e39",
+      "bytes": 2324221,
+      "ingerido": "2026-10-26",
+      "ficha": "wiki/sources/vozmediano-criminologia-ambiental.md"
     }
   }
 }

@@ -1,13 +1,13 @@
 ---
 title: Estadísticas delictuales
 type: method
-sources: ["2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf"]
+sources: ["2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf", "2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
 estado: revisado
 creado: 2026-10-16
-actualizado: 2026-10-24
+actualizado: 2026-10-26
 ---
 
 # Estadísticas delictuales
@@ -48,6 +48,8 @@ Contar por fecha de denuncia mueve los hechos en el calendario. Los robos en cas
 Por eso las estadísticas de un analista rara vez coinciden con las oficiales. Pueden diferir por la hora de la descarga, los códigos usados, quién decidió que hubo delito o la unidad contada: denuncias, víctimas o delitos jerarquizados [^ext-9].
 
 La encuesta oficial chilena de 2023 enfrenta el mismo problema por el otro lado. Pasó de clasificar los delitos según las categorías de Carabineros a clasificarlos por su naturaleza, y con eso se cortó la serie [^ext-10]. Ver [[medicion-de-la-victimizacion]].
+
+**Violentos y no violentos.** Añadido el 26-10-2026 al ingerir [[pnsp-2025-2031]]. La política nacional agrupa los delitos por violencia, no por tipo penal. Los no violentos se definen de forma residual e incluyen el robo por sorpresa, el robo en lugar habitado y no habitado, el robo de vehículos y el hurto [^ext-40]. El robo de vehículos aparece en las dos listas, según haya violencia o intimidación [^ext-40]. Una misma categoría penal puede caer en grupos distintos según quién agrupe [^inf-9].
 
 ## Tasas: elegir el denominador
 
@@ -92,6 +94,8 @@ Añadido el 16-10-2026 al ingerir [[baratta-criminologia-critica]]. Boba adviert
 > [!warning] La cifra negra: ¿error de medición o resultado de la selección?
 > Para Boba y el INE, lo que no llega al registro es una brecha. Se corrige leyendo el registro con cuidado y midiendo desde la víctima. Para Baratta, la brecha tiene dirección y sigue la estratificación social. Estudiarla es estudiar a quienes seleccionan [^inf-3]. Ver [[criminalizacion-y-selectividad-penal]].
 
+Añadido el 26-10-2026 al ingerir [[unodc-manual-directrices-prevencion]]. El manual de la UNODC nombra tres filtros: lo que llega al registro depende de la voluntad de denunciar, de la capacidad de la policía para registrar y del sistema de recopilación [^ext-38]. Por eso pide complementar el registro policial con encuestas, registros de salud y escolares y entrevistas [^ext-39].
+
 ## El registro municipal
 
 Añadido el 24-10-2026 al ingerir [[las-condes-plan-comunal-2026-2029]]. Es la primera fuente de la wiki con registros de un municipio chileno, y repite tres advertencias de esta página.
@@ -123,6 +127,8 @@ Añadido el 24-10-2026 al ingerir [[las-condes-plan-comunal-2026-2029]]. Es la p
 - [[evaluacion-de-programas]]: el grupo de comparación antes y después
 - [[criminalizacion-y-selectividad-penal]]: lo que el registro selecciona
 - [[las-condes-plan-comunal-2026-2029]]: los registros de un municipio chileno y su corte de serie
+- [[unodc-manual-directrices-prevencion]] — los tres filtros del registro
+- [[pnsp-2025-2031]] — delitos violentos y no violentos en la política nacional
 
 ---
 
@@ -172,3 +178,7 @@ Añadido el 24-10-2026 al ingerir [[las-condes-plan-comunal-2026-2029]]. Es la p
 [^inf-7]: **Inferido** (confianza 0.7) — lectura de la tabla 2.
 [^inf-8]: **Inferido** (confianza 0.7) — la ley nombra sólo a municipios, Fiscalía, Carabineros y la Subsecretaría.
 [^amb-1]: **Ambiguo** — sin período ni número de robos, no se sabe a qué años se aplica.
+[^ext-38]: **Extraído** — [[unodc-manual-directrices-prevencion]], p. 60.
+[^ext-39]: **Extraído** — [[unodc-manual-directrices-prevencion]], p. 52.
+[^ext-40]: **Extraído** — [[pnsp-2025-2031]], p. 8, notas 1, 2 y 4.
+[^inf-9]: **Inferido** (confianza 0.7) — la política define los grupos para sus propios fines (p. 8, nota 1).

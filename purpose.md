@@ -127,12 +127,12 @@ núcleo ancla, según los cúmulos de `INVENTARIO.md`:
 11. Vínculo Estado-crimen (18)
 12. Amenaza y securitización (24)
 
-Ocho ajustes al orden original. El primero se decidió el 12-09-2026 al cerrar el
+Nueve ajustes al orden original. El primero se decidió el 12-09-2026 al cerrar el
 núcleo ancla, los dos siguientes el 13-09-2026 al agnosticar la ingesta, el cuarto el
 26-09-2026 con el calendario de clases a la vista, el quinto el 23-10-2026, al llegar
-cinco obras nuevas y la pauta de la prueba final de S1.1, y los tres últimos el
+cinco obras nuevas y la pauta de la prueba final de S1.1, tres más el
 24-10-2026: las normas del diseño de S1.2, nueve obras sobre juventudes y cuatro obras
-más para el diseño de S1.2:
+más para el diseño de S1.2, y el último el 26-10-2026, con otras cuatro para el mismo diseño:
 
 - **La bibliografía de consulta de S1.1 sube al segundo lugar**, por delante de los
   programas oficiales restantes. Razón: los cuatro programas de los ramos en curso ya
@@ -175,9 +175,10 @@ más para el diseño de S1.2:
   | 3 | vie 16-10 | Baratta (2004), caps. I-II, IV, VII y VIII · Kessler (2004) · Blanco (2011) | S1.1, módulo 5, y las primeras clases de S2.4 (desde el 17-10) |
   | S1.2 | sáb 24-10 | Ley 20.965 · Decreto 2098 de Las Condes, Plan Comunal de Seguridad Pública 2026-2029 | Diseño de investigación aplicada de S1.2, que se entrega el 24-10. Van antes que todo lo demás |
   | S1.2b | sáb 24-10 | Ley 21.802 · Guerra Araya (2024) · Clarke (1997) · Felson y Eckert (2016) | Diseño de investigación aplicada de S1.2. Se agregó el 24-10 y va antes que la 4a. Las cuatro salen de las tandas 4 y 5 |
+  | S1.2c | lun 26-10 | Decreto 96 (PNSP) · UNODC (2011), pp. 9-29 y 51-60 · Minayo, Deslandes y Gomes (2023) · Vozmediano y San Juan (2010), caps. III y IV | Diseño de investigación aplicada de S1.2, secciones 5, 6, 8 y 9. Se agregó el 26-10 y va antes que la 4a. El Decreto 96 sale de la tanda 5, y Vozmediano y San Juan, de la cuarentena |
   | 4a | sáb 24-10 | Duarte Quapper (2012) · Bourdieu (2002) · Brizuela (2014) | S2.4: Duarte y Bourdieu, módulo I. Brizuela, módulo III. Se agregó el 23-10 y va antes que el resto de la tanda 4. *Si alcanza*, desde el 24-10: Duarte Quapper (2000) · Krauskopf (2010) · Brito Lemus (1998) · Romero Miranda (2015) |
   | 4 | vie 06-11 (era vie 23-10) | Gottfredson y Hirschi (1990), ingerida el 17-10 · ~~Clarke (1997) · Felson y Eckert (2016)~~, pasaron a la S1.2b el 24-10 | S1.1, módulo 6. El resto corre detrás de la 4a |
-  | 5 | vie 06-11 | Decreto 96 (PNSP) · ~~Ley 21.802 · Guerra Araya (2024)~~, pasaron a la S1.2b el 24-10 · SPD (2022), orientaciones técnicas · Gobierno de Santiago (s.f.), guía de barrios · Campana y Meneghini (2024) · Bergman (2023) · *si alcanza:* Schroeder y Coello-Torres (2019) | S1.1, módulo 7, y el trabajo grupal, cuyos talleres son el 13 y el 20-11. Si el grupo elige su política antes, las cuatro primeras se adelantan. Si elige un espacio público, se adelanta Schroeder y Coello-Torres |
+  | 5 | vie 06-11 | ~~Decreto 96 (PNSP)~~, pasó a la S1.2c el 26-10 · ~~Ley 21.802 · Guerra Araya (2024)~~, pasaron a la S1.2b el 24-10 · SPD (2022), orientaciones técnicas · Gobierno de Santiago (s.f.), guía de barrios · Campana y Meneghini (2024) · Bergman (2023) · *si alcanza:* Schroeder y Coello-Torres (2019) | S1.1, módulo 7, y el trabajo grupal, cuyos talleres son el 13 y el 20-11. Si el grupo elige su política antes, las cuatro primeras se adelantan. Si elige un espacio público, se adelanta Schroeder y Coello-Torres |
   | 6 | vie 27-11 | Garland (Gedisa) · Wacquant · Luneke y Trebilcock (2023) · Alda y Beliz (2007) · Zeballos (2024) · Bergman (2016) · Silva Sánchez · Ferrajoli | Inicio de S1.3, y lo que queda de la bibliografía de S1.1 |
 
   Terminada la tanda 6, vuelve el orden por cúmulos para el resto. No cambian tres
@@ -190,7 +191,8 @@ más para el diseño de S1.2:
     llegó el 17-10-2026;
   · si Vozmediano y San Juan sale de la cuarentena para cubrir el módulo 4, sobre
     urbanismo (09-10). Desde el 23-10, Schroeder y Coello-Torres (2019) cubre una parte:
-    el placemaking que expuso la clase;
+    el placemaking que expuso la clase. El 26-10 salió de la cuarentena para el diseño de
+    S1.2, con sólo los caps. III y IV, sobre oportunidad y mapas. El CPTED, cap. IX, sigue fuera;
   · conseguir Canales (2006) y Miranda y Gac (2020) para la clase 4 de S1.2 (03-10).
 - **Tanda 4a y dos obras más en la tanda 5** (23-10-2026). Llegaron cinco obras nuevas,
   identificadas en `INVENTARIO.md`, y la pauta de la prueba final de S1.1. Razones:
@@ -246,6 +248,24 @@ más para el diseño de S1.2:
   Clarke y Felson y Eckert salen de la tanda 4, y la Ley 21.802 y Guerra Araya, de la 5.
   La tanda 4 queda sólo con Gottfredson y Hirschi, ya ingerida. La 4a corre detrás sin
   otros cambios.
+- **Otras cuatro obras para el diseño de S1.2, por delante de la tanda 4a** (26-10-2026). Por
+  decisión del autor, que pidió ingerir lo pendiente en `raw/sources/` que sirve al diseño.
+  Forman la tanda S1.2c. Razones:
+  · el Decreto 96 aprueba la Política Nacional de Seguridad Pública. Pide patrullajes
+    focalizados con análisis de datos y planes comunales coherentes con ella. Es el anclaje
+    nacional de la sección 5 del diseño;
+  · UNODC (2011) es lectura obligatoria de la clase 1 de S1.2. Nombra la persistencia de la
+    delincuencia como blanco de la prevención basada en datos;
+  · Minayo, Deslandes y Gomes (2023) es la única fuente del corpus sobre el proyecto, la
+    entrevista y el análisis de contenido, que piden las secciones 8 y 9;
+  · Vozmediano y San Juan (2010) trae el patrón delictivo, los generadores y atractores y los
+    métodos de hot spot de las secciones 6 y 9. Salió de la cuarentena por decisión del autor, y
+    la ingesta se limitó a los caps. III y IV.
+  El Decreto 96 sale de la tanda 5. Otras tres candidatas se revisaron y no sirven al diseño.
+  Cámara Arroyo (2016), obligatoria de la clase 1, trata la peligrosidad individual.
+  González-Guarda y Salazar-Tobar (2023) mapea a los investigadores, no estudios espaciales.
+  Campana y Meneghini (2024) trata el desplazamiento del crimen organizado, que es otro
+  fenómeno. La 4a corre detrás sin otros cambios.
 
 **Corpus sin clasificar.** Trece archivos ingresaron a `raw/sources/` el 12-09-2026 sin
 nomenclatura y sin decisión de alcance. Están en cuarentena en `INVENTARIO.md` y **no
@@ -256,7 +276,8 @@ más abajo.
 **Decisión del 13-09-2026: la cuarentena se mantiene sin plazo.** Son en su mayoría
 manuales genéricos y el autor verificará la pertinencia obra por obra, contra el
 documento y no contra su ficha. Deja de ser una decisión pendiente que bloquee nada:
-no figura ya entre los bloqueantes de [[pendientes]] y la ingesta corre sin ella.
+no figura ya entre los bloqueantes de [[pendientes]] y la ingesta corre sin ella. El
+26-10-2026 el autor sacó a Vozmediano y San Juan (2010), para el diseño de S1.2. Quedan nueve.
 
 **Obras fundacionales.** Son las que fundan un marco que otro ramo presupone, o que
 sostienen sin sustituto un contenido evaluado. Se ingieren completas y primero; el

@@ -1,13 +1,13 @@
 ---
 title: Enfoques cuantitativo y cualitativo
 type: method
-sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf"]
+sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "2023 - Minayo, Deslandes y Gomes - Investigación social, teoría, método y creatividad.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
 estado: revisado
 creado: 2026-10-16
-actualizado: 2026-10-17
+actualizado: 2026-10-26
 ---
 
 # Enfoques cuantitativo y cualitativo
@@ -71,6 +71,10 @@ Dentro de la tercera, Bericat distingue dos lógicas [^ext-8]. La de la segregac
 
 **En el curso de vida.** Añadido el 17-10-2026 al ingerir [[blanco-curso-de-vida]]. El enfoque trabajó sobre todo con datos cuantitativos, pero desde Giele y Elder (1998) reivindica también los cualitativos: entrevistas en profundidad, historias de vida, biografías [^ext-17]. Un ejemplo mexicano: el entrelazamiento de cuatro trayectorias de mujeres de sectores medios, estudiado con una encuesta biográfica y con entrevistas semiestructuradas [^ext-18]. Ver [[estudios-longitudinales]].
 
+**Una diferencia de naturaleza.** Añadido el 26-10-2026 al ingerir [[minayo-investigacion-social]]. Minayo niega que haya un continuo con lo cuantitativo arriba: la diferencia entre los enfoques es «de naturaleza y no de escala jerárquica» [^ext-19]. Los trata como una oposición complementaria, que bien trabajada da información más rica [^ext-19]. Es la tercera postura de Corbetta, con un argumento propio [^inf-2].
+
+**Una tercera triangulación.** En el mismo libro, Gomes llama triangulación a articular datos de entrevistas, observaciones y documentos dentro de un estudio cualitativo [^ext-20]. Está más cerca del sentido de Cisterna que del de Bericat [^inf-3].
+
 ## Técnicas
 
 **Fuentes primarias y secundarias.** La fuente primaria la produce el investigador. La secundaria la produjeron otros: datos de organismos públicos, estadísticas, informes e investigaciones [^ext-10]. La secundaria cuesta menos y cubre más tiempo y más casos. Pero el investigador no controla cómo se produjo el dato, y un cambio en el registro limita las comparaciones en el tiempo [^ext-10].
@@ -86,6 +90,8 @@ Dentro de la tercera, Bericat distingue dos lógicas [^ext-8]. La de la segregac
 Fuente: [^ext-11].
 
 **Cuándo conviene la observación participante.** Según Jorgensen, en cuatro situaciones [^ext-12]. Cuando se sabe poco del fenómeno. Cuando el punto de vista interno y el externo difieren mucho. Cuando el fenómeno no admite extraños. Y cuando se oculta de manera deliberada, como las conductas delictivas.
+
+Añadido el 26-10-2026. [[minayo-investigacion-social]] clasifica las entrevistas en seis tipos. La semiestructurada combina preguntas cerradas y abiertas, y el entrevistado puede salirse de la pregunta [^ext-21]. Una entrevista no capta las prácticas, sino lo que el entrevistado narra de ellas [^ext-22]. Para analizar lo recogido, ver [[analisis-de-contenido]].
 
 ## Cita
 
@@ -104,6 +110,8 @@ Fuente: [^ext-11].
 - [[evaluacion-de-programas]]: la tensión de las tres ideas de evidencia, leída como una diferencia entre explicar y comprender
 - [[analisis-espacial-del-delito]]: las propuestas de SIG cualitativo y de métodos mixtos
 - [[estudios-longitudinales]] — la metodología mixta en el curso de vida
+- [[minayo-investigacion-social]] — la diferencia de naturaleza entre enfoques
+- [[analisis-de-contenido]] — cómo se analiza lo que recoge una entrevista
 
 **Contraste resuelto el 16-10-2026.** Vives Varela y Hamui Sutton (2021) trae el primer procedimiento de análisis cualitativo de la wiki. Ver [[teoria-fundamentada]].
 
@@ -128,3 +136,9 @@ Fuente: [^ext-11].
 [^ext-17]: **Extraído** — [[blanco-curso-de-vida]], pp. 19-20.
 [^ext-18]: **Extraído** — [[blanco-curso-de-vida]], p. 19, sobre Pacheco y Blanco (2002) y Blanco y Pacheco (2009).
 [^inf-1]: **Inferido** (confianza 0.8) — el informe no usa el término de Bericat. La correspondencia es de esta wiki.
+[^ext-19]: **Extraído** — [[minayo-investigacion-social]], Minayo, cap. 1, pp. 9 y 12.
+[^ext-20]: **Extraído** — [[minayo-investigacion-social]], Gomes, cap. 4, p. 51.
+[^ext-21]: **Extraído** — [[minayo-investigacion-social]], Minayo, cap. 3, p. 41.
+[^ext-22]: **Extraído** — [[minayo-investigacion-social]], Deslandes, cap. 2, pp. 29-30.
+[^inf-2]: **Inferido** (confianza 0.7) — combinando la p. 9 de Minayo con la clasificación de Corbetta de esta página.
+[^inf-3]: **Inferido** (confianza 0.6) — Gomes triangula fuentes dentro de lo cualitativo, como Cisterna, y no métodos, como Bericat.

@@ -83,6 +83,12 @@ Harrow and Heston.
 → [[clarke-prevencion-situacional]] · verificada contra la página de créditos · **el archivo trae
 sólo la introducción**: los casos que cita no están en el corpus, citarlos por su fuente original
 
+Decreto 96 de 2025 [Ministerio de Seguridad Pública]. Aprueba la Política Nacional de Seguridad
+Pública. 22 de octubre de 2025. Diario Oficial de la República de Chile, 30 de enero de 2026.
+https://bcn.cl/X2zs8w
+→ [[pnsp-2025-2031]] · verificada contra el encabezado de la BCN · vigente para 2025-2031 · la Ley
+21.802 ordena actualizarla hacia agosto de 2027
+
 Felson, M. y Eckert, M. A. (2016). *Crime and everyday life* (5.ª ed.). SAGE.
 → [[felson-eckert-delito-y-vida-cotidiana]] · verificada contra la página de créditos · leídos los
 caps. 2, 3, 5, 10 y 11 · manual: las cifras de terceros se citan por su estudio original
@@ -139,10 +145,21 @@ de 2026. https://bcn.cl/5y3LXk
 → [[ley-21802-seguridad-municipal]] · verificada contra el encabezado de la BCN · vigente desde el
 12-08-2026 · varios plazos dependen de reglamentos que el corpus no tiene
 
+Minayo, M. C. S. (Coord.), Deslandes, S. F. y Gomes, R. (2023). *Investigación social: teoría,
+método y creatividad* (M. Urquía, Trad.; 1.ª ed. ampliada). EDUNLa.
+https://doi.org/10.18294/9789878926261
+→ [[minayo-investigacion-social]] · verificada contra la página de créditos · leído completo · los
+capítulos tienen autor propio: citar el capítulo cuando se use uno solo
+
 Municipalidad de Las Condes. (2026). *Plan Comunal de Seguridad Pública, comuna de Las
 Condes 2026-2029*. Aprobado por el Decreto Sección 1.ª N° 2098, de 18 de junio de 2026.
 → [[las-condes-plan-comunal-2026-2029]] · verificada contra el decreto · escaneo sin capa de
 texto: citar por la página del PDF, de 1 a 30 · la serie de robos tiene un quiebre en 2024
+
+Oficina de las Naciones Unidas contra la Droga y el Delito. (2011). *Manual sobre la aplicación
+eficaz de las Directrices para la prevención del delito*. Naciones Unidas.
+→ [[unodc-manual-directrices-prevencion]] · verificada contra la página de créditos · leídas las pp.
+9-29 y 51-60, las que pide el programa de S1.2 · probable traducción de un original inglés de 2010
 
 ONU-Hábitat y Gobierno Municipal de Guadalajara. (2020). *Guía en seguridad y
 prevención de barrios: implementando los lineamientos del sistema de Naciones Unidas
@@ -212,6 +229,11 @@ Educación Médica, 10*(40), 97-104. https://doi.org/10.22201/fm.20075057e.2021.
 → [[vives-varela-teoria-fundamentada]] · verificada contra la primera página del artículo ·
 `programa/S1.2` omite el subtítulo · artículo de revisión: al citar a Charmaz, Flick o
 Cisterna, ir al original
+
+Vozmediano Sanz, L. y San Juan Guillén, C. (2010). *Criminología ambiental: ecología del delito y
+de la seguridad*. Editorial UOC.
+→ [[vozmediano-criminologia-ambiental]] · verificada contra la página de créditos · leídos los caps.
+III y IV · manual: las teorías se citan por su obra original
 
 Weisburd, D., Eck, J. E., Braga, A. A., Telep, C. W., Cave, B., Bowers, K.,
 Bruinsma, G., Gill, C., Groff, E. R., Hibdon, J., Hinkle, J. C., Johnson, S. D.,

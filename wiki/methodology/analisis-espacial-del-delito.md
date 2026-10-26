@@ -1,13 +1,13 @@
 ---
 title: Análisis espacial del delito
 type: method
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-10-16
+actualizado: 2026-10-26
 ---
 
 # Análisis espacial del delito
@@ -57,12 +57,15 @@ Confundirlas produce errores. En un suburbio, las casas con rejas tenían más r
 
 Una aplicación distinta: el **campo de visión de las cámaras**. Para evaluar una cámara no basta con su ubicación: hay que modelar qué puede ver, porque un infractor no se disuade si cree que la cámara no lo ve [^ext-21].
 
+**Otra clasificación.** Añadido el 26-10-2026 al ingerir [[vozmediano-criminologia-ambiental]]. Un manual de 2010 ordena las técnicas de otro modo. Primero los mapas descriptivos: de puntos, de coropletas y de densidad [^ext-30]. Después los estadísticos que contrastan la concentración contra el azar: la función K y el STAC para puntos, y el I de Moran y LISA para áreas [^ext-31]. Dos reglas previas: las direcciones se geocodifican a coordenadas precisas, y se mapea un solo tipo de delito, porque los patrones difieren [^ext-32]. Los mapas muestran dónde, no por qué [^ext-33].
+
 ## Límites
 
 - **Los datos van atrás de los métodos.** La calidad de los datos policiales era suficiente hace una década y hoy las técnicas nuevas la superan [^ext-22]. En América Latina el atraso es mayor. En 2014, el 45 % de los observatorios de la región no podía determinar la hora de los hechos, el 40 % no registraba el lugar, y el 31,5 % no tenía software para georreferenciar [^ext-27]. Ver [[observatorios-del-delito]].
 - **Faltan evaluaciones de las técnicas.** Muchos las adoptan sin conocer sus ventajas y límites [^ext-22].
 - **Los datos sociales llegan en unidades grandes.** Los datos del censo suelen publicarse en unidades mayores que la calle, lo que empuja a agregar hacia arriba [^ext-23].
 - **La visión cualitativa también cuenta.** Reducir situaciones complejas a puntos en un mapa pierde información. Hay propuestas de SIG cualitativo y de métodos mixtos [^ext-24].
+- **Dos Ratcliffe de 2004.** Añadido el 26-10-2026. El manual de Vozmediano y San Juan cita a Ratcliffe (2004), «The hotspot matrix», sobre mapas de densidad. Hay otro trabajo del mismo autor y año sobre la tasa mínima aceptable de geocodificación. El corpus no tiene ninguno de los dos [^amb-1].
 
 ## Cita
 
@@ -79,6 +82,7 @@ Una aplicación distinta: el **campo de visión de las cámaras**. Para evaluar 
 - [[observatorios-del-delito]] — los datos de lugar y hora que faltan en la región
 - [[estadisticas-delictuales]] — las dos fechas de un delito y la tasa por blanco
 - [[diseno-de-investigacion]] — unidades de análisis, eventos y personas, y la falacia ecológica en general
+- [[vozmediano-criminologia-ambiental]] — mapas, geocodificación y estadísticos de hot spot
 
 **Contraste del 16-10-2026.** Batthyány y Cabrera (2011) toca la falacia ecológica. El capítulo de Boba en [[tudela-ed-analisis-delictual]] aporta dos insumos de estas técnicas. Todo delito tiene una fecha de denuncia y una de ocurrencia, y en los delitos sin testigos la segunda es un intervalo entre la primera y la última hora posibles [^ext-28]. Ese intervalo es lo que el análisis aorístico necesita [^inf-2]. Y la tasa debe dividir por el blanco, no por la población: robos al comercio por tienda, robos en casas por vivienda [^ext-29]. Es la misma lógica de las pruebas de permutación, que comparan con los blancos que realmente existen [^inf-2]. Ver [[estadisticas-delictuales]].
 
@@ -115,3 +119,8 @@ Una aplicación distinta: el **campo de visión de las cámaras**. Para evaluar 
 [^ext-29]: **Extraído** — [[tudela-ed-analisis-delictual]], p. 92.
 [^inf-1]: **Inferido** (confianza 0.8) — aplicación propia del ejemplo escolar del manual a los registros policiales. El manual no habla de delito.
 [^inf-2]: **Inferido** (confianza 0.7) — Boba no nombra el análisis aorístico ni las pruebas de permutación. La correspondencia es de esta wiki.
+[^ext-30]: **Extraído** — [[vozmediano-criminologia-ambiental]], pp. 92-98.
+[^ext-31]: **Extraído** — [[vozmediano-criminologia-ambiental]], pp. 99-101, sobre Anselin, Griffiths y Tita (2008).
+[^ext-32]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 91.
+[^ext-33]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 101.
+[^amb-1]: **Ambiguo** — [[vozmediano-criminologia-ambiental]], pp. 98 y 110. Quien cite una tasa de acierto de geocodificación atribuida a Ratcliffe (2004) debe verificar cuál de los dos trabajos la trae.

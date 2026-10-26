@@ -1,13 +1,13 @@
 ---
 title: Prevención del delito
 type: concept
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf"]
 cluster: prevencion
 curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-10-24
+actualizado: 2026-10-26
 ---
 
 # Prevención del delito
@@ -55,6 +55,10 @@ El mismo libro da otra lectura de la misma obra [^amb-1]. El cap. VI define la p
 - **Schneider (2015)**, citado en el cap. I. Social, situacional, comunitaria, de la reincidencia y policía de proximidad. Børgo (2016) añade la **autorregulación**: protocolos y normas de profesiones y proveedores, como los de la medicina, la construcción o los servicios digitales [^ext-10].
 
 El cap. I concluye que la clasificación contemporánea responde al mecanismo, y que el campo todavía no es coherente. Cita a Medina (2011): las políticas de prevención son la suma de iniciativas a las que se atribuye capacidad preventiva [^ext-11]. Las conclusiones repiten la advertencia como un riesgo para gobiernos y municipios [^ext-12].
+
+**La guía de UNODC, de primera mano.** Añadido el 26-10-2026 al ingerir [[unodc-manual-directrices-prevencion]]. La definición de las Directrices de 2002 que adopta el cap. IV está en el manual de la UNODC [^ext-45]. Sus cuatro enfoques son los que el libro atribuye a una guía de UNODC (2010): desarrollo social, base local o comunitaria, situacional y reinserción [^ext-46]. Probablemente es la misma obra en otra edición [^inf-8].
+
+**Una tercera lectura de los niveles.** El mismo manual define primaria, secundaria y terciaria por la etapa de una posible entrada al sistema penal. Primaria, para quienes nunca entraron. Secundaria, para niños y jóvenes en riesgo identificados por los servicios. Terciaria, para quienes ya están en el sistema [^ext-47]. No cita a Brantingham y Faust, y advierte que la tipología no cubre toda la prevención [^ext-47]. La contradicción de arriba no se resuelve: se amplía [^amb-2].
 
 ## El problema de la homologación
 
@@ -143,6 +147,7 @@ Añadido el 24-10-2026. La prevención situacional tiene ahora su propia página
 - [[delito-amateur]] — la deserción que sigue al robo
 - [[blanco-curso-de-vida]] — trayectorias en vez de cadenas causales
 - [[teoria-general-del-delito]] — la familia como única política de largo plazo
+- [[unodc-manual-directrices-prevencion]] — las Directrices de Naciones Unidas, de primera mano
 
 **Por confrontar.** La prevención situacional tiene su obra fundacional en el corpus: Clarke (1997), en la tanda 4. La comunitaria, en las orientaciones técnicas de la Subsecretaría de Prevención del Delito (2022), en la tanda 5.
 
@@ -200,3 +205,8 @@ Añadido el 24-10-2026. La prevención situacional tiene ahora su propia página
 [^inf-6]: **Inferido** (confianza 0.7) — combinando el cap. 12 con [[vanderschueren-prevencion-del-delito]], cap. III, p. 90. Ninguno cita al otro.
 [^ext-44]: **Extraído** — [[ley-21802-seguridad-municipal]], arts. 2 y 3.
 [^inf-7]: **Inferido** (confianza 0.6) — combinando el art. 3 de la ley con la sección «Las clasificaciones».
+[^ext-45]: **Extraído** — [[unodc-manual-directrices-prevencion]], p. 9, párr. 3 de las Directrices.
+[^ext-46]: **Extraído** — [[unodc-manual-directrices-prevencion]], pp. 13-15.
+[^ext-47]: **Extraído** — [[unodc-manual-directrices-prevencion]], p. 17.
+[^inf-8]: **Inferido** (confianza 0.7) — el número de venta del manual, S.10.IV.9, indica un original de 2010, y las categorías coinciden.
+[^amb-2]: **Ambiguo** — tres lecturas de los mismos niveles: por población destinataria (cap. IV), por condiciones del ambiente (cap. VI) y por etapa de entrada al sistema penal (UNODC, p. 17). La obra de Brantingham y Faust (1976) no está en el corpus.

@@ -1,13 +1,13 @@
 ---
 title: Evaluación de programas de prevención
 type: method
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1, s1-2, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-10-17
+actualizado: 2026-10-26
 ---
 
 # Evaluación de programas de prevención
@@ -50,6 +50,8 @@ El enfoque busca que las decisiones de diseño y ejecución integren los resulta
 - **Se ensaya sin comprobar.** Citando a Sherman (2012), la mayoría de las innovaciones en prevención se ensayan pero no se comprueban [^ext-10].
 
 La salida no es copiar. Es adoptar un programa validado y adaptarlo al contexto nuevo [^ext-10].
+
+Añadido el 26-10-2026 al ingerir [[unodc-manual-directrices-prevencion]]. El manual de la UNODC pide marcos lógicos con objetivos, poblaciones, áreas, resultados y responsables [^ext-42]. Advierte que la mayoría de los estudios controlados viene de países de ingresos altos y no se extrapola sin más [^ext-43].
 
 ## Ciencia de la implementación
 
@@ -148,6 +150,7 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 - [[observatorios-del-delito]] — las instituciones del dato, que tampoco se evalúan
 - [[estadisticas-delictuales]] — la prueba antes y después con un grupo de comparación, y la significancia
 - [[buenas-practicas]] — la buena práctica como cuarta idea de evidencia
+- [[unodc-manual-directrices-prevencion]] — el marco lógico y la transferencia de la evidencia
 
 **Por confrontar.** CIPC (2015), en la tanda 2, si trae evaluaciones. Batthyány y Cabrera (2011) entró el 16-10-2026 y no trata diseños de impacto. Tudela (2015) entró el 27-09-2026.
 
@@ -201,3 +204,5 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 [^inf-5]: **Inferido** (confianza 0.7) — Tudela no usa el término ni cita a Bericat. La correspondencia es de esta wiki, entre [[vanderschueren-prevencion-del-delito]], cap. II, p. 72, y [[batthyany-metodologia-investigacion]], p. 82.
 [^inf-6]: **Inferido** (confianza 0.7) — contraste propio entre [[tudela-ed-analisis-delictual]], pp. 101-103, y [[vanderschueren-prevencion-del-delito]], cap. VII, pp. 172-173. Ninguna de las dos fuentes discute a la otra.
 [^inf-7]: **Inferido** (confianza 0.8) — la gerenta que cita el CIPC, Norma Maray, es la autora del cap. VII de [[vanderschueren-prevencion-del-delito]].
+[^ext-42]: **Extraído** — [[unodc-manual-directrices-prevencion]], p. 58.
+[^ext-43]: **Extraído** — [[unodc-manual-directrices-prevencion]], p. 56.

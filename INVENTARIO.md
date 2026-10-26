@@ -179,7 +179,7 @@ Arias (2017), y `bourdieu_la_juventud_no_es_m_s_que_una_palabra.pdf` tiene otro 
 pero su texto y sus seis páginas coinciden con Bourdieu (2002). Siguen en
 `raw/sources/` hasta que el autor los retire.
 
-## Explicación del delito · 5 doc.
+## Explicación del delito · 6 doc.
 
 
 Alimenta: S1.3 —Baratta, Pavarini y, por contenido, Felson y Eckert— y S1.1 —Gottfredson
@@ -193,6 +193,11 @@ libro: es un añadido de quien nombró el archivo, y queda como pregunta en
 `wiki/revision.md`. Ningún programa recibido lo nombra. Ingerido el mismo día, fuera del
 orden por calendario, por decisión del autor.
 
+**Alta del 26-10-2026: Vozmediano y San Juan (2010).** Sale de la cuarentena de `Ingreso sin
+clasificar` por decisión del autor, que verificó su pertinencia. Es un manual de criminología
+ambiental: teorías de la oportunidad, mapas del delito y hot spots. Se ingirieron sólo los caps.
+III y IV, para el diseño de investigación aplicada de S1.2. Ningún programa recibido lo pide.
+
 
 | Documento | MB | MD5 |
 |---|---:|---|
@@ -200,6 +205,7 @@ orden por calendario, por decisión del autor.
 | 2002 - Pavarini - Control y dominación, teorías criminológicas burguesas y proyecto hegemónico.pdf | 9.3 | `96cfa9d34aa2` |
 | 2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf | 9.5 | `4ff1f2891d1d` |
 | 2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf | 16.8 | `7e154c5a74d5` |
+| 2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf | 2.2 | `83da5982df7d` |
 | 2016 - Felson y Eckert - El delito y la vida cotidiana.pdf | 11.6 | `0b35231846f5` |
 
 ## Vínculo Estado-crimen · 18 doc.
@@ -433,7 +439,7 @@ El programa de S2.4 de la promoción 2023 quedó reemplazado el 17-10-2026 por e
 | 2026 - Universidad Alberto Hurtado - Programa del curso, Introducción a la criminología y aspectos teóricos de la prevención del delito y la violencia (síntesis).md | 0.0 | `f6258904c24f` |
 | 2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md | 0.0 | `65150a2e467f` |
 
-## Ingreso sin clasificar · 10 doc.
+## Ingreso sin clasificar · 9 doc.
 
 
 **Cuarentena, no cúmulo temático.** Trece archivos aparecieron en `raw/sources/` el
@@ -463,9 +469,11 @@ el duplicado exacto de Gaibor. Quedan diez archivos, uno por obra.
 Renombrados a la convención del corpus el 12-09-2026. Estar en convención no
 significa estar admitido: siguen en cuarentena.
 
+**Salida del 26-10-2026.** El autor admitió a Vozmediano y San Juan (2010), que pasó a
+`Explicación del delito`. Quedan nueve.
+
 | Documento | MB | MD5 |
 |---|---:|---|
-| 2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf | 2.2 | `83da5982df7d` |
 | 2012 - Vélez Salas - Delincuencia, criminología y sociedad.pdf | 7.7 | `3fd71b116699` |
 | 2013 - Hikal - Criminología psicológica.pdf | 8.3 | `b232e82520a1` |
 | 2013 - Hikal - Introducción al estudio de la criminología (2a edición).pdf | 8.7 | `f152edbad675` |
@@ -484,7 +492,7 @@ corpus sin volver a abrirla.
 
 | Archivo | Obra identificada | Imprenta | Tipo |
 |---|---|---|---|
-| Criminología ambiental.pdf | Vozmediano Sanz, L. y San Juan Guillén, C. *Criminología ambiental: ecología del delito y de la seguridad* | Editorial UOC, 1.ª ed. castellana mayo 2010 · ISBN 978-84-9788-847-5 | Manual académico |
+| Criminología ambiental.pdf · **admitida el 26-10-2026** | Vozmediano Sanz, L. y San Juan Guillén, C. *Criminología ambiental: ecología del delito y de la seguridad* | Editorial UOC, 1.ª ed. castellana mayo 2010 · ISBN 978-84-9788-847-5 | Manual académico |
 | Criminología mediatica.pdf · Criminología y victimología.pdf | Gaibor, P. C. *Criminología mediática y victimología del miedo* | Universidad Andina Simón Bolívar, Quito · Serie Magíster 285 · ISBN 978-9942-837-08-0 · **año por confirmar** | Tesis de magíster publicada |
 | DOGMÁTICA PENAL y CRIMINOLOGÍA CAUTELAR.pdf | Zaffaroni, E. R., Bailone, M. y Mavila León, R. *Dogmática penal y criminología cautelar* | Lima, 1.ª ed. octubre 2017 · Depósito Legal BNP 2017-13237 | Ensayo académico |
 | Criminología Preventiva (3 archivos) | Ríos Patio, G. y Hikal, W. (dirs.); Riega Cayetano, R. y Pérez Arroyo, M. (coords.). *Criminología preventiva*. Colección de criminologías específicas, libro 12 | Universidad de San Martín de Porres, Fondo Editorial · 1.ª ed. electrónica mayo 2022, 161 pp. · ISBN 978-612-4460-43-2 | Obra colectiva |

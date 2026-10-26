@@ -16,10 +16,10 @@ Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026
 ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con las de Batthyány y Cabrera
 (2011), el INE (2023), Srur (2014), el capítulo de Boba (2010), el CIPC (2015), Baratta (2004) y Kessler (2004), y el 17-10-2026, con las de Blanco (2011) y Gottfredson y Hirschi (1990). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**39 abiertos.** Al 24-10-2026, con tres ítems de la ingesta de la Ley 20.965 y el plan
+**41 abiertos.** Al 26-10-2026, con el saldo de la tanda S1.2c: dos ítems nuevos y cuatro enmiendas. Al 24-10-2026, con tres ítems de la ingesta de la Ley 20.965 y el plan
 comunal de Las Condes, y el saldo de la tanda S1.2b: dos resueltos y tres nuevos.
 
-**A. Sólo esperan una decisión del autor (15).** Se pueden resolver hoy.
+**A. Sólo esperan una decisión del autor (16).** Se pueden resolver hoy.
 
 | Ítem | Acción | Qué hay que decidir |
 |---|---|---|
@@ -37,9 +37,10 @@ comunal de Las Condes, y el saldo de la tanda S1.2b: dos resueltos y tres nuevos
 | `[entidad]` Plan Cuadrante, y quizá Carabineros | `crear-pagina` | El criterio se cumple en la letra desde el 16-10: el CIPC (2015) lo describe desde fuera, pero en un párrafo y en contra de las evaluaciones. Queda decidir si es página de programa o sección de una página de Carabineros |
 | `[ingesta]` El resto de Baratta (2004) | `preguntar` | Si se ingieren los capítulos que el orden no fija: subculturas y neutralización, conflicto, criminología crítica, cárcel y política criminal alternativa |
 | `[entidad]` Dirección de Seguridad Pública de Las Condes | `preguntar` | La página existe desde el 24-10. Queda decidir si ella y el plan comunal pasan a `caso-de-grado` |
+| `[ingesta]` El resto de Vozmediano y San Juan (2010) | `preguntar` | Si se ingieren los capítulos no leídos. El VIII trata la prevención situacional y el desplazamiento, y puede traer evidencia sobre cámaras. Del 26-10 |
 | `[ingesta]` El resto de Felson y Eckert (2016) | `preguntar` | Si se ingieren los ocho capítulos no leídos. El 6, sobre las rutinas de los adolescentes, puede servir a S2.4. Del 24-10 |
 
-**B. Esperan una verificación bibliográfica fuera del corpus (8).** Cada ítem trae su
+**B. Esperan una verificación bibliográfica fuera del corpus (9).** Cada ítem trae su
 consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos evaluados.
 
 | Ítem | Qué verificar |
@@ -51,6 +52,7 @@ consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos
 | `[fuente]` Institución de Zúñiga Núñez | Escuela y versión final del proyecto |
 | `[fuente]` Gardner es versión de autor | Páginas de la *Cardozo Law Review* |
 | `[fuente]` Estado legal del pololeo | Resuelto en parte con la Ley 21.675; falta el tipo penal de femicidio |
+| `[fuente]` La guía de UNODC (2010) de Vanderschueren y otros | Si es el original inglés del manual de 2011. Del 26-10 |
 | `[fuente]` Año e ISBN de Arias | 2016, 2017 o 2018, y los dos ISBN, en el catálogo de la editorial |
 
 **C. Esperan una obra que ya está en el corpus (9).** Se resuelven solos si el orden de
@@ -59,11 +61,11 @@ ingesta se cumple.
 | Ítem | Acción | Obra que lo destraba | Tanda |
 |---|---|---|---|
 | `[entidad]` Política de seguridad de Peñalolén | `crear-pagina` | Luneke y Trebilcock (2023), si la trata. El CIPC (2015) la incluye, pero desde la misma voz | 6 |
-| `[investigar]` Ley de concentración en una comuna chilena | `investigar` | Las normas de la tanda 5. Las metodológicas de la tanda 2 no traen el estudio | 5 |
-| `[concepto]` Articulación nacional y local de la seguridad | `crear-pagina` | Ley 21.802 y Decreto 96 (PNSP) | 5 |
+| `[investigar]` Ley de concentración en una comuna chilena | `investigar` | Quedan SPD (2022) y la guía del Gobierno de Santiago. El Decreto 96 la afirma sin estudio | 5 |
+| `[concepto]` Articulación nacional y local de la seguridad | `crear-pagina` | Ley 21.802 y Decreto 96 (PNSP), ya ingeridos | criterio cumplido el 26-10, página por crear |
 | `[concepto]` Subculturas delictivas, deriva y neutralización | `crear-pagina` | Baratta (2004), caps. V-VI, si se ingieren. Matza no está en el corpus | según el ítem A del resto de Baratta |
 | `[entidad]` Quiero mi Barrio | `crear-pagina` | SPD (2022); Luneke y Trebilcock (2023) | 5 y 6 |
-| `[concepto]` Seguridad ciudadana y seguridad humana | `crear-pagina` | Decreto 96 (PNSP); Luneke y Trebilcock (2023) | 5 y 6 |
+| `[concepto]` Seguridad ciudadana y seguridad humana | `crear-pagina` | Luneke y Trebilcock (2023). El Decreto 96 no usa los términos | 6 |
 | `[concepto]` Principio de daño y Estado de derecho | `crear-pagina` | Ferrajoli (1995) | 6 |
 | `[contradicción]` Legado del conflicto armado | `preguntar` | Dammert (2012), cúmulo `Medición e inseguridad` | después de la 6 |
 | `[concepto]` Capital cultural | `crear-pagina` | Bourdieu (2002), en el corpus desde el 23-10. Pasó del grupo D el 24-10 | 4a |
@@ -78,13 +80,13 @@ ingesta se cumple.
 | `[concepto]` Violencia contra las mujeres en la pareja y la familia | La bibliografía de S3.3, cuando llegue su programa |
 | `[concepto]` Criminalidad de cuello blanco | Sutherland, pedido por S1.1 y ausente del corpus |
 | `[investigar]` Barrio Protegido: año de inicio, registro de cámaras y nombre de la organización vecinal | Fuera del corpus: pedirlo a la Dirección de Seguridad Pública. Del 24-10 |
-| `[vacío]` Evidencia sobre cámaras posterior a 1997, y los casos 11 y 12 de Clarke | Fuera del corpus: el archivo de Clarke trae sólo la introducción. Del 24-10 |
+| `[vacío]` Evidencia sobre cámaras posterior a 1997, y los casos 11 y 12 de Clarke | Fuera del corpus: el archivo de Clarke trae sólo la introducción. Del 24-10. Quizá el cap. VIII de Vozmediano y San Juan, sin ingerir |
 
 **Qué adelanta cada tanda.** La 2 cerró el 16-10-2026: resolvió medición de la victimización y
 pasó PADS+ a la 3. El CIPC no cumplió el criterio de Peñalolén, que pasa a la 6. La 3 cerró el
 17-10-2026: resolvió criminalización y selectividad penal, con Baratta, y PADS+, con Blanco.
 Kessler no destrabó ninguno. La 4 empezó el 17-10: Gottfredson y Hirschi resolvió el control social
-informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clarke y Felson y Eckert. La 5 destraba cuatro, y la 6, cuatro.
+informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clarke y Felson y Eckert. La S1.2c, del 26-10, no resolvió ninguno: cumplió el criterio de la articulación nacional y local, y la seguridad ciudadana quedó sólo para Luneke y Trebilcock. La 5 destraba dos, y la 6, cuatro.
 
 ## Abiertos
 
@@ -270,6 +272,11 @@ informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clar
       concentración del corpus, tomada del plan nacional de 2014: el 82 % de las denuncias en
       74 comunas urbanas (p. 44). Es concentración entre comunas, no en microlugares, y no
       responde la pregunta. Quedan las normas de la tanda 5.
+      **Enmienda 26-10-2026** (tanda S1.2c): [[pnsp-2025-2031]] afirma que el delito se concentra
+      «incluso en calles» (pp. 11 y 19), sin citar ningún estudio. [[unodc-manual-directrices-prevencion]]
+      advierte que la evidencia controlada viene de países de ingresos altos (p. 56).
+      [[vozmediano-criminologia-ambiental]] trae ejemplos españoles de mapas, no chilenos. Sigue
+      abierto. En el corpus quedan SPD (2022) y la guía del Gobierno de Santiago.
 
 - [ ] **[alcance]** Zúñiga Núñez (2013) es, sobre todo, teoría del Estado.
       [[zuniga-civilizacion-y-derechos-humanos]] entró el 26-09-2026 por decisión
@@ -469,6 +476,9 @@ informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clar
       Y registra que la constitución ecuatoriana de 2008 introdujo la seguridad humana como un
       concepto más amplio (p. 96). No cumple del todo el criterio: Vanderschueren fue uno de
       los expertos que orientaron el informe (p. 3). Siguen las candidatas de las tandas 5 y 6.
+      **Enmienda 26-10-2026** (ingesta de [[pnsp-2025-2031]]): la política nacional no usa ninguno
+      de los dos términos como concepto. Habla de seguridad pública y de seguridad como derecho
+      humano (p. 6). No cumple el criterio. Queda Luneke y Trebilcock (2023), en la tanda 6.
 
 - [ ] **[fuente]** «Violencia como lenguaje» — el archivo de [[bourgois-en-busca-de-respeto]]
       llegó el 02-10-2026 como `bourgois-en-busca-del-respeto -Violencia como lenguaje.pdf`.
@@ -568,6 +578,9 @@ informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clar
       Criterio: crearla con la Ley 21.802, que fortalece la institucionalidad municipal de
       seguridad, y el Decreto 96 de la política nacional, los dos en la tanda 5. Con el CIPC
       solo sería la tesis de un informe sobre ocho países.
+      **Enmienda 26-10-2026** (ingesta de [[pnsp-2025-2031]]): el criterio se cumple. La política
+      nacional pide planes comunales coherentes con ella (p. 21) y la Ley 21.802 fortalece la
+      dirección municipal de seguridad. La página queda por crear.
 
 - [ ] **[ingesta]** El resto de Baratta (2004) — [[baratta-criminologia-critica]] entró
       sólo en los caps. I-II, IV, VII y VIII, que son los que fija [[purpose]]. Quedan la
@@ -640,10 +653,26 @@ informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clar
       casos 11 y 12 del libro no vienen en el archivo. Ver [[prevencion-situacional]].
       Acción propuesta: `investigar` · Origen: ingesta 2026-10-24
       Consulta sugerida: una revisión sistemática reciente sobre CCTV y delito.
+      **Enmienda 26-10-2026** (ingesta de [[vozmediano-criminologia-ambiental]]): los caps. III y IV
+      no traen evidencia sobre cámaras. El cap. VIII, sobre prevención situacional, no se leyó.
+      Ver el ítem sobre el resto de ese libro.
 
 - [ ] **[ingesta]** «El resto de Felson y Eckert (2016)» — se leyeron cinco de trece capítulos.
       El 6 trata las rutinas de los adolescentes y podría servir a S2.4.
       Acción propuesta: `preguntar` · Origen: ingesta 2026-10-24
+
+- [ ] **[ingesta]** «El resto de Vozmediano y San Juan (2010)» — se leyeron los caps. III y IV
+      de nueve. El VIII trata la prevención situacional y el desplazamiento, y el IX, el CPTED. El
+      primero puede traer evidencia sobre cámaras. Ver [[vozmediano-criminologia-ambiental]].
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-10-26
+
+- [ ] **[fuente]** «La guía de UNODC (2010) que citan Vanderschueren y otros» — los caps. IV y
+      VI de [[vanderschueren-prevencion-del-delito]] citan una guía de UNODC (2010) con los mismos
+      cuatro enfoques que [[unodc-manual-directrices-prevencion]]. El número de venta del manual
+      indica un original de 2010. Ver [[prevencion-del-delito]].
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-10-26
+      Consulta sugerida: *Handbook on the Crime Prevention Guidelines: Making them work* (UNODC,
+      2010), en el catálogo de publicaciones de Naciones Unidas.
 
 ## Resueltos
 

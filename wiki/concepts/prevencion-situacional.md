@@ -1,13 +1,13 @@
 ---
 title: Prevención situacional del delito
 type: concept
-sources: ["1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf"]
+sources: ["1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf"]
 cluster: prevencion
 curso: [s1-1, s1-2]
 procedencia: fuentes
 estado: borrador
 creado: 2026-10-24
-actualizado: 2026-10-24
+actualizado: 2026-10-26
 ---
 
 # Prevención situacional del delito
@@ -24,6 +24,8 @@ Nace en la unidad de investigación del Home Office británico en los años sete
 - **Todos pueden delinquir según la situación.** No separa a los delincuentes del resto [^ext-7]. Felson y Eckert lo llevan más lejos: la variación dentro de una persona supera la variación entre personas [^ext-8].
 - **El infractor decide**, con racionalidad limitada y respondiendo a señales del escenario [^ext-9].
 - **La medida se ajusta al delito específico.** No al «robo» en general, sino, por ejemplo, al robo de autos para desarmarlos [^ext-10].
+
+Añadido el 26-10-2026 al ingerir [[vozmediano-criminologia-ambiental]]. Wortley completa la elección racional con los precipitadores situacionales: señales, presiones, permisos y provocaciones que empujan al delito antes de la decisión [^ext-28]. Su crítica llevó a Cornish y Clarke a sumar la reducción de provocaciones, y por eso las técnicas llegaron a veinticinco [^ext-28].
 
 ## Las técnicas
 
@@ -54,6 +56,8 @@ Las reducciones pueden ser grandes, a menudo más de 50 % según Clarke [^ext-20
 
 Desde la derecha, ignora la culpa moral y el castigo. Desde la izquierda, ignora las desigualdades. Desde el liberalismo, trata síntomas y no «causas de fondo» [^ext-24]. Y una pregunta de justicia distributiva: si desplaza el delito de quienes pueden pagar la protección a quienes no, y si sirve para excluir a pobres, minorías y jóvenes de los espacios públicos [^ext-25].
 
+Añadido el 26-10-2026 al ingerir [[unodc-manual-directrices-prevencion]]. El manual de la UNODC resume cuatro críticas: se centra en el delito oportunista, puede desplazarlo, reparte la seguridad de forma desigual y no aborda las causas sociales [^ext-26]. No por eso la descarta: ningún enfoque es superior y conviene combinarlos [^ext-27].
+
 ## Cita
 
 > "It seeks to forestall the occurrence of crime, rather than to detect and sanction offenders."
@@ -67,6 +71,8 @@ Desde la derecha, ignora la culpa moral y el castigo. Desde la izquierda, ignora
 - [[prevencion-del-delito]] — las clasificaciones de la prevención
 - [[ventanas-rotas]] — la reparación rápida como técnica para reducir la tentación
 - [[puntos-calientes]] — dónde focalizar
+- [[unodc-manual-directrices-prevencion]] — las críticas resumidas por Naciones Unidas
+- [[vozmediano-criminologia-ambiental]] — los precipitadores de Wortley
 
 ---
 
@@ -96,3 +102,6 @@ Desde la derecha, ignora la culpa moral y el castigo. Desde la izquierda, ignora
 [^ext-24]: **Extraído** — [[clarke-prevencion-situacional]], pp. 3-4.
 [^ext-25]: **Extraído** — [[clarke-prevencion-situacional]], p. 38.
 [^amb-1]: **Ambiguo** — la evidencia sobre cámaras que trae el corpus es de segunda mano y anterior a 1997. No hay revisiones posteriores.
+[^ext-26]: **Extraído** — [[unodc-manual-directrices-prevencion]], p. 16.
+[^ext-27]: **Extraído** — [[unodc-manual-directrices-prevencion]], pp. 15-16.
+[^ext-28]: **Extraído** — [[vozmediano-criminologia-ambiental]], pp. 66-67, sobre Wortley (2008) y Cornish y Clarke (2003).

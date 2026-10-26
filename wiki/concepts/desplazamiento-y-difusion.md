@@ -1,13 +1,13 @@
 ---
 title: Desplazamiento del delito y difusión de beneficios
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-10-24
+actualizado: 2026-10-26
 ---
 
 # Desplazamiento del delito y difusión de beneficios
@@ -83,6 +83,8 @@ Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. La teo
 
 El portonazo es justo lo que la teoría niega: un paso de lo simple a lo que exige varios operadores armados [^ext-13]. O la teoría falla en este caso, o el portonazo lo cometen otras personas, como sugiere el dato de menores más agresivos [^inf-3]. Las dos lecturas piden datos que la wiki no tiene.
 
+Añadido el 26-10-2026 al ingerir [[vozmediano-criminologia-ambiental]]. Dos de los diez principios de Felson y Clarke (1998) van en la misma dirección: la reducción de oportunidades normalmente no desplaza el delito, y puede difundir sus beneficios a lugares y horas cercanos [^ext-31]. Viene del mismo círculo teórico que [[clarke-prevencion-situacional]] y [[felson-eckert-delito-y-vida-cotidiana]] [^inf-5].
+
 ## Desplazamientos de mercado y de organización
 
 Añadido el 02-10-2026 al ingerir [[bourgois-en-busca-de-respeto]] y [[arias-empresas-criminales-y-gobernanza]]. Ninguno de los dos evalúa prevención situacional. Los dos describen lo que se mueve cuando el Estado reprime un mercado o un grupo, y amplían la lista de lo que la investigación de más arriba no mide.
@@ -120,6 +122,7 @@ Sobre el desplazamiento, Clarke cita la revisión de Hesseling (1994): de 55 est
 - [[bourgois-en-busca-de-respeto]] — de la marihuana a la cocaína, y un desplazamiento de lugar observado en East Harlem
 - [[arias-empresas-criminales-y-gobernanza]] — el desplazamiento de organización: destruir un grupo empodera a sus competidores
 - [[teoria-general-del-delito]] — la predicción teórica de que no hay desplazamiento
+- [[vozmediano-criminologia-ambiental]] — los principios 9 y 10 de Felson y Clarke
 
 **Por confrontar.** Clarke (1997), en el corpus sin ingerir, es la obra fundacional de la prevención situacional, que es donde nació esta discusión.
 
@@ -159,3 +162,5 @@ Sobre el desplazamiento, Clarke cita la revisión de Hesseling (1994): de 55 est
 [^ext-28]: **Extraído** — [[clarke-prevencion-situacional]], p. 32, resumiendo a Poyner (1988, 1991).
 [^ext-29]: **Extraído** — [[clarke-prevencion-situacional]], p. 29.
 [^ext-30]: **Extraído** — [[clarke-prevencion-situacional]], pp. 28-29, citando a Barr y Pease (1990).
+[^ext-31]: **Extraído** — [[vozmediano-criminologia-ambiental]], pp. 59-60, principios 9 y 10.
+[^inf-5]: **Inferido** (confianza 0.7) — los tres textos se apoyan en Felson y Clarke. No son tres evidencias independientes.

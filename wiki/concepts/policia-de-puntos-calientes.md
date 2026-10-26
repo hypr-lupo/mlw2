@@ -1,13 +1,13 @@
 ---
 title: Policía de puntos calientes
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-26
-actualizado: 2026-09-27
+actualizado: 2026-10-26
 ---
 
 # Policía de puntos calientes
@@ -49,12 +49,15 @@ Dos experimentos lo muestran por dentro:
 - **Lowell** (Braga y Bond, 2008): 20 % menos de llamadas por delito y desorden. En el análisis de mediación, lo que más explicó la baja fueron las medidas situacionales —cerrar sitios eriazos, demoler edificios abandonados, limpiar grafitis—. Las detenciones por faltas aportaron algo, y los servicios sociales no tuvieron efecto significativo [^ext-10].
 - **Jacksonville** (Taylor y otros, 2011): la saturación de patrullaje redujo el delito sólo mientras duró, sin significación. La orientación a problemas no mostró efecto durante la intervención, pero en los 90 días siguientes la violencia callejera bajó 33 % [^ext-11]. Tarda más y dura más.
 
+**La calle como escala.** Añadido el 26-10-2026 al ingerir [[vozmediano-criminologia-ambiental]]. Un manual de criminología ambiental trata la calle como un tipo propio de hot spot, con intervención propia: patrullaje concentrado en ciertas calles y reorganización del tránsito [^ext-23].
+
 ## Lo que no se sabe
 
 - **Estrategias sin evaluar.** Varias de las más usadas por las policías —focalizar en infractores conocidos, operativos de compra encubierta, alianzas comunitarias, controles a personas en libertad condicional— no tienen evaluaciones rigurosas [^ext-12].
 - **Qué funciona dónde.** Faltan estudios que digan qué estrategia sirve para qué delito y qué tipo de lugar [^ext-13].
 - **Si daña la legitimidad.** Ver abajo.
 - **Cuánto se usa en realidad.** Aun con una política formal de patrullaje dirigido, en Dallas sólo una pequeña parte del tiempo libre de los policías se dedicaba a puntos calientes. Las policías siguen dominadas por el patrullaje aleatorio y la respuesta a llamadas [^ext-14].
+- **Focalizado y aleatorio.** Añadido el 26-10-2026 al ingerir [[pnsp-2025-2031]]. La política nacional chilena pide patrullajes «focalizados y aleatorios», apoyados en el análisis de datos, sobre las zonas de concentración delictiva [^ext-22]. No explica cómo se combinan las dos cosas [^inf-2].
 
 ## Legitimidad: la objeción y la respuesta
 
@@ -94,6 +97,7 @@ Añadido el 27-09-2026 al ingerir [[tudela-analisis-criminal]], que lleva esta e
 - [[policia-comunitaria]] — el otro gran modelo policial registrado en la wiki
 - [[tudela-analisis-criminal]] — segunda fuente, con la evidencia de los mismos autores
 - [[analisis-criminal]] — el oficio que identifica los puntos y evalúa la estrategia
+- [[pnsp-2025-2031]] — la política nacional pide patrullajes focalizados
 
 El módulo 2 de `programa/S1.1` trata la creación de la institución policial y el debate sobre legitimidad y proximidad. La bibliografía específica de ese módulo no está en el corpus.
 
@@ -121,3 +125,6 @@ El módulo 2 de `programa/S1.1` trata la creación de la institución policial y
 [^ext-20]: **Extraído** — [[tudela-analisis-criminal]], p. 147, sobre Karn (2013).
 [^ext-21]: **Extraído** — [[tudela-analisis-criminal]], p. 147, sobre Telep y Weisburd (2011).
 [^inf-1]: **Inferido** (confianza 0.8) — por las fuentes que Tudela declara. Weisburd es coautor de la revisión que cita y editor de [[weisburd-el-lugar-importa]].
+[^ext-22]: **Extraído** — [[pnsp-2025-2031]], p. 21.
+[^ext-23]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 97, tabla 1, a partir de Eck (2005).
+[^inf-2]: **Inferido** (confianza 0.6) — la línea de acción une los dos adjetivos sin desarrollo.

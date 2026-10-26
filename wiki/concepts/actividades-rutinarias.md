@@ -1,13 +1,13 @@
 ---
 title: Teoría de las actividades rutinarias
 type: concept
-sources: ["2016 - Felson y Eckert - El delito y la vida cotidiana.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf"]
+sources: ["2016 - Felson y Eckert - El delito y la vida cotidiana.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1, s1-2]
 procedencia: fuentes
 estado: borrador
 creado: 2026-10-24
-actualizado: 2026-10-24
+actualizado: 2026-10-26
 ---
 
 # Teoría de las actividades rutinarias
@@ -30,6 +30,12 @@ La formularon Cohen y Felson (1979), que no está en el corpus. La wiki la toma 
 
 **La supervisión local.** Supervisar un lugar exige estar cerca, ver directamente y tener una responsabilidad definida sobre él [^ext-12]. En un estudio puerta a puerta, no ver a nadie fue el mejor predictor del delito residencial [^ext-13].
 
+**El patrón delictivo.** Añadido el 26-10-2026 al ingerir [[vozmediano-criminologia-ambiental]]. Los Brantingham explican dónde convergen infractor y objetivo: cerca de los nodos y rutas que el infractor ya usa, dentro de su espacio de actividad [^ext-21]. Los **generadores** reúnen a mucha gente por razones legales. Los **atractores** tienen oportunidades conocidas y atraen a infractores a propósito, como ciertos transportes públicos y estacionamientos [^ext-22]. Casi todos los lugares son mixtos, y uno puede generar un tipo de delito y ser neutro para otro [^ext-22].
+
+**VIVA.** Lo que hace atractivo un objetivo para el infractor: valor, inercia, visibilidad y acceso [^ext-23].
+
+**La oportunidad es específica.** Según Felson y Clarke (1998), las oportunidades son específicas de cada delito y se concentran en lugares y momentos, incluso de una calle a otra [^ext-24]. Una misma característica del lugar puede pesar distinto según el delito [^inf-4].
+
 ## Lo que explica
 
 **Por qué el delito se concentra.** Ciertos escenarios reúnen infractores y blancos con poca supervisión: rutas públicas, estacionamientos, bares, estaciones de transporte, comercio [^ext-14]. El riesgo se concentra en nodos, rutas y bordes [^ext-15]. Ver [[puntos-calientes]].
@@ -46,6 +52,8 @@ La formularon Cohen y Felson (1979), que no está en el corpus. La wiki la toma 
 
 **Con la acción situacional.** Wikström pone en interacción la propensión de la persona y el escenario. Las actividades rutinarias ponen el peso en el escenario [^inf-3]. Ver [[teoria-accion-situacional]].
 
+**Con los enfoques sociales.** Añadido el 26-10-2026. La crítica más común es que la teoría ignora la motivación y las causas del delito. Vozmediano y San Juan responden que el integrismo teórico no esclarece y que los enfoques se complementan en distintos niveles [^ext-25].
+
 ## Cita
 
 > "The most significant guardians in society are ordinary citizens going about their daily routines."
@@ -58,6 +66,7 @@ La formularon Cohen y Felson (1979), que no está en el corpus. La wiki la toma 
 - [[puntos-calientes]] — la concentración en el lugar
 - [[control-social-informal]] — el manejador como control del infractor
 - [[eficacia-colectiva]] — la otra explicación de la supervisión vecinal
+- [[vozmediano-criminologia-ambiental]] — el patrón delictivo, generadores y atractores
 
 ---
 
@@ -84,3 +93,9 @@ La formularon Cohen y Felson (1979), que no está en el corpus. La wiki la toma 
 [^inf-1]: **Inferido** (confianza 0.7) — combinando [[felson-eckert-delito-y-vida-cotidiana]] con [[gottfredson-hirschi-teoria-general]].
 [^inf-2]: **Inferido** (confianza 0.6) — combinando [[felson-eckert-delito-y-vida-cotidiana]] con [[eficacia-colectiva]]. Felson y Eckert no nombran a Sampson en los capítulos leídos.
 [^inf-3]: **Inferido** (confianza 0.6) — combinando [[felson-eckert-delito-y-vida-cotidiana]] con [[wikstrom-por-que-se-delinque]].
+[^ext-21]: **Extraído** — [[vozmediano-criminologia-ambiental]], pp. 74-79, sobre Brantingham y Brantingham (1991, 2008).
+[^ext-22]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 80.
+[^ext-23]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 72, sobre Felson y Clarke (1998).
+[^ext-24]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 58, principios 2 y 3 de Felson y Clarke (1998).
+[^ext-25]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 73.
+[^inf-4]: **Inferido** (confianza 0.7) — combinando el principio 2 (p. 58) con la p. 80 del manual.

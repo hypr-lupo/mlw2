@@ -1,13 +1,13 @@
 ---
 title: Teoría fundamentada
 type: method
-sources: ["2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf"]
+sources: ["2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2023 - Minayo, Deslandes y Gomes - Investigación social, teoría, método y creatividad.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
 estado: revisado
 creado: 2026-10-16
-actualizado: 2026-10-16
+actualizado: 2026-10-26
 ---
 
 # Teoría fundamentada
@@ -37,6 +37,8 @@ Charmaz advierte que la mayoría de quienes usan el método iteran y comparan, p
 **El tamaño de la muestra se conoce al final** [^ext-7]. Eso suele trabar la aprobación de los protocolos, porque los comités de evaluación piden de antemano el número y las características de la muestra [^ext-8]. Un diseño con muestreo teórico tiene que justificar ese punto por escrito [^inf-2].
 
 **La saturación teórica** llega cuando ya no surgen propiedades nuevas de las categorías y hay datos sólidos para sostenerlas [^ext-9]. El muestreo termina ahí [^ext-9].
+
+**Otra saturación.** Añadido el 26-10-2026 al ingerir [[minayo-investigacion-social]]. Deslandes la define fuera de la teoría fundamentada. El número de sujetos se fija por inclusión progresiva y se detiene cuando los sentidos que atribuyen empiezan a repetirse [^ext-21]. Aquí se satura la teoría. Allí se satura el relato [^inf-6].
 
 ## Codificar y categorizar
 
@@ -100,6 +102,8 @@ El cruce sube por tres niveles de conclusiones: por subcategoría, por categorí
 - [[diseno-de-investigacion]]: el proceso en tres momentos que empieza por la teoría
 - [[operacionalizacion]]: el otro sentido de la palabra categoría
 - [[batthyany-metodologia-investigacion]]: la otra lectura de la misma clase de S1.2
+- [[minayo-investigacion-social]] — otra definición de saturación
+- [[analisis-de-contenido]] — otra manera de codificar, sin construir teoría
 
 ---
 
@@ -128,3 +132,5 @@ El cruce sube por tres niveles de conclusiones: por subcategoría, por categorí
 [^inf-3]: **Inferido** (confianza 0.8) — comparación propia entre las dos fuentes. Ninguna menciona el otro sentido.
 [^inf-4]: **Inferido** (confianza 0.8) — contraste propio entre [[batthyany-metodologia-investigacion]], pp. 27 y 80, y [[vives-varela-teoria-fundamentada]], pp. 98 y 101.
 [^inf-5]: **Inferido** (confianza 0.8) — lectura del artículo completo. La tabla 1 muestra sólo una categoría con dos subcategorías y dos testimonios.
+[^ext-21]: **Extraído** — [[minayo-investigacion-social]], Deslandes, cap. 2, p. 29.
+[^inf-6]: **Inferido** (confianza 0.7) — la saturación teórica se mide sobre las propiedades de las categorías. La de Deslandes, sobre la regularidad de los sentidos atribuidos.

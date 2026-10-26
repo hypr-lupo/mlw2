@@ -1,13 +1,13 @@
 ---
 title: Diseño de investigación
 type: method
-sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
+sources: ["2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2023 - Minayo, Deslandes y Gomes - Investigación social, teoría, método y creatividad.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
 estado: revisado
 creado: 2026-10-16
-actualizado: 2026-10-17
+actualizado: 2026-10-26
 ---
 
 # Diseño de investigación
@@ -40,6 +40,8 @@ La ruptura viene de Bourdieu, Chamboredon y Passeron. Para ellos, la familiarida
 
 **El vacío de conocimiento.** El problema refleja un vacío práctico, teórico o ambos. Un vacío práctico es una situación social que interesa conocer para intervenir o monitorear, como la violencia intrafamiliar [^ext-7]. Para el manual, ese vacío justifica investigar como aporte al conocimiento [^ext-7]. El Magíster usa otro criterio. Ver [[trabajo-de-grado-profesionalizante]].
 
+Añadido el 26-10-2026 al ingerir [[minayo-investigacion-social]]. Deslandes agrega una distinción: un problema social no es un problema científico. Para convertirlo hay que romper con las ideas circulantes, desarmar las preconcepciones y evitar las explicaciones simples [^ext-33]. El objeto de un proyecto es construido. No es el objeto percibido ni el real [^ext-34].
+
 ## Marco teórico, antecedentes y marco conceptual
 
 Teoría no es sinónimo de marco teórico [^ext-8]. El marco teórico es una elaboración propia. Según Sautu y otros, entreteje paradigmas, teorías generales de la sociedad y teorías sustantivas del tema [^ext-8]. No es el estado del arte, ni la justificación, ni un recorrido histórico, ni la opinión del investigador [^ext-8].
@@ -55,6 +57,8 @@ Briones separa tres marcos [^ext-9]:
 En la práctica muchos investigadores los mezclan. El manual pide separar al menos el marco teórico del de antecedentes [^ext-10].
 
 Según Hernández Sampieri, el marco teórico cumple cuatro funciones [^ext-11]. Conduce a las hipótesis. Da los conceptos que se operacionalizarán. Orienta la estrategia. Y da el marco para interpretar los resultados.
+
+Añadido el 26-10-2026. Deslandes advierte dos confusiones. El marco teórico no es una revisión de literatura. Y el marco legal, es decir, las leyes y políticas sobre un problema, no reemplaza a las teorías que lo explican [^ext-35].
 
 ## Objetivos y tipos de diseño
 
@@ -93,6 +97,8 @@ Una hipótesis es una respuesta tentativa a la pregunta de investigación. Se de
 
 **Tipos** [^ext-17]. Según la relación entre variables, son de asociación o de causalidad. Según su función, son teóricas, de mayor abstracción, o de trabajo, ya situadas en una población, un lugar y un tiempo. El paso de las primeras a las segundas sigue el método hipotético-deductivo de Popper [^ext-17].
 
+Añadido el 26-10-2026. Para Deslandes, siguiendo a Gil (1991), una hipótesis aplicable tiene cuatro rasgos: conceptos claros, especificidad, ningún juicio moral y una teoría que la sostenga [^ext-36]. Los estudios exploratorios pueden prescindir de ella [^ext-36].
+
 ## Unidades de análisis, población y muestra
 
 **La unidad de análisis** es aquello de lo que habla la hipótesis. Las variables son lo que se observa en ella [^ext-18]. Elegirla es una decisión teórica. Según Galtung, es probablemente la primera elección decisiva, y después es difícil volver atrás [^ext-18].
@@ -125,6 +131,7 @@ En la teoría fundamentada el tamaño de la muestra se conoce al final, porque s
 - [[diagnostico-barrial]]: un diagnóstico por encargo de un municipio, que es el caso del tema que nace de una demanda
 - [[estudios-longitudinales]] — el diseño que el manual no trae
 - [[gottfredson-hirschi-teoria-general]] — la jerarquía de diseños, del experimento a la observación
+- [[minayo-investigacion-social]] — el proyecto de investigación, por Deslandes
 
 ---
 
@@ -163,3 +170,7 @@ En la teoría fundamentada el tamaño de la muestra se conoce al final, porque s
 [^inf-1]: **Inferido** (confianza 0.8) — el manual no trata esos diseños. [[evaluacion-de-programas]] los nombra, desde Tudela, pero no los describe como método.
 [^inf-2]: **Inferido** (confianza 0.8) — aplicación propia del ejemplo de la p. 70 a los datos de delito. El manual no habla de delito. [[weisburd-el-lugar-importa]] trabaja con lugares como unidad, y los registros policiales cuentan delitos, no víctimas.
 [^inf-3]: **Inferido** (confianza 0.7) — de esta wiki. Gottfredson y Hirschi no discuten el manual.
+[^ext-33]: **Extraído** — [[minayo-investigacion-social]], Deslandes, cap. 2, p. 23.
+[^ext-34]: **Extraído** — [[minayo-investigacion-social]], Deslandes, cap. 2, p. 18.
+[^ext-35]: **Extraído** — [[minayo-investigacion-social]], Deslandes, cap. 2, p. 26.
+[^ext-36]: **Extraído** — [[minayo-investigacion-social]], Deslandes, cap. 2, pp. 25-26.

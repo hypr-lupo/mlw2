@@ -2,7 +2,7 @@
 title: Plan comunal de seguridad pública
 type: entity
 subtipo: politica
-sources: ["2016 - Ministerio del Interior y Seguridad Pública - Ley 20.965, permite la creación de consejos y planes comunales de seguridad pública.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf"]
+sources: ["2016 - Ministerio del Interior y Seguridad Pública - Ley 20.965, permite la creación de consejos y planes comunales de seguridad pública.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf", "2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf"]
 alias: [PCSP, plan comunal, consejo comunal de seguridad pública]
 vigencia: vigente
 cluster: prevencion
@@ -10,7 +10,7 @@ curso: [s1-1, s1-2]
 procedencia: fuentes
 estado: borrador
 creado: 2026-10-24
-actualizado: 2026-10-24
+actualizado: 2026-10-26
 ---
 
 # Plan comunal de seguridad pública
@@ -71,6 +71,8 @@ Detalle en [[ley-21802-seguridad-municipal]].
 
 **La priorización depende del dato.** La ley pide priorizar por frecuencia o gravedad [^ext-1]. Eso descansa en registros que no son el fenómeno. En Las Condes, la serie de robos cambió de método en 2025 [^ext-17]. Ver [[estadisticas-delictuales]].
 
+**Coherencia con la política nacional.** Añadido el 26-10-2026 al ingerir [[pnsp-2025-2031]]. La política nacional pide planes comunales coherentes con ella, integrados a los consejos comunales [^ext-25]. Pide también direcciones municipales capaces de gestionar sistemas integrados de información y patrullajes municipales focalizados con análisis de datos [^ext-26]. El plan de Las Condes se aprobó cinco meses después de la política. No se ha verificado si la cita [^amb-1].
+
 ## Relacionado
 
 - [[ley-21802-seguridad-municipal]] — la reforma de 2026
@@ -80,6 +82,7 @@ Detalle en [[ley-21802-seguridad-municipal]].
 - [[prevencion-del-delito]] — la función municipal de prevención social y situacional
 - [[coproduccion-de-seguridad]] — lo que el consejo hace y no hace
 - [[estadisticas-delictuales]] — el dato del que depende la priorización
+- [[pnsp-2025-2031]] — la política nacional con la que los planes deben ser coherentes
 
 ---
 
@@ -109,3 +112,6 @@ Detalle en [[ley-21802-seguridad-municipal]].
 [^ext-23]: **Extraído** — [[ley-21802-seguridad-municipal]], art. 64, n.º 6.
 [^ext-24]: **Extraído** — [[guerra-modelo-las-condes]], p. 25.
 [^inf-2]: **Inferido** (confianza 0.8) — contando el año desde el 12-08-2026, fecha de vigencia que da la BCN.
+[^ext-25]: **Extraído** — [[pnsp-2025-2031]], p. 21.
+[^ext-26]: **Extraído** — [[pnsp-2025-2031]], pp. 20-21.
+[^amb-1]: **Ambiguo** — el PDF del plan en el corpus es un escaneo sin capa de texto, y la fase 1 del 24-10-2026 no registró la mención.

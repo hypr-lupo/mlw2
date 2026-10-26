@@ -1,13 +1,13 @@
 ---
 title: Puntos calientes y ley de concentración del delito
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf", "2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-10-24
+actualizado: 2026-10-26
 ---
 
 # Puntos calientes y ley de concentración del delito
@@ -37,6 +37,8 @@ Lo que esto obliga a revisar es el promedio. Un área con unos pocos lugares muy
 - **Menos objetivos.** En Seattle, menos de 1.500 segmentos concentraban la mitad del delito anual, y hacían falta unos 6.000 infractores para acumular la misma mitad: cuatro veces más objetivos si se focaliza en personas [^ext-15].
 - **Objetivos que no se mueven.** Los lugares no se mudan; los infractores sí [^ext-15].
 - **Base de la focalización.** La concentración es la lógica detrás de la policía de puntos calientes y de buena parte de la prevención situacional [^ext-5]. Ver [[policia-de-puntos-calientes]] y [[desplazamiento-y-difusion]].
+
+Añadido el 26-10-2026 al ingerir [[unodc-manual-directrices-prevencion]]. Las Directrices de Naciones Unidas para la prevención del delito piden usar los datos para reducir la victimización repetida, «la persistencia de la delincuencia» y las zonas con altos niveles de delincuencia [^ext-34].
 
 ## Qué explica la concentración
 
@@ -75,6 +77,19 @@ Añadido el 24-10-2026. Las [[actividades-rutinarias]] explican por qué el deli
 - **No está probada en contextos como el chileno.** Los estudios vienen de ciudades de ingresos altos y sin crisis. Los propios autores señalan los países de ingreso bajo y las ciudades en crisis como la línea de investigación pendiente [^ext-22]. Cualquier focalización en una comuna chilena descansa sobre una regularidad que no se ha verificado aquí [^inf-1]. Lo único chileno del corpus es una concentración comunal: el 82 % de las denuncias en 74 comunas urbanas, según el plan nacional de 2014, citado por el CIPC [^ext-24]. Es otra escala, y no dice nada de calles [^inf-2]. Desde el 24-10-2026 hay una segunda escala chilena: en Las Condes, el cuadrante 109 tiene el 15 % de los robos de 2025 con el 11 % de la población [^ext-25]. Los cuadrantes de Carabineros son unidades grandes, y tampoco dicen nada de calles [^inf-3]. El mismo plan afirma que en la comuna no se pueden fijar focos estáticos. Ver [[desplazamiento-y-difusion]].
 - **Depende de la medida y la unidad.** La ley se define para una medida y una unidad dadas. Cambiar el tipo de delito, la fuente de datos o la unidad cambia las cifras [^ext-2].
 - **Los que la usan no siempre la entienden.** En una encuesta a 176 policías estadounidenses, el 57 % consideraba «puntos calientes» a barrios enteros [^ext-23].
+- **Una política que la afirma sin probarla.** Añadido el 26-10-2026 al ingerir [[pnsp-2025-2031]]. La Política Nacional de Seguridad Pública afirma que el delito se concentra en barrios, condominios «e incluso calles» [^ext-33]. No cita evidencia para la escala de calle [^inf-5].
+
+## Escalas, estabilidad y ubicación
+
+Añadido el 26-10-2026 al ingerir [[vozmediano-criminologia-ambiental]], un manual de criminología ambiental de 2010.
+
+**Cuatro escalas.** Eck (2005) define un hot spot como un área que supera el número medio de eventos del marco estudiado [^ext-35]. Distingue cuatro escalas, cada una con su teoría y su intervención: el lugar, la víctima, la calle y el área. La calle es una escala propia, con delitos a lo largo de una calle y casi nada en las vecinas [^ext-36].
+
+**Estabilidad.** Desde los mapas del siglo XIX se sabe que los patrones geográficos del delito son relativamente estables [^ext-37]. Los hot spots se mantienen o se trasladan según su tipo y sus causas, y su estabilidad varía con la hora del día [^ext-38].
+
+**Qué los ubica.** Según los Brantingham, ocho factores ubican los hot spots. Entre ellos están la combinación de usos del suelo, la red de transporte, los flujos de desplazamiento y la distribución de la policía [^ext-39]. Si la policía es uno de los factores, un registro producido por la vigilancia puede reforzar los focos que ya se vigilan [^inf-6]. Ver [[estadisticas-delictuales]].
+
+**Victimización reiterada.** En los hot spots la victimización repetida es mayor, y una parte de lo que parece concentración en un lugar es repetición sobre los mismos objetivos [^ext-40].
 
 ## Cita
 
@@ -94,6 +109,8 @@ Añadido el 24-10-2026. Las [[actividades-rutinarias]] explican por qué el deli
 - [[desorganizacion-social]] — la explicación por el lado del control social
 - [[analisis-espacial-del-delito]] — cómo se identifican y qué riesgos tiene agregar
 - [[diagnostico-barrial]] — un método que agrega por barrio, y lo que eso puede ocultar
+- [[vozmediano-criminologia-ambiental]] — las escalas del hot spot y lo que los ubica
+- [[pnsp-2025-2031]] — una política nacional que afirma la concentración a escala de calle
 
 ---
 
@@ -133,3 +150,13 @@ Añadido el 24-10-2026. Las [[actividades-rutinarias]] explican por qué el deli
 [^ext-31]: **Extraído** — [[clarke-prevencion-situacional]], p. 11.
 [^ext-32]: **Extraído** — [[guerra-modelo-las-condes]], anexo 3, p. 73.
 [^inf-4]: **Inferido** (confianza 0.6) — el documento describe la focalización semanal sin series por zona.
+[^ext-33]: **Extraído** — [[pnsp-2025-2031]], pp. 11 y 19.
+[^ext-34]: **Extraído** — [[unodc-manual-directrices-prevencion]], p. 52, párr. 21 g) de las Directrices.
+[^ext-35]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 96, sobre Eck (2005).
+[^ext-36]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 97, tabla 1.
+[^ext-37]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 85.
+[^ext-38]: **Extraído** — [[vozmediano-criminologia-ambiental]], pp. 101-102, sobre Thompson (2008).
+[^ext-39]: **Extraído** — [[vozmediano-criminologia-ambiental]], pp. 80-81, sobre Brantingham y Brantingham (2008).
+[^ext-40]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 106, sobre Farrell y Sousa (2001).
+[^inf-5]: **Inferido** (confianza 0.8) — la bibliografía de la política no incluye estudios de concentración a microescala.
+[^inf-6]: **Inferido** (confianza 0.6) — combinando la p. 80 del manual con los sesgos del registro de [[estadisticas-delictuales]]. El manual no saca esta consecuencia.

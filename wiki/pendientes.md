@@ -10,10 +10,10 @@ Artefacto operativo para retomar, no registro de lo hecho: la crónica de cada s
 en [[log]]. Se consolidó el 27-09-2026, en la auditoría que cerró la tanda 1; el informe
 está en `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-**Estado al 24-10-2026.** 32 fuentes ingeridas de 135 documentos, cinco de ellas sólo en parte;
-99 pendientes de un universo de 130, según `scripts/estado.py`. 92 páginas: 19 en borrador.
+**Estado al 26-10-2026.** 36 fuentes ingeridas de 136 documentos, siete de ellas sólo en parte;
+95 pendientes de un universo de 130, según `scripts/estado.py`. 97 páginas: 20 en borrador.
 Núcleo ancla de S1.1 completo, **tandas 1, 2 y 3 cerradas** y la 4 abierta el 17-10. El 24-10
-entraron, por delante de la cola, la Ley 20.965 y el plan comunal de Las Condes. Siete de ocho clústeres poblados;
+entraron, por delante de la cola, la Ley 20.965 y el plan comunal de Las Condes, y el 26-10 la tanda S1.2c. Siete de ocho clústeres poblados;
 `caso-de-grado` sigue vacío a propósito. Cobertura de S1.1: 17 de 32 títulos oficiales en
 el corpus, 53 %. Nada bloquea la ingesta.
 
@@ -25,14 +25,15 @@ En este orden:
    Duarte Quapper (2012) · Bourdieu (2002) · Brizuela (2014), y *si alcanza* cuatro obras
    cortas de juventudes. La tanda 4 quedó sin obras pendientes: Clarke y Felson y Eckert
    entraron el 24-10 en la S1.2b. Ver `purpose.md`.
-2. **Decisiones que sólo toma el autor.** Trece, en el grupo A de [[revision]]. La más
+2. **Decisiones que sólo toma el autor.** Dieciséis, en el grupo A de [[revision]]. La más
    antigua es la página `tesis-` sobre el anclaje empírico, abierta desde el 29-08. Fuera
    de la cola, una más: retirar de `raw/sources/` el duplicado exacto de Arias (2017) que
    llegó el 02-10; mientras siga, `scripts/estado.py` lo reporta como anomalía.
-3. **Verificaciones bibliográficas.** Ocho, en el grupo B de [[revision]]. Mientras sigan
+3. **Verificaciones bibliográficas.** Nueve, en el grupo B de [[revision]]. Mientras sigan
    abiertas, esas obras no se citan en trabajos evaluados: Sampson, Adams, las dos guías de
    barrios, Zúñiga Núñez, Gardner, Arias y el tipo penal de femicidio.
-4. **Mantenimiento**, cuando haya tiempo entre tandas. Ver abajo.
+4. **Mantenimiento**, cuando haya tiempo entre tandas. Ver abajo. Incluye crear la página de
+   articulación nacional y local, cuyo criterio se cumplió el 26-10. Ver [[revision]].
 
 ## Fuentes por ingerir
 
@@ -61,12 +62,16 @@ documento por documento lo da `python scripts/estado.py`.
       ~~Ley 21.802~~, ~~Guerra Araya (2024)~~, ~~Clarke (1997)~~, sólo la introducción, y
       ~~Felson y Eckert (2016)~~, caps. 2, 3, 5, 10 y 11. Crearon [[prevencion-situacional]],
       [[actividades-rutinarias]], [[direccion-de-seguridad-publica-las-condes]] y [[barrio-protegido]]
+- [x] **Tanda S1.2c, el 26-10**, por delante de la 4a y por decisión del autor:
+      ~~Decreto 96 (PNSP)~~, ~~UNODC (2011)~~, sólo las pp. 9-29 y 51-60, ~~Minayo, Deslandes y
+      Gomes (2023)~~ y ~~Vozmediano y San Juan (2010)~~, sólo los caps. III y IV, que salió de la
+      cuarentena. Crearon [[analisis-de-contenido]]
 - [ ] **Tanda 4a, antes del 24-10 o del 07-11:** Duarte Quapper (2012) · Bourdieu (2002) ·
       Brizuela (2014). Lecturas obligatorias de S2.4
 - [ ] **Tanda 4, antes del 06-11 (era el 23-10):** ~~Gottfredson y Hirschi (1990)~~, ingerida
       el 17-10, · ~~Clarke (1997) · Felson y Eckert (2016)~~, pasaron a la S1.2b. Gottfredson y Hirschi resolvió el
       control social informal, que pasó a ser [[control-social-informal]]
-- [ ] **Tanda 5, antes del 06-11:** Decreto 96 (PNSP) · ~~Ley 21.802 · Guerra Araya (2024)~~, pasaron a la S1.2b ·
+- [ ] **Tanda 5, antes del 06-11:** ~~Decreto 96 (PNSP)~~, pasó a la S1.2c · ~~Ley 21.802 · Guerra Araya (2024)~~, pasaron a la S1.2b ·
       SPD (2022) · Gobierno de Santiago (s.f.) · Campana y Meneghini (2024) · Bergman (2023) ·
       *si alcanza:* Schroeder y Coello-Torres (2019)
 - [ ] **Tanda 6, antes del 27-11:** Garland (Gedisa) · Wacquant · Luneke y Trebilcock
@@ -79,25 +84,25 @@ Después de la tanda 6 vuelve el orden por cúmulos. Pendientes por cúmulo, seg
 | Cúmulo | Pendientes | Nota |
 |---|---:|---|
 | Bibliografía S1.1, consulta y complementaria | 9 | García-Pablos espera a estar completo |
-| Integrados desde el programa del curso | 2 | Contiene las P1 de S1.2 |
+| Integrados desde el programa del curso | 1 | SPD (2022). Minayo y otros (2023) entró el 26-10 |
 | Medición e inseguridad | 4 | Contiene P1 de S1.2; ahí está lo que podría dirimir la contradicción de Adams |
 | Sistema penal y Estado de derecho | 6 | Contiene P1 de S1.3 |
 | Gobernanza criminal y territorio | 4 | |
-| Institucionalidad y política de prevención en Chile | 5 | Tres normas de la tanda 5, Luneke y Trebilcock (2023) y el comunicado de la ACOT |
-| Explicación del delito | 3 | Contiene P1 de S1.3, y Gottfredson y Hirschi |
-| Prevención e intervención | 3 | Contiene UNODC (2011), P1 de S1.2, y Clarke (1997) |
+| Institucionalidad y política de prevención en Chile | 3 | La Ley 21.730, Luneke y Trebilcock (2023) y el comunicado de la ACOT |
+| Explicación del delito | 1 | Pavarini (2002), P1 de S1.3. Vozmediano y San Juan (2010) entró el 26-10 |
+| Prevención e intervención | 2 | UNODC (2011), P1 de S1.2, entró el 26-10 |
 | Vínculo Estado-crimen | 18 | Reserva del electivo S3.E4 |
 | Amenaza y securitización | 24 | Reserva del electivo S3.E4 |
-| Ingreso sin clasificar | 10 | En cuarentena sin plazo |
+| Ingreso sin clasificar | 9 | En cuarentena sin plazo. Vozmediano y San Juan (2010) salió el 26-10 |
 
 Queda en manos del autor, sin bloquear nada: **conseguir el resto de la bibliografía de
 consulta de S1.1**, García-Pablos completo incluido.
 
 ## Cola de revisión
 
-**36 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
+**41 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
 
-- **A. Decisión del autor (13):**
+- **A. Decisión del autor (16):**
   - tesis del anclaje empírico;
   - página de Vanderschueren;
   - alcance de Zúñiga Núñez;
@@ -110,9 +115,10 @@ consulta de S1.1**, García-Pablos completo incluido.
   - si se ingiere el resto de Srur (2014);
   - si se ingiere el resto de Tudela (ed.) (2010);
   - si se ingiere el resto de Baratta (2004);
-  - si el Plan Cuadrante tiene página propia o es sección de una página de Carabineros.
-- **B. Verificación bibliográfica (8):** los años de Sampson, Adams y la guía de 2010; el
-  borrador de 2020; Zúñiga Núñez; Gardner; el año y los ISBN de Arias; el femicidio.
+  - si el Plan Cuadrante tiene página propia o es sección de una página de Carabineros;
+  - si se ingiere el resto de Vozmediano y San Juan (2010).
+- **B. Verificación bibliográfica (9):** los años de Sampson, Adams y la guía de 2010; el
+  borrador de 2020; Zúñiga Núñez; Gardner; el año y los ISBN de Arias; el femicidio; la guía de UNODC (2010).
 - **C. Una obra del corpus (10):** se destraban con las tandas 2 a 6 y, uno de ellos,
   después.
 - **D. Una fuente que no está en el corpus o no se ha identificado (5):**
@@ -124,7 +130,7 @@ consulta de S1.1**, García-Pablos completo incluido.
 
 ## Páginas borrador
 
-Dieciocho. Casi todas por la misma razón: registran una sola posición, o la registran de
+Diecinueve. Casi todas por la misma razón: registran una sola posición, o la registran de
 segunda mano.
 
 | Página | Qué le falta | Dónde puede estar |
@@ -147,6 +153,7 @@ segunda mano.
 | [[buenas-practicas]] | Una fuente que discuta el concepto desde fuera, no que lo use para elegir casos | Nada identificado |
 | [[anomia]] | Durkheim y Merton de primera mano | No están en el corpus. Lamnek, pedido por S1.1, tampoco. Los caps. V y VI de Baratta, sin ingerir, traen las subculturas |
 | [[etiquetamiento]] | Becker, Lemert y Sack de primera mano | No están en el corpus. Lamnek, pedido por S1.1, tampoco |
+| [[analisis-de-contenido]] | Una segunda fuente, y el análisis temático fuera de la salud colectiva | Nada identificado en el corpus |
 
 ## Contradicciones sin resolver
 
@@ -163,7 +170,7 @@ segunda mano.
 
 ## Tensiones registradas
 
-Cuarenta y cinco, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
+Cincuenta, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
 resuelven. Dos podrían moverse con fuentes que ya tienen tanda:
 
 - **El estatus del control en la prevención** (tensión 3). Clarke entró el 24-10: separa las
@@ -197,6 +204,15 @@ Salió de la auditoría del 27-09-2026. No bloquea nada.
 
 ## Vacíos de corpus conocidos
 
+- [ ] **Diseño de investigación aplicada de S1.2.** Obras que el diseño cita o necesita y el
+      corpus no tiene, identificadas el 26-10-2026. Teoría y evidencia: Cohen y Felson (1979),
+      Weisburd (2015), Weisburd, Bushway, Lum y Yang (2004), Felson y Clarke (1998), Guerette y
+      Bowers (2009), Chainey y otros (2019) y una revisión reciente sobre cámaras, como Piza y
+      otros (2019). Método: Baron y Kenny (1986), Bernasco y Steenbeek (2017), Ratcliffe (2004)
+      sobre la tasa de geocodificación, y Creswell y Plano Clark (2018) para el diseño secuencial
+      explicativo. Normas y datos: la Ley 18.695 refundida, la Ley 19.628 y la Ley 21.719, la serie
+      comunal del CEAD 2020-2025 y una fuente sobre Barrio Protegido que no sea la Dirección de
+      Seguridad. Más Clarke (1997) completo, con los casos
 - [ ] **Módulo 5 de S1.1**, sobre teoría de la tensión y delitos de cuello blanco: ninguna
       fuente primaria. Faltan Merton, los dos Sutherland y Lamnek. Baratta (2004) lo
       cubre de segunda mano desde el 16-10: Merton en [[anomia]], y el cuello blanco en

@@ -9,7 +9,7 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 92 páginas · 32 fuentes ingeridas de 135 · Ley 20.965 y plan comunal de Las
+**Estado:** 97 páginas · 36 fuentes ingeridas de 136 · tanda S1.2c ingerida el 26-10-2026: Decreto 96 (PNSP), UNODC (2011), Minayo y otros (2023) y Vozmediano y San Juan (2010), que salió de la cuarentena · Ley 20.965 y plan comunal de Las
 Condes ingeridos el 24-10-2026 por delante de la cola · tanda S1.2b ingerida el mismo día:
 Ley 21.802, Guerra Araya (2024), Clarke (1997) y Felson y Eckert (2016) · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
@@ -18,7 +18,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 ## Conceptos
 
 - [[actividades-rutinarias]] — infractor, blanco y ausencia de guardián; el triángulo de Eck,
-  la supervisión local y la crítica a la cohesión social. Borrador (2 fuentes)
+  la supervisión local y la crítica a la cohesión social. Borrador (3 fuentes)
 - [[anomia]] — Durkheim y Merton: la desviación es normal; fines culturales y medios
   legítimos, cinco modos de adaptación, el cuello blanco, y la crítica de que legitima la
   imagen del delito como cosa de pobres; y una segunda exposición; y la crítica de Gottfredson y Hirschi. Merton, de segunda mano.
@@ -67,7 +67,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[desplazamiento-y-difusion]] — si la prevención focalizada sólo mueve el delito;
   la evidencia dice que la difusión es más probable, y el portonazo muestra el
   desplazamiento que no se mide, como los de mercancía y de organización; y una razón
-  teórica en contra (6 fuentes)
+  teórica en contra (9 fuentes)
 - [[eficacia-colectiva]] — cohesión más expectativas compartidas de intervenir:
   el mecanismo que media entre desventaja concentrada y violencia; en América Latina,
   condicionada a la policía; y una medida oficial con otra definición (7 fuentes)
@@ -121,19 +121,19 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   a la vez; y el Plan Cuadrante, ¿el más exitoso o un fracaso? (8 fuentes)
 - [[policia-de-puntos-calientes]] — la estrategia policial mejor evaluada: la curva de
   Koper, los metaanálisis y el costo en legitimidad; una segunda fuente que repite a la
-  primera (2 fuentes)
+  primera (4 fuentes)
 - [[prevencion-del-delito]] — dos concepciones, tres clasificaciones que no calzan,
   factores de riesgo como base o límite, y una crítica etnográfica; por qué el éxito de
   la prevención no se ve; Romagnosi, y lo que el etiquetamiento niega; trayectorias en vez
   de cadenas causales; los factores de riesgo como manifestaciones, y la familia como
-  política (6 fuentes)
+  política (9 fuentes)
 - [[prevencion-situacional]] — Clarke: reducir oportunidades para delitos específicos; dieciséis
-  técnicas, las cámaras como vigilancia formal y sus límites. Borrador (4 fuentes)
+  técnicas, las cámaras como vigilancia formal y sus límites. Borrador (6 fuentes)
 - [[propension-al-delito]] — el lado persona: moral legalmente relevante más
   capacidad de autocontrol, y la aversión al delito; y frente a la teoría general:
   ¿autocontrol o moral? (2 fuentes)
 - [[puntos-calientes]] — la ley de concentración del delito en microlugares; no son
-  barrios malos, y la TAS los explica de otro modo; en Chile, sólo una cifra comunal (3 fuentes)
+  barrios malos, y la TAS los explica de otro modo; en Chile, sólo una cifra comunal (10 fuentes)
 - [[regimenes-armados-microescala]] — consolidación armada y vínculo con el Estado:
   cuatro regímenes de barrio, ninguno necesariamente más seguro, y una política para cada
   uno; y Santa Tecla, un caso compatible. Borrador (3 fuentes)
@@ -173,17 +173,19 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   egreso y cuerpo docente; y el libro que se gestó en él (2 fuentes)
 - [[plan-comunal-de-seguridad-publica]] — el instrumento municipal que crea la Ley 20.965:
   contenido, consejo comunal, datos policiales y su reforma de 2026; y Las Condes como
-  caso. Primera política de la wiki. Borrador (2 fuentes)
+  caso. Primera política de la wiki. Borrador (5 fuentes)
 
 ## Métodos
 
 - [[analisis-criminal]] — el oficio del analista: siete tipos, un ciclo de ocho pasos y
   el paso de gestionar información a gestionar conocimiento; y su elección teórica por la
   oportunidad; y los observatorios que rara vez llegan a analizar (3 fuentes)
+- [[analisis-de-contenido]] — el análisis temático según Gomes: unidades de registro y
+  de contexto, categorías, inferencia y tres pasos; pariente de la teoría fundamentada (1 fuente)
 - [[analisis-espacial-del-delito]] — autocorrelación, falacia ecológica, unidad
   modificable y efecto de borde; sitio y situación; técnicas de predicción; y contar
   delitos no es contar víctimas; y los datos de lugar y hora que faltan en la región
-  (4 fuentes)
+  (5 fuentes)
 - [[diagnostico-barrial]] — muestreo por tipología en vez de censo de barrios, y la
   exigencia de comparabilidad en el tiempo; el riesgo de promediar por barrio; y un
   diagnóstico participativo en el barrio vulnerado y de expertos en el crítico; una
@@ -192,14 +194,14 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   problema, marcos, objetivos, cinco diseños por objetivo, hipótesis, unidades de
   análisis y muestra; lo que un manual de pregrado no trae: experimentos y cohortes; y
   otra lógica, la del proceso circular; prevalencia e incidencia; y la jerarquía de diseños,
-  del experimento a la observación (5 fuentes)
+  del experimento a la observación (6 fuentes)
 - [[enfoques-cuantitativo-y-cualitativo]] — tres paradigmas, explicar o comprender,
   complementación, combinación y triangulación, y seis técnicas con sus límites; el
   muestreo teórico y otro sentido de triangulación; un caso de combinación; la metodología
-  mixta en el curso de vida (4 fuentes)
+  mixta en el curso de vida (5 fuentes)
 - [[estadisticas-delictuales]] — cómo contar e interpretar delitos desde los registros
   policiales: tres fuentes y sus sesgos, dos fechas, reglas de conteo, tasas por blanco,
-  y por qué los registros no son una muestra; y lo que el registro selecciona (4 fuentes)
+  y por qué los registros no son una muestra; y lo que el registro selecciona (9 fuentes)
 - [[estudios-longitudinales]] — prospectivo y retrospectivo; la cohorte y el problema de
   separar edad, período y cohorte; cinco estudios, de Oakland a PADS+; qué permiten ver, y
   por qué en Chile no hay; y una crítica desde la teoría del control (5 fuentes)
@@ -207,7 +209,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; el
   mismo diagnóstico desde la violencia en el noviazgo; dos sentidos de «por qué»; y la
   tensión leída como complementación de métodos; y las instituciones del dato, que
-  tampoco se evalúan; y la buena práctica como cuarta idea de evidencia (8 fuentes)
+  tampoco se evalúan; y la buena práctica como cuarta idea de evidencia (9 fuentes)
 - [[medicion-de-la-victimizacion]] — qué mide una encuesta de victimización y para qué:
   cifra oscura, prevalencia e incidencia, percepción en tres aspectos; la ENUSC y su
   rediseño de 2023; el instrumento mueve la cifra; lo que la encuesta oficial no mide; y
@@ -221,7 +223,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   (8 fuentes)
 - [[teoria-fundamentada]] — teoría desde los datos: proceso circular, muestreo teórico y
   saturación, codificación abierta, axial y selectiva, triangulación según Cisterna; y si
-  se empieza por la teoría o por los datos (2 fuentes)
+  se empieza por la teoría o por los datos (3 fuentes)
 
 ## Fuentes
 
@@ -278,9 +280,14 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   intrafamiliar; no toca el femicidio. Fuera del orden por calendario
 - [[ley-21802-seguridad-municipal]] — Ley 21.802, 2026. Inspectores de seguridad municipal,
   televigilancia, plataforma de datos y reforma del plan comunal. Tanda S1.2b
+- [[minayo-investigacion-social]] — Minayo, Deslandes y Gomes, 2023. Manual de investigación
+  cualitativa: proyecto, trabajo de campo y análisis. P2 de S1.2. Tanda S1.2c
 - [[onu-habitat-guia-barrios]] — ONU-Hábitat y Guadalajara, 2020. Consulta de S1.1 y
   la obra que operacionaliza su trabajo evaluado. Coescrita por el docente del ramo.
   Reedita, sin citarla, la guía de hacia 2010
+- [[pnsp-2025-2031]] — Decreto 96, 2026. Política Nacional de Seguridad Pública 2025-2031:
+  focalización, patrullajes con análisis de datos y planes comunales coherentes. `vigencia:
+  vigente`. Tanda S1.2c
 - [[programa-magister-uah]] — Universidad Alberto Hurtado, 2026. Folleto
   institucional del programa
 - [[sampson-vecindario-y-comunidad]] — Sampson, 2006. Obligatoria de S1.1,
@@ -294,6 +301,9 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[tudela-ed-analisis-delictual]] — Tudela (ed.), 2010. Libro de la Fundación Paz
   Ciudadana y la IACA. Ingesta parcial: sólo el capítulo de Boba sobre estadísticas y datos
   delictuales, de 2004 y sobre Estados Unidos. Bibliografía de S1.2. Quinta de la tanda 2
+- [[unodc-manual-directrices-prevencion]] — UNODC, 2011, pp. 9-29 y 51-60. Las Directrices de
+  Naciones Unidas: cuatro enfoques y prevención basada en el conocimiento. Obligatoria de S1.2,
+  clase 1. Tanda S1.2c
 - [[valdivia-violencia-en-el-noviazgo]] — Valdivia-Peralta y otros, 2019. Obligatoria
   de la clase 4 de S1.2. Revisión narrativa de prevalencias, no investigación primaria;
   la cifra de su resumen viene de muestras de universitarios. Cuarta de la tanda 1
@@ -307,6 +317,8 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[vives-varela-teoria-fundamentada]] — Vives Varela y Hamui Sutton, 2021. Artículo de
   revisión de una revista de educación médica de la UNAM. Bibliografía de S1.2. Segunda de
   la tanda 2
+- [[vozmediano-criminologia-ambiental]] — Vozmediano y San Juan, 2010, caps. III y IV. Teorías de
+  la oportunidad, mapas del delito y hot spots. Salió de la cuarentena el 26-10-2026. Tanda S1.2c
 - [[weisburd-el-lugar-importa]] — Weisburd y otros, 2016. No es bibliografía oficial;
   sostiene el módulo 3 de S1.1 por contenido. Primera de la tanda 1
 - [[wikstrom-por-que-se-delinque]] — Wikström, 2017. Obligatoria de S1.1,
