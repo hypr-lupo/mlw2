@@ -15,7 +15,7 @@ procedencia: fuentes
 estado: revisado
 truncado: true
 creado: 2026-10-24
-actualizado: 2026-10-24
+actualizado: 2026-10-26
 ---
 
 # Prevención situacional del delito, casos de éxito (Clarke), introducción
@@ -84,6 +84,7 @@ La mayoría de las evaluaciones son cuasi experimentos con series de tiempo o un
 - [[gottfredson-hirschi-teoria-general]] — Clarke los cita para separar el delito del delincuente, pero pone la explicación en el escenario y no en el rasgo [^inf-1]
 - [[wikstrom-por-que-se-delinque]] — para Wikström la propensión decide quién ve el delito como alternativa. Clarke dice que todos pueden delinquir según la situación [^inf-2]
 - [[ley-21802-seguridad-municipal]] — faculta a los municipios para la prevención situacional por televigilancia
+- [[felson-clarke-la-oportunidad-hace-al-ladron]] — Clarke con Felson: las teorías de la oportunidad y las dieciséis técnicas
 
 ## Encuadre curricular
 

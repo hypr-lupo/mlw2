@@ -10,10 +10,10 @@ Artefacto operativo para retomar, no registro de lo hecho: la crónica de cada s
 en [[log]]. Se consolidó el 27-09-2026, en la auditoría que cerró la tanda 1; el informe
 está en `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-**Estado al 26-10-2026.** 36 fuentes ingeridas de 136 documentos, siete de ellas sólo en parte;
-95 pendientes de un universo de 130, según `scripts/estado.py`. 97 páginas: 20 en borrador.
+**Estado al 26-10-2026.** 44 fuentes ingeridas de 145 documentos, siete de ellas sólo en parte;
+96 pendientes de un universo de 139, según `scripts/estado.py`. 105 páginas: 20 en borrador.
 Núcleo ancla de S1.1 completo, **tandas 1, 2 y 3 cerradas** y la 4 abierta el 17-10. El 24-10
-entraron, por delante de la cola, la Ley 20.965 y el plan comunal de Las Condes, y el 26-10 la tanda S1.2c. Siete de ocho clústeres poblados;
+entraron, por delante de la cola, la Ley 20.965 y el plan comunal de Las Condes, y el 26-10 las tandas S1.2c y S1.2d. Siete de ocho clústeres poblados;
 `caso-de-grado` sigue vacío a propósito. Cobertura de S1.1: 17 de 32 títulos oficiales en
 el corpus, 53 %. Nada bloquea la ingesta.
 
@@ -27,8 +27,9 @@ En este orden:
    entraron el 24-10 en la S1.2b. Ver `purpose.md`.
 2. **Decisiones que sólo toma el autor.** Dieciséis, en el grupo A de [[revision]]. La más
    antigua es la página `tesis-` sobre el anclaje empírico, abierta desde el 29-08. Fuera
-   de la cola, una más: retirar de `raw/sources/` el duplicado exacto de Arias (2017) que
-   llegó el 02-10; mientras siga, `scripts/estado.py` lo reporta como anomalía.
+   de la cola, dos más: retirar de `raw/sources/` el duplicado exacto de Arias (2017), que
+   llegó el 02-10, y `annas-arch-cb4897d86908.pdf`, otra copia de Weisburd y otros (2016), que
+   llegó el 26-10. Mientras sigan, `scripts/estado.py` los reporta como anomalía.
 3. **Verificaciones bibliográficas.** Nueve, en el grupo B de [[revision]]. Mientras sigan
    abiertas, esas obras no se citan en trabajos evaluados: Sampson, Adams, las dos guías de
    barrios, Zúñiga Núñez, Gardner, Arias y el tipo penal de femicidio.
@@ -66,6 +67,10 @@ documento por documento lo da `python scripts/estado.py`.
       ~~Decreto 96 (PNSP)~~, ~~UNODC (2011)~~, sólo las pp. 9-29 y 51-60, ~~Minayo, Deslandes y
       Gomes (2023)~~ y ~~Vozmediano y San Juan (2010)~~, sólo los caps. III y IV, que salió de la
       cuarentena. Crearon [[analisis-de-contenido]]
+- [x] **Tanda S1.2d, el 26-10**, por delante de la 4a y por decisión del autor: ocho artículos
+      que cita el diseño de S1.2. ~~Cohen y Felson (1979)~~, ~~Felson y Clarke (1998)~~, ~~Weisburd
+      y otros (2004)~~, ~~Weisburd (2015)~~, ~~Guerette y Bowers (2009)~~, ~~Ratcliffe (2004)~~,
+      ~~Bernasco y Steenbeek (2017)~~ y ~~Chainey y otros (2019)~~. No crearon páginas de concepto
 - [ ] **Tanda 4a, antes del 24-10 o del 07-11:** Duarte Quapper (2012) · Bourdieu (2002) ·
       Brizuela (2014). Lecturas obligatorias de S2.4
 - [ ] **Tanda 4, antes del 06-11 (era el 23-10):** ~~Gottfredson y Hirschi (1990)~~, ingerida
@@ -137,7 +142,7 @@ segunda mano.
 |---|---|---|
 | [[ventanas-rotas]] | La voz de quien la defiende | Clarke (1997) la clasifica como técnica, sin defenderla; Wilson y Kelling no están en el corpus |
 | [[prevencion-situacional]] | Evidencia sobre cámaras posterior a 1997 | Fuera del corpus |
-| [[actividades-rutinarias]] | Cohen y Felson (1979), la formulación original | Fuera del corpus |
+| [[actividades-rutinarias]] | ~~Cohen y Felson (1979), la formulación original~~ | Entró el 26-10 en la S1.2d |
 | [[barrio-protegido]] | Una fuente que no sea la propia Dirección | Fuera del corpus |
 | [[direccion-de-seguridad-publica-las-condes]] | Una fuente externa a la Dirección | Fuera del corpus |
 | [[policia-comunitaria]] | Una evaluación de un caso exitoso | Nada identificado |
@@ -170,7 +175,7 @@ segunda mano.
 
 ## Tensiones registradas
 
-Cincuenta, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
+Cincuenta y tres, numeradas y resumidas en [[overview]]. No son tareas: se registran, no se
 resuelven. Dos podrían moverse con fuentes que ya tienen tanda:
 
 - **El estatus del control en la prevención** (tensión 3). Clarke entró el 24-10: separa las
@@ -205,14 +210,17 @@ Salió de la auditoría del 27-09-2026. No bloquea nada.
 ## Vacíos de corpus conocidos
 
 - [ ] **Diseño de investigación aplicada de S1.2.** Obras que el diseño cita o necesita y el
-      corpus no tiene, identificadas el 26-10-2026. Teoría y evidencia: Cohen y Felson (1979),
-      Weisburd (2015), Weisburd, Bushway, Lum y Yang (2004), Felson y Clarke (1998), Guerette y
-      Bowers (2009), Chainey y otros (2019) y una revisión reciente sobre cámaras, como Piza y
-      otros (2019). Método: Baron y Kenny (1986), Bernasco y Steenbeek (2017), Ratcliffe (2004)
-      sobre la tasa de geocodificación, y Creswell y Plano Clark (2018) para el diseño secuencial
-      explicativo. Normas y datos: la Ley 18.695 refundida, la Ley 19.628 y la Ley 21.719, la serie
-      comunal del CEAD 2020-2025 y una fuente sobre Barrio Protegido que no sea la Dirección de
-      Seguridad. Más Clarke (1997) completo, con los casos
+      corpus no tiene, identificadas el 26-10-2026. Teoría y evidencia: ~~Cohen y Felson (1979)~~,
+      ~~Weisburd (2015)~~, ~~Weisburd, Bushway, Lum y Yang (2004)~~, ~~Felson y Clarke (1998)~~,
+      ~~Guerette y Bowers (2009)~~ y ~~Chainey y otros (2019)~~, que entraron el mismo día en la
+      S1.2d, y una revisión reciente sobre cámaras, como Piza y otros (2019). Método: Baron y
+      Kenny (1986), que el autor no pudo ubicar, ~~Bernasco y Steenbeek (2017)~~, ~~Ratcliffe
+      (2004)~~ y Creswell y Plano Clark (2018) para el diseño secuencial explicativo. Normas y
+      datos: la Ley 18.695 refundida, la Ley 19.628 y la Ley 21.719, la serie comunal del CEAD
+      2020-2025 y una fuente sobre Barrio Protegido que no sea la Dirección de Seguridad. Más
+      Clarke (1997) completo, con los casos. Dos candidatas nuevas, citadas por Chainey y otros,
+      sobre la estabilidad de los focos en América Latina: Jaitman y Ajzenman (2016) y Chainey y
+      Monteiro (2019)
 - [ ] **Módulo 5 de S1.1**, sobre teoría de la tensión y delitos de cuello blanco: ninguna
       fuente primaria. Faltan Merton, los dos Sutherland y Lamnek. Baratta (2004) lo
       cubre de segunda mano desde el 16-10: Merton en [[anomia]], y el cuello blanco en

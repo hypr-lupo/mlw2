@@ -15,7 +15,7 @@ procedencia: fuentes
 estado: revisado
 truncado: true
 creado: 2026-10-24
-actualizado: 2026-10-24
+actualizado: 2026-10-26
 ---
 
 # El delito y la vida cotidiana (Felson y Eckert), caps. 2, 3, 5, 10 y 11
@@ -87,6 +87,8 @@ El cap. 10 presenta la obra de Clarke. Tres métodos: hacer el delito más difí
 - [[gottfredson-hirschi-teoria-general]] — los autores aceptan la correlación del autocontrol con el delito, pero sostienen que el autocontrol varía de una situación a otra [^ext-28]. La tensión es entre el rasgo y la situación [^inf-2]
 - [[sampson-vecindario-y-comunidad]] — para Felson y Eckert, la cohesión sin presencia no protege [^inf-3]
 - [[wikstrom-por-que-se-delinque]] — Wikström pone en interacción propensión y escenario. Felson y Eckert ponen el peso en el escenario [^inf-4]
+- [[cohen-felson-actividades-rutinarias]] — la formulación original de 1979
+- [[felson-clarke-la-oportunidad-hace-al-ladron]] — Felson con Clarke: los diez principios
 
 ## Encuadre curricular
 

@@ -73,9 +73,9 @@ Una parte pequeña de las víctimas sufre una parte grande de los delitos. En la
 
 **Es un manual de 2010.** Es anterior a la ley de concentración de Weisburd (2015) [^inf-1].
 
-**Todo es de segunda mano.** Expone teorías de otros. Para citar a Felson y Clarke (1998), a los Brantingham o a Eck (2005), hay que ir a la obra original [^inf-2].
+**Todo es de segunda mano.** Expone teorías de otros. Para citar a Felson y Clarke (1998), a los Brantingham o a Eck (2005), hay que ir a la obra original [^inf-2]. Desde el 26-10-2026 están en el corpus Felson y Clarke (1998) y Cohen y Felson (1979). Los dos coinciden con el resumen del manual [^inf-4].
 
-**Dos Ratcliffe de 2004.** El libro cita «The hotspot matrix», sobre mapas de densidad [^ext-26]. No es el Ratcliffe (2004) sobre la tasa mínima de geocodificación [^amb-1].
+**Dos Ratcliffe de 2004.** El libro cita «The hotspot matrix», sobre mapas de densidad [^ext-26]. No es el Ratcliffe (2004) sobre la tasa mínima de geocodificación [^amb-1]. Desde el 26-10-2026, ese segundo trabajo está en el corpus: [[ratcliffe-tasa-de-geocodificacion]].
 
 **Lo no leído.** El cap. VIII, sobre prevención situacional y desplazamiento, y el IX, sobre CPTED, quedan fuera [^amb-2].
 
@@ -93,6 +93,9 @@ Una parte pequeña de las víctimas sufre una parte grande de los delitos. En la
 - [[clarke-prevencion-situacional]] — la elección racional y la prevención situacional por su autor
 - [[weisburd-el-lugar-importa]] — la concentración a escala de segmento, desarrollada después de este libro
 - [[wikstrom-por-que-se-delinque]] — la crítica a explicar el delito sólo por el escenario
+- [[felson-clarke-la-oportunidad-hace-al-ladron]] — los diez principios en el original
+- [[cohen-felson-actividades-rutinarias]] — las actividades rutinarias en el original
+- [[ratcliffe-tasa-de-geocodificacion]] — el otro Ratcliffe de 2004
 
 ## Encuadre curricular
 
@@ -133,3 +136,4 @@ Estaba en la cuarentena de `INVENTARIO.md`. `purpose.md` la nombraba como candid
 [^inf-3]: **Inferido** (confianza 0.8) — combinando las pp. 69-80 con [[felson-eckert-delito-y-vida-cotidiana]].
 [^amb-1]: **Ambiguo** — el diseño de S1.2 cita a Ratcliffe (2004) por una tasa de 85 % de acierto en la geocodificación. Esa obra no está en el corpus. Antes de citarla, verificar cuál de los dos trabajos de 2004 trae la cifra.
 [^amb-2]: **Ambiguo** — los capítulos no leídos pueden matizar lo que aquí se resume, en especial sobre desplazamiento.
+[^inf-4]: **Inferido** (confianza 0.85) — contraste de las pp. 58-60 y 69-72 con [[felson-clarke-la-oportunidad-hace-al-ladron]], pp. v-vi y 9, y con [[cohen-felson-actividades-rutinarias]], pp. 589-591.

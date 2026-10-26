@@ -219,6 +219,54 @@
       "bytes": 2324221,
       "ingerido": "2026-10-26",
       "ficha": "wiki/sources/vozmediano-criminologia-ambiental.md"
+    },
+    "1979 - Cohen y Felson - Cambio social y tendencias del delito, un enfoque de las actividades rutinarias.pdf": {
+      "sha256": "62d1d0bc454586b34cca75af889f9a21d202b9191cb766c818211b0bce5fae40",
+      "bytes": 3506832,
+      "ingerido": "2026-10-26",
+      "ficha": "wiki/sources/cohen-felson-actividades-rutinarias.md"
+    },
+    "1998 - Felson y Clarke - La oportunidad hace al ladrón, teoría práctica para la prevención del delito.pdf": {
+      "sha256": "7531b127bb9aa9b5f440f04eb1c4db814c2c2576a03901f882c7775d1e74a992",
+      "bytes": 425666,
+      "ingerido": "2026-10-26",
+      "ficha": "wiki/sources/felson-clarke-la-oportunidad-hace-al-ladron.md"
+    },
+    "2004 - Ratcliffe - Geocodificación del delito y una primera estimación de la tasa mínima aceptable de acierto.pdf": {
+      "sha256": "afec02bbfe50d98ffca9920d3e563877acc4f6075dda7972c214005331808182",
+      "bytes": 117643,
+      "ingerido": "2026-10-26",
+      "ficha": "wiki/sources/ratcliffe-tasa-de-geocodificacion.md"
+    },
+    "2004 - Weisburd, Bushway, Lum y Yang - Trayectorias del delito en los lugares, un estudio longitudinal de segmentos de calle en Seattle.pdf": {
+      "sha256": "32dca4e9d9d1040cd7588c4b7e0271e9827ea1dbefa3a17e45c9dcc1ba276f44",
+      "bytes": 2420210,
+      "ingerido": "2026-10-26",
+      "ficha": "wiki/sources/weisburd-trayectorias-seattle.md"
+    },
+    "2009 - Guerette y Bowers - El alcance del desplazamiento del delito y de la difusión de beneficios, una revisión de evaluaciones de prevención situacional.pdf": {
+      "sha256": "79e0752c66dd9a712aa7e08fcc4f38852457dd7182d38d946f22b09527afb1f2",
+      "bytes": 418286,
+      "ingerido": "2026-10-26",
+      "ficha": "wiki/sources/guerette-bowers-desplazamiento-y-difusion.md"
+    },
+    "2015 - Weisburd - La ley de concentración del delito y la criminología del lugar.pdf": {
+      "sha256": "7a6ce2bed82291d2462b416e4058ecf05e054aa3348b7660dc5ccf211a396b33",
+      "bytes": 512021,
+      "ingerido": "2026-10-26",
+      "ficha": "wiki/sources/weisburd-ley-de-concentracion.md"
+    },
+    "2017 - Bernasco y Steenbeek - Más lugares que delitos, implicancias para evaluar la ley de concentración del delito en el lugar.pdf": {
+      "sha256": "7ed5865c96341f7e756984ed1e2e8212753ca1d3667116c23c8b2b3963e19294",
+      "bytes": 891152,
+      "ingerido": "2026-10-26",
+      "ficha": "wiki/sources/bernasco-steenbeek-mas-lugares-que-delitos.md"
+    },
+    "2019 - Chainey y otros - Concentración del delito en microlugares en América Latina.pdf": {
+      "sha256": "92d70a064f23bfdc1e827845060915a4470dad83a3d34e3a176823cc1d38a600",
+      "bytes": 790043,
+      "ingerido": "2026-10-26",
+      "ficha": "wiki/sources/chainey-concentracion-america-latina.md"
     }
   }
 }

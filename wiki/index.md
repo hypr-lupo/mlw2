@@ -9,7 +9,7 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 97 páginas · 36 fuentes ingeridas de 136 · tanda S1.2c ingerida el 26-10-2026: Decreto 96 (PNSP), UNODC (2011), Minayo y otros (2023) y Vozmediano y San Juan (2010), que salió de la cuarentena · Ley 20.965 y plan comunal de Las
+**Estado:** 105 páginas · 44 fuentes ingeridas de 145 · tanda S1.2d ingerida el 26-10-2026: ocho artículos que cita el diseño de S1.2, entre ellos Cohen y Felson (1979), Weisburd (2015) y Guerette y Bowers (2009) · tanda S1.2c ingerida el mismo día: Decreto 96 (PNSP), UNODC (2011), Minayo y otros (2023) y Vozmediano y San Juan (2010), que salió de la cuarentena · Ley 20.965 y plan comunal de Las
 Condes ingeridos el 24-10-2026 por delante de la cola · tanda S1.2b ingerida el mismo día:
 Ley 21.802, Guerra Araya (2024), Clarke (1997) y Felson y Eckert (2016) · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
@@ -18,7 +18,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 ## Conceptos
 
 - [[actividades-rutinarias]] — infractor, blanco y ausencia de guardián; el triángulo de Eck,
-  la supervisión local y la crítica a la cohesión social. Borrador (3 fuentes)
+  la supervisión local y la crítica a la cohesión social. Borrador (6 fuentes)
 - [[anomia]] — Durkheim y Merton: la desviación es normal; fines culturales y medios
   legítimos, cinco modos de adaptación, el cuello blanco, y la crítica de que legitima la
   imagen del delito como cosa de pobres; y una segunda exposición; y la crítica de Gottfredson y Hirschi. Merton, de segunda mano.
@@ -67,7 +67,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[desplazamiento-y-difusion]] — si la prevención focalizada sólo mueve el delito;
   la evidencia dice que la difusión es más probable, y el portonazo muestra el
   desplazamiento que no se mide, como los de mercancía y de organización; y una razón
-  teórica en contra (9 fuentes)
+  teórica en contra (11 fuentes)
 - [[eficacia-colectiva]] — cohesión más expectativas compartidas de intervenir:
   el mecanismo que media entre desventaja concentrada y violencia; en América Latina,
   condicionada a la policía; y una medida oficial con otra definición (7 fuentes)
@@ -121,19 +121,19 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   a la vez; y el Plan Cuadrante, ¿el más exitoso o un fracaso? (8 fuentes)
 - [[policia-de-puntos-calientes]] — la estrategia policial mejor evaluada: la curva de
   Koper, los metaanálisis y el costo en legitimidad; una segunda fuente que repite a la
-  primera (4 fuentes)
+  primera (7 fuentes)
 - [[prevencion-del-delito]] — dos concepciones, tres clasificaciones que no calzan,
   factores de riesgo como base o límite, y una crítica etnográfica; por qué el éxito de
   la prevención no se ve; Romagnosi, y lo que el etiquetamiento niega; trayectorias en vez
   de cadenas causales; los factores de riesgo como manifestaciones, y la familia como
   política (9 fuentes)
 - [[prevencion-situacional]] — Clarke: reducir oportunidades para delitos específicos; dieciséis
-  técnicas, las cámaras como vigilancia formal y sus límites. Borrador (6 fuentes)
+  técnicas, las cámaras como vigilancia formal y sus límites. Borrador (8 fuentes)
 - [[propension-al-delito]] — el lado persona: moral legalmente relevante más
   capacidad de autocontrol, y la aversión al delito; y frente a la teoría general:
   ¿autocontrol o moral? (2 fuentes)
 - [[puntos-calientes]] — la ley de concentración del delito en microlugares; no son
-  barrios malos, y la TAS los explica de otro modo; en Chile, sólo una cifra comunal (10 fuentes)
+  barrios malos, y la TAS los explica de otro modo; en Chile, sólo una cifra comunal (15 fuentes)
 - [[regimenes-armados-microescala]] — consolidación armada y vínculo con el Estado:
   cuatro regímenes de barrio, ninguno necesariamente más seguro, y una política para cada
   uno; y Santa Tecla, un caso compatible. Borrador (3 fuentes)
@@ -185,7 +185,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[analisis-espacial-del-delito]] — autocorrelación, falacia ecológica, unidad
   modificable y efecto de borde; sitio y situación; técnicas de predicción; y contar
   delitos no es contar víctimas; y los datos de lugar y hora que faltan en la región
-  (5 fuentes)
+  (10 fuentes)
 - [[diagnostico-barrial]] — muestreo por tipología en vez de censo de barrios, y la
   exigencia de comparabilidad en el tiempo; el riesgo de promediar por barrio; y un
   diagnóstico participativo en el barrio vulnerado y de expertos en el crítico; una
@@ -201,15 +201,15 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   mixta en el curso de vida (5 fuentes)
 - [[estadisticas-delictuales]] — cómo contar e interpretar delitos desde los registros
   policiales: tres fuentes y sus sesgos, dos fechas, reglas de conteo, tasas por blanco,
-  y por qué los registros no son una muestra; y lo que el registro selecciona (9 fuentes)
+  y por qué los registros no son una muestra; y lo que el registro selecciona (11 fuentes)
 - [[estudios-longitudinales]] — prospectivo y retrospectivo; la cohorte y el problema de
   separar edad, período y cohorte; cinco estudios, de Oakland a PADS+; qué permiten ver, y
-  por qué en Chile no hay; y una crítica desde la teoría del control (5 fuentes)
+  por qué en Chile no hay; y una crítica desde la teoría del control (6 fuentes)
 - [[evaluacion-de-programas]] — no basta saber qué funciona, sino por qué; evidencia,
   implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; el
   mismo diagnóstico desde la violencia en el noviazgo; dos sentidos de «por qué»; y la
   tensión leída como complementación de métodos; y las instituciones del dato, que
-  tampoco se evalúan; y la buena práctica como cuarta idea de evidencia (9 fuentes)
+  tampoco se evalúan; y la buena práctica como cuarta idea de evidencia (10 fuentes)
 - [[medicion-de-la-victimizacion]] — qué mide una encuesta de victimización y para qué:
   cifra oscura, prevalencia e incidencia, percepción en tres aspectos; la ENUSC y su
   rediseño de 2023; el instrumento mueve la cifra; lo que la encuesta oficial no mide; y
@@ -240,18 +240,27 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[batthyany-metodologia-investigacion]] — Batthyány y Cabrera (coords.), 2011. Manual
   docente de metodología de la Universidad de la República, que compila a otros autores.
   Bibliografía de S1.2. Primera de la tanda 2
+- [[bernasco-steenbeek-mas-lugares-que-delitos]] — Bernasco y Steenbeek, 2017. Cómo medir la
+  concentración del delito cuando hay más lugares que delitos: curva de Lorenz y Gini
+  generalizado. Tanda S1.2d
 - [[blanco-curso-de-vida]] — Blanco, 2011. Revisión sociodemográfica del enfoque del curso de
   vida: orígenes, tres conceptos y cinco principios. Bibliografía de S1.1. Tercera y última
   de la tanda 3
 - [[bourgois-en-busca-de-respeto]] — Bourgois, 2010, traducción de una obra de 1995.
   Etnografía de una red de casas de crack en East Harlem; primera etnografía de la wiki.
   Ningún programa recibido lo nombra. Fuera del orden por calendario
+- [[chainey-concentracion-america-latina]] — Chainey y otros, 2019. La concentración del delito
+  en 42 ciudades latinoamericanas, ninguna chilena, con un año de datos. Tanda S1.2d
 - [[cipc-experiencias-exitosas]] — CIPC, 2015. Informe por encargo sobre diez buenas
   prácticas en ocho países, exploratorio y descriptivo, con errores de hecho. Su caso
   chileno, Peñalolén, sale de la propia dirección. Bibliografía de S1.2. Sexta y última
   de la tanda 2
 - [[clarke-prevencion-situacional]] — Clarke (ed.), 1997. Sólo la introducción: definición,
   dieciséis técnicas, desplazamiento y difusión. Faltan los casos. P2 de S1.1. Tanda S1.2b
+- [[cohen-felson-actividades-rutinarias]] — Cohen y Felson, 1979. El artículo que fundó la
+  teoría de las actividades rutinarias. Tanda S1.2d
+- [[felson-clarke-la-oportunidad-hace-al-ladron]] — Felson y Clarke, 1998. Informe del Home
+  Office: tres teorías de la oportunidad y diez principios. Tanda S1.2d
 - [[felson-eckert-delito-y-vida-cotidiana]] — Felson y Eckert, 2016. Manual de actividades
   rutinarias, caps. 2, 3, 5, 10 y 11. Tanda S1.2b
 - [[gardner-prohibir-inmoralidades]] — Gardner, 2007. Filosofía del derecho penal:
@@ -261,6 +270,8 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   autocontrol, aplicada a la edad, las instituciones, la cultura, el cuello blanco, la
   organización, el método y la política. Original inglés. Bibliografía restante de S1.1.
   Primera de la tanda 4
+- [[guerette-bowers-desplazamiento-y-difusion]] — Guerette y Bowers, 2009. Revisión de 102
+  evaluaciones de prevención situacional: el desplazamiento es la excepción. Tanda S1.2d
 - [[guerra-modelo-las-condes]] — Guerra Araya y otros, 2024. La Dirección de Seguridad de Las
   Condes describe su modelo: cámaras, datos, despliegue. Afirma efectos sin evaluarlos. Tanda S1.2b
 - [[ine-medicion-victimizacion]] — INE, 2023. Informe metodológico oficial del rediseño de
@@ -290,6 +301,8 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   vigente`. Tanda S1.2c
 - [[programa-magister-uah]] — Universidad Alberto Hurtado, 2026. Folleto
   institucional del programa
+- [[ratcliffe-tasa-de-geocodificacion]] — Ratcliffe, 2004. La tasa mínima aceptable de
+  geocodificación, 85 %, y sus condiciones. Tanda S1.2d
 - [[sampson-vecindario-y-comunidad]] — Sampson, 2006. Obligatoria de S1.1,
   módulo 3. Primera del núcleo ancla
 - [[srur-observatorios-del-delito]] — Srur (ed.), 2014. Documento para discusión del BID
@@ -321,6 +334,10 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   la oportunidad, mapas del delito y hot spots. Salió de la cuarentena el 26-10-2026. Tanda S1.2c
 - [[weisburd-el-lugar-importa]] — Weisburd y otros, 2016. No es bibliografía oficial;
   sostiene el módulo 3 de S1.1 por contenido. Primera de la tanda 1
+- [[weisburd-ley-de-concentracion]] — Weisburd, 2015. La ley de concentración del delito en
+  ocho ciudades y en el tiempo. Tanda S1.2d
+- [[weisburd-trayectorias-seattle]] — Weisburd, Bushway, Lum y Yang, 2004. Catorce años de
+  trayectorias del delito en los segmentos de Seattle. Tanda S1.2d
 - [[wikstrom-por-que-se-delinque]] — Wikström, 2017. Obligatoria de S1.1,
   módulo 6. Segunda del núcleo ancla
 - [[zuniga-civilizacion-y-derechos-humanos]] — Zúñiga Núñez, 2013. Proyecto de tesis

@@ -1,7 +1,7 @@
 ---
 title: Estadísticas delictuales
 type: method
-sources: ["2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf", "2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf"]
+sources: ["2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf", "2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf", "2004 - Weisburd, Bushway, Lum y Yang - Trayectorias del delito en los lugares, un estudio longitudinal de segmentos de calle en Seattle.pdf", "2015 - Weisburd - La ley de concentración del delito y la criminología del lugar.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-2]
 procedencia: fuentes
@@ -50,6 +50,8 @@ Por eso las estadísticas de un analista rara vez coinciden con las oficiales. P
 La encuesta oficial chilena de 2023 enfrenta el mismo problema por el otro lado. Pasó de clasificar los delitos según las categorías de Carabineros a clasificarlos por su naturaleza, y con eso se cortó la serie [^ext-10]. Ver [[medicion-de-la-victimizacion]].
 
 **Violentos y no violentos.** Añadido el 26-10-2026 al ingerir [[pnsp-2025-2031]]. La política nacional agrupa los delitos por violencia, no por tipo penal. Los no violentos se definen de forma residual e incluyen el robo por sorpresa, el robo en lugar habitado y no habitado, el robo de vehículos y el hurto [^ext-40]. El robo de vehículos aparece en las dos listas, según haya violencia o intimidación [^ext-40]. Una misma categoría penal puede caer en grupos distintos según quién agrupe [^inf-9].
+
+**Reportes, llamadas y detenciones.** Añadido el 26-10-2026 al ingerir [[weisburd-trayectorias-seattle]] y [[weisburd-ley-de-concentracion]]. Los estudios de lugar usan reportes de incidentes. Son más amplios que las detenciones y más estrechos que las llamadas de emergencia, que incluyen hechos no confirmados [^ext-41]. En Seattle, las llamadas y los reportes dieron distribuciones parecidas entre lugares [^ext-42].
 
 ## Tasas: elegir el denominador
 
@@ -129,6 +131,7 @@ Añadido el 24-10-2026 al ingerir [[las-condes-plan-comunal-2026-2029]]. Es la p
 - [[las-condes-plan-comunal-2026-2029]]: los registros de un municipio chileno y su corte de serie
 - [[unodc-manual-directrices-prevencion]] — los tres filtros del registro
 - [[pnsp-2025-2031]] — delitos violentos y no violentos en la política nacional
+- [[weisburd-trayectorias-seattle]] — qué registro usan los estudios de lugar
 
 ---
 
@@ -182,3 +185,5 @@ Añadido el 24-10-2026 al ingerir [[las-condes-plan-comunal-2026-2029]]. Es la p
 [^ext-39]: **Extraído** — [[unodc-manual-directrices-prevencion]], p. 52.
 [^ext-40]: **Extraído** — [[pnsp-2025-2031]], p. 8, notas 1, 2 y 4.
 [^inf-9]: **Inferido** (confianza 0.7) — la política define los grupos para sus propios fines (p. 8, nota 1).
+[^ext-41]: **Extraído** — [[weisburd-trayectorias-seattle]], p. 290, y [[weisburd-ley-de-concentracion]], p. 139.
+[^ext-42]: **Extraído** — [[weisburd-trayectorias-seattle]], p. 290, sobre Lum (2003).

@@ -432,6 +432,18 @@ excepción parcial: toman posición frente a Sampson y Wikström.
 50. **¿Diferencia de paradigma o de naturaleza?** Batthyány y Cabrera ordenan los enfoques por
     paradigma. Minayo niega la jerarquía y los trata como oposición complementaria. Ver
     [[enfoques-cuantitativo-y-cualitativo]].
+51. **¿Más concentrado o con menos datos?** Chainey y otros concluyen que el delito está más
+    concentrado en las ciudades latinoamericanas. Bernasco y Steenbeek muestran que, cuando hay
+    menos delitos que lugares, los porcentajes acumulados exageran la concentración. Chainey no
+    aplica la corrección. Ver [[puntos-calientes]].
+52. **¿Una teoría del cambio o de la estabilidad?** Cohen y Felson formularon las actividades
+    rutinarias para explicar cambios de largo plazo en las tasas. Weisburd y otros la usan para
+    explicar que el delito de cada segmento cambia poco en catorce años. Ver
+    [[actividades-rutinarias]].
+53. **¿Guardián o vigilancia formal?** Cohen y Felson, y Felson y Clarke, describen un guardián
+    informal: el vecino, el portero. La prevención situacional clasifica las cámaras como
+    vigilancia formal o de empleados. Llamar guardián a una cámara junta las dos ideas. Ver
+    [[actividades-rutinarias]] y [[prevencion-situacional]].
 
 **La que más va a pesar en el trabajo evaluado de S1.1.**
 [[onu-habitat-guia-barrios]] incorpora la teoría de las ventanas rotas dentro de su

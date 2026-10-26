@@ -127,12 +127,13 @@ núcleo ancla, según los cúmulos de `INVENTARIO.md`:
 11. Vínculo Estado-crimen (18)
 12. Amenaza y securitización (24)
 
-Nueve ajustes al orden original. El primero se decidió el 12-09-2026 al cerrar el
+Diez ajustes al orden original. El primero se decidió el 12-09-2026 al cerrar el
 núcleo ancla, los dos siguientes el 13-09-2026 al agnosticar la ingesta, el cuarto el
 26-09-2026 con el calendario de clases a la vista, el quinto el 23-10-2026, al llegar
 cinco obras nuevas y la pauta de la prueba final de S1.1, tres más el
 24-10-2026: las normas del diseño de S1.2, nueve obras sobre juventudes y cuatro obras
-más para el diseño de S1.2, y el último el 26-10-2026, con otras cuatro para el mismo diseño:
+más para el diseño de S1.2, el noveno el 26-10-2026, con otras cuatro para el mismo diseño, y el
+último ese mismo día, con ocho artículos que el diseño cita:
 
 - **La bibliografía de consulta de S1.1 sube al segundo lugar**, por delante de los
   programas oficiales restantes. Razón: los cuatro programas de los ramos en curso ya
@@ -176,6 +177,7 @@ más para el diseño de S1.2, y el último el 26-10-2026, con otras cuatro para 
   | S1.2 | sáb 24-10 | Ley 20.965 · Decreto 2098 de Las Condes, Plan Comunal de Seguridad Pública 2026-2029 | Diseño de investigación aplicada de S1.2, que se entrega el 24-10. Van antes que todo lo demás |
   | S1.2b | sáb 24-10 | Ley 21.802 · Guerra Araya (2024) · Clarke (1997) · Felson y Eckert (2016) | Diseño de investigación aplicada de S1.2. Se agregó el 24-10 y va antes que la 4a. Las cuatro salen de las tandas 4 y 5 |
   | S1.2c | lun 26-10 | Decreto 96 (PNSP) · UNODC (2011), pp. 9-29 y 51-60 · Minayo, Deslandes y Gomes (2023) · Vozmediano y San Juan (2010), caps. III y IV | Diseño de investigación aplicada de S1.2, secciones 5, 6, 8 y 9. Se agregó el 26-10 y va antes que la 4a. El Decreto 96 sale de la tanda 5, y Vozmediano y San Juan, de la cuarentena |
+  | S1.2d | lun 26-10 | Cohen y Felson (1979) · Felson y Clarke (1998) · Weisburd y otros (2004) · Weisburd (2015) · Guerette y Bowers (2009) · Ratcliffe (2004) · Bernasco y Steenbeek (2017) · Chainey y otros (2019) | Diseño de investigación aplicada de S1.2: verificar las obras que cita. Se agregó el 26-10 y va antes que la 4a. Los ocho artículos llegaron ese día |
   | 4a | sáb 24-10 | Duarte Quapper (2012) · Bourdieu (2002) · Brizuela (2014) | S2.4: Duarte y Bourdieu, módulo I. Brizuela, módulo III. Se agregó el 23-10 y va antes que el resto de la tanda 4. *Si alcanza*, desde el 24-10: Duarte Quapper (2000) · Krauskopf (2010) · Brito Lemus (1998) · Romero Miranda (2015) |
   | 4 | vie 06-11 (era vie 23-10) | Gottfredson y Hirschi (1990), ingerida el 17-10 · ~~Clarke (1997) · Felson y Eckert (2016)~~, pasaron a la S1.2b el 24-10 | S1.1, módulo 6. El resto corre detrás de la 4a |
   | 5 | vie 06-11 | ~~Decreto 96 (PNSP)~~, pasó a la S1.2c el 26-10 · ~~Ley 21.802 · Guerra Araya (2024)~~, pasaron a la S1.2b el 24-10 · SPD (2022), orientaciones técnicas · Gobierno de Santiago (s.f.), guía de barrios · Campana y Meneghini (2024) · Bergman (2023) · *si alcanza:* Schroeder y Coello-Torres (2019) | S1.1, módulo 7, y el trabajo grupal, cuyos talleres son el 13 y el 20-11. Si el grupo elige su política antes, las cuatro primeras se adelantan. Si elige un espacio público, se adelanta Schroeder y Coello-Torres |
@@ -266,6 +268,18 @@ más para el diseño de S1.2, y el último el 26-10-2026, con otras cuatro para 
   González-Guarda y Salazar-Tobar (2023) mapea a los investigadores, no estudios espaciales.
   Campana y Meneghini (2024) trata el desplazamiento del crimen organizado, que es otro
   fenómeno. La 4a corre detrás sin otros cambios.
+- **Ocho artículos que cita el diseño de S1.2, por delante de la tanda 4a** (26-10-2026). Por
+  decisión del autor, que los rescató y pidió verificarlos e integrarlos. Forman la tanda S1.2d.
+  Razones:
+  · el borrador del diseño los cita y el corpus no los tenía. Cada cita debía verificarse contra
+    el original antes de la entrega;
+  · cuatro sostienen la teoría y el estado del arte: Cohen y Felson (1979), Felson y Clarke
+    (1998), Weisburd y otros (2004) y Weisburd (2015). Guerette y Bowers (2009) sostiene el
+    argumento del desplazamiento, y Chainey y otros (2019), la evidencia latinoamericana;
+  · Ratcliffe (2004) y Bernasco y Steenbeek (2017) sostienen dos decisiones de método: la tasa
+    mínima de geocodificación y el Gini generalizado.
+  Faltó Baron y Kenny (1986), que el autor no pudo ubicar. Llegó también una copia duplicada de
+  Weisburd y otros (2016), que no se ingiere. La 4a corre detrás sin otros cambios.
 
 **Corpus sin clasificar.** Trece archivos ingresaron a `raw/sources/` el 12-09-2026 sin
 nomenclatura y sin decisión de alcance. Están en cuarentena en `INVENTARIO.md` y **no

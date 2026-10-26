@@ -8,6 +8,37 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-10-26] ingesta | Tanda S1.2d: ocho artículos que cita el diseño de S1.2
+
+**Ocho artículos citados por el diseño de S1.2, por delante de la tanda 4a y por decisión del
+autor.** El autor rescató los artículos que el borrador del diseño de investigación aplicada cita
+y el corpus no tenía, y pidió verificarlos e integrarlos. Faltó Baron y Kenny (1986), que no pudo
+ubicar. El ajuste quedó en `purpose.md`.
+
+- Fichas creadas: [[cohen-felson-actividades-rutinarias]], [[felson-clarke-la-oportunidad-hace-al-ladron]],
+  [[weisburd-trayectorias-seattle]], [[weisburd-ley-de-concentracion]],
+  [[guerette-bowers-desplazamiento-y-difusion]], [[ratcliffe-tasa-de-geocodificacion]],
+  [[bernasco-steenbeek-mas-lugares-que-delitos]] y [[chainey-concentracion-america-latina]].
+- Páginas actualizadas: [[actividades-rutinarias]], [[puntos-calientes]], [[desplazamiento-y-difusion]],
+  [[analisis-espacial-del-delito]], [[prevencion-situacional]], [[policia-de-puntos-calientes]],
+  [[estudios-longitudinales]], [[evaluacion-de-programas]], [[estadisticas-delictuales]],
+  [[vozmediano-criminologia-ambiental]], [[weisburd-el-lugar-importa]], [[clarke-prevencion-situacional]],
+  [[felson-eckert-delito-y-vida-cotidiana]], [[index]], [[referencias]], [[pendientes]], [[revision]] y
+  [[overview]].
+- Corpus: los ocho llegaron con nombres sin convención y se renombraron. Cinco van al cúmulo
+  `Explicación del delito`, uno a `Prevención e intervención` y dos a `Medición e inseguridad`.
+  Llegó también `annas-arch-cb4897d86908.pdf`, otra copia de Weisburd y otros (2016). No se ingiere.
+- Verificación contra el diseño: las ocho referencias coinciden con los originales. Los matices
+  quedaron en el «Encuadre curricular» de cada ficha. Cohen y Felson no hablan de cámaras. En
+  Guerette y Bowers, el desplazamiento es menos frecuente que la difusión sólo en la forma espacial.
+  Ratcliffe estimó el 85 % con manzanas censales y pérdidas al azar. Bernasco y Steenbeek muestran
+  que el sesgo por datos escasos también afecta el porcentaje de segmentos que acumula el 50 %.
+- Resuelto: el `amb-1` de [[analisis-espacial-del-delito]] y de [[vozmediano-criminologia-ambiental]]
+  sobre los dos Ratcliffe de 2004.
+- Ambiguo nuevo: las cifras brasileñas de [[chainey-concentracion-america-latina]] no cuadran con su
+  tabla de segmentos.
+- Tensiones nuevas en [[overview]]: la 51, la 52 y la 53.
+
 ## [2026-10-26] ingesta | Tanda S1.2c: Decreto 96 (PNSP), UNODC (2011), Minayo y otros (2023) y Vozmediano y San Juan (2010)
 
 **Cuatro obras para el diseño de S1.2, por delante de la tanda 4a y por decisión del autor.** El

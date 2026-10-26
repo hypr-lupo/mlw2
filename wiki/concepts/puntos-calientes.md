@@ -1,7 +1,7 @@
 ---
 title: Puntos calientes y ley de concentración del delito
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf", "2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf", "2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf", "2015 - Weisburd - La ley de concentración del delito y la criminología del lugar.pdf", "2004 - Weisburd, Bushway, Lum y Yang - Trayectorias del delito en los lugares, un estudio longitudinal de segmentos de calle en Seattle.pdf", "2017 - Bernasco y Steenbeek - Más lugares que delitos, implicancias para evaluar la ley de concentración del delito en el lugar.pdf", "2019 - Chainey y otros - Concentración del delito en microlugares en América Latina.pdf", "1998 - Felson y Clarke - La oportunidad hace al ladrón, teoría práctica para la prevención del delito.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
@@ -78,6 +78,7 @@ Añadido el 24-10-2026. Las [[actividades-rutinarias]] explican por qué el deli
 - **Depende de la medida y la unidad.** La ley se define para una medida y una unidad dadas. Cambiar el tipo de delito, la fuente de datos o la unidad cambia las cifras [^ext-2].
 - **Los que la usan no siempre la entienden.** En una encuesta a 176 policías estadounidenses, el 57 % consideraba «puntos calientes» a barrios enteros [^ext-23].
 - **Una política que la afirma sin probarla.** Añadido el 26-10-2026 al ingerir [[pnsp-2025-2031]]. La Política Nacional de Seguridad Pública afirma que el delito se concentra en barrios, condominios «e incluso calles» [^ext-33]. No cita evidencia para la escala de calle [^inf-5].
+- **La primera evidencia regional.** Añadido el 26-10-2026 al ingerir [[chainey-concentracion-america-latina]]. Chainey y otros (2019) miden la concentración en 42 ciudades latinoamericanas, ninguna chilena, con un año de datos [^ext-52]. La escala de calle en Chile sigue sin medición en el corpus [^inf-9].
 
 ## Escalas, estabilidad y ubicación
 
@@ -90,6 +91,20 @@ Añadido el 26-10-2026 al ingerir [[vozmediano-criminologia-ambiental]], un manu
 **Qué los ubica.** Según los Brantingham, ocho factores ubican los hot spots. Entre ellos están la combinación de usos del suelo, la red de transporte, los flujos de desplazamiento y la distribución de la policía [^ext-39]. Si la policía es uno de los factores, un registro producido por la vigilancia puede reforzar los focos que ya se vigilan [^inf-6]. Ver [[estadisticas-delictuales]].
 
 **Victimización reiterada.** En los hot spots la victimización repetida es mayor, y una parte de lo que parece concentración en un lugar es repetición sobre los mismos objetivos [^ext-40].
+
+## Fuentes originales, medición y América Latina
+
+Añadido el 26-10-2026 al ingerir [[weisburd-ley-de-concentracion]], [[weisburd-trayectorias-seattle]], [[bernasco-steenbeek-mas-lugares-que-delitos]], [[chainey-concentracion-america-latina]] y [[felson-clarke-la-oportunidad-hace-al-ladron]].
+
+**Las cifras en su fuente.** Las bandas de las ocho ciudades y la serie de Seattle que esta página toma del libro vienen de Weisburd (2015) [^ext-41]. La ley trata la proporción de segmentos, no su identidad [^inf-7]. Weisburd elige el segmento porque una dirección mal registrada rara vez saca el delito de su segmento [^ext-42].
+
+**Los mismos lugares.** En Seattle, entre 1989 y 2002, el 4 a 5 % de los segmentos acumuló cada año cerca del 50 % de los incidentes [^ext-43]. Eso no dice si eran los mismos segmentos [^ext-44]. Al seguir a cada uno, el 84 % siguió trayectorias estables. Cerca del 14 % bajó, y esos segmentos explican más que toda la caída de la ciudad [^ext-45]. Los que suben o bajan conservan su nivel relativo [^ext-46].
+
+**Medir bien.** Cuando hay menos delitos que lugares, los porcentajes acumulados y el Gini sobrestiman la concentración, porque un delito no se divide [^ext-47]. Bernasco y Steenbeek proponen la curva de Lorenz y el Gini generalizado. Y reformulan la ley: la concentración observada, relativa a la máxima dispersión posible, cae en una banda estrecha [^ext-48]. Ver [[analisis-espacial-del-delito]].
+
+**América Latina.** En 42 ciudades de seis países, con un año de datos, la mayoría de los resultados cae en el extremo bajo de las bandas. En promedio, el 50 % del delito está en el 2,5 % de los segmentos [^ext-49]. El homicidio queda siempre por debajo de las bandas [^ext-49]. Los autores concluyen que el delito está más concentrado en la región [^ext-50]. No corrigen por datos escasos, y en varias combinaciones hay menos delitos que segmentos [^inf-8].
+
+**Un tercer tipo de lugar.** Junto a generadores y atractores, Felson y Clarke proponen el detractor, un lugar que desalienta el delito [^ext-51].
 
 ## Cita
 
@@ -111,6 +126,10 @@ Añadido el 26-10-2026 al ingerir [[vozmediano-criminologia-ambiental]], un manu
 - [[diagnostico-barrial]] — un método que agrega por barrio, y lo que eso puede ocultar
 - [[vozmediano-criminologia-ambiental]] — las escalas del hot spot y lo que los ubica
 - [[pnsp-2025-2031]] — una política nacional que afirma la concentración a escala de calle
+- [[weisburd-ley-de-concentracion]] — la fuente original de la ley y de sus bandas
+- [[weisburd-trayectorias-seattle]] — la estabilidad de los mismos segmentos en catorce años
+- [[bernasco-steenbeek-mas-lugares-que-delitos]] — cómo medir la concentración con datos escasos
+- [[chainey-concentracion-america-latina]] — la concentración en 42 ciudades latinoamericanas
 
 ---
 
@@ -160,3 +179,18 @@ Añadido el 26-10-2026 al ingerir [[vozmediano-criminologia-ambiental]], un manu
 [^ext-40]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 106, sobre Farrell y Sousa (2001).
 [^inf-5]: **Inferido** (confianza 0.8) — la bibliografía de la política no incluye estudios de concentración a microescala.
 [^inf-6]: **Inferido** (confianza 0.6) — combinando la p. 80 del manual con los sesgos del registro de [[estadisticas-delictuales]]. El manual no saca esta consecuencia.
+[^ext-41]: **Extraído** — [[weisburd-ley-de-concentracion]], pp. 143 y 146.
+[^ext-42]: **Extraído** — [[weisburd-ley-de-concentracion]], p. 142.
+[^ext-43]: **Extraído** — [[weisburd-trayectorias-seattle]], p. 294.
+[^ext-44]: **Extraído** — [[weisburd-trayectorias-seattle]], p. 295.
+[^ext-45]: **Extraído** — [[weisburd-trayectorias-seattle]], pp. 300-303.
+[^ext-46]: **Extraído** — [[weisburd-trayectorias-seattle]], p. 306.
+[^ext-47]: **Extraído** — [[bernasco-steenbeek-mas-lugares-que-delitos]], pp. 452, 457 y 463.
+[^ext-48]: **Extraído** — [[bernasco-steenbeek-mas-lugares-que-delitos]], pp. 451 y 463-464.
+[^ext-49]: **Extraído** — [[chainey-concentracion-america-latina]], p. 2, tablas 1 a 4.
+[^ext-50]: **Extraído** — [[chainey-concentracion-america-latina]], p. 2, conclusiones.
+[^ext-51]: **Extraído** — [[felson-clarke-la-oportunidad-hace-al-ladron]], p. 15.
+[^ext-52]: **Extraído** — [[chainey-concentracion-america-latina]], p. 1.
+[^inf-7]: **Inferido** (confianza 0.9) — de la definición en [[weisburd-ley-de-concentracion]], p. 138. [[weisburd-trayectorias-seattle]], p. 295, hace la misma distinción.
+[^inf-8]: **Inferido** (confianza 0.7) — combinando las tablas de [[chainey-concentracion-america-latina]] con [[bernasco-steenbeek-mas-lugares-que-delitos]], p. 463. Por ejemplo, Río de Janeiro tiene 1.909 homicidios y 83.889 segmentos.
+[^inf-9]: **Inferido** (confianza 0.9) — ninguna fuente del corpus mide la concentración a escala de calle en una ciudad chilena.

@@ -1,7 +1,7 @@
 ---
 title: Prevención situacional del delito
 type: concept
-sources: ["1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf"]
+sources: ["1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf", "2026 - Ministerio de Seguridad Pública - Ley 21.802, fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito.pdf", "2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf", "1998 - Felson y Clarke - La oportunidad hace al ladrón, teoría práctica para la prevención del delito.pdf", "2009 - Guerette y Bowers - El alcance del desplazamiento del delito y de la difusión de beneficios, una revisión de evaluaciones de prevención situacional.pdf"]
 cluster: prevencion
 curso: [s1-1, s1-2]
 procedencia: fuentes
@@ -48,9 +48,13 @@ Dos advertencias de la misma literatura. Los guardias rara vez vigilan los monit
 
 En Chile, la [[ley-21802-seguridad-municipal]] faculta a los municipios para la televigilancia como prevención situacional [^ext-18]. Las Condes la usa a gran escala, con más de 3.600 cámaras [^ext-19]. Ver [[barrio-protegido]].
 
+Añadido el 26-10-2026 al ingerir [[felson-clarke-la-oportunidad-hace-al-ladron]]. Las cámaras de tres estacionamientos de la Universidad de Surrey redujeron los incidentes de 138 a 65. La baja alcanzó a un cuarto estacionamiento que no cubrían [^ext-29]. Felson y Clarke lo leen como difusión de beneficios: los infractores no conocían el alcance real de la medida [^ext-29].
+
 ## Qué tan bien funciona
 
 Las reducciones pueden ser grandes, a menudo más de 50 % según Clarke [^ext-20] y de 30 % a 100 % según Felson y Eckert [^ext-21]. Pero las medidas suelen aliviar el problema, no eliminarlo [^ext-20]. Clarke cuenta diez razones de fracaso, desde la ineptitud técnica hasta el daño al entorno [^ext-22]. Lo que funciona en un lugar puede no funcionar en otro [^ext-23]. Sobre el desplazamiento y la difusión de beneficios, ver [[desplazamiento-y-difusion]].
+
+Añadido el 26-10-2026 al ingerir [[guerette-bowers-desplazamiento-y-difusion]]. En 102 evaluaciones de prevención situacional, el desplazamiento apareció en el 26 % de las observaciones y la difusión en el 27 %. Cuando hubo desplazamiento, nunca fue completo [^ext-30]. Ver [[desplazamiento-y-difusion]].
 
 ## Críticas
 
@@ -73,6 +77,8 @@ Añadido el 26-10-2026 al ingerir [[unodc-manual-directrices-prevencion]]. El ma
 - [[puntos-calientes]] — dónde focalizar
 - [[unodc-manual-directrices-prevencion]] — las críticas resumidas por Naciones Unidas
 - [[vozmediano-criminologia-ambiental]] — los precipitadores de Wortley
+- [[felson-clarke-la-oportunidad-hace-al-ladron]] — las dieciséis técnicas y la difusión de las cámaras
+- [[guerette-bowers-desplazamiento-y-difusion]] — el desplazamiento en 102 evaluaciones
 
 ---
 
@@ -105,3 +111,5 @@ Añadido el 26-10-2026 al ingerir [[unodc-manual-directrices-prevencion]]. El ma
 [^ext-26]: **Extraído** — [[unodc-manual-directrices-prevencion]], p. 16.
 [^ext-27]: **Extraído** — [[unodc-manual-directrices-prevencion]], pp. 15-16.
 [^ext-28]: **Extraído** — [[vozmediano-criminologia-ambiental]], pp. 66-67, sobre Wortley (2008) y Cornish y Clarke (2003).
+[^ext-29]: **Extraído** — [[felson-clarke-la-oportunidad-hace-al-ladron]], pp. 31-32, recuadro 13, sobre Poyner (1997).
+[^ext-30]: **Extraído** — [[guerette-bowers-desplazamiento-y-difusion]], pp. 1331 y 1346.

@@ -1,6 +1,6 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 24-10-2026 · **Total:** 126 documentos · **741 MB**
+**Fecha:** 26-10-2026 · **Total:** 143 documentos · **767 MB**
 
 > **Nomenclatura normalizada el 12-09-2026.** Los 114 documentos siguen ya el
 > patrón `año - autor - título`; no queda ninguno fuera de convención. Sin año
@@ -179,7 +179,7 @@ Arias (2017), y `bourdieu_la_juventud_no_es_m_s_que_una_palabra.pdf` tiene otro 
 pero su texto y sus seis páginas coinciden con Bourdieu (2002). Siguen en
 `raw/sources/` hasta que el autor los retire.
 
-## Explicación del delito · 6 doc.
+## Explicación del delito · 11 doc.
 
 
 Alimenta: S1.3 —Baratta, Pavarini y, por contenido, Felson y Eckert— y S1.1 —Gottfredson
@@ -198,15 +198,28 @@ clasificar` por decisión del autor, que verificó su pertinencia. Es un manual 
 ambiental: teorías de la oportunidad, mapas del delito y hot spots. Se ingirieron sólo los caps.
 III y IV, para el diseño de investigación aplicada de S1.2. Ningún programa recibido lo pide.
 
+**Alta del 26-10-2026: ocho artículos citados por el diseño de S1.2.** El autor los agregó a
+`raw/sources/` con nombres sin convención, y se renombraron el mismo día: `Cohen and Felson 1979
+Routine Activities.pdf`, `opportunity_makes_the_thief.pdf`, `ssrn-2632683.pdf`, `weisburd2015.pdf`,
+`chainey2019.pdf`, `guerette2009.pdf`, `ratcliffe2004.pdf` y `s10940-016-9324-7.pdf`. Cinco van a este
+cúmulo. Guerette y Bowers (2009) va a `Prevención e intervención`, y Ratcliffe (2004) y Bernasco y
+Steenbeek (2017), a `Medición e inseguridad`. Ningún programa recibido los pide. Ingeridos el mismo
+día en la tanda S1.2d, por decisión del autor.
+
 
 | Documento | MB | MD5 |
 |---|---:|---|
+| 1979 - Cohen y Felson - Cambio social y tendencias del delito, un enfoque de las actividades rutinarias.pdf | 3.3 | `d862220e808f` |
 | 1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf | 31.3 | `a9c9341311ce` |
+| 1998 - Felson y Clarke - La oportunidad hace al ladrón, teoría práctica para la prevención del delito.pdf | 0.4 | `fbc28033f7df` |
 | 2002 - Pavarini - Control y dominación, teorías criminológicas burguesas y proyecto hegemónico.pdf | 9.3 | `96cfa9d34aa2` |
 | 2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf | 9.5 | `4ff1f2891d1d` |
+| 2004 - Weisburd, Bushway, Lum y Yang - Trayectorias del delito en los lugares, un estudio longitudinal de segmentos de calle en Seattle.pdf | 2.3 | `09198d84abba` |
 | 2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf | 16.8 | `7e154c5a74d5` |
 | 2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf | 2.2 | `83da5982df7d` |
+| 2015 - Weisburd - La ley de concentración del delito y la criminología del lugar.pdf | 0.5 | `97a6dff65ea6` |
 | 2016 - Felson y Eckert - El delito y la vida cotidiana.pdf | 11.6 | `0b35231846f5` |
+| 2019 - Chainey y otros - Concentración del delito en microlugares en América Latina.pdf | 0.8 | `bdad2144ecf4` |
 
 ## Vínculo Estado-crimen · 18 doc.
 
@@ -255,7 +268,12 @@ siga en la carpeta, `scripts/estado.py` lo reportará fuera de inventario.
 | 2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf | 2.0 | `2726230a32fc` |
 | 2024 - Campana y Meneghini - El desplazamiento del crimen organizado en comunidades locales.pdf | 1.9 | `81e8c4889dec` |
 
-## Prevención e intervención · 6 doc.
+**Duplicado del 26-10-2026.** `annas-arch-cb4897d86908.pdf` llegó a `raw/sources/` con los artículos de
+la tanda S1.2d. Es otra copia de Weisburd y otros (2016): el texto extraído es idéntico y el archivo
+difiere en 148 bytes. No se ingiere ni se cuenta. Borrarlo de `raw/sources/` es decisión del autor. Ver
+`wiki/revision.md`.
+
+## Prevención e intervención · 7 doc.
 
 
 Alimenta: S1.1, S2.3, S3.1.
@@ -264,6 +282,7 @@ Alimenta: S1.1, S2.3, S3.1.
 | Documento | MB | MD5 |
 |---|---:|---|
 | 1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf | 0.3 | `9d9427605858` |
+| 2009 - Guerette y Bowers - El alcance del desplazamiento del delito y de la difusión de beneficios, una revisión de evaluaciones de prevención situacional.pdf | 0.4 | `8eae90a409cb` |
 | 2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf | 2.0 | `06ae0a1b418b` |
 | 2015 - Vanderschueren - Guía para la prevención en barrios.pdf | 2.8 | `06b1d0fa4eea` |
 | 2019 - Schroeder y Coello-Torres - Placemaking, transformación de un lugar en el asentamiento humano Santa Julia, Piura, Perú.pdf | 1.4 | `ae86d2118c19` |
@@ -337,7 +356,7 @@ diseño de investigación de S1.2 se ancla en ellas.
   decreto ocupa las pp. 1-30 y el plan se repite como anexo con paginación propia en las
   pp. 31-62. Llegó como `decreto.2098.18jun2026.pdf`.
 
-## Medición e inseguridad · 6 doc.
+## Medición e inseguridad · 8 doc.
 
 
 Alimenta: S1.2.
@@ -345,9 +364,11 @@ Alimenta: S1.2.
 
 | Documento | MB | MD5 |
 |---|---:|---|
+| 2004 - Ratcliffe - Geocodificación del delito y una primera estimación de la tasa mínima aceptable de acierto.pdf | 0.1 | `0261ed59cb3d` |
 | 2012 - Dammert - Miedo y delito en América Latina.pdf | 12.0 | `a642681572c4` |
 | 2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf | 7.6 | `02a3f693cb3e` |
 | 2016 - Cámara Arroyo - Principales instrumentos de medición de la peligrosidad criminal.md | 0.0 | `c8f25592bfde` |
+| 2017 - Bernasco y Steenbeek - Más lugares que delitos, implicancias para evaluar la ley de concentración del delito en el lugar.pdf | 0.8 | `ce71781dccd5` |
 | 2022 - Luna Pla - El análisis de redes complejas aplicado a grupos de crimen y corrupción.pdf | 0.2 | `1dc04dc73d0f` |
 | 2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf | 1.4 | `bc447d5662f3` |
 | 2023 - González-Guarda y Salazar-Tobar - Una panorámica de la criminología en Chile, una comunidad científica transitando hacia la profesionalización.pdf | 0.5 | `0d1906a5b2bd` |

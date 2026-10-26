@@ -15,7 +15,7 @@ procedencia: fuentes
 estado: revisado
 truncado: false
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-10-26
 ---
 
 # El lugar importa (Weisburd y otros)
@@ -86,6 +86,9 @@ El libro avanza en seis movimientos, uno por capítulo.
 - [[sampson-vecindario-y-comunidad]] — funda la política territorial en el barrio; este libro la baja a la calle. Tensión registrada en [[eficacia-colectiva]].
 - [[wikstrom-por-que-se-delinque]] — explica los puntos calientes por selección de personas; este libro, por el acoplamiento del delito al lugar. Tensión registrada en [[puntos-calientes]].
 - [[onu-habitat-guia-barrios]] — su diagnóstico proyecta resultados por tipo de barrio. Este libro documenta la variación calle a calle que esa proyección puede borrar. Tensión registrada en [[diagnostico-barrial]].
+- [[weisburd-ley-de-concentracion]] — la fuente original de las bandas y de la serie de Seattle
+- [[weisburd-trayectorias-seattle]] — el estudio de trayectorias que el libro resume
+- [[guerette-bowers-desplazamiento-y-difusion]] — la revisión que el libro cita sobre desplazamiento. El original matiza la cifra
 
 ---
 

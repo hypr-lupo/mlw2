@@ -1,7 +1,7 @@
 ---
 title: Policía de puntos calientes
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2026 - Ministerio de Seguridad Pública - Decreto 96, aprueba la Política Nacional de Seguridad Pública.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf", "2004 - Weisburd, Bushway, Lum y Yang - Trayectorias del delito en los lugares, un estudio longitudinal de segmentos de calle en Seattle.pdf", "2015 - Weisburd - La ley de concentración del delito y la criminología del lugar.pdf", "2019 - Chainey y otros - Concentración del delito en microlugares en América Latina.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -25,6 +25,8 @@ Estrategias policiales que concentran recursos en los pocos microlugares donde s
 
 **La curva de Koper.** Cada minuto adicional de presencia policial en un punto caliente alargaba en 23 % el tiempo hasta el siguiente incidente, con un óptimo de 14 a 15 minutos. Más allá, el beneficio se estanca. La recomendación es rotar entre puntos calientes en orden impredecible, unos 15 minutos en cada uno [^ext-3]. Un experimento posterior en Sacramento que aplicó esa regla redujo significativamente las llamadas y los delitos graves [^ext-4].
 
+**Por qué importa la estabilidad.** Añadido el 26-10-2026 al ingerir [[weisburd-trayectorias-seattle]]. La concentración no basta para focalizar. Si los puntos calientes se movieran rápido, se enfriarían solos, y concentrar recursos en ellos no tendría sentido [^ext-24]. En Seattle, el 84 % de los segmentos siguió trayectorias estables en catorce años [^ext-25].
+
 ## Qué dice la evidencia acumulada
 
 Tres revisiones independientes llegaron a la misma conclusión:
@@ -34,6 +36,8 @@ Tres revisiones independientes llegaron a la misma conclusión:
 | **Universidad de Maryland** (Sherman y otros, 1997 y 2002), por encargo del Congreso de EE. UU. | El patrullaje dirigido a esquinas de alto delito «funciona» [^ext-5] |
 | **National Research Council** (2004) | Hay evidencia fuerte de que un enfoque geográfico focalizado aumenta la efectividad policial; la evidencia sobre focalizar en tipos de infractores es débil [^ext-6] |
 | **Campbell Collaboration** (Braga y otros, 2014) | 19 estudios y 25 pruebas; 20 de ellas (80 %) con ganancias apreciables. Efecto medio estandarizado de 0,184, estadísticamente significativo [^ext-7] |
+
+Añadido el 26-10-2026 al ingerir [[weisburd-ley-de-concentracion]] y [[chainey-concentracion-america-latina]]. Weisburd cuenta más de veinte ensayos de policía de puntos calientes, casi todos con beneficios, y más difusión que desplazamiento [^ext-26]. En América Latina, la medición de Chainey y otros inspiró pilotos de policía de puntos calientes [^ext-27].
 
 ## Qué tipo de intervención funciona más
 
@@ -98,6 +102,8 @@ Añadido el 27-09-2026 al ingerir [[tudela-analisis-criminal]], que lleva esta e
 - [[tudela-analisis-criminal]] — segunda fuente, con la evidencia de los mismos autores
 - [[analisis-criminal]] — el oficio que identifica los puntos y evalúa la estrategia
 - [[pnsp-2025-2031]] — la política nacional pide patrullajes focalizados
+- [[weisburd-trayectorias-seattle]] — la estabilidad que justifica focalizar
+- [[chainey-concentracion-america-latina]] — la concentración latinoamericana y los pilotos que inspiró
 
 El módulo 2 de `programa/S1.1` trata la creación de la institución policial y el debate sobre legitimidad y proximidad. La bibliografía específica de ese módulo no está en el corpus.
 
@@ -128,3 +134,7 @@ El módulo 2 de `programa/S1.1` trata la creación de la institución policial y
 [^ext-22]: **Extraído** — [[pnsp-2025-2031]], p. 21.
 [^ext-23]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 97, tabla 1, a partir de Eck (2005).
 [^inf-2]: **Inferido** (confianza 0.6) — la línea de acción une los dos adjetivos sin desarrollo.
+[^ext-24]: **Extraído** — [[weisburd-trayectorias-seattle]], p. 285, siguiendo a Spelman (1995).
+[^ext-25]: **Extraído** — [[weisburd-trayectorias-seattle]], p. 300.
+[^ext-26]: **Extraído** — [[weisburd-ley-de-concentracion]], p. 150.
+[^ext-27]: **Extraído** — [[chainey-concentracion-america-latina]], p. 3.

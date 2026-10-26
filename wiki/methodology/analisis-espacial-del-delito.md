@@ -1,7 +1,7 @@
 ---
 title: Análisis espacial del delito
 type: method
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf", "2004 - Ratcliffe - Geocodificación del delito y una primera estimación de la tasa mínima aceptable de acierto.pdf", "2015 - Weisburd - La ley de concentración del delito y la criminología del lugar.pdf", "2004 - Weisburd, Bushway, Lum y Yang - Trayectorias del delito en los lugares, un estudio longitudinal de segmentos de calle en Seattle.pdf", "2017 - Bernasco y Steenbeek - Más lugares que delitos, implicancias para evaluar la ley de concentración del delito en el lugar.pdf", "2019 - Chainey y otros - Concentración del delito en microlugares en América Latina.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1]
 procedencia: fuentes
@@ -59,13 +59,27 @@ Una aplicación distinta: el **campo de visión de las cámaras**. Para evaluar 
 
 **Otra clasificación.** Añadido el 26-10-2026 al ingerir [[vozmediano-criminologia-ambiental]]. Un manual de 2010 ordena las técnicas de otro modo. Primero los mapas descriptivos: de puntos, de coropletas y de densidad [^ext-30]. Después los estadísticos que contrastan la concentración contra el azar: la función K y el STAC para puntos, y el I de Moran y LISA para áreas [^ext-31]. Dos reglas previas: las direcciones se geocodifican a coordenadas precisas, y se mapea un solo tipo de delito, porque los patrones difieren [^ext-32]. Los mapas muestran dónde, no por qué [^ext-33].
 
+## Geocodificación y unidad
+
+Añadido el 26-10-2026 al ingerir [[ratcliffe-tasa-de-geocodificacion]], [[weisburd-ley-de-concentracion]] y [[weisburd-trayectorias-seattle]].
+
+**La tasa de acierto.** Casi nunca se geocodifica el 100 % de los registros [^ext-34]. Ratcliffe estimó con una simulación cuánto se puede perder sin que el mapa cambie: 85 %, como primera estimación [^ext-35]. El umbral tiene dos condiciones. Se calculó con mapas agregados a manzanas censales [^ext-36]. Y supone pérdidas al azar: si los registros fallidos se agrupan, por ejemplo en calles nuevas o en hitos sin dirección, hace falta una tasa mayor [^ext-37]. Recomienda revisar los registros perdidos en busca de un patrón [^ext-37]. Weisburd (2015) y Chainey y otros (2019) usan el 85 % como umbral [^ext-38].
+
+**El segmento y las intersecciones.** El segmento reduce el error de geocodificación: una dirección mal registrada rara vez saca el delito de su segmento [^ext-39]. Las intersecciones se excluyen porque pertenecen a varios segmentos. No es un detalle: en Seattle eran el 19 % de los registros, y allí el 44 % de los reportes era de tránsito [^ext-40]. En las ocho ciudades de Weisburd, la proporción de delitos en intersecciones fue de 0 a 33 % [^ext-41].
+
+## Medir la concentración
+
+Añadido el 26-10-2026 al ingerir [[bernasco-steenbeek-mas-lugares-que-delitos]]. Los estudios reportan enunciados como «el Y % del delito en el X % de los lugares», con cortes a voluntad [^ext-42]. La **curva de Lorenz** reúne todos esos enunciados en un gráfico, y el **coeficiente de Gini** los resume entre 0 y 1 [^ext-43].
+
+**Datos escasos.** Cuando hay menos delitos que lugares, las dos medidas sobrestiman la concentración, porque un delito no se divide [^ext-44]. Pasa con frecuencia con segmentos y direcciones, con periodos cortos y con delitos específicos [^ext-45]. El sesgo afecta también los porcentajes acumulados [^ext-46]. La corrección es el **Gini generalizado**, G' = máx(n/c, 1) · (G − 1) + 1, que compara con la máxima igualdad posible [^ext-47]. En La Haya, la agresión parecía más concentrada que el robo con fuerza, 0,86 contra 0,73. El Gini generalizado los iguala: 0,72 y 0,73 [^ext-48].
+
 ## Límites
 
 - **Los datos van atrás de los métodos.** La calidad de los datos policiales era suficiente hace una década y hoy las técnicas nuevas la superan [^ext-22]. En América Latina el atraso es mayor. En 2014, el 45 % de los observatorios de la región no podía determinar la hora de los hechos, el 40 % no registraba el lugar, y el 31,5 % no tenía software para georreferenciar [^ext-27]. Ver [[observatorios-del-delito]].
 - **Faltan evaluaciones de las técnicas.** Muchos las adoptan sin conocer sus ventajas y límites [^ext-22].
 - **Los datos sociales llegan en unidades grandes.** Los datos del censo suelen publicarse en unidades mayores que la calle, lo que empuja a agregar hacia arriba [^ext-23].
 - **La visión cualitativa también cuenta.** Reducir situaciones complejas a puntos en un mapa pierde información. Hay propuestas de SIG cualitativo y de métodos mixtos [^ext-24].
-- **Dos Ratcliffe de 2004.** Añadido el 26-10-2026. El manual de Vozmediano y San Juan cita a Ratcliffe (2004), «The hotspot matrix», sobre mapas de densidad. Hay otro trabajo del mismo autor y año sobre la tasa mínima aceptable de geocodificación. El corpus no tiene ninguno de los dos [^amb-1].
+- **Dos Ratcliffe de 2004.** Añadido el 26-10-2026. El manual de Vozmediano y San Juan cita a Ratcliffe (2004), «The hotspot matrix», sobre mapas de densidad. Hay otro trabajo del mismo autor y año sobre la tasa mínima aceptable de geocodificación. El corpus no tenía ninguno de los dos [^amb-1]. Desde el 26-10-2026 tiene el segundo, [[ratcliffe-tasa-de-geocodificacion]]: la tasa de 85 % viene de allí.
 
 ## Cita
 
@@ -83,6 +97,9 @@ Una aplicación distinta: el **campo de visión de las cámaras**. Para evaluar 
 - [[estadisticas-delictuales]] — las dos fechas de un delito y la tasa por blanco
 - [[diseno-de-investigacion]] — unidades de análisis, eventos y personas, y la falacia ecológica en general
 - [[vozmediano-criminologia-ambiental]] — mapas, geocodificación y estadísticos de hot spot
+- [[ratcliffe-tasa-de-geocodificacion]] — la tasa mínima de geocodificación y sus condiciones
+- [[bernasco-steenbeek-mas-lugares-que-delitos]] — curva de Lorenz y Gini generalizado
+- [[weisburd-ley-de-concentracion]] — el segmento como unidad y las intersecciones
 
 **Contraste del 16-10-2026.** Batthyány y Cabrera (2011) toca la falacia ecológica. El capítulo de Boba en [[tudela-ed-analisis-delictual]] aporta dos insumos de estas técnicas. Todo delito tiene una fecha de denuncia y una de ocurrencia, y en los delitos sin testigos la segunda es un intervalo entre la primera y la última hora posibles [^ext-28]. Ese intervalo es lo que el análisis aorístico necesita [^inf-2]. Y la tasa debe dividir por el blanco, no por la población: robos al comercio por tienda, robos en casas por vivienda [^ext-29]. Es la misma lógica de las pruebas de permutación, que comparan con los blancos que realmente existen [^inf-2]. Ver [[estadisticas-delictuales]].
 
@@ -124,3 +141,18 @@ Una aplicación distinta: el **campo de visión de las cámaras**. Para evaluar 
 [^ext-32]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 91.
 [^ext-33]: **Extraído** — [[vozmediano-criminologia-ambiental]], p. 101.
 [^amb-1]: **Ambiguo** — [[vozmediano-criminologia-ambiental]], pp. 98 y 110. Quien cite una tasa de acierto de geocodificación atribuida a Ratcliffe (2004) debe verificar cuál de los dos trabajos la trae.
+[^ext-34]: **Extraído** — [[ratcliffe-tasa-de-geocodificacion]], p. 61.
+[^ext-35]: **Extraído** — [[ratcliffe-tasa-de-geocodificacion]], pp. 61 y 69.
+[^ext-36]: **Extraído** — [[ratcliffe-tasa-de-geocodificacion]], pp. 66-69.
+[^ext-37]: **Extraído** — [[ratcliffe-tasa-de-geocodificacion]], pp. 69-70.
+[^ext-38]: **Extraído** — [[weisburd-ley-de-concentracion]], p. 142, y [[chainey-concentracion-america-latina]], p. 1.
+[^ext-39]: **Extraído** — [[weisburd-ley-de-concentracion]], p. 142, y [[weisburd-trayectorias-seattle]], pp. 290-291.
+[^ext-40]: **Extraído** — [[weisburd-trayectorias-seattle]], p. 291.
+[^ext-41]: **Extraído** — [[weisburd-ley-de-concentracion]], pp. 140 y 143.
+[^ext-42]: **Extraído** — [[bernasco-steenbeek-mas-lugares-que-delitos]], p. 452.
+[^ext-43]: **Extraído** — [[bernasco-steenbeek-mas-lugares-que-delitos]], pp. 454 y 456.
+[^ext-44]: **Extraído** — [[bernasco-steenbeek-mas-lugares-que-delitos]], pp. 452 y 457.
+[^ext-45]: **Extraído** — [[bernasco-steenbeek-mas-lugares-que-delitos]], p. 453.
+[^ext-46]: **Extraído** — [[bernasco-steenbeek-mas-lugares-que-delitos]], p. 463.
+[^ext-47]: **Extraído** — [[bernasco-steenbeek-mas-lugares-que-delitos]], pp. 458-459.
+[^ext-48]: **Extraído** — [[bernasco-steenbeek-mas-lugares-que-delitos]], pp. 462-463.

@@ -1,7 +1,7 @@
 ---
 title: Desplazamiento del delito y difusión de beneficios
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf", "2009 - Guerette y Bowers - El alcance del desplazamiento del delito y de la difusión de beneficios, una revisión de evaluaciones de prevención situacional.pdf", "1998 - Felson y Clarke - La oportunidad hace al ladrón, teoría práctica para la prevención del delito.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
@@ -38,6 +38,8 @@ Las cifras:
 - **Bowers y otros (2011)**, sobre intervenciones policiales geográficas: poco desplazamiento y algo de difusión, aunque en conjunto sin significación estadística [^ext-7].
 - **Telep y otros (2014)**, sobre áreas grandes: pocos estudios rigurosos. En barrios y comisarías, el desplazamiento aparece en una pequeña parte de los estudios y la difusión es igual de probable [^ext-7].
 
+**El original de Guerette y Bowers.** Añadido el 26-10-2026 al ingerir [[guerette-bowers-desplazamiento-y-difusion]]. Dos precisiones. En el total, desplazamiento y difusión aparecen casi por igual, 26 y 27 %. La difusión supera al desplazamiento en la forma espacial, la más estudiada: 37 y 23 % [^ext-32]. Además, «nunca superó el beneficio» vale para la revisión descriptiva, donde el desplazamiento nunca fue completo [^ext-32]. En la submuestra con zona de amortiguación hubo un caso, en el centro de una ciudad, donde el desplazamiento superó el efecto. Los autores lo atribuyen a una mala elección de esa zona [^ext-33].
+
 ## Por qué el delito no se mueve tan fácil
 
 - **Acoplamiento al lugar.** El desplazamiento supone que el delito está débilmente atado al lugar. La concentración y su estabilidad sugieren lo contrario: hay características del lugar que no existen en la cuadra de al lado [^ext-8]. En Jersey City, un punto caliente de prostitución tenía pocas casas y muchos edificios vacíos; el área vecina tenía más residentes, que llamarían a la policía. No había dónde moverse [^ext-9]. Ver [[puntos-calientes]].
@@ -50,6 +52,8 @@ Las cifras:
 - La mayoría de los estudios **no se diseñó para medir desplazamiento**, así que rara vez tienen un diseño sólido para detectarlo [^ext-11].
 - El desplazamiento puede tomar **muchas formas y ocurrir a distintas escalas**, y casi toda la investigación mide sólo el desplazamiento espacial inmediato [^ext-11].
 - Depende del **tipo de intervención y de delito** [^ext-11].
+- **Situacional, no policial.** Añadido el 26-10-2026. Guerette y Bowers excluyen las tácticas policiales focalizadas, aunque dicen que sus resultados coinciden con los de la policía [^ext-34].
+- **Sólo lo cercano.** Añadido el 26-10-2026. Su evidencia vale contra el desplazamiento a zonas vecinas. Dice poco de zonas lejanas [^ext-35].
 
 > [!warning] Un plan comunal que afirma el desplazamiento
 > Añadido el 24-10-2026 al ingerir [[las-condes-plan-comunal-2026-2029]]. El plan de Las Condes funda su subsistema de priorización en que el desplazamiento y la mutación del delito en la comuna impiden fijar focos estáticos [^ext-24]. No presenta una medición del desplazamiento. Lo que muestra es un cambio en la composición: entre 2022 y 2025 unos tipos de robo bajan y otros suben [^ext-25]. Esta página trata del desplazamiento espacial tras una intervención, y [[puntos-calientes]] sostiene que los microlugares calientes son estables por años. El plan habla de la comuna y del cuadrante, no del segmento [^inf-4]. El corpus no tiene una medición a escala de calle en la comuna.
@@ -84,6 +88,8 @@ Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. La teo
 El portonazo es justo lo que la teoría niega: un paso de lo simple a lo que exige varios operadores armados [^ext-13]. O la teoría falla en este caso, o el portonazo lo cometen otras personas, como sugiere el dato de menores más agresivos [^inf-3]. Las dos lecturas piden datos que la wiki no tiene.
 
 Añadido el 26-10-2026 al ingerir [[vozmediano-criminologia-ambiental]]. Dos de los diez principios de Felson y Clarke (1998) van en la misma dirección: la reducción de oportunidades normalmente no desplaza el delito, y puede difundir sus beneficios a lugares y horas cercanos [^ext-31]. Viene del mismo círculo teórico que [[clarke-prevencion-situacional]] y [[felson-eckert-delito-y-vida-cotidiana]] [^inf-5].
+
+Añadido el 26-10-2026 al ingerir [[felson-clarke-la-oportunidad-hace-al-ladron]], el original. Felson y Clarke distinguen cinco formas de desplazamiento. Lo derivan de la elección racional: el infractor desplaza cuando el beneficio supera el costo [^ext-36]. Citan una revisión holandesa: 22 de 55 estudios sin desplazamiento, y ninguno donde el desplazado igualara al prevenido [^ext-36]. La difusión puede decaer cuando los infractores descubren el alcance real de una medida [^ext-37].
 
 ## Desplazamientos de mercado y de organización
 
@@ -123,6 +129,8 @@ Sobre el desplazamiento, Clarke cita la revisión de Hesseling (1994): de 55 est
 - [[arias-empresas-criminales-y-gobernanza]] — el desplazamiento de organización: destruir un grupo empodera a sus competidores
 - [[teoria-general-del-delito]] — la predicción teórica de que no hay desplazamiento
 - [[vozmediano-criminologia-ambiental]] — los principios 9 y 10 de Felson y Clarke
+- [[guerette-bowers-desplazamiento-y-difusion]] — la revisión de 102 evaluaciones, de primera mano
+- [[felson-clarke-la-oportunidad-hace-al-ladron]] — los principios 9 y 10, de primera mano
 
 **Por confrontar.** Clarke (1997), en el corpus sin ingerir, es la obra fundacional de la prevención situacional, que es donde nació esta discusión.
 
@@ -164,3 +172,9 @@ Sobre el desplazamiento, Clarke cita la revisión de Hesseling (1994): de 55 est
 [^ext-30]: **Extraído** — [[clarke-prevencion-situacional]], pp. 28-29, citando a Barr y Pease (1990).
 [^ext-31]: **Extraído** — [[vozmediano-criminologia-ambiental]], pp. 59-60, principios 9 y 10.
 [^inf-5]: **Inferido** (confianza 0.7) — los tres textos se apoyan en Felson y Clarke. No son tres evidencias independientes.
+[^ext-32]: **Extraído** — [[guerette-bowers-desplazamiento-y-difusion]], p. 1346, tabla 1 y nota 12.
+[^ext-33]: **Extraído** — [[guerette-bowers-desplazamiento-y-difusion]], p. 1353, sobre Skinns (1998).
+[^ext-34]: **Extraído** — [[guerette-bowers-desplazamiento-y-difusion]], p. 1341, criterio 5, y p. 1357.
+[^ext-35]: **Extraído** — [[guerette-bowers-desplazamiento-y-difusion]], p. 1356.
+[^ext-36]: **Extraído** — [[felson-clarke-la-oportunidad-hace-al-ladron]], pp. 25 y 27-28.
+[^ext-37]: **Extraído** — [[felson-clarke-la-oportunidad-hace-al-ladron]], p. 32.

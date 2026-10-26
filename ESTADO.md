@@ -4,34 +4,34 @@
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 130 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 139 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 95 | 73.1 % |
+| `pendiente` | 96 | 69.1 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 35 | 26.9 % |
+| `completo` | 43 | 30.9 % |
 
 ## Por cumulo
 
 | Cumulo | Total | pendiente | fase1 | fase2 | completo |
 |---|---:|---:|---:|---:|---:|
-| (fuera de INVENTARIO.md) | 2 | 2 | 0 | 0 | 0 |
+| (fuera de INVENTARIO.md) | 3 | 3 | 0 | 0 | 0 |
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
 | Bibliografía S1.1, consulta y complementaria | 12 | 9 | 0 | 0 | 3 |
 | Bibliografía obligatoria S2.4 | 3 | 3 | 0 | 0 | 0 |
-| Explicación del delito | 6 | 1 | 0 | 0 | 5 |
+| Explicación del delito | 11 | 1 | 0 | 0 | 10 |
 | Gobernanza criminal y territorio | 6 | 4 | 0 | 0 | 2 |
 | Ingreso sin clasificar | 9 | 9 | 0 | 0 | 0 |
 | Institucionalidad y política de prevención en Chile | 8 | 3 | 0 | 0 | 5 |
 | Integrados desde el programa del curso (05-09-2026) | 9 | 1 | 0 | 0 | 8 |
 | Juventudes, módulo I de S2.4 | 9 | 9 | 0 | 0 | 0 |
-| Medición e inseguridad | 6 | 4 | 0 | 0 | 2 |
+| Medición e inseguridad | 8 | 4 | 0 | 0 | 4 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
-| Prevención e intervención | 6 | 2 | 0 | 0 | 4 |
+| Prevención e intervención | 7 | 2 | 0 | 0 | 5 |
 | Sistema penal y Estado de derecho | 8 | 6 | 0 | 0 | 2 |
 | Vínculo Estado-crimen | 18 | 18 | 0 | 0 | 0 |
 
@@ -42,6 +42,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 ## Anomalias
 
 - inventario desactualizado: `2017 - Arias - empresas criminales y gobernanza en amlat.pdf` esta en raw/sources/ pero no en INVENTARIO.md
+- inventario desactualizado: `annas-arch-cb4897d86908.pdf` esta en raw/sources/ pero no en INVENTARIO.md
 - inventario desactualizado: `bourdieu_la_juventud_no_es_m_s_que_una_palabra.pdf` esta en raw/sources/ pero no en INVENTARIO.md
 
 ## Verificacion bibliografica pendiente
@@ -66,6 +67,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 ### (fuera de INVENTARIO.md)
 
 - `pendiente` — 2017 - Arias - empresas criminales y gobernanza en amlat.pdf
+- `pendiente` — annas-arch-cb4897d86908.pdf
 - `pendiente` — bourdieu_la_juventud_no_es_m_s_que_una_palabra.pdf
 
 ### Amenaza y securitización
@@ -118,12 +120,17 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 ### Explicación del delito
 
+- `completo` — 1979 - Cohen y Felson - Cambio social y tendencias del delito, un enfoque de las actividades rutinarias.pdf
 - `completo` — 1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf
+- `completo` — 1998 - Felson y Clarke - La oportunidad hace al ladrón, teoría práctica para la prevención del delito.pdf
 - `pendiente` — 2002 - Pavarini - Control y dominación, teorías criminológicas burguesas y proyecto hegemónico.pdf
 - `completo` — 2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf
+- `completo` — 2004 - Weisburd, Bushway, Lum y Yang - Trayectorias del delito en los lugares, un estudio longitudinal de segmentos de calle en Seattle.pdf
 - `completo` — 2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf
 - `completo` — 2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf
+- `completo` — 2015 - Weisburd - La ley de concentración del delito y la criminología del lugar.pdf
 - `completo` — 2016 - Felson y Eckert - El delito y la vida cotidiana.pdf
+- `completo` — 2019 - Chainey y otros - Concentración del delito en microlugares en América Latina.pdf
 
 ### Gobernanza criminal y territorio
 
@@ -183,9 +190,11 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 ### Medición e inseguridad
 
+- `completo` — 2004 - Ratcliffe - Geocodificación del delito y una primera estimación de la tasa mínima aceptable de acierto.pdf
 - `pendiente` — 2012 - Dammert - Miedo y delito en América Latina.pdf
 - `completo` — 2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf
 - `pendiente` — 2016 - Cámara Arroyo - Principales instrumentos de medición de la peligrosidad criminal.md
+- `completo` — 2017 - Bernasco y Steenbeek - Más lugares que delitos, implicancias para evaluar la ley de concentración del delito en el lugar.pdf
 - `pendiente` — 2022 - Luna Pla - El análisis de redes complejas aplicado a grupos de crimen y corrupción.pdf
 - `pendiente` — 2023 - González-Guarda y Salazar-Tobar - Una panorámica de la criminología en Chile, una comunidad científica transitando hacia la profesionalización.pdf
 - `completo` — 2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf
@@ -200,6 +209,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 ### Prevención e intervención
 
 - `completo` — 1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf
+- `completo` — 2009 - Guerette y Bowers - El alcance del desplazamiento del delito y de la difusión de beneficios, una revisión de evaluaciones de prevención situacional.pdf
 - `completo` — 2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf
 - `completo` — 2015 - Vanderschueren - Guía para la prevención en barrios.pdf
 - `pendiente` — 2019 - Schroeder y Coello-Torres - Placemaking, transformación de un lugar en el asentamiento humano Santa Julia, Piura, Perú.pdf

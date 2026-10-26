@@ -1,13 +1,13 @@
 ---
 title: Estudios longitudinales
 type: method
-sources: ["2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
+sources: ["2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2004 - Weisburd, Bushway, Lum y Yang - Trayectorias del delito en los lugares, un estudio longitudinal de segmentos de calle en Seattle.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1, s1-2]
 procedencia: fuentes
 estado: revisado
 creado: 2026-10-17
-actualizado: 2026-10-17
+actualizado: 2026-10-26
 ---
 
 # Estudios longitudinales
@@ -41,8 +41,11 @@ Fuente: [^ext-3].
 | Seguimiento de Moffitt | 1.000 niños durante 32 años | Un mejor autocontrol infantil predijo menos problemas legales en la adultez [^ext-9] |
 | PADS+, de Wikström | 716 jóvenes de Peterborough seguidos desde los 12 años, desde 2003, con una retención del 97 % hasta 2010 | Diario espacio-temporal, dos encuestas de comunidad y escenarios aleatorios a los 13 y 15 años [^ext-10] |
 | EDER, México | Encuesta retrospectiva de 1998, con tres cohortes de hombres y mujeres | La primera encuesta biográfica representativa del país. No es criminológica [^ext-11] |
+| Trayectorias de Seattle, de Weisburd y otros | 29.849 segmentos de calle seguidos de 1989 a 2002 con registros policiales. Añadido el 26-10-2026 | Dieciocho trayectorias. El 84 % de los segmentos es estable, y cerca del 14 % explica la caída del delito en la ciudad [^ext-25] |
 
 **Lo que PADS+ mide.** Propensión y exposición con índices de cuestionario. El autor advierte un límite. La medición se basa en cómo los participantes dicen que responderían en general, no en lo que hacen en situaciones reales [^ext-12]. Ver [[propension-al-delito]] y [[exposicion-criminogena]].
+
+**Trayectorias de lugares.** Añadido el 26-10-2026 al ingerir [[weisburd-trayectorias-seattle]]. El análisis de trayectorias por grupos, de Nagin y Land, nació para seguir personas. Weisburd y otros lo aplicaron a lugares [^ext-26]. Advierten que los grupos aproximan una distribución continua, porque la asignación tiene error [^ext-27].
 
 ## Lo que permiten ver
 
@@ -87,6 +90,7 @@ El cap. X del libro de 2021 propone hacer estudios longitudinales chilenos en ve
 - [[medicion-de-la-victimizacion]]: una encuesta transversal
 - [[prevencion-del-delito]]: los factores de riesgo, que se apoyan en estos estudios
 - [[teoria-general-del-delito]] — la crítica del diseño desde la teoría del control
+- [[weisburd-trayectorias-seattle]] — trayectorias de lugares, no de personas
 
 ---
 
@@ -118,3 +122,6 @@ El cap. X del libro de 2021 propone hacer estudios longitudinales chilenos en ve
 [^inf-2]: **Inferido** (confianza 0.7) — revisión del corpus ingerido. La ENUSC se describe en [[medicion-de-la-victimizacion]]. Que cada año encueste hogares distintos es lectura de esta wiki, no afirmación del informe del INE.
 [^inf-3]: **Inferido** (confianza 0.9) — revisión de `wiki/methodology/`.
 [^inf-4]: **Inferido** (confianza 0.7) — de esta wiki. Los datos de PADS+ están en [[wikstrom-por-que-se-delinque]].
+[^ext-25]: **Extraído** — [[weisburd-trayectorias-seattle]], pp. 291 y 298-303.
+[^ext-26]: **Extraído** — [[weisburd-trayectorias-seattle]], pp. 295-296.
+[^ext-27]: **Extraído** — [[weisburd-trayectorias-seattle]], p. 296, nota 9.

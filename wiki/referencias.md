@@ -50,6 +50,12 @@ imprenta · `programa/S1.2` la cita como «Cabrera, C.»: el documento dice Mari
 manual docente que compila a otros autores: al citar a Corbetta, Galtung, Kerlinger o
 Hernández Sampieri a través de él, verificar el año en el original
 
+Bernasco, W. y Steenbeek, W. (2017). More places than crimes: Implications for evaluating the
+law of crime concentration at place. *Journal of Quantitative Criminology, 33*(3), 451-467.
+https://doi.org/10.1007/s10940-016-9324-7
+→ [[bernasco-steenbeek-mas-lugares-que-delitos]] · verificada contra la primera página del
+artículo · acceso abierto · artículo de método
+
 Blanco, M. (2011). El enfoque del curso de vida: orígenes y desarrollo. *Revista
 Latinoamericana de Población, 5*(8), 5-31.
 → [[blanco-curso-de-vida]] · verificada contra la portada de Redalyc · coincide con lo que pide
@@ -78,16 +84,33 @@ redactó Salvador David Hernández Latorre · **informe por encargo, exploratori
 errores de hecho: verificar cada dato antes de citarlo · el caso de Peñalolén sale de la
 propia dirección municipal
 
+Chainey, S. P., Pezzuchi, G., Guerrero Rojas, N. O., Hernandez Ramirez, J. L., Monteiro, J. y
+Rosas Valdez, E. (2019). Crime concentration at micro-places in Latin America. *Crime Science,
+8*, Artículo 5. https://doi.org/10.1186/s40163-019-0100-5
+→ [[chainey-concentracion-america-latina]] · verificada contra la primera página del artículo ·
+acceso abierto · **las cifras de las ciudades brasileñas no cuadran con la tabla de
+segmentos**: verificar antes de citarlas
+
 Clarke, R. V. (Ed.). (1997). *Situational crime prevention: Successful case studies* (2.ª ed.).
 Harrow and Heston.
 → [[clarke-prevencion-situacional]] · verificada contra la página de créditos · **el archivo trae
 sólo la introducción**: los casos que cita no están en el corpus, citarlos por su fuente original
+
+Cohen, L. E. y Felson, M. (1979). Social change and crime rate trends: A routine activity
+approach. *American Sociological Review, 44*(4), 588-608.
+→ [[cohen-felson-actividades-rutinarias]] · verificada contra la primera página del artículo,
+en copia de JSTOR · obra en inglés sin traducción
 
 Decreto 96 de 2025 [Ministerio de Seguridad Pública]. Aprueba la Política Nacional de Seguridad
 Pública. 22 de octubre de 2025. Diario Oficial de la República de Chile, 30 de enero de 2026.
 https://bcn.cl/X2zs8w
 → [[pnsp-2025-2031]] · verificada contra el encabezado de la BCN · vigente para 2025-2031 · la Ley
 21.802 ordena actualizarla hacia agosto de 2027
+
+Felson, M. y Clarke, R. V. (1998). *Opportunity makes the thief: Practical theory for crime
+prevention* (Police Research Series, Paper 98). Home Office.
+→ [[felson-clarke-la-oportunidad-hace-al-ladron]] · verificada contra la portada y la página de
+créditos · informe de divulgación: las cifras de desplazamiento vienen de revisiones ajenas
 
 Felson, M. y Eckert, M. A. (2016). *Crime and everyday life* (5.ª ed.). SAGE.
 → [[felson-eckert-delito-y-vida-cotidiana]] · verificada contra la página de créditos · leídos los
@@ -104,6 +127,13 @@ Gottfredson, M. R. y Hirschi, T. (1990). *A general theory of crime*. Stanford U
 catalogación · coincide con `programa/S1.1`, salvo la grafía «Standford» del programa · obra en
 inglés sin traducción en el corpus: el nombre del archivo está en castellano, el texto no · las
 teorías que critica son de segunda mano: citar a Merton, Sutherland o Cressey por su obra
+
+Guerette, R. T. y Bowers, K. J. (2009). Assessing the extent of crime displacement and
+diffusion of benefits: A review of situational crime prevention evaluations. *Criminology,
+47*(4), 1331-1368. https://doi.org/10.1111/j.1745-9125.2009.00177.x
+→ [[guerette-bowers-desplazamiento-y-difusion]] · verificada contra la primera página del
+artículo · el PDF no trae el DOI, que se tomó de la referencia ya citada · excluye las tácticas
+policiales
 
 Guerra Araya, P., Garbisú, P. A. y Sánchez Bravo, F. (2024). *Orquestando el ecosistema de
 seguridad local: el modelo Las Condes*. Dirección de Seguridad Pública, Municipalidad de Las Condes.
@@ -167,6 +197,12 @@ de Ciudades más Seguras*. Programa de las Naciones Unidas para los Asentamiento
 Humanos.
 → [[onu-habitat-guia-barrios]] · **verificación bibliográfica pendiente**: la portada
 dice «Borrador avanzado» · coescrita por Franz Vanderschueren, docente de S1.1
+
+Ratcliffe, J. H. (2004). Geocoding crime and a first estimate of a minimum acceptable hit rate.
+*International Journal of Geographical Information Science, 18*(1), 61-72.
+https://doi.org/10.1080/13658810310001596076
+→ [[ratcliffe-tasa-de-geocodificacion]] · verificada contra la primera página del artículo · no
+confundir con «The hotspot matrix», del mismo autor y año
 
 Sampson, R. (2006). Vecindario y comunidad: eficacia colectiva y seguridad
 ciudadana (E. Larrauri Pijoan, Trad.). En *Claves del Gobierno Local* (Vol. 6,
@@ -234,6 +270,16 @@ Vozmediano Sanz, L. y San Juan Guillén, C. (2010). *Criminología ambiental: ec
 de la seguridad*. Editorial UOC.
 → [[vozmediano-criminologia-ambiental]] · verificada contra la página de créditos · leídos los caps.
 III y IV · manual: las teorías se citan por su obra original
+
+Weisburd, D. (2015). The law of crime concentration and the criminology of place. *Criminology,
+53*(2), 133-157. https://doi.org/10.1111/1745-9125.12070
+→ [[weisburd-ley-de-concentracion]] · verificada contra la primera página del artículo · fuente
+original de las bandas que repite Weisburd y otros (2016)
+
+Weisburd, D., Bushway, S., Lum, C. y Yang, S.-M. (2004). Trajectories of crime at places: A
+longitudinal study of street segments in the city of Seattle. *Criminology, 42*(2), 283-322.
+→ [[weisburd-trayectorias-seattle]] · verificada contra la primera página del artículo, en
+copia de SSRN · trae una hoja de fe de erratas para la figura 9
 
 Weisburd, D., Eck, J. E., Braga, A. A., Telep, C. W., Cave, B., Bowers, K.,
 Bruinsma, G., Gill, C., Groff, E. R., Hibdon, J., Hinkle, J. C., Johnson, S. D.,

@@ -16,7 +16,7 @@ Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026
 ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con las de Batthyány y Cabrera
 (2011), el INE (2023), Srur (2014), el capítulo de Boba (2010), el CIPC (2015), Baratta (2004) y Kessler (2004), y el 17-10-2026, con las de Blanco (2011) y Gottfredson y Hirschi (1990). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**41 abiertos.** Al 26-10-2026, con el saldo de la tanda S1.2c: dos ítems nuevos y cuatro enmiendas. Al 24-10-2026, con tres ítems de la ingesta de la Ley 20.965 y el plan
+**41 abiertos.** Al 26-10-2026, con el saldo de la tanda S1.2d: ningún ítem nuevo, una enmienda y un ambiguo de página resuelto, los dos Ratcliffe de 2004. Antes, ese mismo día, con el saldo de la tanda S1.2c: dos ítems nuevos y cuatro enmiendas. Al 24-10-2026, con tres ítems de la ingesta de la Ley 20.965 y el plan
 comunal de Las Condes, y el saldo de la tanda S1.2b: dos resueltos y tres nuevos.
 
 **A. Sólo esperan una decisión del autor (16).** Se pueden resolver hoy.
@@ -86,7 +86,7 @@ ingesta se cumple.
 pasó PADS+ a la 3. El CIPC no cumplió el criterio de Peñalolén, que pasa a la 6. La 3 cerró el
 17-10-2026: resolvió criminalización y selectividad penal, con Baratta, y PADS+, con Blanco.
 Kessler no destrabó ninguno. La 4 empezó el 17-10: Gottfredson y Hirschi resolvió el control social
-informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clarke y Felson y Eckert. La S1.2c, del 26-10, no resolvió ninguno: cumplió el criterio de la articulación nacional y local, y la seguridad ciudadana quedó sólo para Luneke y Trebilcock. La 5 destraba dos, y la 6, cuatro.
+informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clarke y Felson y Eckert. La S1.2c, del 26-10, no resolvió ninguno: cumplió el criterio de la articulación nacional y local, y la seguridad ciudadana quedó sólo para Luneke y Trebilcock. La S1.2d, del mismo día, tampoco: sus ocho artículos amplían páginas que ya existían. La 5 destraba dos, y la 6, cuatro.
 
 ## Abiertos
 
@@ -277,6 +277,10 @@ informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clar
       advierte que la evidencia controlada viene de países de ingresos altos (p. 56).
       [[vozmediano-criminologia-ambiental]] trae ejemplos españoles de mapas, no chilenos. Sigue
       abierto. En el corpus quedan SPD (2022) y la guía del Gobierno de Santiago.
+      **Enmienda 26-10-2026** (tanda S1.2d): [[chainey-concentracion-america-latina]] mide la
+      concentración a escala de segmento en 42 ciudades latinoamericanas, con un año de datos.
+      Ninguna es chilena. Es la primera evidencia regional del corpus, pero no responde la
+      pregunta. Sigue abierto.
 
 - [ ] **[alcance]** Zúñiga Núñez (2013) es, sobre todo, teoría del Estado.
       [[zuniga-civilizacion-y-derechos-humanos]] entró el 26-09-2026 por decisión

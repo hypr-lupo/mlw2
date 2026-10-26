@@ -1,7 +1,7 @@
 ---
 title: Evaluación de programas de prevención
 type: method
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf", "2009 - Guerette y Bowers - El alcance del desplazamiento del delito y de la difusión de beneficios, una revisión de evaluaciones de prevención situacional.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1, s1-2, s2-4]
 procedencia: fuentes
@@ -94,6 +94,8 @@ En este último punto hace una afirmación que conviene retener. Se ha puesto el
 
 **El mismo autor, seis años antes.** En 2015 Tudela privilegiaba los diseños experimentales y cuasiexperimentales y se situaba en la investigación positivista orientada al conocimiento aplicado [^ext-31]. En 2021 no abandona esos diseños para medir el efecto, pero afirma que la evaluación comprensiva es más útil para entender la implementación [^ext-17]. Es una distinción entre preguntas, no un cambio de bando. Y como es el mismo autor, las dos fuentes no se confirman entre sí.
 
+**Para medir desplazamiento.** Añadido el 26-10-2026 al ingerir [[guerette-bowers-desplazamiento-y-difusion]]. Hacen falta tres zonas: la de tratamiento, una de amortiguación alrededor y una de control [^ext-44]. Con ellas se calcula el cociente de desplazamiento ponderado. Compara el cambio en la zona de amortiguación con el éxito en la de tratamiento, y su signo dice si hubo desplazamiento o difusión [^ext-45]. De 206 evaluaciones de prevención situacional, sólo 13 tenían ese diseño [^ext-46]. Ver [[desplazamiento-y-difusion]].
+
 ## Por qué evaluar prevención es difícil
 
 - **Las dos paradojas** del cap. XIII. El vínculo de la prevención con lo que previene es siempre indirecto, y si tiene éxito no se ve [^ext-18]. Ver [[prevencion-del-delito]].
@@ -151,6 +153,7 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 - [[estadisticas-delictuales]] — la prueba antes y después con un grupo de comparación, y la significancia
 - [[buenas-practicas]] — la buena práctica como cuarta idea de evidencia
 - [[unodc-manual-directrices-prevencion]] — el marco lógico y la transferencia de la evidencia
+- [[guerette-bowers-desplazamiento-y-difusion]] — el cociente de desplazamiento ponderado
 
 **Por confrontar.** CIPC (2015), en la tanda 2, si trae evaluaciones. Batthyány y Cabrera (2011) entró el 16-10-2026 y no trata diseños de impacto. Tudela (2015) entró el 27-09-2026.
 
@@ -206,3 +209,6 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 [^inf-7]: **Inferido** (confianza 0.8) — la gerenta que cita el CIPC, Norma Maray, es la autora del cap. VII de [[vanderschueren-prevencion-del-delito]].
 [^ext-42]: **Extraído** — [[unodc-manual-directrices-prevencion]], p. 58.
 [^ext-43]: **Extraído** — [[unodc-manual-directrices-prevencion]], p. 56.
+[^ext-44]: **Extraído** — [[guerette-bowers-desplazamiento-y-difusion]], pp. 1338-1339 y 1341-1342.
+[^ext-45]: **Extraído** — [[guerette-bowers-desplazamiento-y-difusion]], pp. 1343-1345 y 1350, sobre Bowers y Johnson (2003).
+[^ext-46]: **Extraído** — [[guerette-bowers-desplazamiento-y-difusion]], pp. 1355-1356.
