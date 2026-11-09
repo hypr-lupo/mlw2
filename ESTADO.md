@@ -1,25 +1,24 @@
 # Estado del despliegue
 
-**Generado:** 2026-10-26 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
+**Generado:** 2026-10-30 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 139 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 143 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (7 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 96 | 69.1 % |
+| `pendiente` | 100 | 69.9 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 43 | 30.9 % |
+| `completo` | 43 | 30.1 % |
 
 ## Por cumulo
 
 | Cumulo | Total | pendiente | fase1 | fase2 | completo |
 |---|---:|---:|---:|---:|---:|
-| (fuera de INVENTARIO.md) | 3 | 3 | 0 | 0 | 0 |
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
 | Bibliografía S1.1, consulta y complementaria | 12 | 9 | 0 | 0 | 3 |
 | Bibliografía obligatoria S2.4 | 3 | 3 | 0 | 0 | 0 |
@@ -28,10 +27,11 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 | Ingreso sin clasificar | 9 | 9 | 0 | 0 | 0 |
 | Institucionalidad y política de prevención en Chile | 8 | 3 | 0 | 0 | 5 |
 | Integrados desde el programa del curso (05-09-2026) | 9 | 1 | 0 | 0 | 8 |
-| Juventudes, módulo I de S2.4 | 9 | 9 | 0 | 0 | 0 |
+| Juventudes, desigualdad y violencias, módulo II de S2.4 | 5 | 5 | 0 | 0 | 0 |
+| Juventudes, módulo I de S2.4 | 10 | 10 | 0 | 0 | 0 |
 | Medición e inseguridad | 8 | 4 | 0 | 0 | 4 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
-| Prevención e intervención | 7 | 2 | 0 | 0 | 5 |
+| Prevención e intervención | 8 | 3 | 0 | 0 | 5 |
 | Sistema penal y Estado de derecho | 8 | 6 | 0 | 0 | 2 |
 | Vínculo Estado-crimen | 18 | 18 | 0 | 0 | 0 |
 
@@ -41,9 +41,7 @@ Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/ref
 
 ## Anomalias
 
-- inventario desactualizado: `2017 - Arias - empresas criminales y gobernanza en amlat.pdf` esta en raw/sources/ pero no en INVENTARIO.md
-- inventario desactualizado: `annas-arch-cb4897d86908.pdf` esta en raw/sources/ pero no en INVENTARIO.md
-- inventario desactualizado: `bourdieu_la_juventud_no_es_m_s_que_una_palabra.pdf` esta en raw/sources/ pero no en INVENTARIO.md
+*Ninguna.*
 
 ## Verificacion bibliografica pendiente
 
@@ -63,12 +61,6 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 ## Detalle por documento
 
-
-### (fuera de INVENTARIO.md)
-
-- `pendiente` — 2017 - Arias - empresas criminales y gobernanza en amlat.pdf
-- `pendiente` — annas-arch-cb4897d86908.pdf
-- `pendiente` — bourdieu_la_juventud_no_es_m_s_que_una_palabra.pdf
 
 ### Amenaza y securitización
 
@@ -176,6 +168,14 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf
 - `completo` — 2023 - Minayo, Deslandes y Gomes - Investigación social, teoría, método y creatividad.pdf
 
+### Juventudes, desigualdad y violencias, módulo II de S2.4
+
+- `pendiente` — 2019 - Gasparini - La desigualdad en su laberinto, hechos y perspectivas sobre desigualdad de ingresos en América Latina.pdf
+- `pendiente` — 2020 - UNICEF - Educación en pausa, una generación de niños y niñas en América Latina y el Caribe está perdiendo la escolarización debido al COVID-19.pdf
+- `pendiente` — 2024 - Arias Ortiz, Dueñas, Giambruno y López - El estado de la educación en América Latina y el Caribe 2024, la medición de los aprendizajes.pdf
+- `pendiente` — 2024 - Gregson - Violencia armada y programación de UNICEF en América Latina y el Caribe, documento de trabajo.pdf
+- `pendiente` — 2024 - Queijo, Rodríguez Chatruc y Sotto - Juventud desigual, un reto para el desarrollo del Cono Sur.pdf
+
 ### Juventudes, módulo I de S2.4
 
 - `pendiente` — 1998 - Brito Lemus - Hacia una sociología de la juventud, algunos elementos para la deconstrucción de un nuevo paradigma de la juventud.pdf
@@ -184,6 +184,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2000 - Sennett - La corrosión del carácter, las consecuencias personales del trabajo en el nuevo capitalismo.pdf
 - `pendiente` — 2003 - Lozano Urbieta - Nociones de juventud.pdf
 - `pendiente` — 2007 - Souto Kustrín - Juventud, teoría e historia, la formación de un sujeto social y de un objeto de análisis.pdf
+- `pendiente` — 2008 - Arce Cortés - Subcultura, contracultura, tribus urbanas y culturas juveniles, ¿homogenización o diferenciación.pdf
 - `pendiente` — 2010 - Krauskopf - La condición juvenil contemporánea en la constitución identitaria.pdf
 - `pendiente` — 2012 - Rubio Gil y San Martín Pascal - Subculturas juveniles, identidad, idolatrías y nuevas tendencias.pdf
 - `pendiente` — 2015 - Romero Miranda - La edad sociológica, una mirada de la infancia desde el adelantamiento y la acumulación de experiencia.pdf
@@ -214,6 +215,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `completo` — 2015 - Vanderschueren - Guía para la prevención en barrios.pdf
 - `pendiente` — 2019 - Schroeder y Coello-Torres - Placemaking, transformación de un lugar en el asentamiento humano Santa Julia, Piura, Perú.pdf
 - `completo` — 2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf
+- `pendiente` — 2026 - Fundación Placemaking - Placemaking, espacio público y participación comunitaria para construir paz (presentación de webinar).pdf
 - `pendiente` — s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf
 
 ### Sistema penal y Estado de derecho

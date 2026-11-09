@@ -21,15 +21,14 @@ el corpus, 53 %. Nada bloquea la ingesta.
 
 En este orden:
 
-1. **Tanda 4a**, antes de la clase de S2.4 del 24-10 o, si no alcanza, de la del 07-11:
+1. **Tanda 4a**, antes del 07-11: la reseña de S2.4 se entrega el 09-11 y pide dos textos de la bibliografía del curso:
    Duarte Quapper (2012) · Bourdieu (2002) · Brizuela (2014), y *si alcanza* cuatro obras
    cortas de juventudes. La tanda 4 quedó sin obras pendientes: Clarke y Felson y Eckert
    entraron el 24-10 en la S1.2b. Ver `purpose.md`.
 2. **Decisiones que sólo toma el autor.** Dieciséis, en el grupo A de [[revision]]. La más
    antigua es la página `tesis-` sobre el anclaje empírico, abierta desde el 29-08. Fuera
-   de la cola, dos más: retirar de `raw/sources/` el duplicado exacto de Arias (2017), que
-   llegó el 02-10, y `annas-arch-cb4897d86908.pdf`, otra copia de Weisburd y otros (2016), que
-   llegó el 26-10. Mientras sigan, `scripts/estado.py` los reporta como anomalía.
+   de la cola, una más: borrar `raw/_a_eliminar/`, con 25 copias duplicadas que se
+   sacaron del corpus el 30-10. Ver `INVENTARIO.md`.
 3. **Verificaciones bibliográficas.** Nueve, en el grupo B de [[revision]]. Mientras sigan
    abiertas, esas obras no se citan en trabajos evaluados: Sampson, Adams, las dos guías de
    barrios, Zúñiga Núñez, Gardner, Arias y el tipo penal de femicidio.

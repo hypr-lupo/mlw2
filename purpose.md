@@ -120,20 +120,22 @@ núcleo ancla, según los cúmulos de `INVENTARIO.md`:
 4. Explicación del delito (4)
 5. Prevención e intervención (4)
 6. Medición e inseguridad (5)
-7. Juventudes, módulo I de S2.4 (5 restantes, fuera de la tanda 4a)
+7. Juventudes, módulo I de S2.4 (6 restantes, fuera de la tanda 4a)
+7b. Juventudes, desigualdad y violencias, módulo II de S2.4 (5)
 8. Gobernanza criminal y territorio (6)
 9. Sistema penal y Estado de derecho (8)
 10. Integrados desde el programa del curso (9)
 11. Vínculo Estado-crimen (18)
 12. Amenaza y securitización (24)
 
-Diez ajustes al orden original. El primero se decidió el 12-09-2026 al cerrar el
+Once ajustes al orden original. El primero se decidió el 12-09-2026 al cerrar el
 núcleo ancla, los dos siguientes el 13-09-2026 al agnosticar la ingesta, el cuarto el
 26-09-2026 con el calendario de clases a la vista, el quinto el 23-10-2026, al llegar
 cinco obras nuevas y la pauta de la prueba final de S1.1, tres más el
 24-10-2026: las normas del diseño de S1.2, nueve obras sobre juventudes y cuatro obras
 más para el diseño de S1.2, el noveno el 26-10-2026, con otras cuatro para el mismo diseño, y el
-último ese mismo día, con ocho artículos que el diseño cita:
+décimo ese mismo día, con ocho artículos que el diseño cita, y el último el 30-10-2026,
+al llegar siete obras nuevas y la fecha de la reseña de S2.4:
 
 - **La bibliografía de consulta de S1.1 sube al segundo lugar**, por delante de los
   programas oficiales restantes. Razón: los cuatro programas de los ramos en curso ya
@@ -280,6 +282,22 @@ más para el diseño de S1.2, el noveno el 26-10-2026, con otras cuatro para el 
     mínima de geocodificación y el Gini generalizado.
   Faltó Baron y Kenny (1986), que el autor no pudo ubicar. Llegó también una copia duplicada de
   Weisburd y otros (2016), que no se ingiere. La 4a corre detrás sin otros cambios.
+- **La tanda 4a se cierra antes del 09-11 y las obras nuevas no entran al calendario**
+  (30-10-2026). Llegaron siete obras, registradas en `INVENTARIO.md`. Ninguna está en la
+  bibliografía oficial de un ramo. Razones:
+  · la reseña de S2.4 se entrega el lunes 09-11 y exige al menos dos textos de la
+    bibliografía del curso. Las tres obras de la 4a son obligatorias del ramo, de modo
+    que la 4a sigue primera y su plazo pasa a ser el 07-11, sin holgura;
+  · cinco obras forman el cúmulo `Juventudes, desigualdad y violencias, módulo II de
+    S2.4`. Son informes con cifras de contexto que caducan, no teoría. Entran por cúmulos
+    como 7b, detrás del módulo I. UNICEF (2020) es la única que la clase II cita;
+  · Arce Cortés (2008) se suma al cúmulo del módulo I y corre con él;
+  · Fundación Placemaking (2026) son diapositivas de un webinar. Acompañan a Schroeder y
+    Coello-Torres (2019) en la tanda 5, como «si alcanza», y sólo si el grupo de S1.1
+    elige un espacio público;
+  · el programa en PDF de S1.1 pasó a `Programas oficiales y malla` y se ingiere por
+    excepción, como los demás programas.
+  Las tandas 5 y 6 no cambian.
 
 **Corpus sin clasificar.** Trece archivos ingresaron a `raw/sources/` el 12-09-2026 sin
 nomenclatura y sin decisión de alcance. Están en cuarentena en `INVENTARIO.md` y **no

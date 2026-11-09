@@ -1,6 +1,6 @@
 # INVENTARIO — corpus de fuentes
 
-**Fecha:** 26-10-2026 · **Total:** 143 documentos · **767 MB**
+**Fecha:** 30-10-2026 · **Total:** 150 documentos · **835 MB**
 
 > **Nomenclatura normalizada el 12-09-2026.** Los 114 documentos siguen ya el
 > patrón `año - autor - título`; no queda ninguno fuera de convención. Sin año
@@ -10,6 +10,17 @@
 > este archivo, en el cúmulo `Ingreso sin clasificar`, que es una cuarentena y no
 > una categoría temática. Ninguno entra al orden de ingesta hasta que se resuelva
 > el ítem correspondiente de `wiki/revision.md`.
+>
+> **Ingreso del 30-10-2026.** Llegaron 27 archivos con nombre opaco. Veinte eran copias
+> de documentos ya registrados: quince con el mismo MD5 y cinco con otro MD5 pero el
+> mismo texto (Bourdieu ×2, Sampson, la guía de ONU-Hábitat y Weisburd y otros, 2016).
+> Se movieron a `raw/_a_eliminar/`, fuera del corpus, a la espera de que el autor los
+> borre. Ahí quedaron también los duplicados de Arias (2017) y Bourdieu del 24-10 y
+> el `annas-arch` del 26-10. Siete obras son nuevas y el programa en PDF de S1.1 pasó
+> de `programa/` a este corpus: ver los cúmulos `Juventudes, desigualdad y violencias,
+> módulo II de S2.4`, `Juventudes, módulo I de S2.4`, `Prevención e intervención` y
+> `Programas oficiales y malla`. **Ninguna de las siete figura en la bibliografía
+> oficial** de los programas recibidos.
 
 `raw/sources/` es plano y no admite subcarpetas. La única taxonomía del corpus es
 esta tabla: el agrupamiento vive aquí, en metadatos, no en el árbol de archivos.
@@ -127,7 +138,7 @@ el ramo pasa de una a cuatro de sus nueve obligatorias en el corpus.
 - **Brizuela.** *Revista Cátedra Paralela*, n.º 11, 2014, pp. 313-317. Reseña la edición
   de Paidós de 2010, y el corpus tiene la de 2004.
 
-## Juventudes, módulo I de S2.4 · 9 doc.
+## Juventudes, módulo I de S2.4 · 10 doc.
 
 
 Alimenta: S2.4, módulo I. Ninguna es obligatoria del programa vigente.
@@ -176,8 +187,54 @@ programa recibido.
 como documentos ni se ingieren:
 `2017 - Arias - empresas criminales y gobernanza en amlat.pdf` tiene el mismo MD5 que
 Arias (2017), y `bourdieu_la_juventud_no_es_m_s_que_una_palabra.pdf` tiene otro MD5,
-pero su texto y sus seis páginas coinciden con Bourdieu (2002). Siguen en
-`raw/sources/` hasta que el autor los retire.
+pero su texto y sus seis páginas coinciden con Bourdieu (2002). El 30-10-2026 se
+movieron a `raw/_a_eliminar/`.
+
+**Una obra sumada el 30-10-2026.** No está en el programa vigente ni en el de 2023.
+
+| Documento | MB | MD5 |
+|---|---:|---|
+| 2008 - Arce Cortés - Subcultura, contracultura, tribus urbanas y culturas juveniles, ¿homogenización o diferenciación.pdf | 0.2 | `dadfaf7be9ad` |
+
+- **Arce Cortés.** *Revista Argentina de Sociología*, año 6, n.º 11, 2008, pp. 257-271.
+  Universidad Iberoamericana, México. Llegó como
+  `Subcultura, contra cultura, Tribus urbanasy culturas juveniles.pdf`. Cubre el tema del
+  módulo I sobre culturas y subculturas juveniles, junto a Feixa y Rubio Gil.
+
+## Juventudes, desigualdad y violencias, módulo II de S2.4 · 5 doc.
+
+
+Alimenta: S2.4, módulo II. Ninguna es bibliografía del programa vigente.
+
+Llegaron el 30-10-2026 con nombres opacos, junto con la presentación de la clase II de
+S2.4, y se identificaron por su portada o su página de imprenta. Son informes de
+organismos y documentos de trabajo, no teoría: aportan cifras de contexto sobre
+desigualdad, educación y violencia en la región, y esas cifras caducan.
+
+| Documento | MB | MD5 |
+|---|---:|---|
+| 2019 - Gasparini - La desigualdad en su laberinto, hechos y perspectivas sobre desigualdad de ingresos en América Latina.pdf | 0.5 | `246837719891` |
+| 2020 - UNICEF - Educación en pausa, una generación de niños y niñas en América Latina y el Caribe está perdiendo la escolarización debido al COVID-19.pdf | 6.5 | `7c0da3994d6f` |
+| 2024 - Arias Ortiz, Dueñas, Giambruno y López - El estado de la educación en América Latina y el Caribe 2024, la medición de los aprendizajes.pdf | 2.2 | `0960c9f6387a` |
+| 2024 - Gregson - Violencia armada y programación de UNICEF en América Latina y el Caribe, documento de trabajo.pdf | 3.1 | `25b209a40490` |
+| 2024 - Queijo, Rodríguez Chatruc y Sotto - Juventud desigual, un reto para el desarrollo del Cono Sur.pdf | 1.7 | `8897964f7168` |
+
+- **Gasparini.** Documento de Trabajo n.º 256 del CEDLAS, Universidad Nacional de La
+  Plata, diciembre de 2019. Llegó como `La Desigualdad en su Laberinto.pdf`.
+- **UNICEF.** Oficina Regional para América Latina y el Caribe, noviembre de 2020, ISBN
+  978-92-806-5184-3. Autoras: Seusan y Maradiegue. Llegó como `Educacion-en-pausa.pdf`.
+  **La presentación de la clase II la cita** («Unicef, 2020»), con la proyección de 3,1
+  millones de estudiantes que podrían no volver a la escuela.
+- **Arias Ortiz, Dueñas, Giambruno y López.** BID, Nota técnica IDB-TN-03003, septiembre
+  de 2024. Llegó como `el-estado-de-la-educacion-en-america-medicion-de-los-aprendizajes.pdf`.
+  La clase II atribuye a «BID (2023)» un abandono escolar del 27 %. Este informe da el
+  mismo porcentaje, pero el año no coincide: es una identificación probable, no
+  verificada.
+- **Gregson.** UNICEF, Panamá, 2024. *Armed violence and programming for UNICEF in Latin
+  America and the Caribbean: A working paper*. En inglés; el título del archivo es
+  traducción. Llegó como `Armed Violence Working Paper - English.pdf.pdf`.
+- **Queijo, Rodríguez Chatruc y Sotto.** BID, Monografía n.º 1253, 2024. Llegó como
+  `Juventud-desigual-un-reto-para-el-desarrollo-del-Cono-Sur.pdf`.
 
 ## Explicación del delito · 11 doc.
 
@@ -273,7 +330,7 @@ la tanda S1.2d. Es otra copia de Weisburd y otros (2016): el texto extraído es 
 difiere en 148 bytes. No se ingiere ni se cuenta. Borrarlo de `raw/sources/` es decisión del autor. Ver
 `wiki/revision.md`.
 
-## Prevención e intervención · 7 doc.
+## Prevención e intervención · 8 doc.
 
 
 Alimenta: S1.1, S2.3, S3.1.
@@ -288,6 +345,7 @@ Alimenta: S1.1, S2.3, S3.1.
 | 2019 - Schroeder y Coello-Torres - Placemaking, transformación de un lugar en el asentamiento humano Santa Julia, Piura, Perú.pdf | 1.4 | `ae86d2118c19` |
 | 2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf | 11.9 | `5c580cd0b7ff` |
 | s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf | 15.1 | `27b8260d7fab` |
+| 2026 - Fundación Placemaking - Placemaking, espacio público y participación comunitaria para construir paz (presentación de webinar).pdf | 17.8 | `c744f0a4514e` |
 
 **Dos documentos sumados el 23-10-2026**, ambos sobre barrio y espacio público. Sirven a
 los módulos 3 y 4 de S1.1 y a su prueba final, cuya pauta admite como objeto «un espacio
@@ -302,6 +360,11 @@ público significativo».
 - **Schroeder y Coello-Torres (2019).** Llegó el 23-10-2026 como `PLACEMAKING.pdf`.
   *Revista Hábitat Sustentable, 9*(1), 6-19. La presentación del módulo 4 de S1.1 trata el
   placemaking y no cita este artículo.
+- **Fundación Placemaking (2026).** Sumada el 30-10-2026. Llegó como
+  `Placemaking__espacio_p_blico_y_participaci_n_comunitaria_para_construir_paz.pdf`. Son
+  las diapositivas de un webinar del 07-10-2026, con tres experiencias en México. No es
+  texto académico: sirve de apoyo a la prueba final de S1.1 si el grupo elige un espacio
+  público, y no se cita como bibliografía sin el respaldo de una obra.
 
 ## Institucionalidad y política de prevención en Chile · 8 doc.
 
@@ -445,7 +508,7 @@ Alimenta: S3.E4.
 | 2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf | 0.7 | `c87e377d5d6e` |
 | 2023 - Minayo, Deslandes y Gomes - Investigación social, teoría, método y creatividad.pdf | 7.8 | `28cc6ea65da8` |
 
-## Programas oficiales y malla · 7 doc.
+## Programas oficiales y malla · 8 doc.
 
 El programa de S2.4 de la promoción 2023 quedó reemplazado el 17-10-2026 por el vigente, de 2026. Se conserva para comparar las dos versiones. Ver `programa/S2.4`.
 
@@ -457,6 +520,7 @@ El programa de S2.4 de la promoción 2023 quedó reemplazado el 17-10-2026 por e
 | 2025 - Universidad Alberto Hurtado - Programa del curso, Sistema penal, política criminal y Estado de derecho.pdf | 0.1 | `1c31c6bed0ea` |
 | 2026 - Universidad Alberto Hurtado - Horario, cohorte 2026, segundo semestre.pdf | 0.2 | `d682a5d2d7d9` |
 | 2026 - Universidad Alberto Hurtado - Programa del curso, Abordaje de la violencia y delincuencia adolescente y juvenil.pdf | 0.3 | `eccfe14e7da3` |
+| 2026 - Universidad Alberto Hurtado - Programa del curso, Introducción a la criminología y aspectos teóricos de la prevención del delito y la violencia.pdf | 0.2 | `ca72cd4eae09` |
 | 2026 - Universidad Alberto Hurtado - Programa del curso, Introducción a la criminología y aspectos teóricos de la prevención del delito y la violencia (síntesis).md | 0.0 | `f6258904c24f` |
 | 2026 - Universidad Alberto Hurtado - Programa del Magíster, presentación y malla.md | 0.0 | `65150a2e467f` |
 
