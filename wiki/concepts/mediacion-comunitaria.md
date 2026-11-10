@@ -1,13 +1,13 @@
 ---
 title: Mediación comunitaria
 type: concept
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf", "s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-09-26
+actualizado: 2026-11-09
 ---
 
 # Mediación comunitaria
@@ -63,6 +63,22 @@ La guía de 2010 describe la mediación como un proceso para cesar el clima de c
 > [!note] Las dos fuentes no son independientes
 > El cap. XII cita la definición como «ONU-Habitat, 2016». Su bibliografía no tiene una entrada con ese autor; la única obra de ese año que calza es la *Guía de Mediación Comunitaria* de Olave, Strozenberg y Mosciatti, publicada por ONU-Hábitat y la UAH [^ext-13] [^inf-3]. Olave y Mosciatti son editores de la guía de barrios de 2010, y el recuadro de esa guía sobre la mediación viene de una presentación de Strozenberg en Pedro Aguirre Cerda, en 2008 [^ext-6]. La definición de coproducción del capítulo remite a Díaz y otros (2014), y Díaz es coeditor del libro [^ext-12]. Es una sola escuela, la del Centro de Seguridad Ciudadana de la UAH, no dos confirmaciones.
 
+## Una tercera fuente, desde el gobierno central
+
+Añadido el 09-11-2026 al ingerir [[spd-prevencion-comunitaria]] y [[gobierno-de-santiago-guia-barrios]]. Las orientaciones de la Subsecretaría de Prevención del Delito son la primera fuente de esta página que no viene del círculo de Vanderschueren.
+
+**Un tipo de proyecto financiable.** La resolución pacífica de conflictos por mediación es una de las cuatro subtipologías de prevención comunitaria que la Subsecretaría financia. Otra es la mediación intercultural [^ext-14].
+
+**Complementaria, otra vez.** Con Belloso (2003), la entiende como forma complementaria y no alternativa de resolver conflictos, en las cuestiones que las partes pueden resolver por sí mismas [^ext-15]. Coincide con la definición de ONU-Hábitat de más arriba sin citarla [^inf-4].
+
+**Cinco principios.** Autocomposición, autonomía de las partes para llegar a acuerdo, horizontalidad, gratuidad y confidencialidad [^ext-16]. La página no tenía principios, sólo las características de la guía de 2010.
+
+**Acuerdo y vínculo.** Espera que la mediación mejore la calidad de los vínculos entre vecinos y también que «arregle» el problema que originó el conflicto [^ext-15]. Queda entre las dos fuentes anteriores: no elige entre acuerdo y relación [^inf-5].
+
+**Mediación intercultural.** Es lo nuevo. Chile se volvió en poco tiempo una sociedad de inmigración, y el documento trata la convivencia en sectores con muchos inmigrantes como un tema de seguridad pública. Propone la mediación para las tensiones entre chilenos e inmigrantes [^ext-17]. La guía de Santiago la recomienda en barrios tradicionales como Yungay y Matta, donde el hacinamiento puede exacerbar la xenofobia entre población local y migrante [^ext-18].
+
+**Sigue sin evaluación.** El documento mide sólo actividades realizadas, no efectos [^ext-19]. La conclusión de más arriba se mantiene [^inf-1].
+
 ## Cita
 
 > "complementaria a la justicia y alternativa a la violencia explícita e implícita"
@@ -77,6 +93,8 @@ La guía de 2010 describe la mediación como un proceso para cesar el clima de c
 - [[mano-dura-y-militarizacion]] — la política a la que se opone en México
 - [[violencia-cronica]] — el contexto en que la propone el cap. XII
 - [[evaluacion-de-programas]] — lo que le falta
+- [[spd-prevencion-comunitaria]] — tercera fuente: principios, mediación intercultural y su lugar entre los proyectos financiables
+- [[gobierno-de-santiago-guia-barrios]] — la mediación para el conflicto entre población local y migrante
 
 ---
 
@@ -96,3 +114,11 @@ La guía de 2010 describe la mediación como un proceso para cesar el clima de c
 [^inf-1]: **Inferido** (confianza 0.8) — ninguna de las dos fuentes reporta resultados medidos de una experiencia de mediación comunitaria.
 [^inf-2]: **Inferido** (confianza 0.6) — lectura propia al comparar las dos formulaciones. Ninguna fuente discute a la otra.
 [^inf-3]: **Inferido** (confianza 0.8) — la cita del cuerpo no coincide literalmente con ninguna entrada de la bibliografía; la identificación con la guía de Olave, Strozenberg y Mosciatti se hace por año, tema y editor.
+[^ext-14]: **Extraído** — [[spd-prevencion-comunitaria]], p. 4.
+[^ext-15]: **Extraído** — [[spd-prevencion-comunitaria]], p. 30, con Belloso (2003) y Muñoz y Ramos (2009).
+[^ext-16]: **Extraído** — [[spd-prevencion-comunitaria]], pp. 30-31.
+[^ext-17]: **Extraído** — [[spd-prevencion-comunitaria]], p. 31.
+[^ext-18]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 52.
+[^ext-19]: **Extraído** — [[spd-prevencion-comunitaria]], pp. 20-21.
+[^inf-4]: **Inferido** (confianza 0.7) — comparando p. 30 de [[spd-prevencion-comunitaria]] con la definición de [^ext-1]. El documento no cita a ONU-Hábitat.
+[^inf-5]: **Inferido** (confianza 0.6) — de p. 30, frente a «Una diferencia entre las dos fuentes».

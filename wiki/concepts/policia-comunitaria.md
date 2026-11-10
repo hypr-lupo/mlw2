@@ -1,13 +1,13 @@
 ---
 title: Policía comunitaria
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-10-16
+actualizado: 2026-11-09
 ---
 
 # Policía comunitaria
@@ -120,6 +120,16 @@ Las conclusiones del libro constatan que el MICC sigue siendo una minoría dentr
 
 Donde la policía es recibida con desconfianza —barrios de minorías étnicas, que soportan las mayores tasas de violencia—, los esfuerzos de cooperación fracasan aunque los residentes compartan el deseo de que haya menos delito e incluso estén dispuestos a participar [^ext-7]. Es decir: la voluntad vecinal no basta; la legitimidad es previa. Ver [[legitimidad-policial]].
 
+## «Actualmente inexistente en Chile»
+
+Añadido el 09-11-2026 al ingerir [[gobierno-de-santiago-guia-barrios]].
+
+**La afirmación.** La guía pide para la eficacia colectiva de los barrios el apoyo de una policía de proximidad, «actualmente inexistente en Chile» [^ext-42]. Más arriba, Guajardo describe el MICC y el Plan Cuadrante 2.0, que son intentos de proximidad, aunque minoritarios dentro de la institución [^ext-27]. Las dos lecturas se concilian si «inexistente» significa que no hay un modelo institucional, no que no haya pilotos [^inf-3]. La guía no lo precisa.
+
+**Una exigencia de efectividad.** Las reflexiones finales la presentan como exigencia «no ideológica o política sino de efectividad», por la diversidad de los territorios. Sus ejemplos son las policías de Canadá, las de proximidad europeas y los Koban de Japón [^ext-43]. No trae evaluación de ninguno [^inf-4].
+
+**Graduada por tipo de barrio.** En los barrios de alta complejidad, la acción policial es componente central del diagnóstico, pero no el único [^ext-44]. Ver [[diagnostico-barrial]].
+
 ## Cita
 
 > "se institucionalicen espacios donde los ciudadanos puedan participar en las tareas de control social"
@@ -137,6 +147,7 @@ Donde la policía es recibida con desconfianza —barrios de minorías étnicas,
 - [[prevencion-del-delito]] — la prevención disuasiva de las rondas frente a la prevención «real»
 - [[tudela-analisis-criminal]] — la ineficacia del patrullaje a pie y aleatorio
 - [[arias-empresas-criminales-y-gobernanza]] — las UPP vistas desde Rocinha: tendencia previa, rutinización, y una ocupación que casi no tocó a las milícias
+- [[gobierno-de-santiago-guia-barrios]] — la proximidad como exigencia de efectividad, y «actualmente inexistente en Chile»
 
 El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía de proximidad**, junto con el debate sobre legitimidad policial. La bibliografía que lo cubriría —Vanderschueren, García y Quezada (2026)— no está en el corpus. Desde el 26-09-2026 el módulo tiene además los capítulos de Frey y Guajardo sobre Carabineros, con la distinción entre proximidad y policía comunitaria.
 
@@ -187,3 +198,8 @@ El módulo 2 de `programa/S1.1` trata este modelo bajo el nombre de **policía d
 [^inf-2]: **Inferido** (confianza 0.6) — convergencia construida por esta wiki entre [[sampson-vecindario-y-comunidad]], p. 243, y [[tudela-analisis-criminal]], p. 147. Tudela no cita a Sampson.
 [^amb-1]: **Ambiguo** — Frey lo llama Modelo de «Integración» Carabineros Comunidad (cap. V, p. 133); Guajardo y las conclusiones, de «Interacción» (cap. VI, p. 154; conclusiones, p. 385).
 [^amb-2]: **Ambiguo** — [[cipc-experiencias-exitosas]], p. 43, dice que se implementa «desde 1998 en Santiago». Esta página, desde [[vanderschueren-prevencion-del-delito]], lo fecha desde 2000.
+[^ext-42]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 15.
+[^ext-43]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 77.
+[^ext-44]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 57.
+[^inf-3]: **Inferido** (confianza 0.6) — comparando p. 15 de la guía con «El caso chileno: Carabineros». Las dos fuentes comparten autores; ver la ficha de la guía.
+[^inf-4]: **Inferido** (confianza 0.8) — de p. 77 de la guía, sin referencias en el pasaje.

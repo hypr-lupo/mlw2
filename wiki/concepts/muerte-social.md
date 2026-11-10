@@ -1,13 +1,13 @@
 ---
 title: Muerte social y ceros sociales
 type: concept
-sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf"]
+sources: ["2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2002 - Bourdieu - La juventud no es más que una palabra.pdf", "2010 - Krauskopf - La condición juvenil contemporánea en la constitución identitaria.pdf"]
 cluster: victimizacion-e-inseguridad
 curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-17
+actualizado: 2026-11-09
 ---
 
 # Muerte social y ceros sociales
@@ -64,6 +64,13 @@ No lo sustituye: Adams no es bibliografía de ese ramo y su tratamiento de la ju
 
 **Actualizado el 02-10-2026.** Ya no es lo único: [[bourgois-en-busca-de-respeto]] trata en detalle la socialización juvenil en la escuela, en el grupo de amigos y en la calle. Tampoco es bibliografía del ramo, y el vacío de la bibliografía oficial sigue igual.
 
+## Homónimos
+
+El término circula en el corpus con otros dos sentidos, que no deben confundirse con este.
+
+- **En Bourdieu**, es lo que los recién llegados hacen con los que ya llegaron en las luchas de sucesión: empujarlos al pasado, al «está acabado» [^ext-15]. Es una posición en un campo, no una experiencia de privación.
+- **En Krauskopf**, que lo toma de Bajoit, es la amenaza que pesa sobre el joven que se equivoca: quedar como supernumerario [^ext-16]. Está cerca del cero social de esta página. La misma autora recoge de Salazar una «cultura de muerte» entre sicarios y maras, donde se acortan las distancias entre vivir y morir [^ext-17].
+
 ## Cita
 
 > "la ausencia de posibilidad de una vida digna"
@@ -97,3 +104,6 @@ No lo sustituye: Adams no es bibliografía de ese ramo y su tratamiento de la ju
 [^ext-13]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 4, p. 142.
 [^ext-14]: **Extraído** — [[bourgois-en-busca-de-respeto]], cap. 2, p. 80, y conclusión, p. 340.
 [^inf-1]: **Inferido** (confianza 0.6) — lectura conjunta de [[adams-violencia-cronica]], p. 35, y [[bourgois-en-busca-de-respeto]], pp. 142 y 341. Bourgois no usa el concepto de muerte social.
+[^ext-15]: **Extraído** — [[bourdieu-la-juventud-es-una-palabra]], p. 173.
+[^ext-16]: **Extraído** — [[krauskopf-condicion-juvenil]], p. 33, sobre Bajoit (2004).
+[^ext-17]: **Extraído** — [[krauskopf-condicion-juvenil]], pp. 29-30, sobre Salazar (1998).

@@ -1,13 +1,13 @@
 ---
 title: Tipología barrial
 type: concept
-sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf"]
+sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-09-26
+actualizado: 2026-11-09
 ---
 
 # Tipología barrial
@@ -102,6 +102,20 @@ Es el mismo razonamiento de la guía de 2010, que advertía el costo de tratar u
 >
 > **Matiz del 26-09-2026.** La lista es anterior a la teoría. En la versión de 2010 aparecen los mismos elementos —pasajes sin salida, espacios sin iluminación, muros ciegos, sitios eriazos— con otro fundamento: **impiden el control visual** sobre las viviendas y sobre el uso del espacio público [^ext-24]. Es lógica de vigilancia natural, no de ventanas rotas, y esa versión no nombra la teoría en ningún lugar. El inventario puede defenderse sin el supuesto que Sampson refuta; lo que no se sostiene es la justificación que le añadió la guía de 2020. Aunque la de 2010 tampoco queda limpia: añade que esos elementos, junto con el deterioro físico, favorecen el delito. Ver [[vanderschueren-guia-prevencion-barrios]].
 
+## La versión de Santiago: siete categorías y una muestra
+
+Añadido el 09-11-2026 al ingerir [[gobierno-de-santiago-guia-barrios]]. Es la tercera versión de la tipología del mismo equipo, aplicada a la Región Metropolitana con trabajo de campo de 2023 en doce barrios [^ext-27]. No es una confirmación independiente de las dos anteriores: comparte autores con ambas [^ext-28].
+
+**Siete categorías, cuatro principales.** Alta renta, clase media o media alta, vulnerados y alta complejidad son las principales. Rurales, históricos patrimoniales y comerciales se agregan según la comuna [^ext-29]. Vuelven a declararse tipos ideales [^ext-30]. Van así cuatro tipos hacia 2010, cinco en 2020 y siete aquí [^inf-4].
+
+**Tres postulados.** Los barrios de un mismo tipo tienen vulnerabilidades análogas, de modo que basta diagnosticar una muestra de cada tipo. Los enfoques deben diferenciarse por tipo. Y las vulnerabilidades socio-urbanas y criminales se entrelazan [^ext-31]. El primero es el que más supone: que el tipo predice el problema de cada barrio sin diagnosticarlo [^inf-5]. Ver [[diagnostico-barrial]].
+
+**Lo que afirma sin dato.** Que los barrios de alta renta tienen tasas de delito más bajas que el resto de la ciudad [^ext-32]. No trae el estudio.
+
+**Chile frente a México y Colombia.** En Chile la distancia entre barrios vulnerados y de alta complejidad es menor, porque el crimen organizado aún no entra del todo en las estructuras sociales. Es «el mismo fenómeno en etapa de crecimiento diferente» [^ext-33]. Ver [[equilibrios-de-criminalidad]], donde esa lectura choca con la de Bergman.
+
+**Lo que cada tipo pide.** Según las entrevistas, investigación eficaz en alta renta, respuesta rápida en los vulnerados y presencia municipal en alta complejidad [^ext-34]. Para alta complejidad, capacitación e intermediación laboral focalizada, intervención con policía y fiscalía contra las bandas e intervención con niños y adolescentes [^ext-35].
+
 ## Cita
 
 > "ningún barrio tiene las características puras de cada categoría, sino que se acercan al modelo"
@@ -119,6 +133,8 @@ Es el mismo razonamiento de la guía de 2010, que advertía el costo de tratar u
 - [[vanderschueren-prevencion-del-delito]] — por qué un mismo programa rinde distinto según el tipo de barrio
 - [[mediacion-comunitaria]] — la acción de largo plazo que la guía de 2010 propone para los barrios críticos
 - [[trabajo-de-grado-profesionalizante]] — si el trabajo evaluado de S1.1 recae sobre una política municipal, esta tipología es el instrumento con el que clasificar su territorio
+- [[gobierno-de-santiago-guia-barrios]] — la versión de siete categorías, en la Región Metropolitana
+- [[equilibrios-de-criminalidad]] — Chile como etapa temprana o como otro equilibrio
 
 ---
 
@@ -151,3 +167,14 @@ Es el mismo razonamiento de la guía de 2010, que advertía el costo de tratar u
 [^ext-25]: **Extraído** — [[vanderschueren-prevencion-del-delito]], cap. I, p. 49.
 [^ext-26]: **Extraído** — [[vanderschueren-prevencion-del-delito]], conclusiones, p. 386.
 [^inf-3]: **Inferido** (confianza 0.7) — el cap. I formula el efecto en futuro y no cita una evaluación del programa en ambos tipos de barrio. La conexión con el costo de clasificar mal, de [[vanderschueren-guia-prevencion-barrios]], p. 25, es de esta wiki.
+[^ext-27]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], pp. 8 y 61.
+[^ext-28]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 2, créditos; ver el recuadro de la ficha.
+[^ext-29]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 51.
+[^ext-30]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 61.
+[^ext-31]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 51.
+[^ext-32]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 51.
+[^ext-33]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 52.
+[^ext-34]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], pp. 68-72, de entrevistas.
+[^ext-35]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 76, cuadro 6.
+[^inf-4]: **Inferido** (confianza 0.8) — comparando con «Las cinco categorías» y «La versión de 2010».
+[^inf-5]: **Inferido** (confianza 0.6) — lectura de esta wiki de p. 51 de la guía.

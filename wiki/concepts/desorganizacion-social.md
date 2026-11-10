@@ -1,13 +1,13 @@
 ---
 title: Desorganización social
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf", "s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf", "2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-26
-actualizado: 2026-10-17
+actualizado: 2026-11-09
 ---
 
 # Desorganización social
@@ -78,6 +78,18 @@ Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. La des
 
 Y explican por qué la sociología la abandonó. La desorganización deja al individuo librado a sí mismo, y eso reintroduce explicaciones individuales. La disciplina prefirió la organización: la pandilla, la subcultura, el crimen organizado [^ext-22]. Ver [[control-social-informal]].
 
+## En la política pública chilena y en la explicación regional
+
+Añadido el 09-11-2026 al ingerir [[spd-prevencion-comunitaria]], [[gobierno-de-santiago-guia-barrios]] y [[bergman-negocio-del-crimen]]. Son las primeras fuentes del corpus que la usan para Chile o para América Latina.
+
+**La definición oficial.** Las orientaciones técnicas de la Subsecretaría de Prevención del Delito la definen con Sampson y Groves (1989): la incapacidad de la comunidad para realizar sus valores comunes y mantener el control social [^ext-23]. Es la teoría sistémica de la tabla de arriba. En la misma página llaman factor protector a la desorganización que «surge como respuesta» a un problema común [^amb-1]. Lo que describen parece ser la organización, no la desorganización.
+
+**«Afirmó y comprobó».** El glosario de la guía de Santiago dice que la Escuela de Chicago afirmó y comprobó la teoría [^ext-24]. Esta página registra una evidencia más matizada: consistente para la pobreza y la inestabilidad residencial, mixta para el desorden y casi nula como base de intervención [^ext-6] [^ext-13].
+
+**Una objeción de tiempo.** Bergman la expone como debilitamiento del control social por el tipo de crecimiento urbano. Pero en América Latina los barrios marginales existieron por décadas sin el delito violento de hoy. La urbanización tendría a lo sumo un efecto rezagado, y para él fueron los nuevos mercados ilegales los que crearon las condiciones del aumento [^ext-25]. La teoría explica por qué un barrio tiene más delito que otro, no por qué una región entera lo multiplicó [^inf-2]. Ver [[equilibrios-de-criminalidad]].
+
+**Un resumen que no calza.** En otro pasaje, al criticar las teorías centradas en el individuo, Bergman atribuye a la desorganización social la idea de que el delito sirve al reconocimiento de pares y a las ganancias inmediatas [^ext-26]. Su propia exposición del cap. II, y esta página, la tratan como una teoría del control comunitario [^inf-3].
+
 ## Sobre el módulo 3 de S1.1
 
 El programa del ramo enmarca a Sampson dentro de la desorganización social, y Sampson (2006) no la nombra. [[weisburd-el-lugar-importa]] sí hace ese encuadre, y es la fuente que lo respalda: presenta la eficacia colectiva como extensión de la teoría sistémica, una de las versiones de la desorganización social [^ext-4]. El encuadre del programa queda así atribuido a una fuente, no a Sampson.
@@ -97,6 +109,8 @@ El programa del ramo enmarca a Sampson dentro de la desorganización social, y S
 - [[sampson-vecindario-y-comunidad]] — el autor que el programa enmarca aquí
 - [[bourgois-en-busca-de-respeto]] — la continuidad ecológica de East Harlem, explicada por la política urbana
 - [[control-social-informal]] — el control de la comunidad y otros dos sentidos del término
+- [[spd-prevencion-comunitaria]] — la definición de la política pública chilena, con Sampson y Groves (1989)
+- [[bergman-negocio-del-crimen]] — la objeción del rezago, desde la explicación regional del delito
 
 ---
 
@@ -123,3 +137,10 @@ El programa del ramo enmarca a Sampson dentro de la desorganización social, y S
 [^ext-21]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 4, pp. 81-82.
 [^ext-22]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 10, p. 204.
 [^inf-1]: **Inferido** (confianza 0.7) — comparación con la tensión registrada más arriba. Bourgois no cita a Sampson ni a Weisburd y otros.
+[^ext-23]: **Extraído** — [[spd-prevencion-comunitaria]], p. 9.
+[^ext-24]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], glosario, p. 80.
+[^ext-25]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 131-133.
+[^ext-26]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 111.
+[^amb-1]: **Ambiguo** — [[spd-prevencion-comunitaria]], p. 9. Lo más probable es que diga «desorganización» por «organización». No se corrige sobre la fuente.
+[^inf-2]: **Inferido** (confianza 0.6) — de PDF 131-133 de Bergman, frente a «Origen» y «Estado de la evidencia». Bergman no plantea así la objeción.
+[^inf-3]: **Inferido** (confianza 0.7) — PDF 111 frente a PDF 131-132 y a la definición de esta página.

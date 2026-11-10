@@ -50,6 +50,14 @@ imprenta · `programa/S1.2` la cita como «Cabrera, C.»: el documento dice Mari
 manual docente que compila a otros autores: al citar a Corbetta, Galtung, Kerlinger o
 Hernández Sampieri a través de él, verificar el año en el original
 
+Bergman, M. (2023). *El negocio del crimen: el crecimiento del delito, los mercados ilegales
+y la violencia en América Latina*. Fondo de Cultura Económica.
+→ [[bergman-negocio-del-crimen]] · verificada contra los créditos: 1.ª ed., Buenos Aires,
+libro digital EPUB, ISBN 978-987-719-444-9 · versión adaptada y actualizada, por el autor, de
+*More Money, More Crime* (Oxford, 2018); sin traductor acreditado, por eso la referencia no
+lleva fecha original: lo decide el autor · sin paginación impresa: citar «PDF N» · **ingesta
+parcial**: introducción, caps. II, III, V y VIII, conclusiones y epílogo
+
 Bernasco, W. y Steenbeek, W. (2017). More places than crimes: Implications for evaluating the
 law of crime concentration at place. *Journal of Quantitative Criminology, 33*(3), 451-467.
 https://doi.org/10.1007/s10940-016-9324-7
@@ -70,11 +78,40 @@ traducción de un capítulo de 2004 publicado por la IACA · los editores advier
 datos policiales que describe son de Estados Unidos · **ingesta parcial**: sólo este
 capítulo del libro
 
+Bourdieu, P. (2002). La «juventud» no es más que una palabra. En *Sociología y cultura*
+(pp. 163-173). Grijalbo; Consejo Nacional para la Cultura y las Artes. (Trabajo original
+publicado en 1978)
+→ [[bourdieu-la-juventud-es-una-palabra]] · **verificación bibliográfica pendiente**: el PDF no
+tiene página de créditos y el año sale de un pie del distribuidor; tres obras del corpus citan
+el mismo capítulo, con las mismas páginas, como edición de 1990 · entrevista de A.-M. Métailié,
+publicada en francés en 1978
+
 Bourgois, P. (2010). *En busca de respeto: vendiendo crack en Harlem* (F. Montero
 Castrillo, Trad.). Siglo Veintiuno Editores. (Obra original publicada en 1995)
 → [[bourgois-en-busca-de-respeto]] · verificada contra la página de imprenta · traduce
 la 2.ª edición en inglés (Cambridge University Press, 2003) y agrega un prefacio y un
 epílogo de 2010 · trabajo de campo de 1985 a 1990
+
+Brito Lemus, R. (1998). Hacia una sociología de la juventud: algunos elementos para la
+deconstrucción de un nuevo paradigma de la juventud. *Última Década*, (9).
+http://www.redalyc.org/articulo.oa?id=19500909
+→ [[brito-sociologia-de-la-juventud]] · verificada contra la portada de Redalyc · reedición de un
+artículo de 1996 de la revista *JOVENes* (México) · el archivo numera sus páginas del 1 al 7, que
+no son las de la revista
+
+Brizuela, F. (2014). [Reseña del libro *Sociología del delito amateur*, de G. Kessler].
+*Revista Cátedra Paralela*, (11), 313-317.
+→ [[brizuela-resena-delito-amateur]] · verificada contra la primera página · reseña la
+reimpresión de Paidós de 2010, con el mismo ISBN que la edición de 2004 del corpus · para el
+contenido, citar a Kessler
+
+Campana, P. y Meneghini, C. (2024). Organised crime movement across local communities: A
+network approach. *Trends in Organized Crime, 27*, 286-313.
+https://doi.org/10.1007/s12117-024-09531-7
+→ [[campana-meneghini-movilidad-crimen-organizado]] · verificada contra la primera página ·
+acceso abierto, CC BY 4.0 · obra en inglés sin traducción · el nombre del archivo traduce
+*movement* por «desplazamiento»: el artículo no trata desplazamiento en el sentido de la
+prevención situacional
 
 Centro Internacional para la Prevención de la Criminalidad. (2015). *Informe, experiencias
 exitosas en prevención de la criminalidad en América Latina. Una perspectiva territorial de
@@ -107,6 +144,16 @@ https://bcn.cl/X2zs8w
 → [[pnsp-2025-2031]] · verificada contra el encabezado de la BCN · vigente para 2025-2031 · la Ley
 21.802 ordena actualizarla hacia agosto de 2027
 
+Duarte Quapper, C. (2012). Sociedades adultocéntricas: sobre sus orígenes y reproducción.
+*Última Década*, (36), 99-125.
+→ [[duarte-sociedades-adultocentricas]] · verificada contra el encabezado · coincide con lo que
+pide el programa vigente de S2.4 · ensayo sin trabajo de campo; la historia es de segunda mano
+
+Duarte Quapper, K. (2000). ¿Juventud o juventudes? Acerca de cómo mirar y remirar a las
+juventudes de nuestro continente. *Última Década*, (13), 59-77.
+→ [[duarte-juventud-o-juventudes]] · verificada contra el encabezado · mismo autor que la
+anterior, que en 2000 firmaba «Klaudio»
+
 Felson, M. y Clarke, R. V. (1998). *Opportunity makes the thief: Practical theory for crime
 prevention* (Police Research Series, Paper 98). Home Office.
 → [[felson-clarke-la-oportunidad-hace-al-ladron]] · verificada contra la portada y la página de
@@ -121,6 +168,11 @@ Gardner, J. (2007). Prohibiting immoralities. *Cardozo Law Review, 28*, 2613.
 corpus tiene la versión de autor, que pide no citar desde ella; falta el rango de
 páginas de la revista · obra en inglés sin traducción · comentario a Fletcher, *The
 Grammar of Criminal Law*, citado como inédito
+
+Gobierno de Santiago. (s.f.). *Guía para la gestión local de la seguridad desde los barrios*.
+→ [[gobierno-de-santiago-guia-barrios]] · **verificación bibliográfica pendiente**: sin año
+impreso; la guía pide citarla así; trabajo de campo de 2023 y PDF generado en 2025 · autoría
+compartida con las guías de barrios de 2010 y 2020: no es confirmación independiente de ellas
 
 Gottfredson, M. R. y Hirschi, T. (1990). *A general theory of crime*. Stanford University Press.
 → [[gottfredson-hirschi-teoria-general]] · verificada contra la página de créditos y los datos de
@@ -149,9 +201,14 @@ cifras con su año
 
 Kessler, G. (2004). *Sociología del delito amateur*. Paidós.
 → [[kessler-delito-amateur]] · verificada contra la página de créditos · coincide con lo que
-piden el programa de S1.1 y el de 2023 de S2.4; el vigente de S2.4 pide una reseña de Brizuela (2014) · el PDF omite las páginas en blanco: citar por la página
+piden el programa de S1.1 y el de 2023 de S2.4; el vigente de S2.4 pide una reseña de Brizuela (2014), ingerida el 09-11-2026 · el PDF omite las páginas en blanco: citar por la página
 impresa · las teorías del anexo son de segunda mano: citar a Merton, Becker o Hirschi por su
 obra
+
+Krauskopf, D. (2010). La condición juvenil contemporánea en la constitución identitaria.
+*Última Década*, (33), 27-42.
+→ [[krauskopf-condicion-juvenil]] · verificada contra el encabezado · ensayo teórico; lo empírico
+es de segunda mano
 
 Ley 20.965. (2016). *Permite la creación de consejos y planes comunales de seguridad
 pública*. Diario Oficial de la República de Chile, 4 de noviembre de 2016.
@@ -204,6 +261,11 @@ https://doi.org/10.1080/13658810310001596076
 → [[ratcliffe-tasa-de-geocodificacion]] · verificada contra la primera página del artículo · no
 confundir con «The hotspot matrix», del mismo autor y año
 
+Romero Miranda, A. (2015). La edad sociológica: una mirada de la infancia desde el
+adelantamiento y la acumulación de experiencia. [Revista sin identificar], *9*(14), 46-59.
+→ [[romero-edad-sociologica]] · **verificación bibliográfica pendiente**: el PDF no nombra la
+revista · no citar en un trabajo evaluado mientras no se identifique
+
 Sampson, R. (2006). Vecindario y comunidad: eficacia colectiva y seguridad
 ciudadana (E. Larrauri Pijoan, Trad.). En *Claves del Gobierno Local* (Vol. 6,
 pp. 235-247). Fundación Democracia y Gobierno Local. (Obra original publicada en
@@ -216,6 +278,13 @@ futuro de los observatorios del crimen y la violencia en América Latina y el Ca
 → [[srur-observatorios-del-delito]] · **verificación bibliográfica pendiente**: el programa
 la fecha en 2015 y la portada en octubre de 2014 · escriben Dammert, Gutiérrez, Martin,
 Paternain y Peña, sin capítulos atribuidos · **ingesta parcial**: sólo las pp. 26-45
+
+Subsecretaría de Prevención del Delito. (2022). *Orientaciones técnicas. Prevención social:
+prevención comunitaria del delito y la violencia*. División de Programas y Estudios y División
+de Gestión Territorial.
+→ [[spd-prevencion-comunitaria]] · **verificación bibliográfica pendiente**: sin año impreso;
+2022 por los metadatos del PDF; el INE (2023) cita el mismo título como de 2021 · `vigencia:
+incierto` · documento técnico para formular proyectos, no estudio
 
 Tudela, P. (2015). Análisis criminal, proactividad y desarrollo de estrategias policiales
 basadas en la evidencia. *Revista Criminalidad, 57*(1), 137-152.
@@ -322,3 +391,4 @@ el documento, no por inferencia.
 | ONU-Hábitat y Guadalajara, *Guía en seguridad y prevención de barrios* | 2020 | 2020, pero la portada declara «Borrador avanzado»: confirmar si hay versión final |
 | Vanderschueren, Díaz y Guajardo (eds.), *Prevención del delito y la violencia* | 2021, tres editores | 2021, coincide. La presentación de la clase 1 de S1.2 cita la obra contenedora a nombre de «F. Vanderschueren (Ed.)», un solo editor |
 | Batthyány y Cabrera (coords.), *Metodología de la investigación en Ciencias Sociales* | 2011, «Batthyány, K. y Cabrera, C.» | 2011, coincide. El documento dice Mariana Cabrera y las presenta como coordinadoras. Se cita por el documento |
+| Bourdieu, «La "juventud" no es más que una palabra» | 2002, Grijalbo | sin página de créditos; el pie del archivo dice 2002, y tres obras del corpus citan la misma paginación como 1990. Ingerida el 09-11-2026 |

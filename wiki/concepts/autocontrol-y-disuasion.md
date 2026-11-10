@@ -1,13 +1,13 @@
 ---
 title: Autocontrol y disuasión
 type: concept
-sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
+sources: ["2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-17
+actualizado: 2026-11-09
 ---
 
 # Autocontrol y disuasión
@@ -36,7 +36,7 @@ Consecuencia directa de la definición, y el autor la hace explícita. Si las no
 
 Dicho de otro modo: la disuasión no es una fuerza que empuje hacia la ley. Es un mecanismo que hace cumplir la norma dominante del entorno, sea cual sea. Donde la norma dominante contradice la ley, disuadir mejor produce más delito.
 
-Ninguna fuente del corpus discute todavía esta afirmación.
+Ninguna fuente del corpus discute todavía esta afirmación. **Enmienda 09-11-2026:** [[bergman-negocio-del-crimen]] llega a un resultado parecido por otro mecanismo. Ver «La disuasión depende del equilibrio».
 
 ## Una convergencia desde la filosofía del derecho
 
@@ -84,6 +84,18 @@ Desde el 17-10-2026 la otra posición tiene voz propia: [[gottfredson-hirschi-te
 
 **Y la disuasión.** Coinciden con la TAS en que la amenaza penal pesa poco, por otra razón. El autocontrol se forma en la familia antes de que la justicia penal intervenga. Y la sanción más fuerte es la desaprobación de las personas que uno quiere [^ext-18]. Ver [[control-social-informal]].
 
+## La disuasión depende del equilibrio
+
+Añadido el 09-11-2026 al ingerir [[bergman-negocio-del-crimen]]. Es la primera fuente de esta página que defiende la disuasión como explicación del delito, pero la condiciona al contexto del país.
+
+**La lógica.** Cada potencial infractor se abstiene si cree que los demás son detenidos y castigados. La aplicación de la ley depende entonces del número de infractores: cuantos más quedan impunes, menos puede castigar el Estado y más imitan los demás [^ext-19]. Ver [[equilibrios-de-criminalidad]].
+
+**Funciona en un equilibrio y falla en el otro.** El encarcelamiento se asocia a menos homicidios en los países de baja criminalidad y a más en los de alta [^ext-20]. Los robos de autos siguieron subiendo mientras más ladrones entraban a la cárcel: el detenido fue reemplazado por otro [^ext-20]. Y quien conoce la cárcel le teme menos; muchos presos esperaban ser encarcelados alguna vez [^ext-21].
+
+**Cerca de Kessler.** La cárcel no detiene la carrera: el 64 % de los presos por robo reincide, con seis meses en promedio entre la salida y la nueva detención [^ext-22]. Kessler lo ve desde entrevistas; Bergman, desde encuestas a presos de seis países [^inf-5].
+
+**Cerca de la disuasión criminógena.** Bergman sostiene que en los equilibrios de alta criminalidad las cárceles no sólo no disuaden: son criminógenas [^ext-23]. No es la tesis de Wikström. Para Wikström, disuadir mejor produce más delito donde la norma del entorno contradice la ley. Para Bergman, la cárcel produce delito por sustitución, por familiaridad y por las redes que los presos mantienen afuera [^inf-6]. Coinciden en el resultado, no en el mecanismo.
+
 ## Cita
 
 > "un alto nivel de disuasión es criminógeno"
@@ -101,6 +113,8 @@ Desde el 17-10-2026 la otra posición tiene voz propia: [[gottfredson-hirschi-te
 - [[delito-amateur]] — la disuasión vista desde quienes roban
 - [[teoria-general-del-delito]] — el autocontrol como única característica duradera
 - [[control-social-informal]] — el control de la familia, el del barrio y el graduado por edad
+- [[bergman-negocio-del-crimen]] — la disuasión condicionada al equilibrio de criminalidad
+- [[equilibrios-de-criminalidad]] — la teoría que la condiciona
 
 **Distinto del control social informal de Sampson.** Allí el control social informal es la disposición colectiva de los vecinos a intervenir, y es el mecanismo central que reduce la violencia de un barrio. Aquí la disuasión es un proceso situacional del actor individual ante una norma percibida. Los dos conceptos comparten nombre de familia y no son el mismo. Ver [[eficacia-colectiva]] y [[control-social-informal]], que separa tres sentidos del término.
 
@@ -128,3 +142,10 @@ Desde el 17-10-2026 la otra posición tiene voz propia: [[gottfredson-hirschi-te
 [^inf-2]: **Inferido** (confianza 0.7) — combinando [[baratta-criminologia-critica]] y [[wikstrom-por-que-se-delinque]]. Baratta no discute la TAS.
 [^inf-3]: **Inferido** (confianza 0.7) — combinando [[kessler-delito-amateur]] y [[wikstrom-por-que-se-delinque]]. Kessler no cita a Wikström, que es posterior.
 [^inf-4]: **Inferido** (confianza 0.6) — de esta wiki. Gottfredson y Hirschi no discuten la TAS, que es posterior.
+[^ext-19]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 36-40 y 257-258.
+[^ext-20]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 386-389.
+[^ext-21]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 377-378 y 392-393.
+[^ext-22]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 379.
+[^ext-23]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 389 y 411, pauta 13.
+[^inf-5]: **Inferido** (confianza 0.7) — comparando PDF 379 con «Desde el campo». Bergman cita a Kessler por el deterioro laboral (PDF 127), no por este punto.
+[^inf-6]: **Inferido** (confianza 0.7) — de PDF 377-378, 384 y 389-393, frente a «La disuasión puede ser criminógena».

@@ -1,13 +1,13 @@
 ---
 title: Mano dura y militarización
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf"]
 cluster: sistema-penal
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-17
+actualizado: 2026-11-09
 ---
 
 # Mano dura y militarización
@@ -118,6 +118,19 @@ Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. No es 
 
 Llegan así al mismo lugar que Sampson, Albarracín y Baratta, desde otra premisa. No porque la represión dañe la legitimidad, sino porque llega tarde a la causa [^inf-4].
 
+## La cárcel en la región, en cifras
+
+Añadido el 09-11-2026 al ingerir [[bergman-negocio-del-crimen]]. Es la evidencia regional más directa del corpus sobre encarcelamiento, con encuestas a presos de seis países.
+
+- **Crecimiento.** La población penal pasó de 408.154 personas en 1992 a 1.487.000 en 2018. Creció por flujo, con muchas admisiones y condenas moderadas, no por condenas más largas [^ext-42].
+- **Los cuatro fines.** Retribución, disuasión, rehabilitación e incapacitación fracasaron en la región [^ext-43].
+- **Reincidencia.** El 64 % de los presos por robo es reincidente, con seis meses en promedio entre la liberación y la nueva detención. Menos del 20 % de los liberados recibió apoyo o tuvo contacto con organizaciones estatales o sociales [^ext-44].
+- **Encarcelar y homicidios.** El encarcelamiento se asocia a menos homicidios sólo en los países de baja criminalidad. En los de alta criminalidad la correlación es positiva, porque el preso es reemplazado por otro infractor [^ext-45]. Las correlaciones no controlan otras variables, y el autor dice no probar causalidad [^ext-45]. Ver [[equilibrios-de-criminalidad]].
+
+**Las pautas.** Con capacidades estatales débiles, Bergman pide abstenerse de la mano dura popular. Las leyes duras se dictan cuando el delito ya sube, aceleran el reemplazo de presos y avivan las disputas por plazas [^ext-46]. Pide también evitar el encarcelamiento masivo y desarrollar sanciones alternativas [^ext-46].
+
+**Frente a Lessing.** Bergman admite una fuerza abrumadora contra niveles epidémicos de violencia, con coordinación y liderazgos capaces de vencer la corrupción [^ext-47]. Su caso es Colombia, el único de baja real de homicidios con encarcelamiento creciente: de unos 80 a 25 por cien mil en quince años [^ext-45]. Culpa además a la tolerancia estatal de los mercados ilegales de una «jaula de hierro» que reduce la disuasión [^ext-48]. Lessing, más arriba, encuentra que tolerar a los grupos menos violentos reduce la violencia. Uno habla de mercados de bienes robados y de violencia epidémica; el otro, de guerras entre Estado y carteles [^inf-5]. La tensión es de esta wiki.
+
 ## Cita
 
 > "el enemigo debe ser eliminado y no es sujeto de derechos"
@@ -140,6 +153,8 @@ Llegan así al mismo lugar que Sampson, Albarracín y Baratta, desde otra premis
 - [[etiquetamiento]] — la cárcel que consolida la identidad desviada
 - [[delito-amateur]] — la represión que escala los enfrentamientos
 - [[teoria-general-del-delito]] — la justicia penal como causa débil, desde la teoría del control
+- [[bergman-negocio-del-crimen]] — la cárcel en la región, la sustitución de presos y las pautas contra la mano dura con Estado débil
+- [[equilibrios-de-criminalidad]] — por qué la misma política rinde distinto según el equilibrio
 
 **Convergencia que conviene registrar.** [[sampson-vecindario-y-comunidad]] sostiene, desde la investigación estadounidense sobre desorden y tolerancia cero, que la intervención punitiva sobre territorios pobres no reduce el delito y sí destruye la legitimidad policial. Albarracín llega a lo mismo desde la literatura latinoamericana sobre mano dura, con casos y estudios completamente distintos. Que dos corpus independientes converjan es un hallazgo por derecho propio; ninguno de los dos autores discute al otro.
 
@@ -190,3 +205,11 @@ Llegan así al mismo lugar que Sampson, Albarracín y Baratta, desde otra premis
 [^inf-2]: **Inferido** (confianza 0.7) — el CIPC no cita a Arias. La convergencia es de esta wiki.
 [^inf-3]: **Inferido** (confianza 0.6) — combinando [[baratta-criminologia-critica]] con [[cipc-experiencias-exitosas]] y [[arias-empresas-criminales-y-gobernanza]].
 [^inf-4]: **Inferido** (confianza 0.7) — comparación de esta wiki. Gottfredson y Hirschi no discuten a ninguna de esas fuentes.
+[^ext-42]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 368 y 373-375.
+[^ext-43]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 376.
+[^ext-44]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 379 y 382.
+[^ext-45]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 384-389 y 394-396.
+[^ext-46]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 408-409 y 411, pautas 7 y 13.
+[^ext-47]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 410, pauta 11.
+[^ext-48]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 199-201.
+[^inf-5]: **Inferido** (confianza 0.6) — comparando PDF 201, 389 y 410 con «Represión condicional e incondicional». Bergman cita a Lessing (2017) sólo en listas de referencias y no discute la represión condicional.

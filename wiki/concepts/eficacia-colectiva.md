@@ -1,13 +1,13 @@
 ---
 title: Eficacia colectiva
 type: concept
-sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf"]
+sources: ["2006 - Sampson - Vecindario y comunidad, eficacia colectiva y seguridad ciudadana.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2023 - INE - Actualización metodológica de la medición de victimización y percepción de inseguridad, informe metodológico.pdf", "2016 - Felson y Eckert - El delito y la vida cotidiana.pdf", "2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf", "s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-24
+actualizado: 2026-11-09
 ---
 
 # Eficacia colectiva
@@ -94,7 +94,7 @@ Añadido el 26-09-2026 al ingerir [[weisburd-el-lugar-importa]], que hace dos co
 
 **La objeción a la medida.** Braga y Clarke (2014) cuestionan que el voto mida eficacia colectiva, citando a Sampson (2012), que encontró poca correlación entre ambos a nivel de barrio. Weisburd y otros responden que su indicador es distinto: no si alguien votó en la última elección, sino si vota de forma sostenida, lo que indicaría compromiso cívico [^ext-26]. La respuesta la dan los mismos autores cuestionados, y la medida no es la de Sampson, Raudenbush y Earls: al citar resultados de Seattle hay que decir qué se midió [^inf-1].
 
-**Una tercera medida, oficial.** Añadido el 16-10-2026 al ingerir [[ine-medicion-victimizacion]]. La ENUSC 2023 pregunta qué tan probable es que las personas del barrio realicen seis acciones. Las preguntas se basan en la Neighborhood Survey 2005 del Urban Institute, y buscan medir capital social y eficacia colectiva [^ext-30]. El informe define la eficacia colectiva con la Subsecretaría de Prevención del Delito: la capacidad conjunta para actuar y lograr un efecto esperado, con un compromiso activo de la comunidad [^ext-31]. Esa definición no nombra la cohesión, que para Sampson es la mitad del concepto [^inf-3]. La obra de la Subsecretaría está en el corpus, en la tanda 5. Ver [[operacionalizacion]].
+**Una tercera medida, oficial.** Añadido el 16-10-2026 al ingerir [[ine-medicion-victimizacion]]. La ENUSC 2023 pregunta qué tan probable es que las personas del barrio realicen seis acciones. Las preguntas se basan en la Neighborhood Survey 2005 del Urban Institute, y buscan medir capital social y eficacia colectiva [^ext-30]. El informe define la eficacia colectiva con la Subsecretaría de Prevención del Delito: la capacidad conjunta para actuar y lograr un efecto esperado, con un compromiso activo de la comunidad [^ext-31]. Esa definición no nombra la cohesión, que para Sampson es la mitad del concepto [^inf-3]. La obra de la Subsecretaría está en el corpus, en la tanda 5. Ver [[operacionalizacion]]. **Enmienda 09-11-2026:** ingerida. Ver «En las orientaciones de la Subsecretaría y en la guía de Santiago».
 
 **Como base de intervención, sin evidencia todavía.** Los mismos autores admiten que hay poca evidencia sobre la efectividad de prácticas específicas derivadas de esta tradición. Los experimentos para subir la eficacia colectiva en puntos calientes estaban en curso [^ext-27].
 
@@ -114,6 +114,14 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. El l
 ## La objeción de las actividades rutinarias
 
 Añadido el 24-10-2026. Felson y Eckert sostienen que una comunidad cohesionada no protege si los vecinos no están cuando llega el infractor [^ext-32]. Y critican las escalas de cohesión social: quien vive en un área de alto delito dirá que no confía en sus vecinos, de modo que la escala mide en parte el efecto del delito [^ext-33]. La tensión es entre dos ideas de la supervisión: la disposición de los vecinos a intervenir o su presencia física cerca del lugar [^inf-4]. Ver [[actividades-rutinarias]].
+
+## En las orientaciones de la Subsecretaría y en la guía de Santiago
+
+Añadido el 09-11-2026 al ingerir [[spd-prevencion-comunitaria]] y [[gobierno-de-santiago-guia-barrios]].
+
+**La definición oficial, en su fuente.** Las orientaciones técnicas de la Subsecretaría de Prevención del Delito definen la eficacia colectiva como «la capacidad conjunta para actuar y lograr un efecto esperado», con un compromiso activo de la comunidad [^ext-34]. Es la definición que la ENUSC toma de la Subsecretaría, más arriba [^ext-31]. Atribuyen a Sampson y Groves (1989) que el concepto requiera control social informal, y le suman la vigilancia natural [^ext-34]. Dos diferencias con esta página. La cohesión no aparece en la definición [^inf-3]. Y la wiki fecha el concepto en Sampson, Raudenbush y Earls (1997) [^ext-22]; atribuirlo a 1989 es probablemente un error, aunque el artículo de 1989 no está en el corpus [^inf-5].
+
+**La guía de Santiago, más cerca de Sampson.** La define con «Vecindario y comunidad», el mismo texto que es fuente de esta página: el vínculo entre cohesión y expectativas compartidas de acción, relativo a tareas concretas [^ext-35]. Le suma un tercer componente, las redes de actores que resuelven problemas locales, y advierte que la confianza tarda en formarse [^ext-35]. Cita el texto como de 2008, con la paginación que tiene en el corpus [^ext-36]. Ver [[revision]], ítem del año de Sampson.
 
 ## Cita
 
@@ -137,6 +145,8 @@ Añadido el 24-10-2026. Felson y Eckert sostienen que una comunidad cohesionada 
 - [[capital-social]] — el constructo rival, con sus tres sentidos separados. La guía de prevención en barrios de 2010 sí distingue ambos constructos; la de 2020 no
 - [[vanderschueren-prevencion-del-delito]] — la condición policial del constructo en América Latina
 - [[operacionalizacion]] — la escala de residentes y el voto sostenido como dos definiciones operacionales del mismo concepto, y sus objeciones como problemas de validez
+- [[spd-prevencion-comunitaria]] — la definición oficial chilena, de primera mano, con su atribución a Sampson y Groves (1989)
+- [[gobierno-de-santiago-guia-barrios]] — la definición de Sampson con un tercer componente, las redes
 
 **Vacío resuelto el 26-09-2026.** El módulo 3 de `programa/S1.1` enmarca esta obra dentro de la desorganización social, que Sampson no nombra. [[weisburd-el-lugar-importa]] es ahora la fuente que respalda ese encuadre. Ver [[desorganizacion-social]].
 
@@ -179,3 +189,7 @@ Añadido el 24-10-2026. Felson y Eckert sostienen que una comunidad cohesionada 
 [^ext-32]: **Extraído** — [[felson-eckert-delito-y-vida-cotidiana]], pp. 155 y 169.
 [^ext-33]: **Extraído** — [[felson-eckert-delito-y-vida-cotidiana]], p. 159.
 [^inf-4]: **Inferido** (confianza 0.6) — Felson y Eckert no nombran a Sampson en los capítulos leídos.
+[^ext-34]: **Extraído** — [[spd-prevencion-comunitaria]], p. 10.
+[^ext-35]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 15.
+[^ext-36]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 15, con «Sampson, 2008: 239» y «2008: 245», y bibliografía, p. 84.
+[^inf-5]: **Inferido** (confianza 0.7) — [[sampson-vecindario-y-comunidad]], p. 239, y [[weisburd-el-lugar-importa]], p. 51, fechan el concepto en 1997.

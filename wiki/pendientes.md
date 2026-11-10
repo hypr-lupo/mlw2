@@ -10,28 +10,32 @@ Artefacto operativo para retomar, no registro de lo hecho: la crónica de cada s
 en [[log]]. Se consolidó el 27-09-2026, en la auditoría que cerró la tanda 1; el informe
 está en `despliegue/auditoria/2026-09-27-auditoria.md`.
 
-**Estado al 26-10-2026.** 44 fuentes ingeridas de 145 documentos, siete de ellas sólo en parte;
-96 pendientes de un universo de 139, según `scripts/estado.py`. 105 páginas: 20 en borrador.
-Núcleo ancla de S1.1 completo, **tandas 1, 2 y 3 cerradas** y la 4 abierta el 17-10. El 24-10
-entraron, por delante de la cola, la Ley 20.965 y el plan comunal de Las Condes, y el 26-10 las tandas S1.2c y S1.2d. Siete de ocho clústeres poblados;
-`caso-de-grado` sigue vacío a propósito. Cobertura de S1.1: 17 de 32 títulos oficiales en
-el corpus, 53 %. Nada bloquea la ingesta.
+**Estado al 09-11-2026.** 55 fuentes ingeridas, ocho de ellas sólo en parte; el detalle por
+cúmulo lo da `scripts/estado.py`. 121 páginas: 23 en borrador. Núcleo ancla de S1.1 completo,
+**tandas 1, 2, 3, 4a y 5 cerradas**, y las tandas S1.2 a S1.2d del diseño de S1.2. La 5 entró el
+09-11, sin sus «si alcanza», y creó [[equilibrios-de-criminalidad]] y [[quiero-mi-barrio]]. Bergman
+(2023) quedó en parte, con un ítem en el grupo A de [[revision]]. La 4a entró el mismo día y creó
+tres páginas sobre juventudes, en un clúster provisional (ver [[revision]], grupo A). Siete de ocho clústeres poblados;
+`caso-de-grado` sigue vacío a propósito. Nada bloquea la ingesta.
 
 ## Qué hacer al retomar
 
 En este orden:
 
-1. **Tanda 4a**, antes del 07-11: la reseña de S2.4 se entrega el 09-11 y pide dos textos de la bibliografía del curso:
-   Duarte Quapper (2012) · Bourdieu (2002) · Brizuela (2014), y *si alcanza* cuatro obras
-   cortas de juventudes. La tanda 4 quedó sin obras pendientes: Clarke y Felson y Eckert
-   entraron el 24-10 en la S1.2b. Ver `purpose.md`.
-2. **Decisiones que sólo toma el autor.** Dieciséis, en el grupo A de [[revision]]. La más
+1. **Tanda 6**, antes del 27-11: Garland (Gedisa) · Wacquant · Luneke y Trebilcock (2023) · Alda
+   y Beliz (2007) · Zeballos (2024) · Bergman (2016) · Silva Sánchez · Ferrajoli. Schroeder y
+   Coello-Torres (2019) y el webinar de Placemaking, «si alcanza» de la 5, quedan sin adelantar:
+   sólo sirven si el caso de la prueba de S1.1 es un espacio público, y el caso es el Proyecto +R.
+   Terminada la 6, vuelve el orden por cúmulos. Ver `purpose.md`.
+2. **Decisiones que sólo toma el autor.** Dieciocho, en el grupo A de [[revision]]; la más
+   reciente, si se ingiere el resto de Bergman (2023). La más
    antigua es la página `tesis-` sobre el anclaje empírico, abierta desde el 29-08. Fuera
    de la cola, una más: borrar `raw/_a_eliminar/`, con 25 copias duplicadas que se
    sacaron del corpus el 30-10. Ver `INVENTARIO.md`.
-3. **Verificaciones bibliográficas.** Nueve, en el grupo B de [[revision]]. Mientras sigan
-   abiertas, esas obras no se citan en trabajos evaluados: Sampson, Adams, las dos guías de
-   barrios, Zúñiga Núñez, Gardner, Arias y el tipo penal de femicidio.
+3. **Verificaciones bibliográficas.** Catorce, en el grupo B de [[revision]]; cinco nuevas del
+   09-11: el año de Bourdieu, la revista de Romero Miranda, los años de la SPD y de la guía de
+   Santiago, y el umbral de Bergman (2023). Mientras sigan abiertas, esas obras no se citan en
+   trabajos evaluados; la lista completa de fichas pendientes la da `scripts/estado.py`.
 4. **Mantenimiento**, cuando haya tiempo entre tandas. Ver abajo. Incluye crear la página de
    articulación nacional y local, cuyo criterio se cumplió el 26-10. Ver [[revision]].
 
@@ -70,14 +74,17 @@ documento por documento lo da `python scripts/estado.py`.
       que cita el diseño de S1.2. ~~Cohen y Felson (1979)~~, ~~Felson y Clarke (1998)~~, ~~Weisburd
       y otros (2004)~~, ~~Weisburd (2015)~~, ~~Guerette y Bowers (2009)~~, ~~Ratcliffe (2004)~~,
       ~~Bernasco y Steenbeek (2017)~~ y ~~Chainey y otros (2019)~~. No crearon páginas de concepto
-- [ ] **Tanda 4a, antes del 24-10 o del 07-11:** Duarte Quapper (2012) · Bourdieu (2002) ·
-      Brizuela (2014). Lecturas obligatorias de S2.4
+- [x] **Tanda 4a, cerrada el 09-11**, con dos días de atraso: ~~Duarte Quapper (2012)~~ ·
+      ~~Bourdieu (2002)~~ · ~~Brizuela (2014)~~, y las cuatro «si alcanza»: ~~Duarte Quapper
+      (2000)~~ · ~~Krauskopf (2010)~~ · ~~Brito Lemus (1998)~~ · ~~Romero Miranda (2015)~~. Crearon
+      [[adultocentrismo]], [[juventud-como-construccion-social]] y [[edad-sociologica]]
 - [ ] **Tanda 4, antes del 06-11 (era el 23-10):** ~~Gottfredson y Hirschi (1990)~~, ingerida
       el 17-10, · ~~Clarke (1997) · Felson y Eckert (2016)~~, pasaron a la S1.2b. Gottfredson y Hirschi resolvió el
       control social informal, que pasó a ser [[control-social-informal]]
-- [ ] **Tanda 5, antes del 06-11:** ~~Decreto 96 (PNSP)~~, pasó a la S1.2c · ~~Ley 21.802 · Guerra Araya (2024)~~, pasaron a la S1.2b ·
-      SPD (2022) · Gobierno de Santiago (s.f.) · Campana y Meneghini (2024) · Bergman (2023) ·
-      *si alcanza:* Schroeder y Coello-Torres (2019)
+- [x] **Tanda 5, cerrada el 09-11**, con tres días de atraso: ~~Decreto 96 (PNSP)~~, pasó a la S1.2c · ~~Ley 21.802 · Guerra Araya (2024)~~, pasaron a la S1.2b ·
+      ~~SPD (2022)~~ · ~~Gobierno de Santiago (s.f.)~~ · ~~Campana y Meneghini (2024)~~ · ~~Bergman (2023)~~,
+      sólo introducción, caps. II, III, V y VIII, conclusiones y epílogo · *si alcanza:* Schroeder y
+      Coello-Torres (2019), no se adelantó. Resolvió Quiero mi Barrio y creó [[equilibrios-de-criminalidad]]
 - [ ] **Tanda 6, antes del 27-11:** Garland (Gedisa) · Wacquant · Luneke y Trebilcock
       (2023) · Alda y Beliz (2007) · Zeballos (2024) · Bergman (2016) · Silva Sánchez ·
       Ferrajoli
@@ -87,14 +94,14 @@ Después de la tanda 6 vuelve el orden por cúmulos. Pendientes por cúmulo, seg
 
 | Cúmulo | Pendientes | Nota |
 |---|---:|---|
-| Bibliografía S1.1, consulta y complementaria | 9 | García-Pablos espera a estar completo |
-| Integrados desde el programa del curso | 1 | SPD (2022). Minayo y otros (2023) entró el 26-10 |
+| Bibliografía S1.1, consulta y complementaria | 8 | García-Pablos espera a estar completo |
+| Integrados desde el programa del curso | 0 | SPD (2022) entró el 09-11 |
 | Medición e inseguridad | 4 | Contiene P1 de S1.2; ahí está lo que podría dirimir la contradicción de Adams |
 | Sistema penal y Estado de derecho | 6 | Contiene P1 de S1.3 |
-| Gobernanza criminal y territorio | 4 | |
+| Gobernanza criminal y territorio | 3 | Campana y Meneghini (2024) entró el 09-11 |
 | Institucionalidad y política de prevención en Chile | 3 | La Ley 21.730, Luneke y Trebilcock (2023) y el comunicado de la ACOT |
 | Explicación del delito | 1 | Pavarini (2002), P1 de S1.3. Vozmediano y San Juan (2010) entró el 26-10 |
-| Prevención e intervención | 2 | UNODC (2011), P1 de S1.2, entró el 26-10 |
+| Prevención e intervención | 2 | Schroeder y Coello-Torres (2019) y el webinar de Placemaking. La guía de Santiago entró el 09-11 |
 | Vínculo Estado-crimen | 18 | Reserva del electivo S3.E4 |
 | Amenaza y securitización | 24 | Reserva del electivo S3.E4 |
 | Ingreso sin clasificar | 9 | En cuarentena sin plazo. Vozmediano y San Juan (2010) salió el 26-10 |
@@ -104,9 +111,9 @@ consulta de S1.1**, García-Pablos completo incluido.
 
 ## Cola de revisión
 
-**41 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
+**47 abiertos en [[revision]]**, agrupados al inicio de ese archivo por lo que los destraba:
 
-- **A. Decisión del autor (16):**
+- **A. Decisión del autor (18):**
   - tesis del anclaje empírico;
   - página de Vanderschueren;
   - alcance de Zúñiga Núñez;
@@ -120,21 +127,26 @@ consulta de S1.1**, García-Pablos completo incluido.
   - si se ingiere el resto de Tudela (ed.) (2010);
   - si se ingiere el resto de Baratta (2004);
   - si el Plan Cuadrante tiene página propia o es sección de una página de Carabineros;
-  - si se ingiere el resto de Vozmediano y San Juan (2010).
-- **B. Verificación bibliográfica (9):** los años de Sampson, Adams y la guía de 2010; el
-  borrador de 2020; Zúñiga Núñez; Gardner; el año y los ISBN de Arias; el femicidio; la guía de UNODC (2010).
-- **C. Una obra del corpus (10):** se destraban con las tandas 2 a 6 y, uno de ellos,
+  - si se ingiere el resto de Vozmediano y San Juan (2010);
+  - qué clúster recibe la sociología de la juventud;
+  - si se ingiere el resto de Bergman (2023), y con qué fecha se cita.
+- **B. Verificación bibliográfica (14):** los años de Sampson, Adams y la guía de 2010; el
+  borrador de 2020; Zúñiga Núñez; Gardner; el año y los ISBN de Arias; el femicidio; la guía de UNODC (2010);
+  el año de Bourdieu; la revista de Romero Miranda; los años de la SPD y de la guía de
+  Santiago; el umbral y una posible errata de Bergman (2023).
+- **C. Una obra del corpus (6):** se destraban con las tandas 2 a 6 y, uno de ellos,
   después.
-- **D. Una fuente que no está en el corpus o no se ha identificado (5):**
+- **D. Una fuente que no está en el corpus o no se ha identificado (9):**
   - Coalición de Diez Puntos;
   - CICIG;
-  - capital cultural, que espera a Bourdieu;
+  - capital cultural: el capítulo de Bourdieu (2002) no lo define; espera otra obra suya;
   - criminalidad de cuello blanco, que espera a Sutherland;
-  - violencia contra las mujeres en la pareja y la familia, que espera a S3.3.
+  - violencia contra las mujeres en la pareja y la familia, que espera a S3.3;
+  - la ley de concentración en una comuna chilena, sin candidata en el corpus desde el 09-11.
 
 ## Páginas borrador
 
-Diecinueve. Casi todas por la misma razón: registran una sola posición, o la registran de
+Veintitrés. Casi todas por la misma razón: registran una sola posición, o la registran de
 segunda mano.
 
 | Página | Qué le falta | Dónde puede estar |
@@ -146,8 +158,9 @@ segunda mano.
 | [[direccion-de-seguridad-publica-las-condes]] | Una fuente externa a la Dirección | Fuera del corpus |
 | [[policia-comunitaria]] | Una evaluación de un caso exitoso | Nada identificado |
 | [[legitimidad-policial]] | Evidencia chilena medida, no narrada | El instrumento de la ENUSC 2023 ya está en el corpus. Faltan sus resultados |
-| [[debilidad-estatal]] | La voz de sus defensores | Cúmulo `Vínculo Estado-crimen` |
+| [[debilidad-estatal]] | La voz clásica de sus defensores. Bergman (2023) la defiende con matices desde el 09-11 | Cúmulo `Vínculo Estado-crimen` |
 | [[desorganizacion-social]] | Una fuente primaria de Chicago | García-Pablos completo |
+| [[edad-sociologica]] | Una segunda fuente, y la revista de la única que tiene | Fuera del corpus |
 | [[policia-de-puntos-calientes]] | Una fuente crítica independiente de Weisburd | Nada identificado; Tudela (2015) repite a Weisburd |
 | [[moralismo-legal]] | La voz de Fletcher | No está en el corpus |
 | [[criminologia-del-curso-de-vida]] | Los autores criminológicos del enfoque, como Sampson y Laub | No están en el corpus. Blanco (2011), ya ingerida, da el enfoque general. Gottfredson y Hirschi, ingerida el 17-10, da la crítica, sin la respuesta de Sampson y Laub |
@@ -157,6 +170,8 @@ segunda mano.
 | [[buenas-practicas]] | Una fuente que discuta el concepto desde fuera, no que lo use para elegir casos | Nada identificado |
 | [[anomia]] | Durkheim y Merton de primera mano | No están en el corpus. Lamnek, pedido por S1.1, tampoco. Los caps. V y VI de Baratta, sin ingerir, traen las subculturas |
 | [[etiquetamiento]] | Becker, Lemert y Sack de primera mano | No están en el corpus. Lamnek, pedido por S1.1, tampoco |
+| [[equilibrios-de-criminalidad]] | Una fuente que discuta la teoría y no sea del mismo autor | Nada identificado; Bergman (2016), en la tanda 6, es del mismo autor |
+| [[quiero-mi-barrio]] | Una fuente del ministerio o una evaluación, fuera del círculo de Vanderschueren | Luneke y Trebilcock (2023), en la tanda 6, si lo trata |
 | [[analisis-de-contenido]] | Una segunda fuente, y el análisis temático fuera de la salud colectiva | Nada identificado en el corpus |
 
 ## Contradicciones sin resolver

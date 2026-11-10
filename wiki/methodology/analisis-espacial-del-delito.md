@@ -1,13 +1,13 @@
 ---
 title: Análisis espacial del delito
 type: method
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf", "2004 - Ratcliffe - Geocodificación del delito y una primera estimación de la tasa mínima aceptable de acierto.pdf", "2015 - Weisburd - La ley de concentración del delito y la criminología del lugar.pdf", "2004 - Weisburd, Bushway, Lum y Yang - Trayectorias del delito en los lugares, un estudio longitudinal de segmentos de calle en Seattle.pdf", "2017 - Bernasco y Steenbeek - Más lugares que delitos, implicancias para evaluar la ley de concentración del delito en el lugar.pdf", "2019 - Chainey y otros - Concentración del delito en microlugares en América Latina.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf", "2004 - Ratcliffe - Geocodificación del delito y una primera estimación de la tasa mínima aceptable de acierto.pdf", "2015 - Weisburd - La ley de concentración del delito y la criminología del lugar.pdf", "2004 - Weisburd, Bushway, Lum y Yang - Trayectorias del delito en los lugares, un estudio longitudinal de segmentos de calle en Seattle.pdf", "2017 - Bernasco y Steenbeek - Más lugares que delitos, implicancias para evaluar la ley de concentración del delito en el lugar.pdf", "2019 - Chainey y otros - Concentración del delito en microlugares en América Latina.pdf", "2024 - Campana y Meneghini - El desplazamiento del crimen organizado en comunidades locales.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-10-26
+actualizado: 2026-11-09
 ---
 
 # Análisis espacial del delito
@@ -73,6 +73,18 @@ Añadido el 26-10-2026 al ingerir [[bernasco-steenbeek-mas-lugares-que-delitos]]
 
 **Datos escasos.** Cuando hay menos delitos que lugares, las dos medidas sobrestiman la concentración, porque un delito no se divide [^ext-44]. Pasa con frecuencia con segmentos y direcciones, con periodos cortos y con delitos específicos [^ext-45]. El sesgo afecta también los porcentajes acumulados [^ext-46]. La corrección es el **Gini generalizado**, G' = máx(n/c, 1) · (G − 1) + 1, que compara con la máxima igualdad posible [^ext-47]. En La Haya, la agresión parecía más concentrada que el robo con fuerza, 0,86 contra 0,73. El Gini generalizado los iguala: 0,72 y 0,73 [^ext-48].
 
+## Redes entre lugares
+
+Añadido el 09-11-2026 al ingerir [[campana-meneghini-movilidad-crimen-organizado]]. Las técnicas de más arriba miden dónde se concentra el delito. Este método mide flujos entre lugares.
+
+**El modelo.** Cada comunidad es un nodo. Un vínculo va del territorio base de un miembro de un grupo criminal a cada otra comunidad donde delinquió, con un peso según el número de viajes para delinquir entre ambas [^ext-49]. La red se analiza con modelos de grafos aleatorios exponenciales valorados, que estiman qué atributos de las comunidades explican los vínculos [^ext-50].
+
+**La unidad.** Las 487 *Lower Layer Super Output Areas* de Cambridgeshire, unidades censales pequeñas [^ext-51]. Los autores sostienen que el método escala a segmentos de calle y puntos calientes [^ext-52].
+
+**Lo que encuentra.** La cercanía, las oportunidades del mercado ilegal y la semejanza entre comunidades explican hacia dónde se mueven los miembros [^ext-53].
+
+**Lo que hereda.** Los vínculos salen de delitos registrados y de una marca policial de pertenencia, no de viajes observados [^ext-54]. Es la limitación de más abajo, sobre los datos policiales, en un método nuevo [^inf-3].
+
 ## Límites
 
 - **Los datos van atrás de los métodos.** La calidad de los datos policiales era suficiente hace una década y hoy las técnicas nuevas la superan [^ext-22]. En América Latina el atraso es mayor. En 2014, el 45 % de los observatorios de la región no podía determinar la hora de los hechos, el 40 % no registraba el lugar, y el 31,5 % no tenía software para georreferenciar [^ext-27]. Ver [[observatorios-del-delito]].
@@ -100,6 +112,7 @@ Añadido el 26-10-2026 al ingerir [[bernasco-steenbeek-mas-lugares-que-delitos]]
 - [[ratcliffe-tasa-de-geocodificacion]] — la tasa mínima de geocodificación y sus condiciones
 - [[bernasco-steenbeek-mas-lugares-que-delitos]] — curva de Lorenz y Gini generalizado
 - [[weisburd-ley-de-concentracion]] — el segmento como unidad y las intersecciones
+- [[campana-meneghini-movilidad-crimen-organizado]] — redes dirigidas y valoradas entre comunidades
 
 **Contraste del 16-10-2026.** Batthyány y Cabrera (2011) toca la falacia ecológica. El capítulo de Boba en [[tudela-ed-analisis-delictual]] aporta dos insumos de estas técnicas. Todo delito tiene una fecha de denuncia y una de ocurrencia, y en los delitos sin testigos la segunda es un intervalo entre la primera y la última hora posibles [^ext-28]. Ese intervalo es lo que el análisis aorístico necesita [^inf-2]. Y la tasa debe dividir por el blanco, no por la población: robos al comercio por tienda, robos en casas por vivienda [^ext-29]. Es la misma lógica de las pruebas de permutación, que comparan con los blancos que realmente existen [^inf-2]. Ver [[estadisticas-delictuales]].
 
@@ -156,3 +169,10 @@ Añadido el 26-10-2026 al ingerir [[bernasco-steenbeek-mas-lugares-que-delitos]]
 [^ext-46]: **Extraído** — [[bernasco-steenbeek-mas-lugares-que-delitos]], p. 463.
 [^ext-47]: **Extraído** — [[bernasco-steenbeek-mas-lugares-que-delitos]], pp. 458-459.
 [^ext-48]: **Extraído** — [[bernasco-steenbeek-mas-lugares-que-delitos]], pp. 462-463.
+[^ext-49]: **Extraído** — [[campana-meneghini-movilidad-crimen-organizado]], p. 294.
+[^ext-50]: **Extraído** — [[campana-meneghini-movilidad-crimen-organizado]], pp. 296-299.
+[^ext-51]: **Extraído** — [[campana-meneghini-movilidad-crimen-organizado]], p. 299.
+[^ext-52]: **Extraído** — [[campana-meneghini-movilidad-crimen-organizado]], p. 287.
+[^ext-53]: **Extraído** — [[campana-meneghini-movilidad-crimen-organizado]], pp. 300-302 y 304.
+[^ext-54]: **Extraído** — [[campana-meneghini-movilidad-crimen-organizado]], pp. 293 y 295-296.
+[^inf-3]: **Inferido** (confianza 0.6) — comparando pp. 293-296 del artículo con «Límites».

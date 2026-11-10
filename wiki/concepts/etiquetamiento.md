@@ -1,13 +1,13 @@
 ---
 title: Etiquetamiento (labelling approach)
 type: concept
-sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
+sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2017 - Wikström - Por qué se delinque, una teoría de la acción situacional.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2015 - Romero Miranda - La edad sociológica, una mirada de la infancia desde el adelantamiento y la acumulación de experiencia.pdf", "2000 - Duarte Quapper - Juventud o juventudes, acerca de cómo mirar y remirar a las juventudes de nuestro continente.pdf", "2012 - Duarte Quapper - Sociedades adultocéntricas, sobre sus orígenes y reproducción.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1, s1-3, s2-4]
 procedencia: fuentes
 estado: borrador
 creado: 2026-10-16
-actualizado: 2026-10-17
+actualizado: 2026-11-09
 ---
 
 # Etiquetamiento (labelling approach)
@@ -95,6 +95,14 @@ Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]], una sociología de
 - **Los efectos no resisten un experimento.** Los estudios longitudinales encuentran más delincuencia después de una detención o una condena. Esos efectos no aparecen con diseños experimentales [^ext-31].
 - **Una raíz común.** Para ellos, el etiquetamiento hereda de la desviación cultural, como la asociación diferencial y las subculturas [^ext-32].
 
+## Desde los estudios de juventud
+
+Tres obras de la tanda 4a tocan el enfoque sin citar a sus autores.
+
+- **El rótulo tardío.** Romero Miranda trae de Cooper que los niños que roban desde muy pequeños se autodefinen como ladrones antes de que el control social los rotule [^ext-33]. Si la identidad precede a la etiqueta oficial, la desviación secundaria de Lemert no explica su origen [^inf-3]. Converge con la crítica que Kessler recoge: las carreras prosperan cuando hay menos reacción [^ext-28]. La fuente tiene la verificación bibliográfica pendiente.
+- **Ser como dicen que somos.** Duarte Quapper (2000) recoge de raperos de Santiago que los más jóvenes asumen la violencia como identidad en respuesta al discurso criminalizador, porque les da visibilidad [^ext-34]. Tiene la forma de la desviación secundaria, sin reacción penal: la etiqueta viene del discurso social [^inf-4].
+- **El estigma como imaginario.** Duarte Quapper (2012) describe la estigmatización de la juventud con Goffman, no con Becker ni Lemert: un prejuicio social, no un efecto del sistema penal [^ext-35]. Ver [[juventud-como-construccion-social]] y [[edad-sociologica]].
+
 ## Cita
 
 > "el comportamiento desviado es un comportamiento que es etiquetado como tal"
@@ -148,3 +156,8 @@ Añadido el 16-10-2026 al ingerir [[kessler-delito-amateur]], una sociología de
 [^ext-32]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 4, p. 76.
 [^inf-1]: **Inferido** (confianza 0.6) — combinando [[baratta-criminologia-critica]], p. 90, con [[teoria-accion-situacional]], [[eficacia-colectiva]] y [[puntos-calientes]]. Ninguna de las fuentes de esas páginas discute el etiquetamiento. La tensión la formula esta wiki.
 [^inf-2]: **Inferido** (confianza 0.7) — lectura de esta wiki sobre los caps. 3, 6 y 7 de [[kessler-delito-amateur]].
+[^ext-33]: **Extraído** — [[romero-edad-sociologica]], p. 52, citando a Cooper (2005, p. 522).
+[^ext-34]: **Extraído** — [[duarte-juventud-o-juventudes]], p. 65.
+[^ext-35]: **Extraído** — [[duarte-sociedades-adultocentricas]], p. 115.
+[^inf-3]: **Inferido** (confianza 0.6) — de esta wiki. Romero no discute a Lemert, y el testimonio es de segunda mano.
+[^inf-4]: **Inferido** (confianza 0.5) — de esta wiki. Duarte no usa el término.

@@ -1,13 +1,13 @@
 ---
 title: Criminología del desarrollo y del curso de vida
 type: concept
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2015 - Romero Miranda - La edad sociológica, una mirada de la infancia desde el adelantamiento y la acumulación de experiencia.pdf", "2010 - Krauskopf - La condición juvenil contemporánea en la constitución identitaria.pdf", "2012 - Duarte Quapper - Sociedades adultocéntricas, sobre sus orígenes y reproducción.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-26
-actualizado: 2026-10-17
+actualizado: 2026-11-09
 ---
 
 # Criminología del desarrollo y del curso de vida
@@ -140,6 +140,14 @@ El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
 - **Las propuestas.** Estudios longitudinales chilenos, en vez de importar modelos basados en evidencia. Prevención primaria focalizada entre los siete y los nueve años. Escuelas de segunda oportunidad. Registros biográficos integrados [^ext-25].
 - **Una crítica a un instrumento en uso.** El ASSET, que en Chile se aplica en el Programa Lazos, se centra en el riesgo y no en los recursos de los jóvenes [^ext-25]. Ver [[prevencion-del-delito]].
 
+## La edad, puesta en duda
+
+Las obras sobre juventudes de la tanda 4a discuten la variable que este enfoque usa como eje.
+
+- **Edad cronológica y trayectoria.** Romero Miranda propone una [[edad-sociologica]]: la experiencia y la conducta no esperables para la edad cronológica, que en sectores vulnerables adelantan la entrada en roles adultos [^ext-53]. La curva de edad mide la cronológica [^inf-5].
+- **Transiciones reversibles.** Para Krauskopf, las transiciones clásicas desaparecen y dejan de ser irreversibles [^ext-54], y la premura psicosocial adelanta las responsabilidades adultas de los jóvenes excluidos [^ext-55].
+- **El mecanicismo.** Duarte Quapper llama así a la imagen de un ciclo vital lineal, ascendente hasta la adultez y decadente hacia la vejez [^ext-56]. Los puntos de inflexión del curso de vida no suponen esa linealidad, de modo que la crítica alcanza más a la psicología evolutiva que a este enfoque [^inf-6].
+
 ## Cita
 
 > "relativiza el determinismo de la mayor parte de las teorías criminológicas"
@@ -219,3 +227,9 @@ El capítulo lee la política chilena de infancia desde el enfoque [^ext-24]:
 [^ext-50]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 7, pp. 166-167.
 [^ext-51]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 7, pp. 167-168.
 [^ext-52]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 6, p. 139, y cap. 7, pp. 164-165.
+[^ext-53]: **Extraído** — [[romero-edad-sociologica]], p. 53.
+[^ext-54]: **Extraído** — [[krauskopf-condicion-juvenil]], p. 41.
+[^ext-55]: **Extraído** — [[krauskopf-condicion-juvenil]], p. 38.
+[^ext-56]: **Extraído** — [[duarte-sociedades-adultocentricas]], pp. 113-114.
+[^inf-5]: **Inferido** (confianza 0.6) — de esta wiki, sobre [[romero-edad-sociologica]] y la curva de edad de esta página.
+[^inf-6]: **Inferido** (confianza 0.5) — de esta wiki. Duarte no discute la criminología del curso de vida.

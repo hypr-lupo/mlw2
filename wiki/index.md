@@ -9,7 +9,7 @@ sources: []
 Catálogo de la wiki. Una línea por página. Se actualiza en cada ingesta; una página
 que no aparece aquí no existe a efectos de consulta.
 
-**Estado:** 105 páginas · 44 fuentes ingeridas de 145 · tanda S1.2d ingerida el 26-10-2026: ocho artículos que cita el diseño de S1.2, entre ellos Cohen y Felson (1979), Weisburd (2015) y Guerette y Bowers (2009) · tanda S1.2c ingerida el mismo día: Decreto 96 (PNSP), UNODC (2011), Minayo y otros (2023) y Vozmediano y San Juan (2010), que salió de la cuarentena · Ley 20.965 y plan comunal de Las
+**Estado:** 121 páginas · 55 fuentes ingeridas · **tanda 5 ingerida el 09-11-2026**: SPD (2022), Gobierno de Santiago (s.f.), Campana y Meneghini (2024) y Bergman (2023), éste en parte; creó [[equilibrios-de-criminalidad]] y [[quiero-mi-barrio]] · tanda 4a ingerida el mismo día, completa con sus cuatro obras «si alcanza»: Duarte Quapper (2012 y 2000), Bourdieu (2002), Brizuela (2014), Krauskopf (2010), Brito Lemus (1998) y Romero Miranda (2015); creó [[adultocentrismo]], [[juventud-como-construccion-social]] y [[edad-sociologica]] · tanda S1.2d ingerida el 26-10-2026: ocho artículos que cita el diseño de S1.2, entre ellos Cohen y Felson (1979), Weisburd (2015) y Guerette y Bowers (2009) · tanda S1.2c ingerida el mismo día: Decreto 96 (PNSP), UNODC (2011), Minayo y otros (2023) y Vozmediano y San Juan (2010), que salió de la cuarentena · Ley 20.965 y plan comunal de Las
 Condes ingeridos el 24-10-2026 por delante de la cola · tanda S1.2b ingerida el mismo día:
 Ley 21.802, Guerra Araya (2024), Clarke (1997) y Felson y Eckert (2016) · **núcleo ancla S1.1 completo** ·
 tanda 1 cerrada el 27-09-2026 · Arias (2017) y Bourgois (2010) entraron el 02-10-2026
@@ -19,14 +19,17 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 
 - [[actividades-rutinarias]] — infractor, blanco y ausencia de guardián; el triángulo de Eck,
   la supervisión local y la crítica a la cohesión social. Borrador (6 fuentes)
+- [[adultocentrismo]] — sistema de dominación entre clases de edad, en un plano material y
+  otro simbólico; su historia desde Roma hasta Chile, su cruce con patriarcado, clase y Estado,
+  y las cautelas del autor (4 fuentes)
 - [[anomia]] — Durkheim y Merton: la desviación es normal; fines culturales y medios
   legítimos, cinco modos de adaptación, el cuello blanco, y la crítica de que legitima la
-  imagen del delito como cosa de pobres; y una segunda exposición; y la crítica de Gottfredson y Hirschi. Merton, de segunda mano.
-  Borrador (4 fuentes)
+  imagen del delito como cosa de pobres; y una segunda exposición; y la crítica de Gottfredson y Hirschi; y las aspiraciones sin posibilidades de Bourdieu. Merton, de segunda mano.
+  Borrador (6 fuentes)
 - [[autocontrol-y-disuasion]] — los dos procesos de control de la TAS, y por qué
   sólo son relevantes bajo condición; y cuándo una amenaza es coerción; y su raíz en la
   escuela clásica; y la disuasión vista desde el campo; y la voz de Gottfredson y Hirschi: ¿autocontrol o
-  moral? (5 fuentes)
+  moral?; y la disuasión condicionada al equilibrio de criminalidad (6 fuentes)
 - [[buenas-practicas]] — experiencias exitosas para adaptar: cómo se arma un banco de
   buenas prácticas, qué sostiene cada caso, replicar no es copiar, y cuatro preguntas para
   leer un caso. Borrador (3 fuentes)
@@ -41,7 +44,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   y por qué separarlos (7 fuentes)
 - [[crimen-organizado]] — el problema de las doscientas definiciones, la salida por el
   objetivo, el comercio ilícito contra el dualismo y la frontera jurídica: empírica,
-  de legitimación o normativa; y las empresas criminales territoriales; y la organización como ilusión (6 fuentes)
+  de legitimación o normativa; y las empresas criminales territoriales; y la organización como ilusión; y tres usos más: por rasgos, por redes y por la marca policial (9 fuentes)
 - [[criminalizacion-y-selectividad-penal]] — criminalización primaria y secundaria;
   cuatro niveles, del desvío a la negatividad social; cuello blanco y cifra negra; las
   metarreglas y la criminalidad como bien negativo; ¿error de medición o selección?; y
@@ -50,31 +53,37 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   desistimiento; el autocontrol temprano pesa pero no está sellado; y trayectorias de
   East Harlem donde también el empleo ilegal ordena; y desde Buenos Aires; contrastada
   con el enfoque de origen, cinco principios; y la respuesta de Gottfredson y Hirschi:
-  ¿punto de inflexión o autoselección? Borrador (5 fuentes)
+  ¿punto de inflexión o autoselección?; y la edad puesta en duda desde los estudios de juventud. Borrador (8 fuentes)
 - [[cultura-callejera]] — la respuesta a la exclusión que da un foro propio a la
   dignidad y a la vez organiza la destrucción de quienes participan; contra la cultura
   de la pobreza; y Merton, de segunda mano; ¿contracultura o suspensión del juicio?, y una
   voz contra la subcultura de la violencia. Borrador (4 fuentes)
 - [[debilidad-estatal]] — el paradigma de la suma cero entre Estado y crimen, y la
-  política de construir Estado que de él se sigue; tres críticas (3 fuentes)
+  política de construir Estado que de él se sigue; tres críticas y una defensa con matices (4 fuentes)
 - [[delito-amateur]] — del trabajador al proveedor: la legitimidad del dinero por su uso;
   las dos platas, una ley que no obliga, el ventajeo, proveedores y barderos, y el paso a la
   profesionalidad; ¿contracultura o suspensión del juicio?; y ¿hay carreras en el delito?
   (4 fuentes)
 - [[desorganizacion-social]] — la tradición de Chicago llevada del barrio a la calle;
   el marco en que el curso ubica a Sampson y que Sampson no nombra; y quién produjo la
-  concentración de pobreza; y leída desde la teoría del control (4 fuentes)
+  concentración de pobreza; y leída desde la teoría del control; y la definición oficial chilena y la objeción del rezago (7 fuentes)
 - [[desplazamiento-y-difusion]] — si la prevención focalizada sólo mueve el delito;
   la evidencia dice que la difusión es más probable, y el portonazo muestra el
   desplazamiento que no se mide, como los de mercancía y de organización; y una razón
-  teórica en contra (11 fuentes)
+  teórica en contra; y otra afirmación sin estudio, el desplazamiento de persona y un falso amigo (13 fuentes)
+- [[edad-sociologica]] — cirposición y adelantamiento: niños y adolescentes reconocidos por su
+  experiencia y no por su edad; dos divergencias, tres niveles, el rótulo tardío y ¿peones o
+  pares? Borrador (1 fuente, con verificación pendiente)
 - [[eficacia-colectiva]] — cohesión más expectativas compartidas de intervenir:
   el mecanismo que media entre desventaja concentrada y violencia; en América Latina,
-  condicionada a la policía; y una medida oficial con otra definición (7 fuentes)
+  condicionada a la policía; y una medida oficial con otra definición; y la definición oficial en su fuente, con una atribución dudosa (10 fuentes)
+- [[equilibrios-de-criminalidad]] — la teoría de Bergman: rentas ilegales y Estado débil que
+  se refuerzan hasta volverse estables; medidos por homicidios; contagio, masa crítica y
+  asimetría; y Chile como otro equilibrio o como etapa temprana. Borrador (2 fuentes)
 - [[etiquetamiento]] — la desviación como cualidad atribuida; dos paradigmas;
   desviación secundaria y carreras; la definición y el poder; ¿complemento o ruptura?, y
-  sus críticas; puesto a prueba en Buenos Aires; y una crítica desde el control. Borrador
-  (4 fuentes)
+  sus críticas; puesto a prueba en Buenos Aires; y una crítica desde el control; y desde los
+  estudios de juventud, el rótulo tardío. Borrador (7 fuentes)
 - [[exposicion-criminogena]] — el lado entorno: contexto moral, oportunidades y
   fricciones; y el efecto de área condicionado a quién lo use (1 fuente)
 - [[filtro-moral]] — la percepción selectiva de alternativas de acción; por qué la
@@ -91,6 +100,9 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[ideologia-de-la-defensa-social]] — seis principios que comparten la escuela clásica
   y la positiva, y la teoría que niega cada uno; la raíz de la disuasión, la prevención
   social y el daño (1 fuente)
+- [[juventud-como-construccion-social]] — la edad como relación de poder; contra la edad como
+  criterio; las dos juventudes; moratoria o premura; cuatro objetivaciones, tres enfoques
+  constructivistas y el conflicto entre generaciones (6 fuentes)
 - [[legitimidad-policial]] — condición de posibilidad de la cooperación entre
   vecinos y policía, con evidencia de Boston, Cali y México; y si la focalización la
   erosiona; autoridad frente a acatamiento por temor; la crisis de autonomía de
@@ -101,10 +113,10 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   popularidad transversal, la evidencia sobre sus efectos, y México y la edad penal
   desde la prevención; y la mano dura que cohesiona a los grupos y encarcela a los
   pobres; y El Salvador en cifras; y la cárcel que consolida la identidad desviada; y la
-  represión que escala; y la justicia penal como causa débil (8 fuentes)
+  represión que escala; y la justicia penal como causa débil; y la cárcel en la región, en cifras (9 fuentes)
 - [[mediacion-comunitaria]] — diálogo para transformar conflictos, contra la
-  mediación penal vertical y la mano dura; sin evaluaciones, y de una sola escuela
-  (2 fuentes)
+  mediación penal vertical y la mano dura; sin evaluaciones; y una tercera fuente, fuera de esa escuela, con principios y mediación
+  intercultural (4 fuentes)
 - [[miedo-social]] — el miedo como fenómeno social, y por qué la percepción de
   inseguridad puede ir muy por delante de la violencia registrada; la brecha del temor
   en Maipú y Peñalolén; la cultura del terror y el miedo bajo un orden armado; la cifra
@@ -114,11 +126,12 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   inmoralidad no es imponer la moralidad; el Estado como agente moral; y otro criterio,
   desde la criminología crítica (3 fuentes)
 - [[muerte-social]] — ceros sociales, humillación y búsqueda perversa del respeto, y la
-  misma búsqueda vista en East Harlem; superfluos pero sin conciencia de serlo (2 fuentes)
+  misma búsqueda vista en East Harlem; superfluos pero sin conciencia de serlo; y dos homónimos,
+  en Bourdieu y en Krauskopf (4 fuentes)
 - [[policia-comunitaria]] — el modelo policial derivado de la eficacia colectiva, las
   UPP de Rio como caso de reversión, la policía como socio y no líder en el barrio
   crítico, y el Plan Cuadrante y el MICC en Chile; y las UPP criticadas y recomendadas
-  a la vez; y el Plan Cuadrante, ¿el más exitoso o un fracaso? (8 fuentes)
+  a la vez; y el Plan Cuadrante, ¿el más exitoso o un fracaso?; y «actualmente inexistente en Chile» (9 fuentes)
 - [[policia-de-puntos-calientes]] — la estrategia policial mejor evaluada: la curva de
   Koper, los metaanálisis y el costo en legitimidad; una segunda fuente que repite a la
   primera (7 fuentes)
@@ -146,7 +159,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[tipologia-barrial]] — las cinco categorías de barrio con que ONU-Hábitat organiza
   una política de prevención municipal, y su versión de 2010: cuatro tipos y la
   pregunta entre barrio vulnerado y crítico; y por qué un programa rinde distinto
-  según el barrio (3 fuentes)
+  según el barrio; y la versión de Santiago, con siete categorías (4 fuentes)
 - [[trabajo-de-grado-profesionalizante]] — criterio de admisibilidad del trabajo
   final: utilidad demostrable sobre un caso real, no aporte al conocimiento; y el criterio
   del vacío de conocimiento de un manual de metodología (2 fuentes)
@@ -174,6 +187,9 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[plan-comunal-de-seguridad-publica]] — el instrumento municipal que crea la Ley 20.965:
   contenido, consejo comunal, datos policiales y su reforma de 2026; y Las Condes como
   caso. Primera política de la wiki. Borrador (5 fuentes)
+- [[quiero-mi-barrio]] — programa del gobierno central para barrios: planes de obras y de
+  gestión social, y el caso de Santa Elena en El Bosque. Tres fuentes con un autor en común y
+  sin evaluación; `vigencia: incierto`. Borrador (3 fuentes)
 
 ## Métodos
 
@@ -184,12 +200,11 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   de contexto, categorías, inferencia y tres pasos; pariente de la teoría fundamentada (1 fuente)
 - [[analisis-espacial-del-delito]] — autocorrelación, falacia ecológica, unidad
   modificable y efecto de borde; sitio y situación; técnicas de predicción; y contar
-  delitos no es contar víctimas; y los datos de lugar y hora que faltan en la región
-  (10 fuentes)
+  delitos no es contar víctimas; y los datos de lugar y hora que faltan en la región; y redes entre lugares (11 fuentes)
 - [[diagnostico-barrial]] — muestreo por tipología en vez de censo de barrios, y la
   exigencia de comparabilidad en el tiempo; el riesgo de promediar por barrio; y un
   diagnóstico participativo en el barrio vulnerado y de expertos en el crítico; una
-  proyección por tipología sin base probabilística declarada (4 fuentes)
+  proyección por tipología sin base probabilística declarada; y Rotterdam en la Región Metropolitana (5 fuentes)
 - [[diseno-de-investigacion]] — ruptura, estructuración y comprobación; del tema al
   problema, marcos, objetivos, cinco diseños por objetivo, hipótesis, unidades de
   análisis y muestra; lo que un manual de pregrado no trae: experimentos y cohortes; y
@@ -209,7 +224,7 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   implementación y fidelidad; tres ideas de evidencia que la wiki no reconcilia; el
   mismo diagnóstico desde la violencia en el noviazgo; dos sentidos de «por qué»; y la
   tensión leída como complementación de métodos; y las instituciones del dato, que
-  tampoco se evalúan; y la buena práctica como cuarta idea de evidencia (10 fuentes)
+  tampoco se evalúan; y la buena práctica como cuarta idea de evidencia; y lo que evalúa quien financia (11 fuentes)
 - [[medicion-de-la-victimizacion]] — qué mide una encuesta de victimización y para qué:
   cifra oscura, prevalencia e incidencia, percepción en tres aspectos; la ENUSC y su
   rediseño de 2023; el instrumento mueve la cifra; lo que la encuesta oficial no mide; y
@@ -240,15 +255,30 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[batthyany-metodologia-investigacion]] — Batthyány y Cabrera (coords.), 2011. Manual
   docente de metodología de la Universidad de la República, que compila a otros autores.
   Bibliografía de S1.2. Primera de la tanda 2
+- [[bergman-negocio-del-crimen]] — Bergman, 2023. Versión adaptada de *More Money, More
+  Crime*: el delito crece por rentas ilegales y Estado débil, en equilibrios de alta y baja
+  criminalidad. Sólo introducción, caps. II, III, V y VIII, conclusiones y epílogo.
+  Bibliografía restante de S1.1. Cuarta y última de la tanda 5
 - [[bernasco-steenbeek-mas-lugares-que-delitos]] — Bernasco y Steenbeek, 2017. Cómo medir la
   concentración del delito cuando hay más lugares que delitos: curva de Lorenz y Gini
   generalizado. Tanda S1.2d
 - [[blanco-curso-de-vida]] — Blanco, 2011. Revisión sociodemográfica del enfoque del curso de
   vida: orígenes, tres conceptos y cinco principios. Bibliografía de S1.1. Tercera y última
   de la tanda 3
+- [[bourdieu-la-juventud-es-una-palabra]] — Bourdieu, 2002. Entrevista de 1978 sobre la edad
+  como relación de poder, las dos juventudes y la inflación de títulos. Obligatoria de S2.4.
+  **Verificación pendiente**: el año. Segunda de la tanda 4a
 - [[bourgois-en-busca-de-respeto]] — Bourgois, 2010, traducción de una obra de 1995.
   Etnografía de una red de casas de crack en East Harlem; primera etnografía de la wiki.
   Ningún programa recibido lo nombra. Fuera del orden por calendario
+- [[brito-sociologia-de-la-juventud]] — Brito Lemus, 1998. La juventud como objeto teórico:
+  empieza con la capacidad de reproducir la especie y termina con la de reproducir la sociedad.
+  Abre la clase 1 de S2.4. «Si alcanza» de la tanda 4a
+- [[brizuela-resena-delito-amateur]] — Brizuela, 2014. Reseña de Kessler (2004), sobre una
+  reimpresión de 2010 con el mismo ISBN. Obligatoria de S2.4. Tercera de la tanda 4a
+- [[campana-meneghini-movilidad-crimen-organizado]] — Campana y Meneghini, 2024. Redes de
+  movilidad de grupos criminales entre comunidades de un condado inglés. Ningún programa
+  recibido la pide. Tercera de la tanda 5
 - [[chainey-concentracion-america-latina]] — Chainey y otros, 2019. La concentración del delito
   en 42 ciudades latinoamericanas, ninguna chilena, con un año de datos. Tanda S1.2d
 - [[cipc-experiencias-exitosas]] — CIPC, 2015. Informe por encargo sobre diez buenas
@@ -259,6 +289,10 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   dieciséis técnicas, desplazamiento y difusión. Faltan los casos. P2 de S1.1. Tanda S1.2b
 - [[cohen-felson-actividades-rutinarias]] — Cohen y Felson, 1979. El artículo que fundó la
   teoría de las actividades rutinarias. Tanda S1.2d
+- [[duarte-juventud-o-juventudes]] — Duarte Quapper, 2000. Cuatro versiones de «la juventud»,
+  cuatro trampas y la apuesta por las juventudes. Complementaria de S2.4. «Si alcanza» de la tanda 4a
+- [[duarte-sociedades-adultocentricas]] — Duarte Quapper, 2012. El adultocentrismo como
+  proceso histórico y como matriz sociocultural. Obligatoria de S2.4. Primera de la tanda 4a
 - [[felson-clarke-la-oportunidad-hace-al-ladron]] — Felson y Clarke, 1998. Informe del Home
   Office: tres teorías de la oportunidad y diez principios. Tanda S1.2d
 - [[felson-eckert-delito-y-vida-cotidiana]] — Felson y Eckert, 2016. Manual de actividades
@@ -266,6 +300,9 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
 - [[gardner-prohibir-inmoralidades]] — Gardner, 2007. Filosofía del derecho penal:
   comentario a Fletcher. Versión de autor que pide citar la de la revista. Fuera del
   orden por calendario
+- [[gobierno-de-santiago-guia-barrios]] — Gobierno de Santiago, s.f. Tercera guía de barrios
+  del mismo equipo: siete tipos y trabajo de campo de 2023 en la Región Metropolitana.
+  **Verificación pendiente**: el año. Segunda de la tanda 5
 - [[gottfredson-hirschi-teoria-general]] — Gottfredson y Hirschi, 1990. Teoría del bajo
   autocontrol, aplicada a la edad, las instituciones, la cultura, el cuello blanco, la
   organización, el método y la política. Original inglés. Bibliografía restante de S1.1.
@@ -278,8 +315,10 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   la ENUSC, con un piloto experimental. Bibliografía de S1.2. Primera fuente estadística
   oficial de la wiki. Tercera de la tanda 2
 - [[kessler-delito-amateur]] — Kessler, 2004. Sociología de jóvenes que roban con violencia
-  en Buenos Aires, 53 entrevistas de 1999. Bibliografía de S1.1. S2.4 pide una reseña del libro. Segunda de la
-  tanda 3
+  en Buenos Aires, 53 entrevistas de 1999. Bibliografía de S1.1. S2.4 pide una reseña del libro, la de
+  [[brizuela-resena-delito-amateur]]. Segunda de la tanda 3
+- [[krauskopf-condicion-juvenil]] — Krauskopf, 2010. Identidad juvenil en sociedades de riesgo;
+  premura psicosocial frente a moratoria. Complementaria de S2.4. «Si alcanza» de la tanda 4a
 - [[las-condes-plan-comunal-2026-2029]] — Municipalidad de Las Condes, 2026. Plan comunal
   de seguridad pública: robos e incivilidades 2019-2025, consulta vecinal, seis subsistemas
   e indicadores. Afirma que los focos no son estables. Por delante de la cola, para S1.2
@@ -303,8 +342,14 @@ fuera del orden · **tanda 2 cerrada el 16-10-2026** · **tanda 3 cerrada el 17-
   institucional del programa
 - [[ratcliffe-tasa-de-geocodificacion]] — Ratcliffe, 2004. La tasa mínima aceptable de
   geocodificación, 85 %, y sus condiciones. Tanda S1.2d
+- [[romero-edad-sociologica]] — Romero Miranda, 2015. Cirposición y edad sociológica en niños
+  y adolescentes vulnerables. Abre la clase 1 de S2.4. **Verificación pendiente**: la revista.
+  «Si alcanza» de la tanda 4a
 - [[sampson-vecindario-y-comunidad]] — Sampson, 2006. Obligatoria de S1.1,
   módulo 3. Primera del núcleo ancla
+- [[spd-prevencion-comunitaria]] — Subsecretaría de Prevención del Delito, 2022. Orientaciones
+  técnicas para formular proyectos de prevención comunitaria: evaluación de diseño, mediación y
+  enfoque intercultural. **Verificación pendiente**: el año. Primera de la tanda 5
 - [[srur-observatorios-del-delito]] — Srur (ed.), 2014. Documento para discusión del BID
   sobre observatorios del crimen y la violencia. Bibliografía de S1.2. Ingesta parcial:
   sólo las pp. 26-45, el mapeo. Cuarta de la tanda 2

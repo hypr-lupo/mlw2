@@ -1,13 +1,13 @@
 ---
 title: Diagnóstico barrial
 type: method
-sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf"]
+sources: ["2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf", "2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-16
+actualizado: 2026-11-09
 ---
 
 # Diagnóstico barrial
@@ -78,6 +78,16 @@ Añadido el 16-10-2026 al ingerir [[batthyany-metodologia-investigacion]], el pr
 
 El manual describe también el punto de partida del método: un municipio que encarga un diagnóstico, y la necesidad de traducir esa demanda en un tema de investigación [^ext-22]. Ver [[diseno-de-investigacion]].
 
+## La versión de Santiago: Rotterdam en la Región Metropolitana
+
+Añadido el 09-11-2026 al ingerir [[gobierno-de-santiago-guia-barrios]]. Es la tercera guía del mismo equipo y aplica el método a doce barrios de la Región Metropolitana, con trabajo de campo de 2023 [^ext-23]. No es una voz independiente de las dos anteriores [^ext-24].
+
+**La muestra, como postulado.** La guía lo dice con todas sus letras: las vulnerabilidades de los barrios de un mismo tipo son análogas, de modo que una muestra representativa de cada tipo evidencia las necesidades de la categoría sin diagnosticar todos los barrios [^ext-25]. Llama representativos a sus doce barrios, pero no dice cómo los eligió [^inf-6]. Es la objeción de más arriba, ahora sobre datos chilenos.
+
+**Alta complejidad, sin participación.** Repite que no se recomiendan estrategias participativas [^ext-26], y agrega que el acceso al barrio dificulta los grupos focales y las marchas exploratorias [^ext-27]. La acción policial es componente central del diagnóstico, pero no el único [^ext-28].
+
+**Un cambio de destinatario.** El diagnóstico participativo se recomienda ahora para los barrios de ingresos medios y de alta renta [^ext-29]. Las guías anteriores lo asignaban a los vulnerados. Para éstos, la de Santiago pide generar confianzas y no dice si el diagnóstico es participativo [^inf-7]. Si la lectura es correcta, el método participativo quedó para los barrios con menos violencia.
+
 ## Cita
 
 > "debe generar antecedentes comparables en el tiempo"
@@ -97,6 +107,7 @@ El manual describe también el punto de partida del método: un municipio que en
 - [[puntos-calientes]] — lo que la escala barrial puede ocultar
 - [[ventanas-rotas]] — el supuesto que arrastra el relevamiento del deterioro físico, y por qué la versión de 2010 no lo necesitaba
 - [[capital-social]] — su perversión es lo que vuelve impracticable el diagnóstico participativo en un barrio crítico
+- [[gobierno-de-santiago-guia-barrios]] — Rotterdam en la Región Metropolitana, y el diagnóstico participativo trasladado a los barrios de ingresos medios y altos
 
 **Pendiente de contraste.** Hasta el 26-09-2026 era el único método que la wiki registraba, y viene de una guía operativa. Ahora lo acompañan [[analisis-espacial-del-delito]] y, desde el 16-10-2026, las páginas de método que salen de Batthyány y Cabrera. Falta un texto sobre diagnóstico de un territorio: el informe metodológico del INE sobre victimización y percepción, en la tanda 2, y Minayo, Deslandes y Gomes (2023). Ver [[pendientes]].
 
@@ -129,3 +140,12 @@ El manual describe también el punto de partida del método: un municipio que en
 [^inf-3]: **Inferido** (confianza 0.7) — combina el diseño de muestreo de [[onu-habitat-guia-barrios]] con la evidencia de variación calle a calle de [[weisburd-el-lugar-importa]]. Ninguna de las dos fuentes plantea la consecuencia.
 [^inf-4]: **Inferido** (confianza 0.8) — la guía declara el límite de representatividad para las herramientas cualitativas y la inutilidad de las cuantitativas en barrios críticos. Que eso deje sin diagnóstico representativo al tipo de barrio que más lo necesita es lectura propia.
 [^inf-5]: **Inferido** (confianza 0.6) — contraste propio entre [[onu-habitat-guia-barrios]], p. 56, y [[batthyany-metodologia-investigacion]], p. 73. La guía podría elegir los barrios al azar dentro de cada tipo sin decirlo. Si lo hace, la proyección valdría para la tipología, no para cada barrio.
+[^ext-23]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], pp. 8 y 61.
+[^ext-24]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 2, créditos; ver el recuadro de la ficha.
+[^ext-25]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 51.
+[^ext-26]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 56.
+[^ext-27]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 58.
+[^ext-28]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 57.
+[^ext-29]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 55.
+[^inf-6]: **Inferido** (confianza 0.7) — de pp. 8, 51 y 61 de la guía: «12 barrios de la Región, representativos» de cada tipo, sin criterio de selección.
+[^inf-7]: **Inferido** (confianza 0.7) — comparando p. 56 de la guía con «Dos diagnósticos distintos».

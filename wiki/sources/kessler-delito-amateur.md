@@ -14,7 +14,7 @@ curso: [s1-1, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-10-16
-actualizado: 2026-10-17
+actualizado: 2026-11-09
 ---
 
 # Sociología del delito amateur (Kessler)
@@ -82,12 +82,14 @@ Los jóvenes que roban en los barrios populares de Buenos Aires a fines de los n
 - [[bourgois-en-busca-de-respeto]]: Kessler lo cita y se distingue. Allá una contracultura, acá no. Ver [[cultura-callejera]].
 - [[wikstrom-por-que-se-delinque]]: la disuasión limitada, desde la teoría y desde el campo. Ver [[teoria-accion-situacional]].
 - [[baratta-criminologia-critica]]: el etiquetamiento, expuesto por un defensor y puesto a prueba por un sociólogo.
+- [[brizuela-resena-delito-amateur]]: la reseña que pide S2.4. Reseña una reimpresión de 2010 con el mismo ISBN y la misma paginación.
+- [[romero-edad-sociologica]]: la escalada dentro del grupo, desde la edad sociológica.
 
 ## Encuadre curricular
 
 Capa posterior y reversible. Vaciarla no cambia nada de lo anterior.
 
-Bibliografía de S1.1, Introducción a la criminología. El programa de 2023 de S2.4, Violencia y delincuencia juvenil, también lo pedía. El vigente, recibido el 17-10-2026, pide en su lugar una reseña del libro, de Brizuela (2014), que no está en el corpus. Por eso conserva S2.4 en `curso`, por contenido. Segunda obra de la tanda 3 del orden por calendario de [[purpose]].
+Bibliografía de S1.1, Introducción a la criminología. El programa de 2023 de S2.4, Violencia y delincuencia juvenil, también lo pedía. El vigente, recibido el 17-10-2026, pide en su lugar una reseña del libro, de Brizuela (2014), ingerida el 09-11-2026: ver [[brizuela-resena-delito-amateur]]. Por eso conserva S2.4 en `curso`, por contenido. Segunda obra de la tanda 3 del orden por calendario de [[purpose]].
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: Anomia y teoría de la tensión
 type: concept
-sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
+sources: ["2004 - Baratta - Criminología crítica y crítica del derecho penal, introducción a la sociología jurídico-penal.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2004 - Kessler - Sociología del delito amateur.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2002 - Bourdieu - La juventud no es más que una palabra.pdf", "2010 - Krauskopf - La condición juvenil contemporánea en la constitución identitaria.pdf"]
 cluster: explicacion-del-delito
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-10-16
-actualizado: 2026-10-17
+actualizado: 2026-11-09
 ---
 
 # Anomia y teoría de la tensión
@@ -92,6 +92,12 @@ Añadido el 17-10-2026 al ingerir [[gottfredson-hirschi-teoria-general]]. Merton
 
 Kessler registraba un hallazgo en la misma dirección. Según Short y Strodtbeck, roban más quienes ven limitadas sus oportunidades, no quienes tienen aspiraciones altas [^ext-19].
 
+## Aspiraciones sin posibilidades
+
+Bourdieu describe un desfase con una forma parecida a la de Merton, sin citarlo. La escuela da títulos, es decir derechos, y con ellos aspiraciones. Cuando los títulos se multiplican se devalúan, y el desfase entre las aspiraciones y las posibilidades reales produce desilusión y rechazo colectivos [^ext-28]. La rebelión que resulta, dice, es anómica: no es política en el sentido establecido, aunque podría serlo [^ext-29]. La estructura es la de los fines culturales frente a los medios legítimos, con la escuela como fuente de los fines [^inf-3]. Ver [[bourdieu-la-juventud-es-una-palabra]].
+
+Krauskopf usa la palabra en otro sentido: una perturbación psicológica de vacío y aburrimiento, ante cambios demasiado rápidos [^ext-30].
+
 ## Lo que falta
 
 - **Las fuentes.** Faltan Merton, los dos libros de Sutherland y Lamnek. Esta página no los reemplaza.
@@ -145,3 +151,7 @@ Kessler registraba un hallazgo en la misma dirección. Según Short y Strodtbeck
 [^ext-27]: **Extraído** — [[gottfredson-hirschi-teoria-general]], cap. 4, p. 80.
 [^inf-1]: **Inferido** (confianza 0.6) — combinando [[baratta-criminologia-critica]], p. 64, y [[bourgois-en-busca-de-respeto]]. Baratta no discute a Bourgois, que es posterior. La tensión la formula esta wiki.
 [^inf-2]: **Inferido** (confianza 0.6) — combinando [[baratta-criminologia-critica]], p. 56, y [[desorganizacion-social]]. Ninguna fuente compara las dos nociones.
+[^ext-28]: **Extraído** — [[bourdieu-la-juventud-es-una-palabra]], pp. 167-168.
+[^ext-29]: **Extraído** — [[bourdieu-la-juventud-es-una-palabra]], p. 170.
+[^ext-30]: **Extraído** — [[krauskopf-condicion-juvenil]], p. 36.
+[^inf-3]: **Inferido** (confianza 0.6) — de esta wiki. Bourdieu no cita a Merton; la ficha de Bourdieu tiene la verificación bibliográfica pendiente.

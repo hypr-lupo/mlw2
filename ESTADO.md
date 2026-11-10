@@ -1,37 +1,37 @@
 # Estado del despliegue
 
-**Generado:** 2026-10-30 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
+**Generado:** 2026-11-09 por `python scripts/estado.py`. **No editar a mano:** se sobrescribe en cada corrida.
 
 Vista derivada de `MANIFIESTO.json`, `wiki/sources/`, `wiki/index.md`, `wiki/referencias.md` y `despliegue/fase1/`. Ante discrepancia manda el manifiesto, no este archivo.
 
-**Universo:** 143 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (7 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
+**Universo:** 143 documentos de `raw/sources/`, excluido el cumulo `Programas oficiales y malla` (6 documentos, que se ingieren por excepcion). Los cumulos son los de `INVENTARIO.md`.
 
 ## Resumen
 
 | Estado | Documentos | % |
 |---|---:|---:|
-| `pendiente` | 100 | 69.9 % |
+| `pendiente` | 89 | 62.2 % |
 | `fase1` | 0 | 0.0 % |
 | `fase2` | 0 | 0.0 % |
-| `completo` | 43 | 30.1 % |
+| `completo` | 54 | 37.8 % |
 
 ## Por cumulo
 
 | Cumulo | Total | pendiente | fase1 | fase2 | completo |
 |---|---:|---:|---:|---:|---:|
 | Amenaza y securitización | 24 | 24 | 0 | 0 | 0 |
-| Bibliografía S1.1, consulta y complementaria | 12 | 9 | 0 | 0 | 3 |
-| Bibliografía obligatoria S2.4 | 3 | 3 | 0 | 0 | 0 |
+| Bibliografía S1.1, consulta y complementaria | 12 | 8 | 0 | 0 | 4 |
+| Bibliografía obligatoria S2.4 | 3 | 0 | 0 | 0 | 3 |
 | Explicación del delito | 11 | 1 | 0 | 0 | 10 |
-| Gobernanza criminal y territorio | 6 | 4 | 0 | 0 | 2 |
+| Gobernanza criminal y territorio | 6 | 3 | 0 | 0 | 3 |
 | Ingreso sin clasificar | 9 | 9 | 0 | 0 | 0 |
 | Institucionalidad y política de prevención en Chile | 8 | 3 | 0 | 0 | 5 |
-| Integrados desde el programa del curso (05-09-2026) | 9 | 1 | 0 | 0 | 8 |
+| Integrados desde el programa del curso (05-09-2026) | 9 | 0 | 0 | 0 | 9 |
 | Juventudes, desigualdad y violencias, módulo II de S2.4 | 5 | 5 | 0 | 0 | 0 |
-| Juventudes, módulo I de S2.4 | 10 | 10 | 0 | 0 | 0 |
+| Juventudes, módulo I de S2.4 | 10 | 6 | 0 | 0 | 4 |
 | Medición e inseguridad | 8 | 4 | 0 | 0 | 4 |
 | Núcleo ancla S1.1 | 4 | 0 | 0 | 0 | 4 |
-| Prevención e intervención | 8 | 3 | 0 | 0 | 5 |
+| Prevención e intervención | 8 | 2 | 0 | 0 | 6 |
 | Sistema penal y Estado de derecho | 8 | 6 | 0 | 0 | 2 |
 | Vínculo Estado-crimen | 18 | 18 | 0 | 0 | 0 |
 
@@ -50,11 +50,15 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - [[adams-violencia-cronica]]
 - [[arias-empresas-criminales-y-gobernanza]]
 - [[baratta-criminologia-critica]]
+- [[bourdieu-la-juventud-es-una-palabra]]
 - [[gardner-prohibir-inmoralidades]]
+- [[gobierno-de-santiago-guia-barrios]]
 - [[ine-medicion-victimizacion]]
 - [[onu-habitat-guia-barrios]]
 - [[programa-magister-uah]]
+- [[romero-edad-sociologica]]
 - [[sampson-vecindario-y-comunidad]]
+- [[spd-prevencion-comunitaria]]
 - [[srur-observatorios-del-delito]]
 - [[vanderschueren-guia-prevencion-barrios]]
 - [[zuniga-civilizacion-y-derechos-humanos]]
@@ -100,15 +104,15 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `completo` — 2011 - Blanco - El enfoque del curso de vida, orígenes y desarrollo.pdf
 - `pendiente` — 2016 - Bergman - Drogas, narcotráfico y poder en América Latina.pdf
 - `completo` — 2020 - ONU-Hábitat y Gobierno Municipal de Guadalajara - Guía en seguridad y prevención de barrios.pdf
-- `pendiente` — 2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf
+- `completo` — 2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf
 - `pendiente` — 2024 - Zeballos - Un virus entre sombras, la expansión del crimen organizado y el narcotráfico en Chile.epub
 - `pendiente` — 2026 - Zeballos - Cuando el crimen reza.epub
 
 ### Bibliografía obligatoria S2.4
 
-- `pendiente` — 2002 - Bourdieu - La juventud no es más que una palabra.pdf
-- `pendiente` — 2012 - Duarte Quapper - Sociedades adultocéntricas, sobre sus orígenes y reproducción.pdf
-- `pendiente` — 2014 - Brizuela - Reseña de Sociología del delito amateur, de Gabriel Kessler.pdf
+- `completo` — 2002 - Bourdieu - La juventud no es más que una palabra.pdf
+- `completo` — 2012 - Duarte Quapper - Sociedades adultocéntricas, sobre sus orígenes y reproducción.pdf
+- `completo` — 2014 - Brizuela - Reseña de Sociología del delito amateur, de Gabriel Kessler.pdf
 
 ### Explicación del delito
 
@@ -131,7 +135,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2015 - Salinero - El crimen organizado en Chile, aproximación criminológica al perfil del delincuente.pdf
 - `completo` — 2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf
 - `completo` — 2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf
-- `pendiente` — 2024 - Campana y Meneghini - El desplazamiento del crimen organizado en comunidades locales.pdf
+- `completo` — 2024 - Campana y Meneghini - El desplazamiento del crimen organizado en comunidades locales.pdf
 
 ### Ingreso sin clasificar
 
@@ -165,7 +169,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `completo` — 2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf
 - `completo` — 2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf
 - `completo` — 2021 - Vives Varela y Hamui Sutton - La codificación y categorización en la teoría fundamentada.pdf
-- `pendiente` — 2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf
+- `completo` — 2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf
 - `completo` — 2023 - Minayo, Deslandes y Gomes - Investigación social, teoría, método y creatividad.pdf
 
 ### Juventudes, desigualdad y violencias, módulo II de S2.4
@@ -178,16 +182,16 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 
 ### Juventudes, módulo I de S2.4
 
-- `pendiente` — 1998 - Brito Lemus - Hacia una sociología de la juventud, algunos elementos para la deconstrucción de un nuevo paradigma de la juventud.pdf
+- `completo` — 1998 - Brito Lemus - Hacia una sociología de la juventud, algunos elementos para la deconstrucción de un nuevo paradigma de la juventud.pdf
 - `pendiente` — 1999 - Feixa - De jóvenes, bandas y tribus, antropología de la juventud.pdf
-- `pendiente` — 2000 - Duarte Quapper - Juventud o juventudes, acerca de cómo mirar y remirar a las juventudes de nuestro continente.pdf
+- `completo` — 2000 - Duarte Quapper - Juventud o juventudes, acerca de cómo mirar y remirar a las juventudes de nuestro continente.pdf
 - `pendiente` — 2000 - Sennett - La corrosión del carácter, las consecuencias personales del trabajo en el nuevo capitalismo.pdf
 - `pendiente` — 2003 - Lozano Urbieta - Nociones de juventud.pdf
 - `pendiente` — 2007 - Souto Kustrín - Juventud, teoría e historia, la formación de un sujeto social y de un objeto de análisis.pdf
 - `pendiente` — 2008 - Arce Cortés - Subcultura, contracultura, tribus urbanas y culturas juveniles, ¿homogenización o diferenciación.pdf
-- `pendiente` — 2010 - Krauskopf - La condición juvenil contemporánea en la constitución identitaria.pdf
+- `completo` — 2010 - Krauskopf - La condición juvenil contemporánea en la constitución identitaria.pdf
 - `pendiente` — 2012 - Rubio Gil y San Martín Pascal - Subculturas juveniles, identidad, idolatrías y nuevas tendencias.pdf
-- `pendiente` — 2015 - Romero Miranda - La edad sociológica, una mirada de la infancia desde el adelantamiento y la acumulación de experiencia.pdf
+- `completo` — 2015 - Romero Miranda - La edad sociológica, una mirada de la infancia desde el adelantamiento y la acumulación de experiencia.pdf
 
 ### Medición e inseguridad
 
@@ -216,7 +220,7 @@ Estas fichas no se citan hasta cotejarlas contra el documento.
 - `pendiente` — 2019 - Schroeder y Coello-Torres - Placemaking, transformación de un lugar en el asentamiento humano Santa Julia, Piura, Perú.pdf
 - `completo` — 2024 - Guerra Araya - Orquestando el ecosistema de seguridad local, el modelo Las Condes.pdf
 - `pendiente` — 2026 - Fundación Placemaking - Placemaking, espacio público y participación comunitaria para construir paz (presentación de webinar).pdf
-- `pendiente` — s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf
+- `completo` — s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf
 
 ### Sistema penal y Estado de derecho
 

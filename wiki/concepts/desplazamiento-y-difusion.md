@@ -1,13 +1,13 @@
 ---
 title: Desplazamiento del delito y difusión de beneficios
 type: concept
-sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf", "2009 - Guerette y Bowers - El alcance del desplazamiento del delito y de la difusión de beneficios, una revisión de evaluaciones de prevención situacional.pdf", "1998 - Felson y Clarke - La oportunidad hace al ladrón, teoría práctica para la prevención del delito.pdf"]
+sources: ["2016 - Weisburd y otros - El lugar importa, criminología para el siglo XXI.pdf", "2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2010 - Bourgois - En busca de respeto, vendiendo crack en Harlem.pdf", "2023 - Albarracín - Crimen organizado en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "2026 - Municipalidad de Las Condes - Decreto 2098, aprueba el Plan Comunal de Seguridad Pública 2026-2029.pdf", "1997 - Clarke - Prevención situacional del delito, casos de éxito.pdf", "2010 - Vozmediano y San Juan - Criminología ambiental, ecología del delito y de la seguridad.pdf", "2009 - Guerette y Bowers - El alcance del desplazamiento del delito y de la difusión de beneficios, una revisión de evaluaciones de prevención situacional.pdf", "1998 - Felson y Clarke - La oportunidad hace al ladrón, teoría práctica para la prevención del delito.pdf", "2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf", "2024 - Campana y Meneghini - El desplazamiento del crimen organizado en comunidades locales.pdf"]
 cluster: prevencion
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-10-26
+actualizado: 2026-11-09
 ---
 
 # Desplazamiento del delito y difusión de beneficios
@@ -111,6 +111,16 @@ Dos ejemplos con cámaras. En un estacionamiento universitario con CCTV, los rob
 
 Sobre el desplazamiento, Clarke cita la revisión de Hesseling (1994): de 55 estudios, en 22 no hubo desplazamiento, y en ninguno fue total [^ext-29]. Y advierte un límite de método: el delito desplazado puede dispersarse tanto que se pierda en el error de medición [^ext-30].
 
+## Otra afirmación sin estudio, y el desplazamiento de persona
+
+Añadido el 09-11-2026 al ingerir [[bergman-negocio-del-crimen]] y [[campana-meneghini-movilidad-crimen-organizado]].
+
+**La afirmación.** Bergman escribe que «varios estudios» muestran que la vigilancia de puntos calientes desplaza el delito a otras zonas, y no cita ninguno [^ext-38]. Es la posición del cap. I de Vanderschueren, más arriba, y contradice las revisiones de esta página, que hallan más difusión que desplazamiento [^ext-4]. A diferencia del portonazo, no trae caso ni cifra [^inf-6].
+
+**De persona.** El cap. VIII de Bergman describe un desplazamiento que esta página no tenía: el de infractor. Cuando la cárcel saca a un ladrón, otro ocupa su lugar. Los robos de autos siguieron subiendo mientras más ladrones entraban a prisión, y la oferta de drogas se mantuvo [^ext-39]. Es el supuesto de Reppetto aplicado a la incapacitación: si el mercado sigue rentable, la población de infractores se repone [^inf-7]. Ver [[mano-dura-y-militarizacion]].
+
+**Un falso amigo.** El archivo de Campana y Meneghini traduce *movement* por «desplazamiento». El artículo no mide desplazamiento en el sentido de esta página: mide dónde delinquen los miembros de grupos criminales fuera de su territorio base, sin intervención de por medio [^ext-40]. No sirve como evidencia en esta discusión.
+
 ## Cita
 
 > "displacement is far from inevitable" [el desplazamiento está lejos de ser inevitable]
@@ -131,6 +141,8 @@ Sobre el desplazamiento, Clarke cita la revisión de Hesseling (1994): de 55 est
 - [[vozmediano-criminologia-ambiental]] — los principios 9 y 10 de Felson y Clarke
 - [[guerette-bowers-desplazamiento-y-difusion]] — la revisión de 102 evaluaciones, de primera mano
 - [[felson-clarke-la-oportunidad-hace-al-ladron]] — los principios 9 y 10, de primera mano
+- [[bergman-negocio-del-crimen]] — otra afirmación de desplazamiento sin estudio, y la sustitución de infractores en la cárcel
+- [[campana-meneghini-movilidad-crimen-organizado]] — «desplazamiento» en el nombre del archivo, movilidad en el contenido
 
 **Por confrontar.** Clarke (1997), en el corpus sin ingerir, es la obra fundacional de la prevención situacional, que es donde nació esta discusión.
 
@@ -178,3 +190,8 @@ Sobre el desplazamiento, Clarke cita la revisión de Hesseling (1994): de 55 est
 [^ext-35]: **Extraído** — [[guerette-bowers-desplazamiento-y-difusion]], p. 1356.
 [^ext-36]: **Extraído** — [[felson-clarke-la-oportunidad-hace-al-ladron]], pp. 25 y 27-28.
 [^ext-37]: **Extraído** — [[felson-clarke-la-oportunidad-hace-al-ladron]], p. 32.
+[^ext-38]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 133.
+[^ext-39]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 384 y 389.
+[^ext-40]: **Extraído** — [[campana-meneghini-movilidad-crimen-organizado]], pp. 292-294; ver su advertencia.
+[^inf-6]: **Inferido** (confianza 0.8) — de PDF 133, que no trae referencias en el pasaje.
+[^inf-7]: **Inferido** (confianza 0.6) — comparando PDF 389 con «El argumento clásico del desplazamiento». Bergman no cita a Reppetto.

@@ -8,6 +8,81 @@ sources: []
 
 Registro cronológico. Sólo se añade; nunca se reescribe una entrada pasada.
 
+## [2026-11-09] ingesta | Tanda 5: módulo 7 de S1.1 y el trabajo grupal
+
+**Las cuatro obras de la tanda 5; Bergman (2023), en parte.** Vencía el 06-11. El autor pidió
+continuar con la tanda 5 el 09-11, después de cerrar la 4a. Las «si alcanza», Schroeder y
+Coello-Torres (2019) y el webinar de Placemaking, no se adelantaron: sirven sólo si el caso de la
+prueba de S1.1 es un espacio público, y el caso es el Proyecto +R.
+
+- Fichas creadas: [[spd-prevencion-comunitaria]], [[gobierno-de-santiago-guia-barrios]],
+  [[campana-meneghini-movilidad-crimen-organizado]] y [[bergman-negocio-del-crimen]].
+- Páginas creadas: [[equilibrios-de-criminalidad]], en borrador por tener una sola fuente teórica,
+  y [[quiero-mi-barrio]], primer programa chileno de barrio con página, con `vigencia: incierto`.
+- Páginas actualizadas: [[debilidad-estatal]] (la defensa que faltaba, con matices),
+  [[crimen-organizado]] (rasgos, redes y marca policial), [[mano-dura-y-militarizacion]] (la
+  cárcel en la región, en cifras), [[autocontrol-y-disuasion]] (la disuasión condicionada al
+  equilibrio), [[desplazamiento-y-difusion]] (otra afirmación sin estudio, el desplazamiento de
+  persona y un falso amigo), [[desorganizacion-social]] (la definición oficial y la objeción del
+  rezago), [[eficacia-colectiva]], [[mediacion-comunitaria]], [[evaluacion-de-programas]],
+  [[tipologia-barrial]], [[diagnostico-barrial]], [[policia-comunitaria]] y
+  [[analisis-espacial-del-delito]]; además [[index]], [[referencias]], [[pendientes]] y [[revision]].
+- **Ingesta parcial de Bergman.** Se leyeron la introducción, los caps. II, III, V y VIII, las
+  conclusiones y el epílogo, por el módulo 7 y por el caso del trabajo grupal, que trata de cárcel
+  y reinserción. Quedan los caps. I, IV, VI y VII; ítem A en [[revision]].
+- **Una corrección al programa.** `programa/S1.1` decía que el archivo de Bergman (2023) no
+  declara año. Los créditos (PDF 481) lo declaran, con ISBN. Se corrigió la nota y se anotó en
+  `INVENTARIO.md`.
+- **Revisión.** Un ítem resuelto: Quiero mi Barrio, con la guía de Santiago y no con la SPD, que no
+  lo trata. La ley de concentración pasa al grupo D: ninguna de las dos candidatas trae el
+  estudio. Cuatro ítems nuevos: el resto de Bergman, en el grupo A; los años de la SPD y de la
+  guía de Santiago, y el umbral de Bergman, en el B. Cinco enmiendas: Vanderschueren, Sampson, la
+  guía de 2020, la ley de concentración y seguridad ciudadana. Quedan 47 abiertos.
+- **Un indicio de año.** El INE (2023) cita las orientaciones de la SPD como de 2021, con la misma
+  definición de eficacia colectiva. Los metadatos del PDF dicen 2022. Queda en el grupo B.
+- **Una tensión nueva.** La guía de Santiago ve en Chile «el mismo fenómeno en etapa de
+  crecimiento diferente»; Bergman sostiene que los equilibrios no difieren sólo en grado. Ver
+  [[equilibrios-de-criminalidad]].
+- **Mantenimiento.** [[coproduccion-de-seguridad]] tenía dos notas con el número `ext-35` desde
+  el 24-10. La de la Ley 20.965 pasó a `ext-40`.
+- Fase 1: cuatro análisis en `despliegue/fase1/2026-11-09-*.md`.
+- Notas: el solapamiento con la wiki previa fue alto en la guía de Santiago, por autoría
+  compartida con las dos guías de barrios; parcial en Bergman, que cita a Kessler, Arias y
+  Lessing; nulo en Campana y Meneghini.
+
+## [2026-11-09] ingesta | Tanda 4a: tres obligatorias de S2.4 y cuatro obras cortas de juventudes
+
+**La tanda 4a, completa, con sus cuatro obras «si alcanza».** Estaba vencida desde el 07-11. El
+autor pidió continuar con la ingesta planeada el 09-11, el mismo día de la entrega de la reseña de
+S2.4. Siete obras, todas leídas enteras.
+
+- Fichas creadas: [[duarte-sociedades-adultocentricas]], [[bourdieu-la-juventud-es-una-palabra]],
+  [[brizuela-resena-delito-amateur]], [[duarte-juventud-o-juventudes]],
+  [[krauskopf-condicion-juvenil]], [[brito-sociologia-de-la-juventud]] y
+  [[romero-edad-sociologica]].
+- Conceptos creados: [[adultocentrismo]], [[juventud-como-construccion-social]] y
+  [[edad-sociologica]], este en borrador por tener una sola fuente.
+- Páginas actualizadas: [[etiquetamiento]] (el rótulo tardío, «ser como dicen que somos» y el
+  estigma de Goffman), [[anomia]] (las aspiraciones sin posibilidades de Bourdieu),
+  [[muerte-social]] (dos homónimos), [[criminologia-del-curso-de-vida]] (la edad puesta en duda) y
+  [[kessler-delito-amateur]] (Brizuela ya está en el corpus).
+- **Clúster provisional.** La sociología de la juventud no cabe en ninguno de los ocho clústeres.
+  Las diez páginas nuevas quedan en `explicacion-del-delito` mientras el autor decide; ítem
+  `[esquema]` en el grupo A de [[revision]].
+- **Dos verificaciones pendientes.** Bourdieu (2002): el PDF no trae créditos, y tres obras del
+  corpus citan la misma paginación como 1990. Romero Miranda (2015): el PDF no nombra la revista.
+  Las dos al grupo B de [[revision]] y a [[referencias]].
+- **Una duda resuelta.** Brizuela reseña la Paidós de 2010, con ISBN 978-950-12-4525-7, que es la
+  conversión a 13 dígitos del ISBN de la edición de 2004 del corpus. Su única cita coincide con las
+  mismas páginas. Se anotó en `INVENTARIO.md`.
+- **Una enmienda.** Bourdieu (2002) no define el capital cultural; el ítem `[concepto]` vuelve al
+  grupo D.
+- Ambigüedad registrada: Duarte Quapper (2012) se cita como «Duarte, 2001», obra ausente de su
+  bibliografía; los pasajes coinciden con el artículo de 2000.
+- Fase 1: siete análisis en `despliegue/fase1/2026-11-09-*.md`.
+- Notas: el solapamiento con la wiki previa fue nulo, salvo Brizuela con Kessler. Los enlaces se
+  decidieron por el contenido.
+
 ## [2026-10-26] ingesta | Tanda S1.2d: ocho artículos que cita el diseño de S1.2
 
 **Ocho artículos citados por el diseño de S1.2, por delante de la tanda 4a y por decisión del

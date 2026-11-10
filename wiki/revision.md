@@ -16,15 +16,15 @@ Actualizado el 27-09-2026, en la auditoría que cerró la tanda 1, el 02-10-2026
 ingesta de Arias (2017) y Bourgois (2010), y el 16-10-2026, con las de Batthyány y Cabrera
 (2011), el INE (2023), Srur (2014), el capítulo de Boba (2010), el CIPC (2015), Baratta (2004) y Kessler (2004), y el 17-10-2026, con las de Blanco (2011) y Gottfredson y Hirschi (1990). Agrupa los ítems abiertos por lo que los
 destraba. No reemplaza a los ítems: cada uno sigue abajo, con su historia.
-**41 abiertos.** Al 26-10-2026, con el saldo de la tanda S1.2d: ningún ítem nuevo, una enmienda y un ambiguo de página resuelto, los dos Ratcliffe de 2004. Antes, ese mismo día, con el saldo de la tanda S1.2c: dos ítems nuevos y cuatro enmiendas. Al 24-10-2026, con tres ítems de la ingesta de la Ley 20.965 y el plan
+**47 abiertos.** Al 09-11-2026, con el saldo de la tanda 5: cuatro ítems nuevos, uno resuelto, Quiero mi Barrio, y cinco enmiendas; la ley de concentración pasa del grupo C al D. Antes, ese mismo día, con el saldo de la tanda 4a: tres ítems nuevos y una enmienda, que pasa el capital cultural del grupo C al D. Al 26-10-2026, con el saldo de la tanda S1.2d: ningún ítem nuevo, una enmienda y un ambiguo de página resuelto, los dos Ratcliffe de 2004. Antes, ese mismo día, con el saldo de la tanda S1.2c: dos ítems nuevos y cuatro enmiendas. Al 24-10-2026, con tres ítems de la ingesta de la Ley 20.965 y el plan
 comunal de Las Condes, y el saldo de la tanda S1.2b: dos resueltos y tres nuevos.
 
-**A. Sólo esperan una decisión del autor (16).** Se pueden resolver hoy.
+**A. Sólo esperan una decisión del autor (18).** Se pueden resolver hoy.
 
 | Ítem | Acción | Qué hay que decidir |
 |---|---|---|
 | `[tesis]` Anclaje empírico frente a marco heredado | `crear-pagina` | Si se escribe la primera página `tesis-`, que es posición del autor. El ítem más antiguo de la cola, del 29-08 |
-| `[entidad]` Franz Vanderschueren | `preguntar` | Si merece página. El criterio se cumple desde el 12-09, y hoy lo citan 19 páginas por sus tres obras |
+| `[entidad]` Franz Vanderschueren | `preguntar` | Si merece página. El criterio se cumple desde el 12-09. Lo citan 19 páginas por sus tres obras, y el 09-11 entró una cuarta, como coautor |
 | `[alcance]` Zúñiga Núñez es teoría del Estado | `preguntar` | Si queda en `sistema-penal`, pasa a una capa propia o se retira |
 | `[esquema]` Los grupos criminales no tienen `subtipo` | `preguntar` | Operación 8, que el esquema difiere a la elección del caso de anclaje |
 | `[esquema]` Las obras colectivas aplanan el modelo de relevancia | `preguntar` | Convivir, excluirlas del cálculo o citar por capítulo |
@@ -39,8 +39,10 @@ comunal de Las Condes, y el saldo de la tanda S1.2b: dos resueltos y tres nuevos
 | `[entidad]` Dirección de Seguridad Pública de Las Condes | `preguntar` | La página existe desde el 24-10. Queda decidir si ella y el plan comunal pasan a `caso-de-grado` |
 | `[ingesta]` El resto de Vozmediano y San Juan (2010) | `preguntar` | Si se ingieren los capítulos no leídos. El VIII trata la prevención situacional y el desplazamiento, y puede traer evidencia sobre cámaras. Del 26-10 |
 | `[ingesta]` El resto de Felson y Eckert (2016) | `preguntar` | Si se ingieren los ocho capítulos no leídos. El 6, sobre las rutinas de los adolescentes, puede servir a S2.4. Del 24-10 |
+| `[esquema]` La sociología de la juventud no tiene clúster | `preguntar` | Operación 8: si se declara un clúster propio o se mantiene `explicacion-del-delito`, provisional para las siete obras de la tanda 4a. Del 09-11 |
+| `[ingesta]` El resto de Bergman (2023) | `preguntar` | Si se ingieren los caps. I, IV, VI y VII: tendencias, drogas, policía y tribunales. El IV se solapa con Bergman (2016), de la tanda 6. Y si la referencia lleva la fecha de la obra inglesa. Del 09-11 |
 
-**B. Esperan una verificación bibliográfica fuera del corpus (9).** Cada ítem trae su
+**B. Esperan una verificación bibliográfica fuera del corpus (14).** Cada ítem trae su
 consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos evaluados.
 
 | Ítem | Qué verificar |
@@ -54,23 +56,25 @@ consulta sugerida. Mientras sigan abiertos, esas fuentes no se citan en trabajos
 | `[fuente]` Estado legal del pololeo | Resuelto en parte con la Ley 21.675; falta el tipo penal de femicidio |
 | `[fuente]` La guía de UNODC (2010) de Vanderschueren y otros | Si es el original inglés del manual de 2011. Del 26-10 |
 | `[fuente]` Año e ISBN de Arias | 2016, 2017 o 2018, y los dos ISBN, en el catálogo de la editorial |
+| `[fuente]` Año de Bourdieu, *Sociología y cultura* | 1990 o una reimpresión de 2002 con la misma paginación. Del 09-11 |
+| `[fuente]` Revista de Romero Miranda (2015) | Nombre de la revista del año 9, n.º 14, diciembre de 2015. Del 09-11 |
+| `[fuente]` Año de las orientaciones técnicas de la SPD | 2021, como cita el INE (2023), o 2022, como dicen los metadatos. Del 09-11 |
+| `[fuente]` Año de la guía del Gobierno de Santiago | Sin año impreso; trabajo de campo de 2023 y PDF de 2025. Del 09-11 |
+| `[fuente]` Umbral y posible errata en Bergman (2023) | Cotejar con *More Money, More Crime* (2018) el umbral del equilibrio de alta criminalidad, 20 o 15, y el pasaje de PDF 260. Del 09-11 |
 
-**C. Esperan una obra que ya está en el corpus (9).** Se resuelven solos si el orden de
+**C. Esperan una obra que ya está en el corpus (6).** Se resuelven solos si el orden de
 ingesta se cumple.
 
 | Ítem | Acción | Obra que lo destraba | Tanda |
 |---|---|---|---|
 | `[entidad]` Política de seguridad de Peñalolén | `crear-pagina` | Luneke y Trebilcock (2023), si la trata. El CIPC (2015) la incluye, pero desde la misma voz | 6 |
-| `[investigar]` Ley de concentración en una comuna chilena | `investigar` | Quedan SPD (2022) y la guía del Gobierno de Santiago. El Decreto 96 la afirma sin estudio | 5 |
 | `[concepto]` Articulación nacional y local de la seguridad | `crear-pagina` | Ley 21.802 y Decreto 96 (PNSP), ya ingeridos | criterio cumplido el 26-10, página por crear |
 | `[concepto]` Subculturas delictivas, deriva y neutralización | `crear-pagina` | Baratta (2004), caps. V-VI, si se ingieren. Matza no está en el corpus | según el ítem A del resto de Baratta |
-| `[entidad]` Quiero mi Barrio | `crear-pagina` | SPD (2022); Luneke y Trebilcock (2023) | 5 y 6 |
 | `[concepto]` Seguridad ciudadana y seguridad humana | `crear-pagina` | Luneke y Trebilcock (2023). El Decreto 96 no usa los términos | 6 |
 | `[concepto]` Principio de daño y Estado de derecho | `crear-pagina` | Ferrajoli (1995) | 6 |
 | `[contradicción]` Legado del conflicto armado | `preguntar` | Dammert (2012), cúmulo `Medición e inseguridad` | después de la 6 |
-| `[concepto]` Capital cultural | `crear-pagina` | Bourdieu (2002), en el corpus desde el 23-10. Pasó del grupo D el 24-10 | 4a |
 
-**D. Esperan una fuente que no está en el corpus o no se ha identificado (7).**
+**D. Esperan una fuente que no está en el corpus o no se ha identificado (9).**
 
 | Ítem | Dónde podría estar |
 |---|---|
@@ -79,14 +83,16 @@ ingesta se cumple.
 | `[investigar]` Ficha técnica de la consulta vecinal de Las Condes | Fuera del corpus: pedirla a la Dirección de Seguridad Pública. Del 24-10 |
 | `[concepto]` Violencia contra las mujeres en la pareja y la familia | La bibliografía de S3.3, cuando llegue su programa |
 | `[concepto]` Criminalidad de cuello blanco | Sutherland, pedido por S1.1 y ausente del corpus |
+| `[concepto]` Capital cultural | Una obra de Bourdieu que lo defina. El capítulo de 2002 no lo hace. Volvió del grupo C el 09-11 |
 | `[investigar]` Barrio Protegido: año de inicio, registro de cámaras y nombre de la organización vecinal | Fuera del corpus: pedirlo a la Dirección de Seguridad Pública. Del 24-10 |
+| `[investigar]` Ley de concentración en una comuna chilena | Fuera del corpus: un estudio a escala de calle o de segmento. Los datos existirían en SIED Territorial, según la SPD (2022, p. 13). Volvió del grupo C el 09-11 |
 | `[vacío]` Evidencia sobre cámaras posterior a 1997, y los casos 11 y 12 de Clarke | Fuera del corpus: el archivo de Clarke trae sólo la introducción. Del 24-10. Quizá el cap. VIII de Vozmediano y San Juan, sin ingerir |
 
 **Qué adelanta cada tanda.** La 2 cerró el 16-10-2026: resolvió medición de la victimización y
 pasó PADS+ a la 3. El CIPC no cumplió el criterio de Peñalolén, que pasa a la 6. La 3 cerró el
 17-10-2026: resolvió criminalización y selectividad penal, con Baratta, y PADS+, con Blanco.
 Kessler no destrabó ninguno. La 4 empezó el 17-10: Gottfredson y Hirschi resolvió el control social
-informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clarke y Felson y Eckert. La S1.2c, del 26-10, no resolvió ninguno: cumplió el criterio de la articulación nacional y local, y la seguridad ciudadana quedó sólo para Luneke y Trebilcock. La S1.2d, del mismo día, tampoco: sus ocho artículos amplían páginas que ya existían. La 5 destraba dos, y la 6, cuatro.
+informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clarke y Felson y Eckert. La S1.2c, del 26-10, no resolvió ninguno: cumplió el criterio de la articulación nacional y local, y la seguridad ciudadana quedó sólo para Luneke y Trebilcock. La S1.2d, del mismo día, tampoco: sus ocho artículos amplían páginas que ya existían. La 4a, del 09-11, no resolvió ninguno: Bourdieu (2002) no define el capital cultural, y el ítem volvió al grupo D. La 5, del 09-11, resolvió Quiero mi Barrio, con la guía de Santiago y no con la SPD, que no lo trata. Agotó además las candidatas del corpus para la ley de concentración, que pasó al grupo D. La 6 destraba tres.
 
 ## Abiertos
 
@@ -124,6 +130,10 @@ informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clar
       de sus tres obras. La decisión sigue siendo
       del autor; si se crea, conviene `subtipo: persona` y dejar explícito que sus tres
       obras no son confirmaciones independientes entre sí.
+      **Enmienda 09-11-2026** (ingesta de [[gobierno-de-santiago-guia-barrios]]): entra una
+      cuarta obra, de la que es coautor junto a Díaz Urrutia. Aplica a la Región Metropolitana
+      la metodología de las guías de 2010 y 2020. Su autoría compartida pesa también en
+      [[quiero-mi-barrio]], cuyas tres fuentes lo comparten. La decisión sigue siendo del autor.
 
 - [ ] **[fuente]** Año de edición de Sampson — el corpus y el programa la fechan en
       2006; el texto declara un original de 2004 en *New Economy* y no consigna el
@@ -134,6 +144,11 @@ informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clar
       Fundación Democracia y Gobierno Local — año de publicación del volumen.
       Hasta resolverlo, la ficha queda con `verificacion_bibliografica: pendiente` y
       la obra no se cita en trabajos evaluados.
+      **Enmienda 09-11-2026** (ingesta de [[gobierno-de-santiago-guia-barrios]]): la guía cita
+      «Vecindario y comunidad» como Sampson (2008), *Claves del Gobierno Local* n.º 6, con la
+      misma paginación que el corpus: pp. 239 y 245 (p. 15 y bibliografía, p. 84). Es un indicio
+      a favor de 2008 para el volumen, no una prueba: la guía comparte autores con las de 2010
+      y 2020. Sigue abierto.
 
 - [ ] **[entidad]** «Coalición de Diez Puntos» (Boston) — hoy es el único caso
       concreto con evaluación citada en toda la wiki, y sostiene la noción de
@@ -233,6 +248,10 @@ informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clar
       cinco categorías, la proyección de resultados por tipología con la metodología de
       Rotterdam, el caso Guadalajara y la adopción de la violencia crónica. Pero la guía
       anterior tiene su propio problema de año y autoría; ver el ítem siguiente.
+      **Enmienda 09-11-2026** (ingesta de [[gobierno-de-santiago-guia-barrios]]): sus
+      reflexiones finales dicen aplicar la «Guía de Naciones Unidas publicada en 2022» (p. 77),
+      pero su bibliografía sólo trae la de 2020 (p. 83). Es un indicio, no una prueba, de que el
+      borrador tuvo versión final. Sigue abierto.
 
 - [ ] **[investigar]** ¿Vale la ley de concentración del delito en una comuna
       chilena? [[weisburd-el-lugar-importa]] no reporta ningún estudio de
@@ -281,6 +300,12 @@ informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clar
       concentración a escala de segmento en 42 ciudades latinoamericanas, con un año de datos.
       Ninguna es chilena. Es la primera evidencia regional del corpus, pero no responde la
       pregunta. Sigue abierto.
+      **Enmienda 09-11-2026** (tanda 5): las dos candidatas que quedaban no traen el estudio.
+      [[spd-prevencion-comunitaria]] pide mapas de calor por perímetro y dice que SIED
+      Territorial entrega casos policiales georreferenciados por barrio (pp. 12-13).
+      [[gobierno-de-santiago-guia-barrios]] afirma concentración en barrios centrales y tasas
+      menores en los de alta renta, sin dato (pp. 27 y 51). No queda candidata en el corpus: el
+      ítem pasa al grupo D. Si se busca afuera, rige el criterio de arriba.
 
 - [ ] **[alcance]** Zúñiga Núñez (2013) es, sobre todo, teoría del Estado.
       [[zuniga-civilizacion-y-derechos-humanos]] entró el 26-09-2026 por decisión
@@ -326,24 +351,6 @@ informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clar
       cuarta fecha. El cap. VII, de Maray, la cita como «ONU-Habitat, Universidad Alberto
       Hurtado (2011)», y en la misma bibliografía fecha la *Guía para la prevención local*
       en 2009 (p. 197). Coincide con el prólogo, que ya sugería 2011, y no con los créditos.
-
-- [ ] **[entidad]** «Quiero mi Barrio» — el primer programa chileno que entra a la
-      wiki. [[vanderschueren-guia-prevencion-barrios]] lo describe en la población Santa
-      Elena de El Bosque, desde 2007: un consejo vecinal de desarrollo que prioriza obras
-      físicas y un plan de gestión social (p. 62). Es exactamente el tipo de programa
-      identificable sobre el que puede anclarse el trabajo evaluado de S1.1 o el de
-      grado.
-      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
-      Criterio: crearla cuando una segunda fuente lo trate, y con `vigencia` declarada.
-      Una sola descripción de hace más de quince años no sostiene una página de
-      programa. Candidatas en el corpus: SPD (2022), orientaciones técnicas, en la tanda
-      5, y Luneke y Trebilcock (2023), en la tanda 6. Mientras tanto la guía trae otros
-      territorios chilenos —La Legua, Herminda de la Victoria, La Ermita— y el Programa
-      24 Horas de Carabineros, todos dentro de la ficha.
-      **Enmienda 26-09-2026** (ingesta de [[vanderschueren-prevencion-del-delito]]): el
-      cap. I lo nombra de paso, como ejemplo de prevención social que empodera a sectores
-      desfavorecidos (p. 33). Es una mención, no un tratamiento: el criterio sigue sin
-      cumplirse.
 
 - [ ] **[fuente]** Gardner (2007) está en el corpus como versión de autor — el archivo
       de [[gardner-prohibir-inmoralidades]] es el mecanografiado que Gardner publicó en su
@@ -483,6 +490,10 @@ informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clar
       **Enmienda 26-10-2026** (ingesta de [[pnsp-2025-2031]]): la política nacional no usa ninguno
       de los dos términos como concepto. Habla de seguridad pública y de seguridad como derecho
       humano (p. 6). No cumple el criterio. Queda Luneke y Trebilcock (2023), en la tanda 6.
+      **Enmienda 09-11-2026** (tanda 5): [[gobierno-de-santiago-guia-barrios]] distingue cuatro
+      enfoques: seguridad pública, ciudadana, comunitaria y humana (pp. 59-60). No cumple el
+      criterio: Díaz Urrutia y Vanderschueren son coautores. [[spd-prevencion-comunitaria]] no
+      define ninguno. Queda Luneke y Trebilcock (2023).
 
 - [ ] **[fuente]** «Violencia como lenguaje» — el archivo de [[bourgois-en-busca-de-respeto]]
       llegó el 02-10-2026 como `bourgois-en-busca-del-respeto -Violencia como lenguaje.pdf`.
@@ -520,6 +531,10 @@ informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clar
       Grijalbo. No es *La distinción*: la enmienda anterior confundió los dos títulos. Por su
       título, el capítulo trata la juventud, y queda abierto si define el capital cultural.
       Sigue fuera del corpus. El criterio no cambia.
+      **Enmienda 09-11-2026** (ingesta de [[bourdieu-la-juventud-es-una-palabra]]): el capítulo
+      no define el capital cultural. Habla de títulos, aspiraciones, campos y leyes de
+      envejecimiento. [[brito-sociologia-de-la-juventud]] nombra un «capital cultural acumulado»
+      (p. 4) sin definirlo. El criterio no se cumple, y el ítem vuelve al grupo D.
 
 - [ ] **[concepto]** «Violencia contra las mujeres en la pareja y la familia» — tres
       fuentes la tratan desde ángulos que no se tocan. [[valdivia-violencia-en-el-noviazgo]]
@@ -678,7 +693,90 @@ informal. La S1.2b, del 24-10, resolvió las teorías de la oportunidad con Clar
       Consulta sugerida: *Handbook on the Crime Prevention Guidelines: Making them work* (UNODC,
       2010), en el catálogo de publicaciones de Naciones Unidas.
 
+- [ ] **[esquema]** «La sociología de la juventud no tiene clúster» — las siete obras de la
+      tanda 4a y las tres páginas que crearon ([[adultocentrismo]],
+      [[juventud-como-construccion-social]] y [[edad-sociologica]]) tratan la juventud como
+      categoría social. Ninguno de los ocho clústeres declarados la recoge. Se asignó
+      `explicacion-del-delito` de forma provisional; sólo [[edad-sociologica]] y
+      [[brizuela-resena-delito-amateur]] explican la infracción. El esquema prohíbe clústeres
+      por asignatura, y este no lo sería: agrupa un problema, la edad como relación de poder.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-11-09
+      Opciones: declarar un clúster `juventudes` por la operación 8; o mantener
+      `explicacion-del-delito`; o mover [[adultocentrismo]] a `sistema-penal`, junto a la
+      selectividad, por su uso como teoría de la reacción.
+
+- [ ] **[fuente]** «Año de Bourdieu, *Sociología y cultura*» — el PDF no tiene página de
+      créditos y el «2002» sale de un pie que agregó quien distribuyó el archivo. Brito Lemus
+      (1998), Duarte Quapper (2012) y Romero Miranda (2015) citan el mismo capítulo, con las
+      mismas páginas, como Grijalbo/CNCA, colección «Los Noventa», 1990. Ver
+      [[bourdieu-la-juventud-es-una-palabra]].
+      Acción propuesta: `investigar` · Origen: ingesta 2026-11-09
+      Consulta sugerida: catálogo de Grijalbo o de una biblioteca nacional, *Sociología y
+      cultura*, Grijalbo y Conaculta, México: año de la primera edición y de las reimpresiones.
+
+- [ ] **[fuente]** «Revista de Romero Miranda (2015)» — el PDF dice «Año 9, N.º 14, Diciembre
+      2015», pp. 46-59, sin el nombre de la revista. Ver [[romero-edad-sociologica]].
+      Acción propuesta: `investigar` · Origen: ingesta 2026-11-09
+      Consulta sugerida: el título del artículo en Google Académico, o preguntar al docente
+      de S2.4, que lo usa en la clase 1.
+
+- [ ] **[ingesta]** El resto de Bergman (2023) — [[bergman-negocio-del-crimen]] se ingirió en
+      parte: introducción, caps. II, III, V y VIII, conclusiones y epílogo. Quedan fuera los
+      caps. I (tendencias del delito), IV (drogas), VI (policía) y VII (tribunales). El IV se
+      solapa con Bergman (2016), que está en la tanda 6. El VI y el VII podrían servir al
+      electivo de policía y a S1.3. Queda además una decisión de cita: el libro se declara
+      traducción adaptada de *More Money, More Crime* (2018), sin traductor acreditado, y la
+      referencia no lleva fecha original.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-11-09
+
+- [ ] **[fuente]** Año de las orientaciones técnicas de la SPD — [[spd-prevencion-comunitaria]]
+      no imprime año. Los metadatos del PDF dicen 23-06-2022. [[ine-medicion-victimizacion]]
+      cita el mismo título como Subsecretaría de Prevención del Delito (2021) y toma de él una
+      definición que coincide palabra por palabra (p. 40, n. 11, y p. 56).
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-11-09
+      Consulta sugerida: sitio de la Subsecretaría, orientaciones técnicas de prevención
+      comunitaria — año y versión. Hasta resolverlo, `verificacion_bibliografica: pendiente`.
+
+- [ ] **[fuente]** Año de la guía del Gobierno de Santiago — [[gobierno-de-santiago-guia-barrios]]
+      no imprime año y pide citarse sin él (p. 2). El trabajo de campo es de 2023, sus citas
+      más recientes también, y el PDF se generó el 23-04-2025.
+      Acción propuesta: `preguntar` · Origen: ingesta 2026-11-09
+      Consulta sugerida: sitio del Gobierno de Santiago o del Centro de Seguridad Urbana de la
+      UAH — fecha de publicación. Hasta resolverlo, `verificacion_bibliografica: pendiente`.
+
+- [ ] **[fuente]** Umbral y posible errata en Bergman (2023) — la introducción fija el
+      equilibrio de alta criminalidad sobre 20 homicidios por cien mil (PDF 46) y el cap. V,
+      en «al menos 15» (PDF 277). El resumen del punto de inflexión pide que «ya exista un
+      equilibrio de alta criminalidad amenazado» (PDF 260), cuando el argumento exige uno de
+      baja. Puede ser error de la versión castellana.
+      Acción propuesta: `investigar` · Origen: ingesta 2026-11-09
+      Consulta sugerida: *More Money, More Crime* (Oxford, 2018), introducción y cap. 5. No
+      está en el corpus. La ficha registra las dos cifras.
+
 ## Resueltos
+
+- [x] **[entidad]** «Quiero mi Barrio» — el primer programa chileno que entra a la
+      wiki. [[vanderschueren-guia-prevencion-barrios]] lo describe en la población Santa
+      Elena de El Bosque, desde 2007: un consejo vecinal de desarrollo que prioriza obras
+      físicas y un plan de gestión social (p. 62). Es exactamente el tipo de programa
+      identificable sobre el que puede anclarse el trabajo evaluado de S1.1 o el de
+      grado.
+      Acción propuesta: `crear-pagina` · Origen: ingesta 2026-09-26
+      Criterio: crearla cuando una segunda fuente lo trate, y con `vigencia` declarada.
+      Una sola descripción de hace más de quince años no sostiene una página de
+      programa. Candidatas en el corpus: SPD (2022), orientaciones técnicas, en la tanda
+      5, y Luneke y Trebilcock (2023), en la tanda 6. Mientras tanto la guía trae otros
+      territorios chilenos —La Legua, Herminda de la Victoria, La Ermita— y el Programa
+      24 Horas de Carabineros, todos dentro de la ficha.
+      **Enmienda 26-09-2026** (ingesta de [[vanderschueren-prevencion-del-delito]]): el
+      cap. I lo nombra de paso, como ejemplo de prevención social que empodera a sectores
+      desfavorecidos (p. 33). Es una mención, no un tratamiento: el criterio sigue sin
+      cumplirse.
+      **Resuelto 09-11-2026** (tanda 5): la segunda fuente no fue la SPD, que no lo trata, sino
+      [[gobierno-de-santiago-guia-barrios]]: lo ubica en el MINVU y lo define en su glosario
+      (pp. 36 y 81). Página creada: [[quiero-mi-barrio]], `subtipo: programa`, `vigencia:
+      incierto`. El criterio se cumple en la letra, no en la independencia: las tres fuentes que
+      lo tratan comparten a Vanderschueren, y la página lo advierte.
 
 - [x] **[ingesta]** «Ley 21.802 antes que el resto de la tanda 5» — reformó el plan comunal
       desde el 12-08-2026. Hoy la wiki la cita por nombre de archivo en

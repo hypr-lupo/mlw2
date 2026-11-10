@@ -87,7 +87,7 @@ se identificaron por su página de imprenta.
 | 2024 - Zeballos - Un virus entre sombras, la expansión del crimen organizado y el narcotráfico en Chile.epub | 1.5 | `3c3c8d82540a` |
 | 2026 - Zeballos - Cuando el crimen reza.epub | 3.0 | `4778ad29b5d4` |
 
-Tres advertencias sobre este bloque:
+Cuatro advertencias sobre este bloque:
 
 1. **Garland: queda solo la traducción.** El archivo fechado en 2001 resultó ser **el
    original en inglés** (University of Chicago Press y Oxford, ISBN 0-226-28383-6),
@@ -108,6 +108,10 @@ Tres advertencias sobre este bloque:
    corpus tiene la primera edición, segunda reimpresión, de Manantial 2004. Zeballos:
    el programa pide *Cuando el crimen reza* de 2025 y los metadatos del archivo dan
    2026.
+4. **Bergman (2023) sí declara año.** Añadido el 09-11-2026. Los créditos (PDF 481) dan la
+   primera edición digital de Fondo de Cultura Económica de Argentina, 2023, ISBN
+   978-987-719-444-9. Es una versión adaptada y actualizada, por el autor, de *More Money,
+   More Crime* (Oxford, 2018). La nota contraria de `programa/S1.1` se corrigió ese día.
 
 **Duplicados del 09-10 y del 17-10-2026.** `GU_A_DE_BARRIOS_ESPA_OL.pdf` llegó el 09-10
 con otro MD5, pero su texto coincide en un 99,7 % con el de la guía de ONU-Hábitat y
@@ -136,7 +140,9 @@ el ramo pasa de una a cuatro de sus nueve obligatorias en el corpus.
 - **Duarte Quapper.** *Última Década*, n.º 36, CIDPA Valparaíso, julio de 2012, pp.
   99-125. Coincide con la cita del programa.
 - **Brizuela.** *Revista Cátedra Paralela*, n.º 11, 2014, pp. 313-317. Reseña la edición
-  de Paidós de 2010, y el corpus tiene la de 2004.
+  de Paidós de 2010, y el corpus tiene la de 2004. **Resuelto el 09-11-2026:** el ISBN de 2010,
+  978-950-12-4525-7, es la conversión a 13 dígitos del de 2004, 950-12-4525-X, y la cita de la
+  reseña coincide con las mismas páginas. Es la misma edición, probablemente reimpresa.
 
 ## Juventudes, módulo I de S2.4 · 10 doc.
 

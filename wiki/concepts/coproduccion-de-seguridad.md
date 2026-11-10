@@ -67,7 +67,7 @@ Añadido el 26-09-2026 al ingerir [[vanderschueren-prevencion-del-delito]]. Las 
 
 **Quién debería coordinar.** Según los editores, el municipio: así lo indican la experiencia internacional, los acuerdos de Naciones Unidas y los mejores casos latinoamericanos, Bogotá y Medellín. Chile es ambiguo. Los consejos comunales de seguridad de 2016 van en esa dirección, pero las prioridades siguen fijándose desde el centro [^ext-19].
 
-**Lo que la ley crea.** Añadido el 24-10-2026 al ingerir [[ley-20965-planes-comunales]]. La ley define el consejo comunal como órgano consultivo del alcalde e instancia de coordinación entre instituciones. De sus integrantes, dos vienen de la sociedad civil [^ext-35]. Coordina organismos: no organiza la coproducción con la comunidad [^inf-3]. Un plan concreto, el de Las Condes 2026-2029, pone la corresponsabilidad vecinal en un subsistema propio, con consultas vecinales y observadores vecinales [^ext-36]. Ver [[plan-comunal-de-seguridad-publica]].
+**Lo que la ley crea.** Añadido el 24-10-2026 al ingerir [[ley-20965-planes-comunales]]. La ley define el consejo comunal como órgano consultivo del alcalde e instancia de coordinación entre instituciones. De sus integrantes, dos vienen de la sociedad civil [^ext-40]. Coordina organismos: no organiza la coproducción con la comunidad [^inf-3]. Un plan concreto, el de Las Condes 2026-2029, pone la corresponsabilidad vecinal en un subsistema propio, con consultas vecinales y observadores vecinales [^ext-36]. Ver [[plan-comunal-de-seguridad-publica]].
 
 **Cómo se ve desde un municipio.** La directora de seguridad de Peñalolén describe el mismo problema desde abajo [^ext-20]:
 
@@ -167,10 +167,10 @@ La Ley 21.802 suma una sesión semestral abierta y un representante de las organ
 [^ext-33]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 2, pp. 52-53.
 [^ext-34]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 2, pp. 53-54, y conclusión, p. 242.
 [^inf-2]: **Inferido** (confianza 0.7) — se sigue de los casos de la Comuna 1 y de Rio das Pedras en [[arias-empresas-criminales-y-gobernanza]], cap. 7. Arias no lo formula como advertencia sobre el concepto de las guías, que no conoce.
-[^ext-35]: **Extraído** — [[ley-20965-planes-comunales]], arts. 104 A y 104 B, pp. 3-4.
 [^ext-36]: **Extraído** — [[las-condes-plan-comunal-2026-2029]], pp. 18-19.
 [^inf-3]: **Inferido** (confianza 0.6) — combinando la composición del consejo en [[ley-20965-planes-comunales]] con la definición de esta página. La ley no usa el término coproducción.
 [^ext-37]: **Extraído** — [[guerra-modelo-las-condes]], pp. 6, 24-25 y 49.
 [^ext-38]: **Extraído** — [[guerra-modelo-las-condes]], pp. 39-40 y 48-49.
 [^ext-39]: **Extraído** — [[ley-21802-seguridad-municipal]], art. 64, n.º 4, 6 y 8.
 [^inf-4]: **Inferido** (confianza 0.5) — lectura de la definición de esta página frente a lo que el documento describe.
+[^ext-40]: **Extraído** — [[ley-20965-planes-comunales]], arts. 104 A y 104 B, pp. 3-4.

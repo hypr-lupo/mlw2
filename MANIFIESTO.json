@@ -267,6 +267,72 @@
       "bytes": 790043,
       "ingerido": "2026-10-26",
       "ficha": "wiki/sources/chainey-concentracion-america-latina.md"
+    },
+    "2012 - Duarte Quapper - Sociedades adultocéntricas, sobre sus orígenes y reproducción.pdf": {
+      "sha256": "89e44f36d6f354b2ee4447c92aa86f0953b4f3abf2ba4e15ae834a921fec1762",
+      "bytes": 287740,
+      "ingerido": "2026-11-09",
+      "ficha": "wiki/sources/duarte-sociedades-adultocentricas.md"
+    },
+    "2002 - Bourdieu - La juventud no es más que una palabra.pdf": {
+      "sha256": "ac8741e057ceb3a6c03e89576d96e77236261ef73541ed8421aa14dd60989ec5",
+      "bytes": 1144994,
+      "ingerido": "2026-11-09",
+      "ficha": "wiki/sources/bourdieu-la-juventud-es-una-palabra.md"
+    },
+    "2014 - Brizuela - Reseña de Sociología del delito amateur, de Gabriel Kessler.pdf": {
+      "sha256": "a9933d050a65c26fb803e1c045aa306080e99a912201dfecd1eda964bb0b071f",
+      "bytes": 143829,
+      "ingerido": "2026-11-09",
+      "ficha": "wiki/sources/brizuela-resena-delito-amateur.md"
+    },
+    "2000 - Duarte Quapper - Juventud o juventudes, acerca de cómo mirar y remirar a las juventudes de nuestro continente.pdf": {
+      "sha256": "70d7dd8ac932babaccb96817e95b6aab8f66963e7fbd9a96d827bc319554cef4",
+      "bytes": 63798,
+      "ingerido": "2026-11-09",
+      "ficha": "wiki/sources/duarte-juventud-o-juventudes.md"
+    },
+    "2010 - Krauskopf - La condición juvenil contemporánea en la constitución identitaria.pdf": {
+      "sha256": "56873985b205516ca5d617ed60321b6045678d61e5bc1c0e6f9452fc459698e6",
+      "bytes": 67399,
+      "ingerido": "2026-11-09",
+      "ficha": "wiki/sources/krauskopf-condicion-juvenil.md"
+    },
+    "1998 - Brito Lemus - Hacia una sociología de la juventud, algunos elementos para la deconstrucción de un nuevo paradigma de la juventud.pdf": {
+      "sha256": "c49d6c184c1b8643ac76c4bf5156e2718dffd8d16e1a6d61805276d22e4db3be",
+      "bytes": 75227,
+      "ingerido": "2026-11-09",
+      "ficha": "wiki/sources/brito-sociologia-de-la-juventud.md"
+    },
+    "2015 - Romero Miranda - La edad sociológica, una mirada de la infancia desde el adelantamiento y la acumulación de experiencia.pdf": {
+      "sha256": "32ac3eb6f59638bb8a21321b20e751ce52065b387ec3dee881017b1243101d23",
+      "bytes": 768699,
+      "ingerido": "2026-11-09",
+      "ficha": "wiki/sources/romero-edad-sociologica.md"
+    },
+    "2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf": {
+      "sha256": "5127817ed0add233c76f4ea1e583e5b85f0e8d8079da589dfea68add124e3288",
+      "bytes": 717207,
+      "ingerido": "2026-11-09",
+      "ficha": "wiki/sources/spd-prevencion-comunitaria.md"
+    },
+    "s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf": {
+      "sha256": "58478a74ce7e9e18e72c2892175ccf1318d4ae8e9d3330967103036df6f2dc6e",
+      "bytes": 15847361,
+      "ingerido": "2026-11-09",
+      "ficha": "wiki/sources/gobierno-de-santiago-guia-barrios.md"
+    },
+    "2024 - Campana y Meneghini - El desplazamiento del crimen organizado en comunidades locales.pdf": {
+      "sha256": "c1bed20d0cbaf253ecbcb29a1f7ce55c7d060b7674744bb685cd7d96276eabd6",
+      "bytes": 2038925,
+      "ingerido": "2026-11-09",
+      "ficha": "wiki/sources/campana-meneghini-movilidad-crimen-organizado.md"
+    },
+    "2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf": {
+      "sha256": "7a359e32b8b652cac9b1626c5a8118aa3199421262245b1fec950b4ad3fc3b9e",
+      "bytes": 2620743,
+      "ingerido": "2026-11-09",
+      "ficha": "wiki/sources/bergman-negocio-del-crimen.md"
     }
   }
 }

@@ -1,13 +1,13 @@
 ---
 title: Crimen organizado
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2017 - Adams - La violencia crónica y su reproducción, tendencias perversas en las relaciones sociales, la ciudadanía y la democracia en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2007 - Gardner - La prohibición de las inmoralidades.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "1990 - Gottfredson y Hirschi - Una teoría general del delito.pdf", "s.f. - Gobierno de Santiago - Guía para la gestión local de la seguridad desde los barrios.pdf", "2024 - Campana y Meneghini - El desplazamiento del crimen organizado en comunidades locales.pdf", "2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf"]
 cluster: gobernanza-criminal
 curso: [s1-1]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-12
-actualizado: 2026-10-17
+actualizado: 2026-11-09
 ---
 
 # Crimen organizado
@@ -102,6 +102,16 @@ Coincide en parte con la crítica de Albarracín, que reprocha generalizar como 
 > [!warning] ¿Organización o ilusión de organización?
 > Las fuentes latinoamericanas describen otra cosa. Carteles que pasaron de empresas familiares a organizaciones armadas multinivel [^ext-7]. Empresas criminales territoriales que controlan barrios durante años [^ext-16]. Los datos de Gottfredson y Hirschi son pandillas juveniles y mafias de Estados Unidos, hasta los años ochenta. Queda abierto si el bajo autocontrol explica a quienes forman esos grupos, o si los grupos seleccionan a otra gente [^inf-4]. Ver [[teoria-general-del-delito]].
 
+## Tres usos más: rasgos, redes y movilidad
+
+Añadido el 09-11-2026 al ingerir [[gobierno-de-santiago-guia-barrios]], [[bergman-negocio-del-crimen]] y [[campana-meneghini-movilidad-crimen-organizado]].
+
+**Por rasgos.** La guía de Santiago parte del mismo diagnóstico: no hay definición común, y von Lampe cuenta más de doscientas [^ext-24]. Pero sale por otro lado. Sostiene que el fenómeno no se define por uno o dos criterios y adopta una lista de rasgos: lucro, división jerárquica del trabajo, violencia y complicidad con agentes públicos, según Hagan y Chabat, más el lavado de dinero, el control de territorios y la sustitución de funciones del Estado [^ext-25]. Cita a Albarracín, pero hace lo que Albarracín evita: vuelve definitorias las características organizacionales [^inf-5]. La guía reconoce el costo en Chile: el concepto se atribuye a manifestaciones aisladas y cuesta distinguirlo de las bandas [^ext-26].
+
+**Por redes.** Bergman lo define como «redes de delincuentes vagamente afiliados que se unen en torno a ciertas oportunidades delincuenciales» [^ext-27]. Retoma el «crimen desorganizado» de Reuter: unidades pequeñas, autónomas y reemplazables [^ext-27]. Queda entre la organización como variable y la ilusión de Gottfredson y Hirschi: los grupos son laxos y cambian, pero existen y responden a mercados [^inf-6]. Agrega una condición de la violencia: las economías ilícitas no son violentas por naturaleza; lo son cuando el mercado no se ha asentado o cuando un grupo con control territorial se diversifica [^ext-28]. Ver [[equilibrios-de-criminalidad]].
+
+**Por la policía.** Campana y Meneghini usan la definición británica de grupo criminal organizado, más amplia que la de la Convención de Palermo, y dejan a la policía decidir quién es miembro [^ext-29]. El territorio aparece como base de operaciones, no como gobierno: el artículo no mide control de la comunidad [^inf-7]. Es lo que separa su objeto de las empresas criminales territoriales de Arias.
+
 ## Cita
 
 > "regular y controlar la producción y distribución de un bien o servicio de forma ilegal"
@@ -118,6 +128,10 @@ Coincide en parte con la crítica de Albarracín, que reprocha generalizar como 
 - [[gardner-prohibir-inmoralidades]] y [[moralismo-legal]] — la misma frontera como exigencia moral sobre el Estado
 - [[legitimidad-policial]] — los sentidos de «legitimidad» que esa frontera pone en juego: justicia procedimental, miedo o autoridad
 - [[teoria-general-del-delito]] — la organización criminal como ilusión, desde la teoría del control
+- [[bergman-negocio-del-crimen]] — fuente: redes vagamente afiliadas en torno a oportunidades
+- [[campana-meneghini-movilidad-crimen-organizado]] — fuente: la movilidad de los miembros entre comunidades
+- [[gobierno-de-santiago-guia-barrios]] — fuente: la definición por rasgos y la etiqueta en Chile
+- [[equilibrios-de-criminalidad]] — los mercados ilegales como una de las dos condiciones del equilibrio de alta criminalidad
 
 El cúmulo `Vínculo Estado-crimen` y `Amenaza y securitización` suman 42 de los 93 documentos del corpus y discuten este concepto largamente. Ninguno está ingerido, y son material de reserva del electivo S3.E4: [[purpose]] ordena no empezar por ahí, porque fijaría el encuadre de todo lo demás.
 
@@ -152,3 +166,12 @@ El cúmulo `Vínculo Estado-crimen` y `Amenaza y securitización` suman 42 de lo
 [^inf-2]: **Inferido** (confianza 0.7) — contraste entre la definición de Varese, en [[albarracin-crimen-organizado-america-latina]], p. 6, y la de [[arias-empresas-criminales-y-gobernanza]], p. 20. Arias no discute a Varese.
 [^inf-3]: **Inferido** (confianza 0.7) — comparación de esta wiki. Albarracín no cita a Gottfredson y Hirschi.
 [^inf-4]: **Inferido** (confianza 0.6) — de esta wiki, combinando el cap. 10 con [[albarracin-crimen-organizado-america-latina]] y [[arias-empresas-criminales-y-gobernanza]].
+[^ext-24]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 19, cuadro 2.
+[^ext-25]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], pp. 19-20, cuadro 2, con Hagan (2006), Chabat (2010), Van Dijk (2007) y Albarracín (2023).
+[^ext-26]: **Extraído** — [[gobierno-de-santiago-guia-barrios]], p. 20.
+[^ext-27]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 50-51, 173 y 263.
+[^ext-28]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 176-178.
+[^ext-29]: **Extraído** — [[campana-meneghini-movilidad-crimen-organizado]], p. 293 y n. 1-2.
+[^inf-5]: **Inferido** (confianza 0.7) — comparando el cuadro 2 de la guía con «Dos salidas» de esta página. La guía no cita a Varese.
+[^inf-6]: **Inferido** (confianza 0.6) — de PDF 263 de Bergman, frente a «Una negación». Bergman no discute a Gottfredson y Hirschi sobre este punto.
+[^inf-7]: **Inferido** (confianza 0.7) — de [[campana-meneghini-movilidad-crimen-organizado]], pp. 292 y 294.

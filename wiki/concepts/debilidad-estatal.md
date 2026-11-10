@@ -1,13 +1,13 @@
 ---
 title: Debilidad estatal y relación de suma cero
 type: concept
-sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf"]
+sources: ["2023 - Albarracín - Crimen organizado en América Latina.pdf", "2013 - Zúñiga Núñez - Civilización y derechos humanos, hacia una radicalización de los derechos fundamentales.pdf", "2017 - Arias - Empresas criminales y gobernanza en América Latina.pdf", "2023 - Bergman - El negocio del crimen, el crecimiento del delito, los mercados ilegales y la violencia en América Latina.pdf"]
 cluster: gobernanza-criminal
 curso: [s1-1]
 procedencia: fuentes
 estado: borrador
 creado: 2026-09-12
-actualizado: 2026-10-02
+actualizado: 2026-11-09
 ---
 
 # Debilidad estatal y relación de suma cero
@@ -70,6 +70,18 @@ Arias discute la versión de O'Donnell: las «zonas marrones» donde el Estado d
 
 Con tres críticos y ningún defensor, la página sigue en borrador por la misma razón.
 
+## Una defensa, con matices
+
+Añadido el 09-11-2026 al ingerir [[bergman-negocio-del-crimen]]. Es la voz que faltaba: un autor que explica el aumento del delito por la debilidad del Estado, y no la reconstruye para criticarla.
+
+**La tesis.** El delito creció en la región porque se volvió un negocio lucrativo y porque Estados débiles no lo disuadieron [^ext-16]. La lógica es la de la disuasión: cada potencial infractor se abstiene si cree que los demás son detenidos y castigados [^ext-17]. Es la raíz económica que esta página atribuye a Becker, aunque Bergman no lo cita en los capítulos ingeridos. Lo nuevo es el equilibrio: rentas ilegales altas y capacidad estatal baja se refuerzan hasta volverse estables. Ver [[equilibrios-de-criminalidad]].
+
+**Lo que concede.** No sostiene la suma cero en estado puro. Cuando la policía controla el delito en beneficio propio, la violencia es baja; sube cuando pierde ese control [^ext-18]. Y en un equilibrio de alta criminalidad la policía no sólo es corrupta: colude, y servir a los delincuentes pasa a ser su prioridad [^ext-19]. Son las tesis de Albarracín y de Arias dichas desde el otro lado [^inf-1].
+
+**La política que se sigue.** No es construir Estado a cualquier costo. Con capacidades débiles, Bergman pide abstenerse de la mano dura popular y legislar sólo lo que se puede hacer cumplir [^ext-20]. Ver [[mano-dura-y-militarizacion]].
+
+**Dónde queda la página.** Con tres críticos y un defensor, deja de registrar el paradigma sólo desde sus críticos. Sigue en borrador porque la discusión clásica del cúmulo `Vínculo Estado-crimen` no está ingerida.
+
 ## Cita
 
 > "estos dos «mundos» viven en una relación de suma cero"
@@ -83,8 +95,10 @@ Con tres críticos y ningún defensor, la página sigue en borrador por la misma
 - [[mano-dura-y-militarizacion]] — la política que se sigue de él
 - [[zuniga-civilizacion-y-derechos-humanos]] — segunda fuente: el monopolio de la violencia que el paradigma supone nunca existió
 - [[arias-empresas-criminales-y-gobernanza]] — tercera fuente: el Estado como fuerza plural, contra las «zonas marrones» de O'Donnell
+- [[bergman-negocio-del-crimen]] — cuarta fuente y primera que defiende el paradigma, con la colusión policial como concesión
+- [[equilibrios-de-criminalidad]] — la versión del paradigma como equilibrio estable
 
-**Pendiente de completar.** El cúmulo `Vínculo Estado-crimen` del corpus contiene la discusión clásica sobre Estado y crimen organizado —Tilly (1985, 1990), Chambliss, Gambetta, Williams, Chabat, Schultze-Kraft, Caballero— y ninguno está ingerido. Hasta entonces esta página registra el paradigma sólo a través de quienes lo critican.
+**Pendiente de completar.** El cúmulo `Vínculo Estado-crimen` del corpus contiene la discusión clásica sobre Estado y crimen organizado —Tilly (1985, 1990), Chambliss, Gambetta, Williams, Chabat, Schultze-Kraft, Caballero— y ninguno está ingerido. Hasta entonces esta página registra el paradigma sólo a través de quienes lo critican. **Enmienda 09-11-2026:** desde [[bergman-negocio-del-crimen]] tiene también una voz que lo defiende, aunque no la clásica.
 
 ---
 
@@ -103,3 +117,9 @@ Con tres críticos y ningún defensor, la página sigue en borrador por la misma
 [^ext-13]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], introducción, p. 6.
 [^ext-14]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, pp. 20-21.
 [^ext-15]: **Extraído** — [[arias-empresas-criminales-y-gobernanza]], cap. 1, p. 24, sobre Skaperdas.
+[^ext-16]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 13-14 y 16.
+[^ext-17]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 36-37.
+[^ext-18]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 35.
+[^ext-19]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 265-267.
+[^ext-20]: **Extraído** — [[bergman-negocio-del-crimen]], PDF 408-409 y 411, pautas 7 y 14.
+[^inf-1]: **Inferido** (confianza 0.7) — comparando PDF 35 y 265-267 con «Dónde falla» y «Una tercera crítica». Bergman cita a Arias (2017), no a Albarracín, en los capítulos ingeridos.

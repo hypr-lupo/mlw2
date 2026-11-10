@@ -1,13 +1,13 @@
 ---
 title: Evaluación de programas de prevención
 type: method
-sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf", "2009 - Guerette y Bowers - El alcance del desplazamiento del delito y de la difusión de beneficios, una revisión de evaluaciones de prevención situacional.pdf"]
+sources: ["2021 - Vanderschueren, Díaz y Guajardo (eds.) - Prevención del delito y la violencia, reflexiones desde la academia y los territorios.pdf", "2015 - Vanderschueren - Guía para la prevención en barrios.pdf", "2019 - Valdivia, Fonseca, González y Paino - Invisibilización de la violencia en el noviazgo en Chile.pdf", "2015 - Tudela - Análisis criminal, proactividad y desarrollo de estrategias policiales basadas en la evidencia.pdf", "2011 - Batthyány y Cabrera - Metodología de la investigación en ciencias sociales.pdf", "2014 - Srur (ed.) - ¿Qué observan los que observan el delito, observatorios del crimen y la violencia en América Latina.pdf", "2010 - Tudela (ed.) - Análisis delictual, enfoque y metodología para la reducción del delito.pdf", "2015 - CIPC - Experiencias exitosas en prevención de la criminalidad en América Latina, una perspectiva territorial.pdf", "2011 - UNODC - Manual sobre la aplicación eficaz de las directrices para la prevención del delito.pdf", "2009 - Guerette y Bowers - El alcance del desplazamiento del delito y de la difusión de beneficios, una revisión de evaluaciones de prevención situacional.pdf", "2022 - Subsecretaría de Prevención del Delito - Orientaciones técnicas, prevención comunitaria del delito y la violencia.pdf"]
 cluster: medicion-y-metodo
 curso: [s1-1, s1-2, s2-4]
 procedencia: fuentes
 estado: revisado
 creado: 2026-09-26
-actualizado: 2026-10-26
+actualizado: 2026-11-09
 ---
 
 # Evaluación de programas de prevención
@@ -130,6 +130,18 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 
 **Lo que agrega un manual de metodología.** Añadido el 16-10-2026 al ingerir [[batthyany-metodologia-investigacion]]. El manual no dirime la tensión. Trata el diseño evaluativo en un párrafo y no trata diseños experimentales ni cuasiexperimentales [^ext-32]. Sí permite nombrarla. El experimento analiza por variables y busca explicar. La evaluación comprensiva recoge la mirada de los involucrados [^ext-17], y en eso se acerca al análisis por casos, que busca comprender [^ext-33]. La posición de Tudela en 2021 usa el experimento para el efecto y la evaluación comprensiva para la implementación. Es lo que Bericat llama complementación: dos métodos para dos dimensiones del mismo fenómeno, sin buscar que coincidan [^inf-5]. Ver [[enfoques-cuantitativo-y-cualitativo]].
 
+## Lo que evalúa quien financia
+
+Añadido el 09-11-2026 al ingerir [[spd-prevencion-comunitaria]]. Las orientaciones técnicas de la Subsecretaría de Prevención del Delito muestran cómo evalúa un proyecto de prevención comunitaria quien lo financia en Chile.
+
+**Ex ante, de diseño.** La evaluación mide tres criterios, cada uno con cuatro aseveraciones: **atingencia**, **coherencia** y **consistencia** [^ext-47]. Sigue la metodología del Ministerio de Desarrollo Social y Familia [^ext-48].
+
+**Metas de producción.** Las metas de cada componente cuentan actividades realizadas, y se espera cumplirlas al 100 % [^ext-49]. El proyecto dura 13 meses [^ext-50].
+
+**Evidencia admitida.** Para justificar el proyecto acepta desde evaluaciones de impacto hasta «prácticas que hayan sido destacadas» [^ext-51]. Es la cuarta idea de evidencia, la buena práctica, dentro de la norma oficial [^inf-8].
+
+**Lo que no mide.** Ningún indicador mide delitos al cierre, de modo que una evaluación así no puede saber si el proyecto redujo alguno [^inf-9]. Es el problema que Tudela atribuye a los programas chilenos, más arriba: indicadores de resultado que no permiten determinar efectos [^ext-1].
+
 ## Cita
 
 > "Los responsables de la ejecución de proyectos actúan a ciegas, guiados por la intuición"
@@ -154,6 +166,7 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 - [[buenas-practicas]] — la buena práctica como cuarta idea de evidencia
 - [[unodc-manual-directrices-prevencion]] — el marco lógico y la transferencia de la evidencia
 - [[guerette-bowers-desplazamiento-y-difusion]] — el cociente de desplazamiento ponderado
+- [[spd-prevencion-comunitaria]] — la evaluación ex ante de diseño de la Subsecretaría: atingencia, coherencia y consistencia
 
 **Por confrontar.** CIPC (2015), en la tanda 2, si trae evaluaciones. Batthyány y Cabrera (2011) entró el 16-10-2026 y no trata diseños de impacto. Tudela (2015) entró el 27-09-2026.
 
@@ -212,3 +225,10 @@ Añade una advertencia sobre el nivel de las políticas. En Estados Unidos, los 
 [^ext-44]: **Extraído** — [[guerette-bowers-desplazamiento-y-difusion]], pp. 1338-1339 y 1341-1342.
 [^ext-45]: **Extraído** — [[guerette-bowers-desplazamiento-y-difusion]], pp. 1343-1345 y 1350, sobre Bowers y Johnson (2003).
 [^ext-46]: **Extraído** — [[guerette-bowers-desplazamiento-y-difusion]], pp. 1355-1356.
+[^ext-47]: **Extraído** — [[spd-prevencion-comunitaria]], pp. 6-7, 17 y 35.
+[^ext-48]: **Extraído** — [[spd-prevencion-comunitaria]], p. 5.
+[^ext-49]: **Extraído** — [[spd-prevencion-comunitaria]], pp. 20-21.
+[^ext-50]: **Extraído** — [[spd-prevencion-comunitaria]], pp. 24 y 37.
+[^ext-51]: **Extraído** — [[spd-prevencion-comunitaria]], p. 15.
+[^inf-8]: **Inferido** (confianza 0.6) — comparando p. 15 de [[spd-prevencion-comunitaria]] con «Dos ideas de evidencia».
+[^inf-9]: **Inferido** (confianza 0.8) — de pp. 20-21 de [[spd-prevencion-comunitaria]].
